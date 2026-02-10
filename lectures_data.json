@@ -111,11 +111,138 @@
         { "lecture": 10, "title": "العملي 10", "url": "YOUR_LINK_HERE" }
       ]
     },
-
-    { "name": "الفيزياء", "theory": [], "practical": [] },
-    { "name": "الحاسوب", "theory": [], "practical": [] },
-    { "name": "المصطلحات", "theory": [], "practical": [] },
-    { "name": "اللغة العربية", "theory": [], "practical": [] },
-    { "name": "الحقوق", "theory": [], "practical": [] }
+{
+  "name": "الفيزياء",
+  "theory": [
+    { "lecture": 1, "title": "المحاضرة 1", "url": "YOUR_LINK_HERE" },
+    { "lecture": 2, "title": "المحاضرة 2", "url": "YOUR_LINK_HERE" },
+    { "lecture": 3, "title": "المحاضرة 3", "url": "YOUR_LINK_HERE" },
+    { "lecture": 4, "title": "المحاضرة 4", "url": "YOUR_LINK_HERE" },
+    { "lecture": 5, "title": "المحاضرة 5", "url": "YOUR_LINK_HERE" },
+    { "lecture": 6, "title": "المحاضرة 6", "url": "YOUR_LINK_HERE" },
+    { "lecture": 7, "title": "المحاضرة 7", "url": "YOUR_LINK_HERE" },
+    { "lecture": 8, "title": "المحاضرة 8", "url": "YOUR_LINK_HERE" },
+    { "lecture": 9, "title": "المحاضرة 9", "url": "YOUR_LINK_HERE" },
+    { "lecture": 10, "title": "المحاضرة 10", "url": "YOUR_LINK_HERE" }
+  ],
+  "practical": [
+    { "lecture": 1, "title": "العملي 1", "url": "YOUR_LINK_HERE" },
+    { "lecture": 2, "title": "العملي 2", "url": "YOUR_LINK_HERE" },
+    { "lecture": 3, "title": "العملي 3", "url": "YOUR_LINK_HERE" },
+    { "lecture": 4, "title": "العملي 4", "url": "YOUR_LINK_HERE" },
+    { "lecture": 5, "title": "العملي 5", "url": "YOUR_LINK_HERE" },
+    { "lecture": 6, "title": "العملي 6", "url": "YOUR_LINK_HERE" },
+    { "lecture": 7, "title": "العملي 7", "url": "YOUR_LINK_HERE" },
+    { "lecture": 8, "title": "العملي 8", "url": "YOUR_LINK_HERE" },
+    { "lecture": 9, "title": "العملي 9", "url": "YOUR_LINK_HERE" },
+    { "lecture": 10, "title": "العملي 10", "url": "YOUR_LINK_HERE" }
+  ]
+},
+{
+  "name": "الحاسوب",
+  "theory": [
+    { "lecture": 1, "title": "المحاضرة 1", "url": "YOUR_LINK_HERE" },
+    { "lecture": 2, "title": "المحاضرة 2", "url": "YOUR_LINK_HERE" },
+    { "lecture": 3, "title": "المحاضرة 3", "url": "YOUR_LINK_HERE" },
+    { "lecture": 4, "title": "المحاضرة 4", "url": "YOUR_LINK_HERE" },
+    { "lecture": 5, "title": "المحاضرة 5", "url": "YOUR_LINK_HERE" },
+    { "lecture": 6, "title": "المحاضرة 6", "url": "YOUR_LINK_HERE" },
+    { "lecture": 7, "title": "المحاضرة 7", "url": "YOUR_LINK_HERE" },
+    { "lecture": 8, "title": "المحاضرة 8", "url": "YOUR_LINK_HERE" },
+    { "lecture": 9, "title": "المحاضرة 9", "url": "YOUR_LINK_HERE" },
+    { "lecture": 10, "title": "المحاضرة 10", "url": "YOUR_LINK_HERE" }
+  ],
+  "practical": [
+    { "lecture": 1, "title": "العملي 1", "url": "YOUR_LINK_HERE" },
+    { "lecture": 2, "title": "العملي 2", "url": "YOUR_LINK_HERE" },
+    { "lecture": 3, "title": "العملي 3", "url": "YOUR_LINK_HERE" },
+    { "lecture": 4, "title": "العملي 4", "url": "YOUR_LINK_HERE" },
+    { "lecture": 5, "title": "العملي 5", "url": "YOUR_LINK_HERE" },
+    { "lecture": 6, "title": "العملي 6", "url": "YOUR_LINK_HERE" },
+    { "lecture": 7, "title": "العملي 7", "url": "YOUR_LINK_HERE" },
+    { "lecture": 8, "title": "العملي 8", "url": "YOUR_LINK_HERE" },
+    { "lecture": 9, "title": "العملي 9", "url": "YOUR_LINK_HERE" },
+    { "lecture": 10, "title": "العملي 10", "url": "YOUR_LINK_HERE" }
+  ]
+},
+{
+  "name": "المصطلحات",
+  "theory": [
+    { "lecture": 1, "title": "المصطلح 1", "url": "YOUR_LINK_HERE" },
+    { "lecture": 2, "title": "المصطلح 2", "url": "YOUR_LINK_HERE" },
+    { "lecture": 3, "title": "المصطلح 3", "url": "YOUR_LINK_HERE" },
+    { "lecture": 4, "title": "المصطلح 4", "url": "YOUR_LINK_HERE" },
+    { "lecture": 5, "title": "المصطلح 5", "url": "YOUR_LINK_HERE" },
+    { "lecture": 6, "title": "المصطلح 6", "url": "YOUR_LINK_HERE" },
+    { "lecture": 7, "title": "المصطلح 7", "url": "YOUR_LINK_HERE" },
+    { "lecture": 8, "title": "المصطلح 8", "url": "YOUR_LINK_HERE" },
+    { "lecture": 9, "title": "المصطلح 9", "url": "YOUR_LINK_HERE" },
+    { "lecture": 10, "title": "المصطلح 10", "url": "YOUR_LINK_HERE" }
+  ],
+  "practical": [
+    { "lecture": 1, "title": "تطبيق 1", "url": "YOUR_LINK_HERE" },
+    { "lecture": 2, "title": "تطبيق 2", "url": "YOUR_LINK_HERE" },
+    { "lecture": 3, "title": "تطبيق 3", "url": "YOUR_LINK_HERE" },
+    { "lecture": 4, "title": "تطبيق 4", "url": "YOUR_LINK_HERE" },
+    { "lecture": 5, "title": "تطبيق 5", "url": "YOUR_LINK_HERE" },
+    { "lecture": 6, "title": "تطبيق 6", "url": "YOUR_LINK_HERE" },
+    { "lecture": 7, "title": "تطبيق 7", "url": "YOUR_LINK_HERE" },
+    { "lecture": 8, "title": "تطبيق 8", "url": "YOUR_LINK_HERE" },
+    { "lecture": 9, "title": "تطبيق 9", "url": "YOUR_LINK_HERE" },
+    { "lecture": 10, "title": "تطبيق 10", "url": "YOUR_LINK_HERE" }
+  ]
+},
+{
+  "name": "اللغة العربية",
+  "theory": [
+    { "lecture": 1, "title": "النحو 1", "url": "YOUR_LINK_HERE" },
+    { "lecture": 2, "title": "النحو 2", "url": "YOUR_LINK_HERE" },
+    { "lecture": 3, "title": "النحو 3", "url": "YOUR_LINK_HERE" },
+    { "lecture": 4, "title": "النحو 4", "url": "YOUR_LINK_HERE" },
+    { "lecture": 5, "title": "النحو 5", "url": "YOUR_LINK_HERE" },
+    { "lecture": 6, "title": "النحو 6", "url": "YOUR_LINK_HERE" },
+    { "lecture": 7, "title": "النحو 7", "url": "YOUR_LINK_HERE" },
+    { "lecture": 8, "title": "النحو 8", "url": "YOUR_LINK_HERE" },
+    { "lecture": 9, "title": "النحو 9", "url": "YOUR_LINK_HERE" },
+    { "lecture": 10, "title": "النحو 10", "url": "YOUR_LINK_HERE" }
+  ],
+  "practical": [
+    { "lecture": 1, "title": "تطبيق 1", "url": "YOUR_LINK_HERE" },
+    { "lecture": 2, "title": "تطبيق 2", "url": "YOUR_LINK_HERE" },
+    { "lecture": 3, "title": "تطبيق 3", "url": "YOUR_LINK_HERE" },
+    { "lecture": 4, "title": "تطبيق 4", "url": "YOUR_LINK_HERE" },
+    { "lecture": 5, "title": "تطبيق 5", "url": "YOUR_LINK_HERE" },
+    { "lecture": 6, "title": "تطبيق 6", "url": "YOUR_LINK_HERE" },
+    { "lecture": 7, "title": "تطبيق 7", "url": "YOUR_LINK_HERE" },
+    { "lecture": 8, "title": "تطبيق 8", "url": "YOUR_LINK_HERE" },
+    { "lecture": 9, "title": "تطبيق 9", "url": "YOUR_LINK_HERE" },
+    { "lecture": 10, "title": "تطبيق 10", "url": "YOUR_LINK_HERE" }
+  ]
+},
+{
+  "name": "الحقوق",
+  "theory": [
+    { "lecture": 1, "title": "المحاضرة 1", "url": "YOUR_LINK_HERE" },
+    { "lecture": 2, "title": "المحاضرة 2", "url": "YOUR_LINK_HERE" },
+    { "lecture": 3, "title": "المحاضرة 3", "url": "YOUR_LINK_HERE" },
+    { "lecture": 4, "title": "المحاضرة 4", "url": "YOUR_LINK_HERE" },
+    { "lecture": 5, "title": "المحاضرة 5", "url": "YOUR_LINK_HERE" },
+    { "lecture": 6, "title": "المحاضرة 6", "url": "YOUR_LINK_HERE" },
+    { "lecture": 7, "title": "المحاضرة 7", "url": "YOUR_LINK_HERE" },
+    { "lecture": 8, "title": "المحاضرة 8", "url": "YOUR_LINK_HERE" },
+    { "lecture": 9, "title": "المحاضرة 9", "url": "YOUR_LINK_HERE" },
+    { "lecture": 10, "title": "المحاضرة 10", "url": "YOUR_LINK_HERE" }
+  ],
+  "practical": [
+    { "lecture": 1, "title": "العملي 1", "url": "YOUR_LINK_HERE" },
+    { "lecture": 2, "title": "العملي 2", "url": "YOUR_LINK_HERE" },
+    { "lecture": 3, "title": "العملي 3", "url": "YOUR_LINK_HERE" },
+    { "lecture": 4, "title": "العملي 4", "url": "YOUR_LINK_HERE" },
+    { "lecture": 5, "title": "العملي 5", "url": "YOUR_LINK_HERE" },
+    { "lecture": 6, "title": "العملي 6", "url": "YOUR_LINK_HERE" },
+    { "lecture": 7, "title": "العملي 7", "url": "YOUR_LINK_HERE" },
+    { "lecture": 8, "title": "العملي 8", "url": "YOUR_LINK_HERE" },
+    { "lecture": 9, "title": "العملي 9", "url": "YOUR_LINK_HERE" },
+    { "lecture": 10, "title": "العملي 10", "url": "YOUR_LINK_HERE" }
   ]
 }
