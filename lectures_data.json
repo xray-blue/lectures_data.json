@@ -1,0 +1,121 @@
+{
+  "subjects": [
+    {
+      "name": "البايولوجي",
+      "theory": [
+        { "lecture": 1, "title": "Introduction to Biology", "url": "https://drive.google.com/file/d/1L_xHAxru09Q88O6wf5AjIPPpthwG-2hW/view" },
+        { "lecture": 2, "title": "Structure of the cell", "url": "https://drive.google.com/file/d/1TCTjQsLdP9CXxKl1SHyqn7a5Z0jMe6WH/view" },
+        { "lecture": 3, "title": "The kingdoms of living things", "url": "https://drive.google.com/file/d/1mJE10e-2LCrWLbLb5MZcFR5jevBUFD45/view" },
+        { "lecture": 4, "title": "المحاضرة 4", "url": "YOUR_LINK_HERE" },
+        { "lecture": 5, "title": "المحاضرة 5", "url": "YOUR_LINK_HERE" },
+        { "lecture": 6, "title": "المحاضرة 6", "url": "YOUR_LINK_HERE" },
+        { "lecture": 7, "title": "المحاضرة 7", "url": "YOUR_LINK_HERE" },
+        { "lecture": 8, "title": "المحاضرة 8", "url": "YOUR_LINK_HERE" },
+        { "lecture": 9, "title": "المحاضرة 9", "url": "YOUR_LINK_HERE" },
+        { "lecture": 10, "title": "المحاضرة 10", "url": "YOUR_LINK_HERE" }
+      ],
+      "practical": [
+        { "lecture": 1, "title": "The Microscope", "url": "https://drive.google.com/file/d/1XMQ5xXDPBvAqjy4_UD6ybWV-_d6conuN/view" },
+        { "lecture": 2, "title": "Structure of the cell", "url": "https://drive.google.com/file/d/1JruzfTltW8fRhy0ZY0DA29hjWv0xRiFz/view" },
+        { "lecture": 3, "title": "Prokaryotic and Eukaryotic Organisms", "url": "https://drive.google.com/file/d/19DKJ4xw2CUp3_JPw7Zf_xdkpZCdHYr9T/view" },
+        { "lecture": 4, "title": "Humane Cell Structure", "url": "https://drive.google.com/file/d/13snPbmBy8WGPYef4UE1FcD_t8tbjIMAr/view" },
+        { "lecture": 5, "title": "العملي 5", "url": "YOUR_LINK_HERE" },
+        { "lecture": 6, "title": "العملي 6", "url": "YOUR_LINK_HERE" },
+        { "lecture": 7, "title": "العملي 7", "url": "YOUR_LINK_HERE" },
+        { "lecture": 8, "title": "العملي 8", "url": "YOUR_LINK_HERE" },
+        { "lecture": 9, "title": "العملي 9", "url": "YOUR_LINK_HERE" },
+        { "lecture": 10, "title": "العملي 10", "url": "YOUR_LINK_HERE" }
+      ]
+    },
+
+    {
+      "name": "الفسلجة",
+      "theory": [
+        { "lecture": 1, "title": "المحاضرة الاولى", "url": "https://drive.google.com/file/d/1RraKLqMxLM-03vMAK8u7hRn0ArOQ6qax/view" },
+        { "lecture": 2, "title": "المحاضرة الثانية", "url": "https://drive.google.com/file/d/18bCXRAah4GcO9nqbwo3az9qYBTL4OA3_/view" },
+        { "lecture": 3, "title": "المحاضرة الثالثة", "url": "https://drive.google.com/file/d/1cnrHwOh7wN4zbxoWLWHIXB16FwBA73Y0/view" },
+        { "lecture": 4, "title": "المحاضرة 4", "url": "YOUR_LINK_HERE" },
+        { "lecture": 5, "title": "المحاضرة 5", "url": "YOUR_LINK_HERE" },
+        { "lecture": 6, "title": "المحاضرة 6", "url": "YOUR_LINK_HERE" },
+        { "lecture": 7, "title": "المحاضرة 7", "url": "YOUR_LINK_HERE" },
+        { "lecture": 8, "title": "المحاضرة 8", "url": "YOUR_LINK_HERE" },
+        { "lecture": 9, "title": "المحاضرة 9", "url": "YOUR_LINK_HERE" },
+        { "lecture": 10, "title": "المحاضرة 10", "url": "YOUR_LINK_HERE" }
+      ],
+      "practical": [
+        { "lecture": 1, "title": "المحاضرة الاولى", "url": "https://drive.google.com/file/d/1sCMEFyyHQ5tGP8jE9PYYcSObukz2CesU/view" },
+        { "lecture": 2, "title": "المحاضرة الثانية", "url": "https://drive.google.com/file/d/1s0s83bfijLsVErhfRsReDS144U3P0SMA/view" },
+        { "lecture": 3, "title": "المحاضرة الثالثة", "url": "https://drive.google.com/file/d/1jBdK2Dz4rKge3EZ9NVMoprHg2NIqoGY5/view" },
+        { "lecture": 4, "title": "العملي 4", "url": "YOUR_LINK_HERE" },
+        { "lecture": 5, "title": "العملي 5", "url": "YOUR_LINK_HERE" },
+        { "lecture": 6, "title": "العملي 6", "url": "YOUR_LINK_HERE" },
+        { "lecture": 7, "title": "العملي 7", "url": "YOUR_LINK_HERE" },
+        { "lecture": 8, "title": "العملي 8", "url": "YOUR_LINK_HERE" },
+        { "lecture": 9, "title": "العملي 9", "url": "YOUR_LINK_HERE" },
+        { "lecture": 10, "title": "العملي 10", "url": "YOUR_LINK_HERE" }
+      ]
+    },
+
+    {
+      "name": "التشريح",
+      "theory": [
+        { "lecture": 1, "title": "المحاضرة الاولى", "url": "https://drive.google.com/file/d/1B7hBzSoiZ1hLTkc9REZ9F10fUIDs6zvQ/view" },
+        { "lecture": 2, "title": "المحاضرة الثانية", "url": "https://drive.google.com/file/d/1iWu4W9zj5ZWBaiEWQ8wd7YPsQq0lsojY/view" },
+        { "lecture": 3, "title": "المحاضرة الثالثة", "url": "https://drive.google.com/file/d/13T6pvCR1Tumxg6DxJh986JLohvJyRf7P/view" },
+        { "lecture": 4, "title": "المحاضرة الرابعة", "url": "https://drive.google.com/file/d/1a9UlIlDv4DDbnAxR7y0FCb_5FZSx2XvE/view" },
+        { "lecture": 5, "title": "المحاضرة الخامسة", "url": "https://drive.google.com/file/d/1bYVsVZKL4vacdsgbahv1lhXKZJ4XN8zG/view" },
+        { "lecture": 6, "title": "المحاضرة السادسة", "url": "https://drive.google.com/file/d/1OFoOW3_n5Iwy1bSWWL54ELUY9Rp7P68K/view" },
+        { "lecture": 7, "title": "المحاضرة السابعة", "url": "https://drive.google.com/file/d/1LAceJoolkTjSlSZNipY7vtPlMcysCLqa/view" },
+        { "lecture": 8, "title": "المحاضرة 8", "url": "YOUR_LINK_HERE" },
+        { "lecture": 9, "title": "المحاضرة 9", "url": "YOUR_LINK_HERE" },
+        { "lecture": 10, "title": "المحاضرة 10", "url": "YOUR_LINK_HERE" }
+      ],
+      "practical": [
+        { "lecture": 1, "title": "المحاضرة الاولى", "url": "https://drive.google.com/file/d/14Q1B8Twt_0MoLeA-VYXBGdgRuZ6UNSei/view" },
+        { "lecture": 2, "title": "التشريح العملي المحاضرة الثانية", "url": "https://drive.google.com/file/d/1BBp09IrecY0DyEskxRpYxE9natHbVhUY/view" },
+        { "lecture": 3, "title": "اسئلة الفاينل", "url": "https://drive.google.com/file/d/1o9bAGZiQTTXOXW4-5-jI_F2z-2xphpqB/view" },
+        { "lecture": 4, "title": "العملي 4", "url": "YOUR_LINK_HERE" },
+        { "lecture": 5, "title": "العملي 5", "url": "YOUR_LINK_HERE" },
+        { "lecture": 6, "title": "العملي 6", "url": "YOUR_LINK_HERE" },
+        { "lecture": 7, "title": "العملي 7", "url": "YOUR_LINK_HERE" },
+        { "lecture": 8, "title": "العملي 8", "url": "YOUR_LINK_HERE" },
+        { "lecture": 9, "title": "العملي 9", "url": "YOUR_LINK_HERE" },
+        { "lecture": 10, "title": "العملي 10", "url": "YOUR_LINK_HERE" }
+      ]
+    },
+
+    {
+      "name": "الكيمياء",
+      "theory": [
+        { "lecture": 1, "title": "المحاضرة الاولى", "url": "https://drive.google.com/file/d/1EIhuHXq6WzBMD2rxEd9S8UeaYj4d9R1a/view" },
+        { "lecture": 2, "title": "المحاضرة الثانية", "url": "https://drive.google.com/file/d/1gPCgbA5woRF5i7WNm9MK4Gw-JA7tvIBK/view" },
+        { "lecture": 3, "title": "المحاضرة الثالثة", "url": "https://drive.google.com/file/d/13T6pvCR1Tumxg6DxJh986JLohvJyRf7P/view" },
+        { "lecture": 4, "title": "المحاضرة الرابعة", "url": "https://drive.google.com/file/d/1a9UlIlDv4DDbnAxR7y0FCb_5FZSx2XvE/view" },
+        { "lecture": 5, "title": "المحاضرة الخامسة", "url": "https://drive.google.com/file/d/1bYVsVZKL4vacdsgbahv1lhXKZJ4XN8zG/view" },
+        { "lecture": 6, "title": "المحاضرة السادسة", "url": "https://drive.google.com/file/d/1OFoOW3_n5Iwy1bSWWL54ELUY9Rp7P68K/view" },
+        { "lecture": 7, "title": "المحاضرة السابعة", "url": "https://drive.google.com/file/d/1LAceJoolkTjSlSZNipY7vtPlMcysCLqa/view" },
+        { "lecture": 8, "title": "المحاضرة 8", "url": "YOUR_LINK_HERE" },
+        { "lecture": 9, "title": "المحاضرة 9", "url": "YOUR_LINK_HERE" },
+        { "lecture": 10, "title": "المحاضرة 10", "url": "YOUR_LINK_HERE" }
+      ],
+      "practical": [
+        { "lecture": 1, "title": "العملي 1", "url": "YOUR_LINK_HERE" },
+        { "lecture": 2, "title": "العملي 2", "url": "YOUR_LINK_HERE" },
+        { "lecture": 3, "title": "العملي 3", "url": "YOUR_LINK_HERE" },
+        { "lecture": 4, "title": "العملي 4", "url": "YOUR_LINK_HERE" },
+        { "lecture": 5, "title": "العملي 5", "url": "YOUR_LINK_HERE" },
+        { "lecture": 6, "title": "العملي 6", "url": "YOUR_LINK_HERE" },
+        { "lecture": 7, "title": "العملي 7", "url": "YOUR_LINK_HERE" },
+        { "lecture": 8, "title": "العملي 8", "url": "YOUR_LINK_HERE" },
+        { "lecture": 9, "title": "العملي 9", "url": "YOUR_LINK_HERE" },
+        { "lecture": 10, "title": "العملي 10", "url": "YOUR_LINK_HERE" }
+      ]
+    },
+
+    { "name": "الفيزياء", "theory": [], "practical": [] },
+    { "name": "الحاسوب", "theory": [], "practical": [] },
+    { "name": "المصطلحات", "theory": [], "practical": [] },
+    { "name": "اللغة العربية", "theory": [], "practical": [] },
+    { "name": "الحقوق", "theory": [], "practical": [] }
+  ]
+}
