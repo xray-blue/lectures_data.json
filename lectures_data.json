@@ -111,6 +111,7 @@
         { "lecture": 10, "title": "العملي 10", "url": "YOUR_LINK_HERE" }
       ]
     },
+    
 {
   "name": "الفيزياء",
   "theory": [
@@ -138,6 +139,7 @@
     { "lecture": 10, "title": "العملي 10", "url": "YOUR_LINK_HERE" }
   ]
 },
+    
 {
   "name": "الحاسوب",
   "theory": [
@@ -165,6 +167,7 @@
     { "lecture": 10, "title": "العملي 10", "url": "YOUR_LINK_HERE" }
   ]
 },
+    
 {
   "name": "المصطلحات",
   "theory": [
@@ -192,6 +195,7 @@
     { "lecture": 10, "title": "تطبيق 10", "url": "YOUR_LINK_HERE" }
   ]
 },
+    
 {
   "name": "اللغة العربية",
   "theory": [
@@ -219,6 +223,7 @@
     { "lecture": 10, "title": "تطبيق 10", "url": "YOUR_LINK_HERE" }
   ]
 },
+    
 {
   "name": "الحقوق",
   "theory": [
