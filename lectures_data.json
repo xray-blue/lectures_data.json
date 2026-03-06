@@ -10,8 +10,8 @@
           "icon": "fa-dna",
           "lectures": [
             { "id": "l1", "title": "المحاضرة 1: مقدمة في علم الأحياء", "pdfUrl": "https://drive.google.com/file/d/1L_xHAxru09Q88O6wf5AjIPPpthwG-2hW/view?usp=drive_link", "size": "2.5MB" },
-            { "id": "l2", "title": "المحاضرة 2: الخلية وبنيتها", "pdfUrl": "file2.pdf", "size": "3.1MB" },
-            { "id": "l3", "title": "المحاضرة 3: الأنسجة الأساسية", "pdfUrl": "file3.pdf", "size": "2.8MB" },
+            { "id": "l2", "title": "المحاضرة 2: الخلية وبنيتها", "pdfUrl": "https://drive.google.com/file/d/1TCTjQsLdP9CXxKl1SHyqn7a5Z0jMe6WH/view?usp=drive_link", "size": "3.1MB" },
+            { "id": "l3", "title": "المحاضرة 3: الأنسجة الأساسية", "pdfUrl": "https://drive.google.com/file/d/1mJE10e-2LCrWLbLb5MZcFR5jevBUFD45/view?usp=drive_link", "size": "2.8MB" },
             { "id": "l4", "title": "المحاضرة 4: الجهاز الهضمي", "pdfUrl": "file4.pdf", "size": "3.5MB" },
             { "id": "l5", "title": "المحاضرة 5: الجهاز الدوري", "pdfUrl": "file5.pdf", "size": "4.0MB" },
             { "id": "l6", "title": "المحاضرة 6: الجهاز التنفسي", "pdfUrl": "file6.pdf", "size": "3.2MB" },
