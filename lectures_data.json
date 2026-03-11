@@ -9,18 +9,60 @@
           "name": "التشريح",
           "icon": "fa-bone",
           "sem1": [
-            {
-              "id": "anat_s1_1",
-              "title": "المحاضرة الأولى - مقدمة في التشريح",
-              "pdfUrl": "https://example.com/lecture1.pdf",
-              "size": "2.5 MB"
-            },
-            {
-              "id": "anat_s1_2",
-              "title": "المحاضرة الثانية - الهيكل العظمي",
-              "pdfUrl": "https://example.com/lecture2.pdf",
-              "size": "3.1 MB"
-            }
+{
+  "id": "lec_th_1",
+  "title": "المحاضرة 1 - النظري",
+  "pdfUrl": "https://drive.google.com/file/d/1B7hBzSoiZ1hLTkc9REZ9F10fUIDs6zvQ/view?usp=drive_link",
+  "size": "4 MB"
+},
+{
+  "id": "lec_th_2",
+  "title": "المحاضرة 2 - النظري",
+  "pdfUrl": "https://drive.google.com/file/d/1iWu4W9zj5ZWBaiEWQ8wd7YPsQq0lsojY/view?usp=drive_link",
+  "size": "5 MB"
+},
+{
+  "id": "lec_th_3",
+  "title": "المحاضرة 3 - النظري",
+  "pdfUrl": "https://drive.google.com/file/d/13T6pvCR1Tumxg6DxJh986JLohvJyRf7P/view?usp=drive_link",
+  "size": "4.5 MB"
+},
+{
+  "id": "lec_th_4",
+  "title": "المحاضرة 4 - النظري",
+  "pdfUrl": "https://drive.google.com/file/d/1a9UlIlDv4DDbnAxR7y0FCb_5FZSx2XvE/view?usp=drive_link",
+  "size": "3.8 MB"
+},
+{
+  "id": "lec_th_5",
+  "title": "المحاضرة 5 - النظري",
+  "pdfUrl": "https://drive.google.com/file/d/1bYVsVZKL4vacdsgbahv1lhXKZJ4XN8zG/view?usp=drive_link",
+  "size": "3.5 MB"
+},
+{
+  "id": "lec_th_6",
+  "title": "المحاضرة 6 - النظري",
+  "pdfUrl": "https://drive.google.com/file/d/1OFoOW3_n5Iwy1bSWWL54ELUY9Rp7P68K/view?usp=drive_link",
+  "size": "4.2 MB"
+},
+{
+  "id": "lec_th_7",
+  "title": "المحاضرة 7 - النظري",
+  "pdfUrl": "https://drive.google.com/file/d/1LAceJoolkTjSlSZNipY7vtPlMcysCLqa/view?usp=drive_link",
+  "size": "3.9 MB"
+},
+{
+  "id": "lec_pr_1",
+  "title": "المحاضرة 1 - العملي",
+  "pdfUrl": "https://drive.google.com/file/d/14Q1B8Twt_0MoLeA-VYXBGdgRuZ6UNSei/view?usp=drive_link",
+  "size": "3.0 MB"
+},
+{
+  "id": "lec_pr_2",
+  "title": "المحاضرة 2 - العملي",
+  "pdfUrl": "https://drive.google.com/file/d/1BBp09IrecY0DyEskxRpYxE9natHbVhUY/view?usp=drive_link",
+  "size": "3.7 MB"
+}
           ],
           "sem2": [
             {
