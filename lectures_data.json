@@ -1,3 +1,4 @@
+```json
 {
   "stages": [
     {
@@ -5,76 +6,1028 @@
       "stageName": "المرحلة الأولى",
       "subjects": [
         {
-          "id": "anatomy",
-          "name": "التشريح",
-          "icon": "fa-bone",
+          "id": "s1_sub1",
+          "name": "البايلوجي",
+          "icon": "fa-dna",
           "sem1": [
-{
-  "id": "lec_th_1",
-  "title": "المحاضرة 1 - النظري",
-  "pdfUrl": "https://drive.google.com/file/d/1B7hBzSoiZ1hLTkc9REZ9F10fUIDs6zvQ/view?usp=drive_link",
-  "size": "4 MB"
-},
-{
-  "id": "lec_th_2",
-  "title": "المحاضرة 2 - النظري",
-  "pdfUrl": "https://drive.google.com/file/d/1iWu4W9zj5ZWBaiEWQ8wd7YPsQq0lsojY/view?usp=drive_link",
-  "size": "5 MB"
-},
-{
-  "id": "lec_th_3",
-  "title": "المحاضرة 3 - النظري",
-  "pdfUrl": "https://drive.google.com/file/d/13T6pvCR1Tumxg6DxJh986JLohvJyRf7P/view?usp=drive_link",
-  "size": "4.5 MB"
-},
-{
-  "id": "lec_th_4",
-  "title": "المحاضرة 4 - النظري",
-  "pdfUrl": "https://drive.google.com/file/d/1a9UlIlDv4DDbnAxR7y0FCb_5FZSx2XvE/view?usp=drive_link",
-  "size": "3.8 MB"
-},
-{
-  "id": "lec_th_5",
-  "title": "المحاضرة 5 - النظري",
-  "pdfUrl": "https://drive.google.com/file/d/1bYVsVZKL4vacdsgbahv1lhXKZJ4XN8zG/view?usp=drive_link",
-  "size": "3.5 MB"
-},
-{
-  "id": "lec_th_6",
-  "title": "المحاضرة 6 - النظري",
-  "pdfUrl": "https://drive.google.com/file/d/1OFoOW3_n5Iwy1bSWWL54ELUY9Rp7P68K/view?usp=drive_link",
-  "size": "4.2 MB"
-},
-{
-  "id": "lec_th_7",
-  "title": "المحاضرة 7 - النظري",
-  "pdfUrl": "https://drive.google.com/file/d/1LAceJoolkTjSlSZNipY7vtPlMcysCLqa/view?usp=drive_link",
-  "size": "3.9 MB"
-},
-{
-  "id": "lec_pr_1",
-  "title": "المحاضرة 1 - العملي",
-  "pdfUrl": "https://drive.google.com/file/d/14Q1B8Twt_0MoLeA-VYXBGdgRuZ6UNSei/view?usp=drive_link",
-  "size": "3.0 MB"
-},
-{
-  "id": "lec_pr_2",
-  "title": "المحاضرة 2 - العملي",
-  "pdfUrl": "https://drive.google.com/file/d/1BBp09IrecY0DyEskxRpYxE9natHbVhUY/view?usp=drive_link",
-  "size": "3.7 MB"
-}
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: البايولوجي النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1L_xHAxru09Q88O6wf5AjIPPpthwG-2hW/view?usp=drive_link",
+              "size": "2.5MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2: البايولوجي النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1TCTjQsLdP9CXxKl1SHyqn7a5Z0jMe6WH/view?usp=drive_link",
+              "size": "3.1MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3: البايولوجي النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1mJE10e-2LCrWLbLb5MZcFR5jevBUFD45/view?usp=drive_link",
+              "size": "2.8MB"
+            }
           ],
           "sem2": [
             {
-              "id": "anat_s2_1",
-              "title": "المحاضرة الأولى - الجهاز العضلي",
-              "pdfUrl": "https://example.com/lecture3.pdf",
-              "size": "4.0 MB"
+              "id": "l4",
+              "title": "المحاضرة 1: البايولوجي العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1XMQ5xXDPBvAqjy4_UD6ybWV-_d6conuN/view?usp=drive_link",
+              "size": "3.5MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 2: البايولوجي العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1JruzfTltW8fRhy0ZY0DA29hjWv0xRiFz/view?usp=drive_link",
+              "size": "4.0MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 3: البايولوجي العملي",
+              "pdfUrl": "https://drive.google.com/file/d/19DKJ4xw2CUp3_JPw7Zf_xdkpZCdHYr9T/view?usp=drive_link",
+              "size": "3.2MB"
+            },
+            {
+              "id": "l7",
+              "title": "المحاضرة 4: البايولوجي العملي",
+              "pdfUrl": "https://drive.google.com/file/d/13snPbmBy8WGPYef4UE1FcD_t8tbjIMAr/view?usp=drive_link",
+              "size": "2.9MB"
             }
           ],
-          "lectures": [] 
+          "lectures": []
+        },
+        {
+          "id": "s1_sub2",
+          "name": "التشريح (Anatomy)",
+          "icon": "fa-bone",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1B7hBzSoiZ1hLTkc9REZ9F10fUIDs6zvQ/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1iWu4W9zj5ZWBaiEWQ8wd7YPsQq0lsojY/view?usp=drive_link",
+              "size": "5MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/13T6pvCR1Tumxg6DxJh986JLohvJyRf7P/view?usp=drive_link",
+              "size": "4.5MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 4: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1a9UlIlDv4DDbnAxR7y0FCb_5FZSx2XvE/view?usp=drive_link",
+              "size": "3.8MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 5: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1bYVsVZKL4vacdsgbahv1lhXKZJ4XN8zG/view?usp=drive_link",
+              "size": "3.5MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 6: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1OFoOW3_n5Iwy1bSWWL54ELUY9Rp7P68K/view?usp=drive_link",
+              "size": "4.2MB"
+            },
+            {
+              "id": "l7",
+              "title": "المحاضرة 7: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1LAceJoolkTjSlSZNipY7vtPlMcysCLqa/view?usp=drive_link",
+              "size": "3.9MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l8",
+              "title": "المحاضرة 1: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/14Q1B8Twt_0MoLeA-VYXBGdgRuZ6UNSei/view?usp=drive_link",
+              "size": "3.0MB"
+            },
+            {
+              "id": "l9",
+              "title": "المحاضرة 2: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1BBp09IrecY0DyEskxRpYxE9natHbVhUY/view?usp=drive_link",
+              "size": "3.7MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s1_sub3",
+          "name": "الفسلجة (Physiology)",
+          "icon": "fa-heart-pulse",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1RraKLqMxLM-03vMAK8u7hRn0ArOQ6qax/view?usp=drive_link",
+              "size": "3MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/18bCXRAah4GcO9nqbwo3az9qYBTL4OA3_/view?usp=drive_link",
+              "size": "3.2MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1cnrHwOh7wN4zbxoWLWHIXB16FwBA73Y0/view?usp=drive_link",
+              "size": "3.5MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l4",
+              "title": "المحاضرة 1: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1sCMEFyyHQ5tGP8jE9PYYcSObukz2CesU/view?usp=drive_link",
+              "size": "4.0MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 2: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1s0s83bfijLsVErhfRsReDS144U3P0SMA/view?usp=drive_link",
+              "size": "3.8MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 3: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1jBdK2Dz4rKge3EZ9NVMoprHg2NIqoGY5/view?usp=drive_link",
+              "size": "3.4MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s1_sub4",
+          "name": "المصطلحات الطبية",
+          "icon": "fa-book-medical",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: الكورس الاول",
+              "pdfUrl": "https://drive.google.com/file/d/1yy60JlTYLjZLNTHViwmGtuEJyOfqZgJr/view?usp=drive_link",
+              "size": "1.5MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2: الكورس الاول",
+              "pdfUrl": "https://drive.google.com/file/d/1YhuyH0mE5JXwZ4Q03TudmhCsHmxCoQiN/view?usp=drive_link",
+              "size": "1.8MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3: الكورس الاول",
+              "pdfUrl": "https://drive.google.com/file/d/1AZCHGyp8HvHx-Z-TU-fI-Ib9kZryn-WL/view?usp=drive_link",
+              "size": "1.6MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 4: الكورس الاول",
+              "pdfUrl": "https://drive.google.com/file/d/1qUuGK9PTTEMAmLIgzvb2Esi-Q289DFWz/view?usp=drive_link",
+              "size": "2.0MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 5: الكورس الاول",
+              "pdfUrl": "https://drive.google.com/file/d/16ilkdfF2zw5n3R8719zVmoJEMRW-oKz8/view?usp=drive_link",
+              "size": "2.2MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 6: الكورس الاول",
+              "pdfUrl": "https://drive.google.com/file/d/1ED9MjHKch8MgRrBgiF-qdmdZCp86H9uT/view?usp=drive_link",
+              "size": "2.5MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l7",
+              "title": "المحاضرة 1: الكورس الثاني",
+              "pdfUrl": "https://drive.google.com/file/d/1uL-Pmi7qjhxoFYChABcM12Ivqr_3PSI-/view?usp=drive_link",
+              "size": "2.1MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s1_sub5",
+          "name": "الكيمياء",
+          "icon": "fa-flask",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1EIhuHXq6WzBMD2rxEd9S8UeaYj4d9R1a/view?usp=drive_link",
+              "size": "2.5MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1gPCgbA5woRF5i7WNm9MK4Gw-JA7tvIBK/view?usp=drive_link",
+              "size": "3.0MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3+4: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1Z1SWNtqgj7a--usoGxfPiHPe14Iu40Su/view?usp=drive_link",
+              "size": "2.8MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 5: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1jymDbULSRJQWosmU0iJ_vW6-JRT-IxPq/view?usp=drive_link",
+              "size": "3.2MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 6: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1VgU945mqRpaVuPnaIajhbq4fzoUcnFaS/view?usp=drive_link",
+              "size": "3.1MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l6",
+              "title": "المحاضرة 1: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1Bqkndug5tUsUCbMT0rW73SqP-dK3Bx0_/view?usp=drive_link",
+              "size": "2.9MB"
+            },
+            {
+              "id": "l7",
+              "title": "المحاضرة 2: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/19bcsSbxVgjJ3vVX9dEYKY6oHteAj3UrL/view?usp=drive_link",
+              "size": "3.0MB"
+            },
+            {
+              "id": "l8",
+              "title": "المحاضرة 3: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1B2lsjY7R4MypnC3Qr_PDgdAPu2xXcwCA/view?usp=drive_link",
+              "size": "3.5MB"
+            },
+            {
+              "id": "l9",
+              "title": "المحاضرة 4: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1wSyeraXWBPYJatFNtcj5s5iQeQNxdDfF/view?usp=drive_link",
+              "size": "3.2MB"
+            },
+            {
+              "id": "l10",
+              "title": "المحاضرة 5: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/158DdZv2tLQdzFf54PRo1DdVJSCL9h56g/view?usp=drive_link",
+              "size": "3.0MB"
+            },
+            {
+              "id": "l11",
+              "title": "المحاضرة 6: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1xIwU6otGB8loqQhaECJRSysF45ybAgt8/view?usp=drive_link",
+              "size": "3.4MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s1_sub6",
+          "name": "الفيزياء",
+          "icon": "fa-atom",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1HaMp_TEovw4fyKyvPr3m-thOJegp4UAi/view?usp=drive_link",
+              "size": "2.2MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1zPG21XMXOxH0zQIpnOunnfwAOyfji_cX/view?usp=drive_link",
+              "size": "2.5MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1cMgVjZGCPn9Tn8MH3PWXc3xJNZfQqqY5/view?usp=drive_link",
+              "size": "2.4MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 4: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/18JOSrMi-aipVYLSyejWaolUrz_0U_jre/view?usp=drive_link",
+              "size": "2.8MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 5: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1qzn_yE_fO71jjDd6AHuPOHuPVYPr5zz9/view?usp=drive_link",
+              "size": "2.6MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 6: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1O5wJmWGE7gJLTBZ73ijL9KWmJ_Y9B4hS/view?usp=drive_link",
+              "size": "2.7MB"
+            },
+            {
+              "id": "l7",
+              "title": "المحاضرة 7: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1ST2dxFDw-Yccf6_aDSxBVJtDfutj1WJ8/view?usp=drive_link",
+              "size": "3.0MB"
+            },
+            {
+              "id": "l8",
+              "title": "المحاضرة 8: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1ybPQJ4kuXkrA5E7m_4PDPaFmlwV0_w7i/view?usp=drive_link",
+              "size": "2.9MB"
+            },
+            {
+              "id": "l9",
+              "title": "المحاضرة 9: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1-JdF5YKjLVrU0jdp5oj_eh0dThwSBkJP/view?usp=drive_link",
+              "size": "3.1MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l10",
+              "title": "التجربة الاولى : العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1zhNtyV_8kxmJSw-h3rY10Uj190LF3L3E/view?usp=drive_link",
+              "size": "2.5MB"
+            },
+            {
+              "id": "l11",
+              "title": "التجربة الثانية : العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1FxtKGivFSTTqzQBctWy5Voa6YFV6NfCe/view?usp=drive_link",
+              "size": "3.2MB"
+            },
+            {
+              "id": "l12",
+              "title": "التجربة الثالثة : العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1Tm_nYw3NWIrfq0Dp2KrMNVxDR5nxHk8D/view?usp=drive_link",
+              "size": "3.0MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s1_sub7",
+          "name": "الحاسوب",
+          "icon": "fa-laptop-code",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1+2+3: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/13PbIUP1CdEnzykD7z6OJNluNL2Ff0GPv/view?usp=drive_link",
+              "size": "2.0MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 4: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/16fUmJ2eHOxjFEXaRNELU-bQQ_bS7j-4i/view?usp=drive_link",
+              "size": "2.2MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 5: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1ct4NZi0fZtK6KvzQf9zyl9msrn6H7fTb/view?usp=drive_link",
+              "size": "2.5MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l4",
+              "title": "المحاضرة 1+2+3: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1-YJYUekscrzY7PJgX6ND6eKhg1_FmhBJ/view?usp=drive_link",
+              "size": "2.8MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 4: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1Aiey1YewEnGGgxwvasfpCC6Rv58rRpHp/view?usp=drive_link",
+              "size": "2.6MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 5: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1HMFB2HQx0Lw_xgHvE2gnubT-93zVgOab/view?usp=drive_link",
+              "size": "2.4MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s1_sub8",
+          "name": "الحقوق (Law)",
+          "icon": "fa-scale-balanced",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة : الديمقراطية والحقوق",
+              "pdfUrl": "https://drive.google.com/file/d/17CeEuPfX76z0lOlowLVSfTweRifP97hc/view?usp=drive_link",
+              "size": "1.8MB"
+            }
+          ],
+          "sem2": [],
+          "lectures": []
+        },
+        {
+          "id": "s1_sub9",
+          "name": "اساسيات التمريض",
+          "icon": "fa-solid fa-syringe",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة : الديمقراطية والحقوق",
+              "pdfUrl": "https://drive.google.com/file/d/17CeEuPfX76z0lOlowLVSfTweRifP97hc/view?usp=drive_link",
+              "size": "1.8MB"
+            }
+          ],
+          "sem2": [],
+          "lectures": []
+        },
+        {
+          "id": "s1_sub10",
+          "name": "اللغة العربية",
+          "icon": "fa-language",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: العامة",
+              "pdfUrl": "https://drive.google.com/file/d/1Xo6SEpNLrKT3cDMLITafHFb5yahb27Hg/view?usp=drive_link",
+              "size": "1.5MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2: اقسام الكلام",
+              "pdfUrl": "https://drive.google.com/file/d/18wo3lKlrcRgAzkICRg-kZwonvGGD4aLw/view?usp=drive_link",
+              "size": "1.6MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3: العدد",
+              "pdfUrl": "https://drive.google.com/file/d/1coAza9MMZ3zA4COQfLVhGp9t8GZIbhmU/view?usp=drive_link",
+              "size": "1.8MB"
+            }
+          ],
+          "sem2": [],
+          "lectures": []
+        }
+      ]
+    },
+    {
+      "stageId": 2,
+      "stageName": "المرحلة الثانية",
+      "subjects": [
+        {
+          "id": "s2_sub1",
+          "name": "التصوير الإشعاعي",
+          "icon": "fa-x-ray",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: أساسيات التصوير الإشعاعي",
+              "pdfUrl": "file1.pdf",
+              "size": "3MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: تطبيقات متقدمة",
+              "pdfUrl": "file20.pdf",
+              "size": "3.8MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s2_sub2",
+          "name": "التشريح الإشعاعي",
+          "icon": "fa-person-rays",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: مقدمة في التشريح الإشعاعي",
+              "pdfUrl": "file1.pdf",
+              "size": "4MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: مراجعة التشريح الشعاعي",
+              "pdfUrl": "file20.pdf",
+              "size": "5.0MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s2_sub3",
+          "name": "الفحوصات الإشعاعية",
+          "icon": "fa-clipboard-check",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: مبادئ الفحص الإشعاعي",
+              "pdfUrl": "file1.pdf",
+              "size": "3MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: بروتوكولات الفحص",
+              "pdfUrl": "file20.pdf",
+              "size": "4.1MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s2_sub4",
+          "name": "الفيزياء الإشعاعية النظري",
+          "icon": "fa-atom",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: مقدمة في الفيزياء الإشعاعية",
+              "pdfUrl": "file1.pdf",
+              "size": "2.5MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: قوانين الحماية",
+              "pdfUrl": "file20.pdf",
+              "size": "3.0MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s2_sub5",
+          "name": "الفيزياء الإشعاعية العملي",
+          "icon": "fa-flask-vial",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: مختبر الفيزياء الإشعاعية",
+              "pdfUrl": "file1.pdf",
+              "size": "2MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: الامتحان العملي",
+              "pdfUrl": "file20.pdf",
+              "size": "2.1MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s2_sub6",
+          "name": "الوقاية من الإشعاع النظري",
+          "icon": "fa-shield-halved",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: مقدمة في الحماية الإشعاعية",
+              "pdfUrl": "file1.pdf",
+              "size": "2MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: أخلاقيات الحماية",
+              "pdfUrl": "file20.pdf",
+              "size": "2.5MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s2_sub7",
+          "name": "الوقاية من الإشعاع العملي",
+          "icon": "fa-shield-cat",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: الممارسات العملية للحماية",
+              "pdfUrl": "file1.pdf",
+              "size": "1.8MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: التقييم النهائي",
+              "pdfUrl": "file20.pdf",
+              "size": "2.0MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s2_sub8",
+          "name": "جرائم البعث",
+          "icon": "fa-fingerprint",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: مقدمة في الطب الشرعي",
+              "pdfUrl": "file1.pdf",
+              "size": "2.5MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: الشهادة في المحكمة",
+              "pdfUrl": "file20.pdf",
+              "size": "2.8MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s2_sub9",
+          "name": "اللغة الإنجليزية",
+          "icon": "fa-language",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "Lecture 1: Medical English Introduction",
+              "pdfUrl": "file1.pdf",
+              "size": "1.5MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "Lecture 20: Final Review",
+              "pdfUrl": "file20.pdf",
+              "size": "2.1MB"
+            }
+          ],
+          "lectures": []
+        }
+      ]
+    },
+    {
+      "stageId": 3,
+      "stageName": "المرحلة الثالثة",
+      "subjects": [
+        {
+          "id": "s3_sub1",
+          "name": "التصوير الإشعاعي المتقدم",
+          "icon": "fa-x-ray",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: التصوير المتقدم",
+              "pdfUrl": "file1.pdf",
+              "size": "3.5MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: أحدث التقنيات",
+              "pdfUrl": "file20.pdf",
+              "size": "4.8MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s3_sub2",
+          "name": "التشريح الإشعاعي المتقدم",
+          "icon": "fa-person-rays",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: مراجعة التشريح الشعاعي",
+              "pdfUrl": "file1.pdf",
+              "size": "4MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: التشريح في المستقبل",
+              "pdfUrl": "file20.pdf",
+              "size": "5.1MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s3_sub3",
+          "name": "الفحوصات الإشعاعية المتقدمة",
+          "icon": "fa-clipboard-check",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: بروتوكولات الفحص المتقدمة",
+              "pdfUrl": "file1.pdf",
+              "size": "3.5MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: الابتكارات في الفحص",
+              "pdfUrl": "file20.pdf",
+              "size": "5.0MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s3_sub4",
+          "name": "تقنيات الأجهزة",
+          "icon": "fa-screwdriver-wrench",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: إدارة أجهزة الأشعة",
+              "pdfUrl": "file1.pdf",
+              "size": "3MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: مستقبل تقنيات الأجهزة",
+              "pdfUrl": "file20.pdf",
+              "size": "3.5MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s3_sub5",
+          "name": "فيزياء الموجات فوق صوتية",
+          "icon": "fa-wave-square",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: مقدمة في الموجات الصوتية",
+              "pdfUrl": "file1.pdf",
+              "size": "2.5MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: التطورات المستقبلية",
+              "pdfUrl": "file20.pdf",
+              "size": "3.5MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s3_sub6",
+          "name": "تطبيقات الحاسوب في الطب",
+          "icon": "fa-laptop-medical",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: الحوسبة في الطب",
+              "pdfUrl": "file1.pdf",
+              "size": "2.2MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: مستقبل الطب الرقمي",
+              "pdfUrl": "file20.pdf",
+              "size": "3.0MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s3_sub7",
+          "name": "المخاطر من الإشعاع",
+          "icon": "fa-radiation",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: المخاطر البيولوجية للإشعاع",
+              "pdfUrl": "file1.pdf",
+              "size": "2.5MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: استراتيجيات الحد من المخاطر",
+              "pdfUrl": "file20.pdf",
+              "size": "3.0MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s3_sub8",
+          "name": "علم الأمراض (Pathology)",
+          "icon": "fa-virus",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: مقدمة في علم الأمراض",
+              "pdfUrl": "file1.pdf",
+              "size": "3MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: دراسة الحالات المرضية",
+              "pdfUrl": "file20.pdf",
+              "size": "4.0MB"
+            }
+          ],
+          "lectures": []
+        }
+      ]
+    },
+    {
+      "stageId": 4,
+      "stageName": "المرحلة الرابعة",
+      "subjects": [
+        {
+          "id": "s4_sub1",
+          "name": "الرنين المغناطيسي (MRI)",
+          "icon": "fa-magnet",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: مقدمة في MRI",
+              "pdfUrl": "file1.pdf",
+              "size": "4MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: سلامة المريض في MRI",
+              "pdfUrl": "file20.pdf",
+              "size": "4.5MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s4_sub2",
+          "name": "التصوير المقطعي المحوسب (CT)",
+          "icon": "fa-cube",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: مقدمة في CT",
+              "pdfUrl": "file1.pdf",
+              "size": "3.5MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: مستقبل تقنية CT",
+              "pdfUrl": "file20.pdf",
+              "size": "4.9MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s4_sub3",
+          "name": "السونار (Ultrasound)",
+          "icon": "fa-wave-square",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: أساسيات السونار",
+              "pdfUrl": "file1.pdf",
+              "size": "3MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: التطور في السونار",
+              "pdfUrl": "file20.pdf",
+              "size": "4.1MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s4_sub4",
+          "name": "الطب والجراحة",
+          "icon": "fa-user-doctor",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: مقدمة في الطب السريري",
+              "pdfUrl": "file1.pdf",
+              "size": "3MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: حالات طبية معقدة",
+              "pdfUrl": "file20.pdf",
+              "size": "4.2MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s4_sub5",
+          "name": "السونار المتقدم",
+          "icon": "fa-stethoscope",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: مراجعة السونار الأساسي",
+              "pdfUrl": "file1.pdf",
+              "size": "3MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: التطوير المستقبلي",
+              "pdfUrl": "file20.pdf",
+              "size": "4.0MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s4_sub6",
+          "name": "اللغة الإنجليزية الطبية",
+          "icon": "fa-language",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "Lecture 1: Advanced Medical English",
+              "pdfUrl": "file1.pdf",
+              "size": "1.5MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "Lecture 20: Final Project",
+              "pdfUrl": "file20.pdf",
+              "size": "2.5MB"
+            }
+          ],
+          "lectures": []
+        },
+        {
+          "id": "s4_sub7",
+          "name": "الإحصاء والحاسوب",
+          "icon": "fa-chart-pie",
+          "sem1": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: الإحصاء الوصفي",
+              "pdfUrl": "file1.pdf",
+              "size": "2MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l20",
+              "title": "المحاضرة 20: مشروع التخرج",
+              "pdfUrl": "file20.pdf",
+              "size": "3.5MB"
+            }
+          ],
+          "lectures": []
         }
       ]
     }
   ]
 }
+```
