@@ -55,8 +55,8 @@
           "sem2": [
             {
               "id": "l4",
-              "title": "المحاضرة 1: البايولوجي العملي",
-              "pdfUrl": "https://drive.google.com/file/d/1XMQ5xXDPBvAqjy4_UD6ybWV-_d6conuN/view?usp=drive_link",
+              "title": "",
+              "pdfUrl": "",
               "size": "3.5MB"
             }
           ],
@@ -124,15 +124,9 @@
           ],
           "sem2": [
             {
-              "id": "l8",
-              "title": "المحاضرة 1: العملي",
-              "pdfUrl": "https://drive.google.com/file/d/14Q1B8Twt_0MoLeA-VYXBGdgRuZ6UNSei/view?usp=drive_link",
-              "size": "3.0MB"
-            },
-            {
-              "id": "l9",
-              "title": "المحاضرة 2: العملي",
-              "pdfUrl": "https://drive.google.com/file/d/1BBp09IrecY0DyEskxRpYxE9natHbVhUY/view?usp=drive_link",
+              "id": "l1",
+              "title": "المحاضرة 1: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/16C9P480Dxkgajer33zauVdYdb5VGX0D5/view?usp=drive_link",
               "size": "3.7MB"
             }
           ],
@@ -160,9 +154,7 @@
               "title": "المحاضرة 3: النظري",
               "pdfUrl": "https://drive.google.com/file/d/1cnrHwOh7wN4zbxoWLWHIXB16FwBA73Y0/view?usp=drive_link",
               "size": "3.5MB"
-            }
-          ],
-          "sem2": [
+            },
             {
               "id": "l4",
               "title": "المحاضرة 1: العملي",
@@ -180,6 +172,26 @@
               "title": "المحاضرة 3: العملي",
               "pdfUrl": "https://drive.google.com/file/d/1jBdK2Dz4rKge3EZ9NVMoprHg2NIqoGY5/view?usp=drive_link",
               "size": "3.4MB"
+            }
+          ],
+          "sem2": [
+            {
+              "id": "l1",
+              "title": "المحاضرة 1: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1Nxe_fJYhEGVh2wrmxglN7iPZu2q0CQuG/view?usp=drive_link",
+              "size": "4.0MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/17uP5s2SyPPYmQ67R6bjNZQC3j7EU9w7t/view?usp=drive_link",
+              "size": "3.8MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 1: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1c2Wfypl7v1xYYIDqLEkn9W1ss81PNGFq/view?usp=drive_link",
+              "size": "3.8MB"
             }
           ],
           "lectures": []
