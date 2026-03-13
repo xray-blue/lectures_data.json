@@ -54,9 +54,15 @@
           ],
           "sem2": [
             {
-              "id": "l4",
-              "title": "",
-              "pdfUrl": "",
+              "id": "l1",
+              "title": "المحاضرة 1: البايولوجي النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1aN5Qstujuxh7Op4O0zI2wcmZT1Vm6Bfp/view?usp=drive_link",
+              "size": "3.5MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 1: البايولوجي العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1vMrOfZYjOL3InK_okI_3AhFoG1yDcvK5/view?usp=drive_link",
               "size": "3.5MB"
             }
           ],
@@ -126,7 +132,7 @@
             {
               "id": "l1",
               "title": "المحاضرة 1: النظري",
-              "pdfUrl": "https://drive.google.com/file/d/16C9P480Dxkgajer33zauVdYdb5VGX0D5/view?usp=drive_link",
+              "pdfUrl": "https://drive.google.com/file/d/174EZriz3UXhrPs4cf3fhk29YCw-WcKh0/view?usp=drive_link",
               "size": "3.7MB"
             }
           ],
@@ -178,19 +184,19 @@
             {
               "id": "l1",
               "title": "المحاضرة 1: النظري",
-              "pdfUrl": "https://drive.google.com/file/d/1Nxe_fJYhEGVh2wrmxglN7iPZu2q0CQuG/view?usp=drive_link",
+              "pdfUrl": "https://drive.google.com/file/d/1d_-qap-DsipFfPSZF0QPOhJsU3v3oDod/view?usp=drive_link",
               "size": "4.0MB"
             },
             {
               "id": "l2",
               "title": "المحاضرة 2: النظري",
-              "pdfUrl": "https://drive.google.com/file/d/17uP5s2SyPPYmQ67R6bjNZQC3j7EU9w7t/view?usp=drive_link",
+              "pdfUrl": "https://drive.google.com/file/d/1iEYzbXDMtg6HqST34VhgWzW9ERNZp_AC/view?usp=drive_link",
               "size": "3.8MB"
             },
             {
               "id": "l3",
               "title": "المحاضرة 1: العملي",
-              "pdfUrl": "https://drive.google.com/file/d/1c2Wfypl7v1xYYIDqLEkn9W1ss81PNGFq/view?usp=drive_link",
+              "pdfUrl": "https://drive.google.com/file/d/1hAebbfdCnhD5SLzL0r0wdIidxO3R3-P7/view?usp=drive_link",
               "size": "3.8MB"
             }
           ],
@@ -387,20 +393,20 @@
           "sem2": [
             {
               "id": "l10",
-              "title": "التجربة الاولى : العملي",
-              "pdfUrl": "https://drive.google.com/file/d/1zhNtyV_8kxmJSw-h3rY10Uj190LF3L3E/view?usp=drive_link",
+              "title": "المحاضرة الاولى : النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1vnGdyAXGguRIVnzIM7w-KZIzfo1xJS_c/view?usp=drive_link",
               "size": "2.5MB"
             },
             {
               "id": "l11",
-              "title": "التجربة الثانية : العملي",
-              "pdfUrl": "https://drive.google.com/file/d/1FxtKGivFSTTqzQBctWy5Voa6YFV6NfCe/view?usp=drive_link",
+              "title": "المحاضرة الثانية : النظري",
+              "pdfUrl": "https://drive.google.com/file/d/12We3tfqwPZaceWy7X7Z1qOekWT8pS2H3/view?usp=drive_link",
               "size": "3.2MB"
             },
             {
               "id": "l12",
-              "title": "التجربة الثالثة : العملي",
-              "pdfUrl": "https://drive.google.com/file/d/1Tm_nYw3NWIrfq0Dp2KrMNVxDR5nxHk8D/view?usp=drive_link",
+              "title": "المحاضرة الثالثة : النظري",
+              "pdfUrl": "https://drive.google.com/file/d/12hI5sLG-gbZlBueeFaCCwtildsRe5BXA/view?usp=drive_link",
               "size": "3.0MB"
             }
           ],
@@ -474,8 +480,8 @@
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة : الديمقراطية والحقوق",
-              "pdfUrl": "https://drive.google.com/file/d/17CeEuPfX76z0lOlowLVSfTweRifP97hc/view?usp=drive_link",
+              "title": "المحاضرة 1: ",
+              "pdfUrl": "https://drive.google.com/file/d/19jwsCp2NuIENQaybbpB8txTA4ceddGQ1/view?usp=drive_link",
               "size": "1.8MB"
             }
           ],
