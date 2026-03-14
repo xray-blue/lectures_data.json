@@ -1541,10 +1541,58 @@
           ],
           "sem2": [
             {
-              "id": "l20",
-              "title": "سيتم نشرها حين توفرها",
-              "pdfUrl": "file20.pdf",
-              "size": "3.5MB"
+              "id": "l1",
+              "title": "المحاضرة 1 :الوزاري ",
+              "pdfUrl": "https://drive.google.com/file/d/1kXI9AxiItODIrqvxJLXF-gky99xjMJsV/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2 :الوزاري ",
+              "pdfUrl": "https://drive.google.com/file/d/15KG3TAXp4Q_WFLw0XRaHBsGbYfx3oAN1/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3 :الوزاري ",
+              "pdfUrl": "https://drive.google.com/file/d/1sVVvVNyFcazB4nTqgMkVeJ_Rwxvi8XNs/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 4+5 :الوزاري ",
+              "pdfUrl": "https://drive.google.com/file/d/1cG3sqrxAV_GY7Wov6CWoLgaAlnyG0v1E/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 6 :الوزاري ",
+              "pdfUrl": "https://drive.google.com/file/d/19597Ic8fh2sD-Ef_RcmaCIz9P6UZKXNE/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 7+8 :الوزاري ",
+              "pdfUrl": "https://drive.google.com/file/d/1FM45B02d5v2h2VO_q8zAEzQiioDW_Kdu/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l7",
+              "title": "المحاضرة 9 :الوزاري ",
+              "pdfUrl": "https://drive.google.com/file/d/17kh3HJQuxH6WNA9KqaKlUAn71_El4Bvq/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l8",
+              "title": "المحاضرة 10+11 :الوزاري ",
+              "pdfUrl": "https://drive.google.com/file/d/1EJklCgfP9D37Z34VZTQHr1OAFMNQNGAF/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l9",
+              "title": "المحاضرة 12+13 :الوزاري  ",
+              "pdfUrl": "https://drive.google.com/file/d/1F_2jjabY2kP7IO57HOlwPzjg7q9HmdvQ/view?usp=drive_link",
+              "size": "4MB"
             }
           ],
           "lectures": []
