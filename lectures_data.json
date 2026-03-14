@@ -1147,88 +1147,315 @@
       "subjects": [
         {
           "id": "s3_sub1",
-          "name": "التصوير الإشعاعي المتقدم",
+          "name": "التصوير الإشعاعي ",
           "icon": "fa-x-ray",
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: التصوير المتقدم",
-              "pdfUrl": "file1.pdf",
-              "size": "3.5MB"
+              "title": "المحاضرة 1 ",
+              "pdfUrl": "https://drive.google.com/file/d/1Tx8pD9zhG-LR3EBNFNSz8QjPN4no-eSA/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2",
+              "pdfUrl": "https://drive.google.com/file/d/1psrzHpJ8KNvNkSoLjYZVQtSNq3NxSSH3/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3",
+              "pdfUrl": "https://drive.google.com/file/d/1-tDr-w_zse5XyEShsw29cE2aSygVmpbM/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 4",
+              "pdfUrl": "https://drive.google.com/file/d/1eQP5zBXqrzzdT55skVs-XK55uP7Tiy_Z/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 5",
+              "pdfUrl": "https://drive.google.com/file/d/1TF4McOgAGYdK5AqCnZERLx5lj9VXcrl-/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 6",
+              "pdfUrl": "https://drive.google.com/file/d/1dVs5QJPMLvzzJ6de9D_xFPCZgJfMRL5m/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l7",
+              "title": "المحاضرة 7",
+              "pdfUrl": "https://drive.google.com/file/d/1h89h4ckQgCaz1kwZKSgNs2snmJ4SsNEP/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l8",
+              "title": "المحاضرة 8",
+              "pdfUrl": "https://drive.google.com/file/d/1fm-dNhjg8IXdIPc4VX9cNnhDwqt7ym3Q/view?usp=drive_link",
+              "size": "4MB"
             }
           ],
           "sem2": [
             {
-              "id": "l20",
-              "title": "المحاضرة 20: أحدث التقنيات",
-              "pdfUrl": "file20.pdf",
-              "size": "4.8MB"
+              "id": "l1",
+              "title": "Pharynx and larynx and Trachea and Lungs",
+              "pdfUrl": "https://drive.google.com/file/d/1zrFODXRqgQDu_jesafSJy9da4lnBvgQW/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "Upper ribs +Lower ribs+Sternum",
+              "pdfUrl": "https://drive.google.com/file/d/17Zh9hfHFuOxiOWk3Eagfss8R1LLQx3UH/view?usp=drive_link",
+              "size": "4MB"
             }
           ],
           "lectures": []
         },
         {
           "id": "s3_sub2",
-          "name": "التشريح الإشعاعي المتقدم",
+          "name": "التشريح الإشعاعي ",
           "icon": "fa-person-rays",
+          "sem1": [
+        {
+          "id": "s3_sub1",
+          "name": "التصوير الإشعاعي ",
+          "icon": "fa-x-ray",
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: مراجعة التشريح الشعاعي",
-              "pdfUrl": "file1.pdf",
+              "title": "المحاضرة 1 ",
+              "pdfUrl": "https://drive.google.com/file/d/1kgUq86o1KoR7Xbp0g6ZFYczuglZ65ZwP/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2",
+              "pdfUrl": "https://drive.google.com/file/d/1sAfz9rrwI--yC7PQ7ywIddcjJbnHEv5q/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3",
+              "pdfUrl": "https://drive.google.com/file/d/1D3QjBIRup4p8mDq5XfK0Spx4KZ7LjBo-/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 4",
+              "pdfUrl": "https://drive.google.com/file/d/1mW1yGQv4CjJErGS59fhQY_0r47sHISQR/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 5",
+              "pdfUrl": "https://drive.google.com/file/d/1Dd3cUj7CwSNPuT9nux62f3uRG7Bnqlkj/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 6",
+              "pdfUrl": "https://drive.google.com/file/d/1v6kcsmV6TZao3oD5iGjrL8Qw9WM6jfOI/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l7",
+              "title": "المحاضرة 7",
+              "pdfUrl": "https://drive.google.com/file/d/1SLPIiQ0J0EpmASEMXGk3Z4Zxe0wUfDbJ/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l8",
+              "title": "المحاضرة 8",
+              "pdfUrl": "https://drive.google.com/file/d/1RjUbK9_1ykRl1NiCFFBynhsPK5fKVFaU/view?usp=drive_link",
               "size": "4MB"
             }
           ],
           "sem2": [
             {
-              "id": "l20",
-              "title": "المحاضرة 20: التشريح في المستقبل",
-              "pdfUrl": "file20.pdf",
-              "size": "5.1MB"
+              "id": "l1",
+              "title": "المحاضرة 1 ",
+              "pdfUrl": "https://drive.google.com/file/d/1IV0-ae7jMLLskr-LiXAUItnGiJkyoXvo/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2",
+              "pdfUrl": "https://drive.google.com/file/d/19e-0gPiIs-w8GuKiUWSmr-_JbgXOCCty/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3",
+              "pdfUrl": "https://drive.google.com/file/d/1BBMOTDWZPL7Nt4fE3w0P9nsGStZpZC-h/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 4",
+              "pdfUrl": "https://drive.google.com/file/d/1qwSqIJRtvINXYQ_D01vKo94a3-T9hhXZ/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 5",
+              "pdfUrl": "https://drive.google.com/file/d/1RbceE3Y9qTn9DgbB6-PGgQzA_VOjVdGM/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 6",
+              "pdfUrl": "https://drive.google.com/file/d/126ia2KZ6-QaJH-bDgEjz8FbH7lKTndS5/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l7",
+              "title": "المحاضرة 7",
+              "pdfUrl": "https://drive.google.com/file/d/1mxrauzbOJkftnVA2dtAmSUHTYQXFokgQ/view?usp=drive_link",
+              "size": "4MB"
             }
           ],
           "lectures": []
         },
         {
           "id": "s3_sub3",
-          "name": "الفحوصات الإشعاعية المتقدمة",
+          "name": "الفحوصات الإشعاعية ",
           "icon": "fa-clipboard-check",
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: بروتوكولات الفحص المتقدمة",
-              "pdfUrl": "file1.pdf",
-              "size": "3.5MB"
+              "title": "المحاضرة 1 ",
+              "pdfUrl": "https://drive.google.com/file/d/1YLpUe3Hitj-DeG-SfsH2qNJTSJtjNtdt/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2",
+              "pdfUrl": "https://drive.google.com/file/d/1qJytcMSZMHaoBvHC1x1LqH_AW1JkV-1k/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3",
+              "pdfUrl": "https://drive.google.com/file/d/1FcKmzDJiN8IBP6HhEVBREVF9BCMskaVG/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 4",
+              "pdfUrl": "https://drive.google.com/file/d/17mgh3vzm0YnUM1xDXX2l9UrdFLkESiFV/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 5",
+              "pdfUrl": "https://drive.google.com/file/d/1y7c1lkHyjPzvvseJdl6oC6UAJtfTSyUg/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 6",
+              "pdfUrl": "https://drive.google.com/file/d/1lU8GlnqrIoWHHe6SQC7nulCInKTogs0R/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l7",
+              "title": "المحاضرة 7",
+              "pdfUrl": "https://drive.google.com/file/d/1wsKDsAFq5YKCPXuF8ju1pizcDIxgptNG/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l8",
+              "title": "المحاضرة 8",
+              "pdfUrl": "https://drive.google.com/file/d/1p2Tcz-Us2BYlWJNPEY1BWT_6UK-uZM05/view?usp=drive_link",
+              "size": "4MB"
             }
           ],
           "sem2": [
             {
-              "id": "l20",
-              "title": "المحاضرة 20: الابتكارات في الفحص",
-              "pdfUrl": "file20.pdf",
-              "size": "5.0MB"
+              "id": "l1",
+              "title": "المحاضرة 1 ",
+              "pdfUrl": "https://drive.google.com/file/d/1DmPnNiMqhHXYjLoFOxsWr4wE7oZFcC22/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2",
+              "pdfUrl": "https://drive.google.com/file/d/16yLo2nIC3ZVgdOP3OionuVyfzX_423pf/view?usp=drive_link",
+              "size": "4MB"
             }
           ],
           "lectures": []
         },
         {
           "id": "s3_sub4",
-          "name": "تقنيات الأجهزة",
+          "name": "تقنيات الموجات فوق الصوتية",
           "icon": "fa-screwdriver-wrench",
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: إدارة أجهزة الأشعة",
-              "pdfUrl": "file1.pdf",
-              "size": "3MB"
+              "title": "المحاضرة 1 ",
+              "pdfUrl": "https://drive.google.com/file/d/1TlECtkZocYhf8He6FMWhMcvY2DoqTQZz/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2",
+              "pdfUrl": "https://drive.google.com/file/d/1Z1d-6hmYg9eoLNjTnOrtkQMDjseag3ih/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3",
+              "pdfUrl": "https://drive.google.com/file/d/1LrSzn-Pi3AwHZGN9_179xHC9JzKMtxjs/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 4",
+              "pdfUrl": "https://drive.google.com/file/d/1K4oTX8AdUDggLLLmruWANr_myE96WuNX/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 5",
+              "pdfUrl": "https://drive.google.com/file/d/1_j4YhIY5g8Ayt11JUE2XzLSyrU-s8FcB/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 6",
+              "pdfUrl": "https://drive.google.com/file/d/1z-3Ba356ZZ3UpRmsCiBg3HMtpqeQyGXR/view?usp=drive_link",
+              "size": "4MB"
             }
           ],
           "sem2": [
             {
-              "id": "l20",
-              "title": "المحاضرة 20: مستقبل تقنيات الأجهزة",
-              "pdfUrl": "file20.pdf",
-              "size": "3.5MB"
+              "id": "l1",
+              "title": "المحاضرة 1 ",
+              "pdfUrl": "https://drive.google.com/file/d/15cxZdabZiXrZd_JV5IdiooBN7gfBmVk7/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2",
+              "pdfUrl": "https://drive.google.com/file/d/1xXyUY3znj7qRQjz2KR_SCQmjA4ryIQ5a/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3",
+              "pdfUrl": "https://drive.google.com/file/d/1-bGT9UxBl4CCXx3BYxmzkHQRPDKcp9_1/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 4",
+              "pdfUrl": "https://drive.google.com/file/d/1woycaawiPFcemZoJg1nNf8XPbETvNTKW/view?usp=drive_link",
+              "size": "4MB"
             }
           ],
           "lectures": []
@@ -1240,15 +1467,87 @@
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: مقدمة في الموجات الصوتية",
-              "pdfUrl": "file1.pdf",
-              "size": "2.5MB"
+              "title": "المحاضرة 1 ",
+              "pdfUrl": "https://drive.google.com/file/d/1jKjWRHo-gjzHCI1YL0nfq79TqhvsQNCR/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2",
+              "pdfUrl": "https://drive.google.com/file/d/1CoD4EvRNLCw_WJaA-lkwq5D14k6dQr7U/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3",
+              "pdfUrl": "https://drive.google.com/file/d/1f0FbKvoc2xYj50zVNWa05Koe6NqfLk2W/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 4",
+              "pdfUrl": "https://drive.google.com/file/d/1UhYJyR9-mB5cUGZouE2KgOL81yjZhhD5/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 5",
+              "pdfUrl": "https://drive.google.com/file/d/13wrCzv-k_lWTML4-KRprDYrzyxjb3DUd/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 6",
+              "pdfUrl": "https://drive.google.com/file/d/1d6l0IP_975NMTnD1Q69S84YyIV5aMAKU/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l7",
+              "title": "المحاضرة 7",
+              "pdfUrl": "https://drive.google.com/file/d/1d3AuScofFtxfkp51eobVaXHJuNfT2_IR/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l8",
+              "title": "المحاضرة 8",
+              "pdfUrl": "https://drive.google.com/file/d/1tGIAZLb9hhXSpliWWH4cQdC7VZ1AGw-B/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l9",
+              "title": "المحاضرة الاولى العملي ",
+              "pdfUrl": "https://drive.google.com/file/d/1OaLnPeS5r1ngnJbJTD3khj04bK8_zNkT/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l10",
+              "title": "المحاضرة الثانية العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1gmjA0zw_UUjWltQv_gZBc7dGXF5Hxu2P/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l11",
+              "title": "المحاضرة الثالثة العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1HFgt_yq5MkE5XK2FXCuO-XYd4HgsYTOr/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l12",
+              "title": "المحاضرة الرابعة العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1B4vz7TWn5_5qEmuh9AAl0OGAk4GlKLM9/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l13",
+              "title": "المحاضرة الخامسة العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1M5RyDY6GDCGqNCw7su8ujW3uK_hvadDp/view?usp=drive_link",
+              "size": "4MB"
             }
           ],
           "sem2": [
             {
               "id": "l20",
-              "title": "المحاضرة 20: التطورات المستقبلية",
+              "title": "سيتم نشرها حين توفرها",
               "pdfUrl": "file20.pdf",
               "size": "3.5MB"
             }
@@ -1257,12 +1556,12 @@
         },
         {
           "id": "s3_sub6",
-          "name": "تطبيقات الحاسوب في الطب",
+          "name": "تطبيقات الحاسوب  ",
           "icon": "fa-laptop-medical",
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: الحوسبة في الطب",
+              "title": "تم الغاءها هذه السنه",
               "pdfUrl": "file1.pdf",
               "size": "2.2MB"
             }
@@ -1270,7 +1569,7 @@
           "sem2": [
             {
               "id": "l20",
-              "title": "المحاضرة 20: مستقبل الطب الرقمي",
+              "title": "تم الغاءها",
               "pdfUrl": "file20.pdf",
               "size": "3.0MB"
             }
@@ -1284,15 +1583,39 @@
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: المخاطر البيولوجية للإشعاع",
-              "pdfUrl": "file1.pdf",
-              "size": "2.5MB"
+              "title": "المحاضرة 1 ",
+              "pdfUrl": "https://drive.google.com/file/d/1YPY12hn6HEnFB6-qbimWFlNV4LBnfSD7/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 2",
+              "pdfUrl": "https://drive.google.com/file/d/1YNriZH18iQ23gOA21QACiJ8IS4FKRdbZ/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3",
+              "pdfUrl": "https://drive.google.com/file/d/1dgRHSHSaIPVUu_8X5UBl3cqxySaibOje/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 4",
+              "pdfUrl": "https://drive.google.com/file/d/1ortPHhi4J7HNCt_1dwR_qVi6sI4bdz4-/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 5",
+              "pdfUrl": "https://drive.google.com/file/d/1lk7LLbWSHipN3VnRKtyId1DoJyWoFC39/view?usp=drive_link",
+              "size": "4MB"
             }
           ],
           "sem2": [
             {
               "id": "l20",
-              "title": "المحاضرة 20: استراتيجيات الحد من المخاطر",
+              "title": "لم تتوفر بعد",
               "pdfUrl": "file20.pdf",
               "size": "3.0MB"
             }
@@ -1306,15 +1629,45 @@
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: مقدمة في علم الأمراض",
-              "pdfUrl": "file1.pdf",
-              "size": "3MB"
+              "title": "المحاضرة 1+2 ",
+              "pdfUrl": "https://drive.google.com/file/d/1MrAxHRrZmVoz7wUCxPuMIoi4WImFZ5uX/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 3",
+              "pdfUrl": "https://drive.google.com/file/d/1rUHVh2HsMwT-VgrlKNX88aC1FERXCwad/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 4",
+              "pdfUrl": "https://drive.google.com/file/d/1yLrQLSQhqompNRnTNATaKghrx5M_z9w9/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 5",
+              "pdfUrl": "https://drive.google.com/file/d/1aTCZIdkNJRFel8vLheEDza1LQS_Cs3WM/view?usp=drive_link",
+              "size": "4MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 6 لم تتوفر بعد",
+              "pdfUrl": "",
+              "size": "4MB"
+            },
+            {
+              "id": "l6",
+              "title": "المحاضرة 7",
+              "pdfUrl": "https://drive.google.com/file/d/1HQGvCNNxMYVoi62z4JIe9qJPgab_gmB4/view?usp=drive_link",
+              "size": "4MB"
             }
           ],
           "sem2": [
             {
               "id": "l20",
-              "title": "المحاضرة 20: دراسة الحالات المرضية",
+              "title": "سيتم نشر الوزاري قريبا",
               "pdfUrl": "file20.pdf",
               "size": "4.0MB"
             }
