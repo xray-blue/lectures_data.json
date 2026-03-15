@@ -64,6 +64,12 @@
               "title": "المحاضرة 1: البايولوجي العملي",
               "pdfUrl": "https://drive.google.com/file/d/1vMrOfZYjOL3InK_okI_3AhFoG1yDcvK5/view?usp=drive_link",
               "size": "3.5MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 2: البايولوجي النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1LMEbpMEAlGl6wOIaNXYAC04o0fWxJsSf/view?usp=drive_link",
+              "size": "3.5MB"
             }
           ],
           "lectures": []
@@ -134,6 +140,12 @@
               "title": "المحاضرة 1: النظري",
               "pdfUrl": "https://drive.google.com/file/d/174EZriz3UXhrPs4cf3fhk29YCw-WcKh0/view?usp=drive_link",
               "size": "3.7MB"
+            },
+            {
+              "id": "l1",
+              "title": "المحاضرة 2: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1nUpfsmlOW0oBl0nilscgHVrecfwkpxIe/view?usp=drive_link",
+              "size": "3.4MB"
             }
           ],
           "lectures": []
@@ -197,6 +209,12 @@
               "id": "l3",
               "title": "المحاضرة 1: العملي",
               "pdfUrl": "https://drive.google.com/file/d/1hAebbfdCnhD5SLzL0r0wdIidxO3R3-P7/view?usp=drive_link",
+              "size": "3.8MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 2: العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1GvpraTc9S85oaP1H7iOJHleMN-TNFLnP/view?usp=drive_link",
               "size": "3.8MB"
             }
           ],
@@ -482,6 +500,12 @@
               "id": "l1",
               "title": "المحاضرة 1: ",
               "pdfUrl": "https://drive.google.com/file/d/19jwsCp2NuIENQaybbpB8txTA4ceddGQ1/view?usp=drive_link",
+              "size": "1.8MB"
+            },
+            {
+              "id": "l1",
+              "title": "المحاضرة 2: ",
+              "pdfUrl": "https://drive.google.com/file/d/1RNDyCCafMUNGXHdyp_q0LCq_7K0B3oOM/view?usp=drive_link",
               "size": "1.8MB"
             }
           ],
