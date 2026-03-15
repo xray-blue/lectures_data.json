@@ -1730,16 +1730,16 @@
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: مقدمة في MRI",
-              "pdfUrl": "file1.pdf",
+              "title": " لم تتوفر بعد",
+              "pdfUrl": " ",
               "size": "4MB"
             }
           ],
           "sem2": [
             {
               "id": "l20",
-              "title": "المحاضرة 20: سلامة المريض في MRI",
-              "pdfUrl": "file20.pdf",
+              "title": " لم تتوفر بعد",
+              "pdfUrl": " ",
               "size": "4.5MB"
             }
           ],
@@ -1752,16 +1752,16 @@
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: مقدمة في CT",
-              "pdfUrl": "file1.pdf",
+              "title": " لم تتوفر بعد",
+              "pdfUrl": " ",
               "size": "3.5MB"
             }
           ],
           "sem2": [
             {
               "id": "l20",
-              "title": "المحاضرة 20: مستقبل تقنية CT",
-              "pdfUrl": "file20.pdf",
+              "title": "لم تتوفر بعد",
+              "pdfUrl": " ",
               "size": "4.9MB"
             }
           ],
@@ -1774,16 +1774,16 @@
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: أساسيات السونار",
-              "pdfUrl": "file1.pdf",
+              "title": "الم تتوفر بعد",
+              "pdfUrl": " ",
               "size": "3MB"
             }
           ],
           "sem2": [
             {
               "id": "l20",
-              "title": "المحاضرة 20: التطور في السونار",
-              "pdfUrl": "file20.pdf",
+              "title": "لم تتوفر بعد",
+              "pdfUrl": " ",
               "size": "4.1MB"
             }
           ],
@@ -1796,16 +1796,16 @@
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: مقدمة في الطب السريري",
-              "pdfUrl": "file1.pdf",
+              "title": "لم تتوفر بعد",
+              "pdfUrl": " ",
               "size": "3MB"
             }
           ],
           "sem2": [
             {
               "id": "l20",
-              "title": "المحاضرة 20: حالات طبية معقدة",
-              "pdfUrl": "file20.pdf",
+              "title": "لم تتوفر بعد",
+              "pdfUrl": " ",
               "size": "4.2MB"
             }
           ],
@@ -1813,21 +1813,21 @@
         },
         {
           "id": "s4_sub5",
-          "name": "السونار المتقدم",
+          "name": "السونار  ",
           "icon": "fa-stethoscope",
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: مراجعة السونار الأساسي",
-              "pdfUrl": "file1.pdf",
+              "title": "لم تتوفر بعد",
+              "pdfUrl": " ",
               "size": "3MB"
             }
           ],
           "sem2": [
             {
               "id": "l20",
-              "title": "المحاضرة 20: التطوير المستقبلي",
-              "pdfUrl": "file20.pdf",
+              "title": "لم تتوفر بعد",
+              "pdfUrl": " ",
               "size": "4.0MB"
             }
           ],
@@ -1835,21 +1835,21 @@
         },
         {
           "id": "s4_sub6",
-          "name": "اللغة الإنجليزية الطبية",
+          "name": "اللغة الإنجليزية  ",
           "icon": "fa-language",
           "sem1": [
             {
               "id": "l1",
-              "title": "Lecture 1: Advanced Medical English",
-              "pdfUrl": "file1.pdf",
+              "title": "لم تتوفر بعد",
+              "pdfUrl": " ",
               "size": "1.5MB"
             }
           ],
           "sem2": [
             {
               "id": "l20",
-              "title": "Lecture 20: Final Project",
-              "pdfUrl": "file20.pdf",
+              "title": "لم تتوفر بعد",
+              "pdfUrl": " ",
               "size": "2.5MB"
             }
           ],
@@ -1862,16 +1862,16 @@
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: الإحصاء الوصفي",
-              "pdfUrl": "file1.pdf",
+              "title": "لم تتوفر بعد",
+              "pdfUrl": " ",
               "size": "2MB"
             }
           ],
           "sem2": [
             {
               "id": "l20",
-              "title": "المحاضرة 20: مشروع التخرج",
-              "pdfUrl": "file20.pdf",
+              "title": "لم تتوفر بعد",
+              "pdfUrl": "",
               "size": "3.5MB"
             }
           ],
