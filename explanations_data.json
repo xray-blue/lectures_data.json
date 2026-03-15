@@ -1,0 +1,196 @@
+[
+  {
+    "stageId": "stage1",
+    "stageName": "المرحلة الأولى",
+    "subjects": [
+      {
+        "subjectId": "bio",
+        "subjectName": "البايولوجي",
+        "icon": "biotech",
+        "color": "bg-green-500",
+        "explanations": [
+          {
+            "id": "1",
+            "title": "شرح الفصل الأول",
+            "content": "بسم الله...",
+            "type": "summary",
+            "date": "2026-03-15"
+          },
+          {
+            "id": "2",
+            "title": "ملاحظات هامة للفصل الثاني",
+            "content": "ملاحظات سريعة ومهمة...",
+            "type": "important",
+            "date": "2026-03-16"
+          }
+        ]
+      },
+      {
+        "subjectId": "physio",
+        "subjectName": "الفسلجة",
+        "icon": "favorite",
+        "color": "bg-red-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "anatomy",
+        "subjectName": "التشريح",
+        "icon": "accessibility_new",
+        "color": "bg-blue-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "physics",
+        "subjectName": "الفيزياء",
+        "icon": "bolt",
+        "color": "bg-yellow-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "terms",
+        "subjectName": "المصطلحات الطبية",
+        "icon": "local_library",
+        "color": "bg-purple-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "chem",
+        "subjectName": "الكيمياء",
+        "icon": "science",
+        "color": "bg-teal-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "rights",
+        "subjectName": "الحقوق",
+        "icon": "gavel",
+        "color": "bg-orange-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "comp",
+        "subjectName": "الحاسوب",
+        "icon": "computer",
+        "color": "bg-gray-500",
+        "explanations": []
+      }
+    ]
+  },
+  {
+    "stageId": "stage2",
+    "stageName": "المرحلة الثانية",
+    "subjects": [
+      {
+        "subjectId": "rad_imaging",
+        "subjectName": "التصوير الشعاعي",
+        "icon": "camera_alt",
+        "color": "bg-indigo-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "rad_anatomy",
+        "subjectName": "التشريح الشعاعي",
+        "icon": "accessibility",
+        "color": "bg-blue-600",
+        "explanations": []
+      },
+      {
+        "subjectId": "rad_exams",
+        "subjectName": "الفحوصات الشعاعية",
+        "icon": "scanner",
+        "color": "bg-emerald-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "rad_physics",
+        "subjectName": "الفيزياء الاشعاعي",
+        "icon": "coronavirus",
+        "color": "bg-yellow-600",
+        "explanations": []
+      },
+      {
+        "subjectId": "rad_protection",
+        "subjectName": "الوقاية من الاشعاع",
+        "icon": "shield",
+        "color": "bg-green-600",
+        "explanations": []
+      },
+      {
+        "subjectId": "baath_crimes",
+        "subjectName": "جرائم البعث",
+        "icon": "gavel",
+        "color": "bg-red-600",
+        "explanations": []
+      },
+      {
+        "subjectId": "english",
+        "subjectName": "اللغة الانجليزية",
+        "icon": "language",
+        "color": "bg-purple-600",
+        "explanations": []
+      }
+    ]
+  },
+  {
+    "stageId": "stage3",
+    "stageName": "المرحلة الثالثة",
+    "subjects": [
+      {
+        "subjectId": "rad_imaging_3",
+        "subjectName": "التصوير الشعاعي",
+        "icon": "camera_alt",
+        "color": "bg-indigo-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "rad_anatomy_3",
+        "subjectName": "التشريح الشعاعي",
+        "icon": "accessibility",
+        "color": "bg-blue-600",
+        "explanations": []
+      },
+      {
+        "subjectId": "rad_exams_3",
+        "subjectName": "الفحوصات الشعاعية",
+        "icon": "scanner",
+        "color": "bg-emerald-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "ultrasound",
+        "subjectName": "تقنيات الموجات فوق صوتية",
+        "icon": "waves",
+        "color": "bg-cyan-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "physics_3",
+        "subjectName": "الفيزياء",
+        "icon": "bolt",
+        "color": "bg-yellow-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "comp_3",
+        "subjectName": "الحاسوب",
+        "icon": "computer",
+        "color": "bg-gray-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "rad_hazards",
+        "subjectName": "المخاطر من الاشعاع",
+        "icon": "warning",
+        "color": "bg-red-500",
+        "explanations": []
+      },
+      {
+        "subjectId": "pathology",
+        "subjectName": "علم الامراض",
+        "icon": "coronavirus",
+        "color": "bg-rose-500",
+        "explanations": []
+      }
+    ]
+  }
+]
