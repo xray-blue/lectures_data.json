@@ -231,13 +231,42 @@
         "color": "bg-emerald-500",
         "explanations": []
       },
-      {
-        "subjectId": "ultrasound",
-        "subjectName": "تقنيات الموجات فوق صوتية",
-        "icon": "waves",
-        "color": "bg-cyan-500",
-        "explanations": []
-      },
+{
+  "subjectId": "ultrasound",
+  "subjectName": "تقنيات الموجات فوق صوتية",
+  "icon": "waves",
+  "color": "bg-cyan-500",
+  "explanations": [
+    {
+      "id": "1",
+      "title": "شرح الفصل الأول - التصوير بالرنين المغناطيسي (MRI)",
+      "content": "1. تعريف MRI: تقنية تصوير غير جراحية تستخدم مجالًا مغناطيسيًا قويًا وموجات Radiofrequency (RF) لإنتاج صور مفصلة، ولا تستخدم إشعاعًا مؤينًا.\n2. تاريخ MRI:\n   - اكتشاف NMR: Felix Bloch و Edward Purcell (الأربعينيات).\n   - أول صورة MRI: 1973 بواسطة Paul Lauterbur.\n   - التطوير الطبي: Raymond Damadian.\n   - التصوير السريع: Peter Mansfield.\n3. أهمية MRI: تباين عالي للأنسجة الرخوة (دماغ، عمود فقري، مفاصل)، آمن لعدم وجود إشعاع مؤين، وتقنية متطورة.\n4. المكونات الأساسية:\n   - Main Magnet: يولد المجال الرئيسي (1.5 - 3 Tesla).\n   - Gradient Coils: تغير المجال لتحديد المكان.\n   - RF Coils: ترسل وتستقبل الإشارات.\n   - Shim Coils: تصحح عدم تجانس المجال.\n   - Patient Table & Gantry: لاستقبال المريض.\n   - Computer System: للمعالجة.\n   - Cooling System: تبريد بالهيليوم السائل.\n5. كيف يعمل:\n   - Alignment: ترتيب البروتونات.\n   - Excitation: تغيير اتجاهها بـ RF.\n   - Signal Detection: التقاط الإشارة عند العودة.\n   - Spatial Encoding: تحديد المكان بالتدرجات.\n   - Image Reconstruction: تحويل الإشارة لصورة.\n6. ملاحظات: المعادن خطيرة، الجهاز صاخب (يحتاج حماية أذن)، وزيادة قوة المجال تزيد الوضوح.\n7. الاستخدامات: دماغ، عمود فقري، قلب، مفاصل، و fMRI.",
+      "type": "theory",
+      "date": "2026-03-20"
+    },
+    {
+      "id": "2",
+      "title": "شرح الفصل الثاني - المغناطيس وملفات التدرج في MRI",
+      "content": "1. أنواع المغناطيس:\n   - Permanent Magnet: لا يحتاج كهرباء (0.15-0.4T)، رخيص لكن دقة أقل.\n   - Resistive Magnet: يعمل بكهرباء (0.3-0.6T)، يولد حرارة.\n   - Superconducting Magnet: الأكثر استخدامًا (1.5-3T)، جودة عالية، يحتاج هيليوم سائل.\n   - Temporary / Hybrid: للأبحاث.\n2. Gradient Coils: ملفات تغير المجال المغناطيسي قليلاً لتحديد موقع الإشارة.\n3. محاور التدرج:\n   - X-Gradient: يمين – يسار.\n   - Y-Gradient: أمام – خلف.\n   - Z-Gradient: رأس – قدم (للاختيار الشريحة Slice Selection).\n4. وظائف Gradient Coils:\n   - Slice Selection: اختيار الشريحة.\n   - Frequency Encoding: تحديد الموقع أفقيًا.\n   - Phase Encoding: تحديد الموقع عموديًا.\n   - Spatial Resolution: المساعدة في صور 2D و 3D.",
+      "type": "theory",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "3",
+      "title": "شرح الفصل الثالث - نظام RF وضبط المجال المغناطيسي",
+      "content": "1. نظام RF:\n   - Transmitter (المرسل): يرسل نبضات RF لتغيير اتجاه البروتونات (توليد B1).\n   - Receiver (المستقبل): يلتقط الإشارات الضعيفة ويعالجها.\n2. أنواع RF Coils:\n   - Surface Coil: سطحي، SNR عالي، لمناطق صغيرة (ركبة، معصم).\n   - Volume Coil: حجمي، يحيط بالجسم، إثارة موحدة (رأس، جسم كامل).\n   - أنواع أخرى: Body, Head, Spine, Phased Array, Breast, Cardiac.\n3. Shimming (ضبط المجال):\n   - Passive Shimming: بمواد مغناطيسية (ثابت).\n   - Active Shimming: بملفات كهربائية (مرن ودقيق).\n4. Magnetic Field Shielding (الحماية):\n   - Passive Shielding: بفولاذ (ثقيل).\n   - Active Shielding: بملفات إضافية (أخف وأحدث).\n5. الهدف: منع انتشار المجال خارج الغرفة وحماية الأجهزة.",
+      "type": "theory",
+      "date": "2026-03-22"
+    },
+    {
+      "id": "4",
+      "title": "شرح الفصل الرابع - نظام الكمبيوتر والإلكترونيات في MRI",
+      "content": "1. أنظمة الكمبيوتر:\n   - Acquisition Control: ينسق نبضات RF والتدرجات وضمان السلامة.\n   - Reconstruction: يحول بيانات k-space لصور (يستخدم Fourier, Parallel Imaging).\n   - Storage & Retrieval: أرشفة في PACS وإدارة البيانات.\n   - Viewing & Post-Processing: عرض تفاعلي، قياسات، وتحليل ثلاثي الأبعاد.\n2. معايير الأداء: سرعة المعالجة، سعة التخزين، واجهة المستخدم، التكامل مع الأنظمة الأخرى.\n3. الإلكترونيات:\n   - Frequency Synthesizer: يولد إشارات RF بدقة عند تردد لارمور.\n   - RF Amplifier: يقوي إشارة RF إلى نبضة عالية الطاقة لتشغيل ملف الإرسال.\n4. آلية العمل المتكاملة:\n   - Synthesizer يحدد التردد.\n   - Amplifier يقوي الإشارة.\n   - Transmit coil يغير اتجاه البروتونات.\n   - Receive coil والكمبيوتر يلتقطان ويعالجان الإشارة.",
+      "type": "theory",
+      "date": "2026-03-23"
+    }
+  ]
+},
       {
         "subjectId": "physics_3",
         "subjectName": "الفيزياء",
