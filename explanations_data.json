@@ -210,13 +210,28 @@
     "stageId": "stage3",
     "stageName": "المرحلة الثالثة",
     "subjects": [
-      {
-        "subjectId": "rad_imaging_3",
-        "subjectName": "التصوير الشعاعي",
-        "icon": "camera_alt",
-        "color": "bg-indigo-500",
-        "explanations": []
-      },
+{
+  "subjectId": "rad_imaging_3",
+  "subjectName": "التصوير الشعاعي",
+  "icon": "camera_alt",
+  "color": "bg-indigo-500",
+  "explanations": [
+    {
+      "id": "1",
+      "title": "شرح الفصل الأول - تصوير البلعوم، الحنجرة، القصبة الهوائية والرئتين",
+      "content": "1. Pharynx & Larynx (البلعوم والحنجرة):\n   - AP: مستلقي، ذقن مرفوعة. الشعاع 10° باتجاه الرأس عند C4. يظهر من العظم القذالي لـ C7.\n   - Lateral: واقف أو جالس، الكتف على الكاسيت، الذقن مرفوعة، خفض الكتفين. الشعاع أفقي عند الغدة الدرقية. يظهر الأنسجة الرخوة والأجسام الغريبة.\n2. Trachea (القصبة الهوائية):\n   - AP: مستلقي، ذقن مرفوعة. الشعاع عمودي عند الثلمة القصية.\n   - Lateral: واقف، الكتف على باكي عمودي، اليدين خلف الظهر. الشعاع أفقي عند الثلمة القصية.\n3. Lungs (الرئتان):\n   - PA (واقف): مواجهة المستقبل، ذقن مرفوعة، اليدين خلف الوركين. الشعاع أفقي عند T7. الصورة تشمل حقول الرئة، القلب مركزي، والرئتان منتفخة.\n   - AP (مستلقي): للمرضى غير القادرين على الوقوف. يزيد التكبير ويقلل دقة تقييم القلب.\n   - Lateral: لتحديد موضع الآفة أو الكتل المنصفية.\n   - Apical view: لإظهار القمم، الشعاع 30° باتجاه الرأس نحو زاوية القص.\n   - Lordotic view: لإظهار انهيار الفص الأوسط، ينحني المريض للخلف 30°.",
+      "type": "theory",
+      "date": "2026-04-01"
+    },
+    {
+      "id": "2",
+      "title": "شرح الفصل الثاني - تصوير الأضلاع وعظم القص (Ribs & Sternum)",
+      "content": "1. Lower Ribs (الأضلاع السفلية):\n   - AP: مستلقي على الظهر، الأشواك الحرقفية متساوية. الشعاع عمودي ومائل للرأس عند الحافة السفلية. التعريض عند نهاية الزفير.\n   - RPO/LPO (مائل خلفي): تدوير الجذع 45° نحو الجانب. التعريض عند نهاية الزفير.\n2. Upper Ribs (الأضلاع العلوية 1 & 2):\n   - AP: غالباً تتراكب الأضلاع 1 و2. الشعاع أفقي فوق الترقوة.\n   - Cervical Rib (الضلع العنقي): يظهر في صور العنق أو PA. الشعاع 10° للرأس نحو الثلمة القصية.\n3. Sternum (عظمة القص):\n   - Anterior Oblique (مائل أمامي): مستلقي على البطن. الشعاع عمودي عند الإبط T5 ثم مائل عرضياً 7.5 سم عن الخط المتوسط. يقلل التراكب.\n   - Lateral (جانبي): جالس أو واقف، الكتف على الكاسيت، اليدين خلف الظهر. الشعاع أفقي 2.5 سم تحت زاوية القص. التنفس: إلهام كامل. ملاحظة: كسر القص قد يرتبط بكسر الفقرات الصدرية.",
+      "type": "theory",
+      "date": "2026-04-02"
+    }
+  ]
+},
 {
   "subjectId": "rad_anatomy_3",
   "subjectName": "التشريح الشعاعي",
@@ -274,13 +289,28 @@
     }
   ]
 },
-      {
-        "subjectId": "rad_exams_3",
-        "subjectName": "الفحوصات الشعاعية",
-        "icon": "scanner",
-        "color": "bg-emerald-500",
-        "explanations": []
-      },
+{
+  "subjectId": "rad_exams_3",
+  "subjectName": "الفحوصات الشعاعية",
+  "icon": "scanner",
+  "color": "bg-emerald-500",
+  "explanations": [
+    {
+      "id": "1",
+      "title": "شرح الفصل الأول - أهداف وتقنيات تصوير القلب",
+      "content": "1. Objectives: X-ray، Echocardiography، CT، MRI، PET.\n2. Imaging Techniques:\n   - Plain X-ray (CXR): PA & Lateral لتقييم حجم القلب، تضخم الحجرات، انصباب التامور.\n   - Echocardiography: 2D للتشريح والوظيفة، M-mode لتوقيت الأحداث.\n   - Doppler: دراسة سرعة الدم، حساب Cardiac output و Ejection fraction.\n   - MDCT/CT: تصوير 3D للشرايين، كشف التكلس، التمدد، التسلخ، والأورام.\n   - MRI: مستويات (Axial, Sagittal, Coronal) ومستويات قلبية (Short axis, 4-chamber, 2-chamber). تقييم الحجرات والتامور.\n   - Cardiac Catheterization: تصوير الأوعية التاجية، الأبهر، ودراسة ضغوط القلب.\n   - Cardiac PET/CT: تصوير نووي لتقييم تروية عضلة القلب (Physiology) والتشريح في جلسة واحدة.\n3. Plain X-ray Cardiac Margins:\n   - Right border: Brachiocephalic vein → SVC → Right atrium.\n   - Left border: Aortic knuckle → Pulmonary trunk → Left auricle → Left ventricle → Apex.\n4. Echocardiography: وضعية شبه منثبية لليسار.\n5. MRI Planes: Short axis (قصير)، Horizontal long axis (4 حجرات)، Vertical long axis (2 حجرات).",
+      "type": "theory",
+      "date": "2026-04-03"
+    },
+    {
+      "id": "2",
+      "title": "شرح الفصل الثاني - تصوير الشرايين التاجية بالقطعية (CCTA)",
+      "content": "1. CCTA & MDCT: طريقة غير جراحية للشرايين التاجية. 64-slice MDCT يوفر دقة عالية (97% Sensitivity, 92% Specificity).\n2. Indications: المرضى ذوي الخطورة العالية، ألم الصدر، Post CABG، Post stent، Dilated Cardiomyopathy، تقييم ما قبل الجراحة.\n3. Contraindications:\n   - Absolute: تحسس اليود، الحمل.\n   - Relative: اضطراب نظم القلب، قصور الكلى (Cr>1.5)، فرط نشاط الغدة، عدم حبس النفس، أجهزة معدنية.\n4. Patient Preparation: تجنب الكافيين 12 ساعة. Beta-blockers (Metoprolol) إذا HR > 60 bpm. Nitrات تحت اللسان. تدريب حبس النفس.\n5. Positioning: استلقاء ظهري، توصيل ECG، IV access (5 ml/sec).\n6. ECG Gating:\n   - Prospective: المسح في الانبساط (40-80% RR)، جرعة أقل.\n   - Retrospective: مسح مستمر، وظيفي كامل، جرعة أعلى.\n7. Acquisition & Reconstruction:\n   - Topogram: تحديد البداية فوق الكارينا.\n   - Scan: من الأبهر الصاعد للحجاب.\n   - Contrast: 80ml @ 6ml/sec + Saline chase.\n   - Post-processing: MPR, CPR, MIP, VR (3D).\n8. Calcium Scoring:\n   - 0: لا يوجد تكلس.\n   - 1-100: طفيف.\n   - 101-399: متوسط.\n   - 400-999: شديد.\n   - ≥1000: واسع.\n   - يُستخدم للرجال >45 سنة ونساء >55 سنة مع عوامل خطورة.",
+      "type": "theory",
+      "date": "2026-04-04"
+    }
+  ]
+},
 {
   "subjectId": "ultrasound",
   "subjectName": "تقنيات الموجات فوق صوتية",
