@@ -1,0 +1,227 @@
+[
+  {
+    "name": "الرأس والجمجمة",
+    "positions": [
+      {
+        "name": "Skull PA",
+        "desc": "View of skull structures minimizing petrous ridges",
+        "image": "https://prod-images-static.radiopaedia.org/images/12150016/607ec625eeb25c5a40890839df3388_big_gallery.jpg",
+        "technique": { "kvp": 75, "mas": 25, "sid": 100 },
+        "details": "الأنف والجبهة تلامس اللوح، الشعاع عمودي.",
+        "criteria": ["تقارب الخطوط السهمية", "ظهور قنوات الأذن الداخلية بشكل متماثل"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "تأكد من ثبات الرأس لتجنب التشوش"
+      },
+      {
+        "name": "Skull Lateral",
+        "desc": "Best view for fractures and vault pathology",
+        "image": "skull_lat.png",
+        "technique": { "kvp": 80, "mas": 30, "sid": 100 },
+        "details": "الجانب الأقرب للوح يكون ملاصقاً له، الشعاع عمودي على المنتصف.",
+        "criteria": ["تراكب الجدران الأمامية والخلفية للجمجمة", "ظهور السرج التركي بشكل واضح"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "المريض ينظر للأمام مباشرة"
+      },
+      {
+        "name": "Towne's View",
+        "desc": "Demonstrates occipital bone and foramen magnum",
+        "image": "towne.png",
+        "technique": { "kvp": 75, "mas": 35, "sid": 100 },
+        "details": "الوجه ينظر للأعلى، الشعاع يدخل من الذقن ويخرج من القمة.",
+        "criteria": ["ظهور الثقبة العظمى الكبرى بداخل الحفرة القحفية", "توضيح العظام القذالية"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "مفيد لحالات إصابة الرأس الخلفية"
+      }
+    ]
+  },
+  {
+    "name": "الفك والأسنان",
+    "positions": [
+      {
+        "name": "Mandible PA",
+        "desc": "Demonstrates body of mandible",
+        "image": "mandible_pa.png",
+        "technique": { "kvp": 65, "mas": 15, "sid": 100 },
+        "details": "الأنف والذقن على اللوح، الشعاع عمودي.",
+        "criteria": ["ظهور الفك السفلي بالكامل", "توضيح الأسنان"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "اطلب من المريض إغلاق فمه بقوة"
+      },
+      {
+        "name": "Mandible Lateral Oblique",
+        "desc": "View of the ramus and body of mandible",
+        "image": "mandible_oblique.png",
+        "technique": { "kvp": 70, "mas": 20, "sid": 100 },
+        "details": "جانب الرأس الملامس للوح مائل قليلاً.",
+        "criteria": ["فك لا تراكب العمود الفقري", "ظهور مفصل الفك (TMJ)"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "تستخدم لفحص الكسور"
+      }
+    ]
+  },
+  {
+    "name": "العمود الفقري",
+    "positions": [
+      {
+        "name": "Cervical Spine AP",
+        "desc": "Alignment of vertebral bodies",
+        "image": "cspine_ap.png",
+        "technique": { "kvp": 70, "mas": 20, "sid": 100 },
+        "details": "الظهر مستقيم، الكتفان مسطحان.",
+        "criteria": ["استقامة العمود الفقري", "توضيح أجسام الفقرات العنقية"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "إذا لم تظهر الفقرة C7، احتاج لمنظرة تنفسية"
+      },
+      {
+        "name": "Cervical Spine Lateral",
+        "desc": "Most important view for trauma",
+        "image": "cspine_lat.png",
+        "technique": { "kvp": 75, "mas": 25, "sid": 180 },
+        "details": "الكتفان للأسفل، الذقن مسحوبة قليلاً.",
+        "criteria": ["رؤية الفقرات من C1 إلى C7", "ظهور المسافات بين الفقرات"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "المريض يجب ألا يبتلع أثناء التصوير"
+      },
+      {
+        "name": "Lumbar Spine AP",
+        "desc": "Demonstrates vertebral bodies and pedicles",
+        "image": "lspine_ap.png",
+        "technique": { "kvp": 80, "mas": 35, "sid": 100 },
+        "details": "الاستلقاء على الظهر، الركبتان مثنيتان لتسطيح العمود الفقري.",
+        "criteria": ["توضيح الأقواس الفقرية", "رؤية مفاصل الوركين جزئياً"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "توجيه الشعاع نحو السرة قليلاً"
+      },
+      {
+        "name": "Lumbar Spine Lateral",
+        "desc": "Intervertebral disc spaces and vertebral bodies",
+        "image": "lspine_lat.png",
+        "technique": { "kvp": 90, "mas": 60, "sid": 100 },
+        "details": "الاستلقاء على الجنب مع ثني الركبتين.",
+        "criteria": ["تراكب أجسام الفقرات الخلفية والأمامية", "توضيح المسافات بين الفقرات"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "استخدم وسادة تحت الخصر لتسطيح الانحناء القطني"
+      }
+    ]
+  },
+  {
+    "name": "الصدر",
+    "positions": [
+      {
+        "name": "Chest PA",
+        "desc": "Standard view, reduces heart magnification",
+        "image": "chest_pa.png",
+        "technique": { "kvp": 120, "mas": 3, "sid": 180 },
+        "details": "الصدر والأنف ملامسان للوح، الشهيق العميق والتوقف.",
+        "criteria": ["رؤية 6 أضلاع أمامية أو 10 خلفية", "القلب في حجمه الطبيعي (أقل من نصف عرض الصدر)"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "الذراعان مدلوكان للخلف بعيداً عن الرئتين"
+      },
+      {
+        "name": "Chest Lateral",
+        "desc": "Visualize areas behind heart and diaphragm",
+        "image": "chest_lat.png",
+        "technique": { "kvp": 130, "mas": 8, "sid": 180 },
+        "details": "الجانب الأيسر ملامس لللوح، الذراعان فوق الرأس، شهيق عميق.",
+        "criteria": ["توضيح الحجاب الحاجز كلياً", "رؤية الأبهر الصاعد والنازل"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "مهمة لكشف الكتل خلف القلب"
+      }
+    ]
+  },
+  {
+    "name": "البطن والحوض",
+    "positions": [
+      {
+        "name": "Abdomen AP (KUB)",
+        "desc": "Kidneys, Ureters, Bladder survey",
+        "image": "kub.png",
+        "technique": { "kvp": 80, "mas": 40, "sid": 100 },
+        "details": "الاستلقاء على الظهر، الشهيق العميق والزفير الكامل.",
+        "criteria": ["ظهور الحواف الخارجية للعضلات القطنية", "توضيح المثانة والغازات المعوية"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "يجب توجيه الشعاع قليلاً للأسفل نحو الحوض"
+      },
+      {
+        "name": "Pelvis AP",
+        "desc": "Hips and pelvic girdle",
+        "image": "pelvis_ap.png",
+        "technique": { "kvp": 75, "mas": 30, "sid": 100 },
+        "details": "القدمان ملفوفتان للداخل 15 درجة.",
+        "criteria": ["توضيح عنق الفخذ بشكل كامل", "تراكب عظم العانى"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "مهم لكشف خلع الورك والكسور"
+      }
+    ]
+  },
+  {
+    "name": "الأطراف العلوية",
+    "positions": [
+      {
+        "name": "Hand PA",
+        "desc": "Routine view of hand and fingers",
+        "image": "hand_pa.png",
+        "technique": { "kvp": 50, "mas": 5, "sid": 100 },
+        "details": "الكف مسطح على اللوح، الأصابع ممدودة.",
+        "criteria": ["توضيح المسافات المفصلية", "ظهور النهايات القريبة والبعيدة للعظام"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "تأكد من شمل الإبهام في الصورة"
+      },
+      {
+        "name": "Forearm AP & Lateral",
+        "desc": "Radius and Ulna",
+        "image": "forearm.png",
+        "technique": { "kvp": 55, "mas": 8, "sid": 100 },
+        "details": "شمل كلتي المفصلين (الكوع والرسغ).",
+        "criteria": ["رؤية الكوع والرسغ بزوايا صحيحة", "عدم تراكب عظم الزند والكعبرة في الصورة الجانبية"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "الكف في وضعية محايدة"
+      },
+      {
+        "name": "Humerus AP",
+        "desc": "Upper arm bone",
+        "image": "humerus_ap.png",
+        "technique": { "kvp": 60, "mas": 15, "sid": 100 },
+        "details": "شمل مفصل الكوع والكتف.",
+        "criteria": ["رؤية ثلثي العظم العلوي والسفلي", "توضيح المنطقة المدارية للكتف"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "يدور الذراع للخارج قليلاً"
+      }
+    ]
+  },
+  {
+    "name": "الأطراف السفلية",
+    "positions": [
+      {
+        "name": "Foot AP & Lateral",
+        "desc": "Bones of the foot",
+        "image": "foot.png",
+        "technique": { "kvp": 55, "mas": 8, "sid": 100 },
+        "details": "القدم مسطحة على اللوح.",
+        "criteria": ["توضيح مشط القدم وأصابعه", "رؤية عظم الكعب في الجانبية"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "للصورة الجانبية يرفع القدم جانبياً على دعامة"
+      },
+      {
+        "name": "Knee AP",
+        "desc": "Femur, Tibia, Fibula and Patella",
+        "image": "knee_ap.png",
+        "technique": { "kvp": 65, "mas": 12, "sid": 100 },
+        "details": "الركبة مستقيمة تماماً.",
+        "criteria": ["توضيح الفجوة المفصلية للركبة", "ظهور الرضفة فوق المفصل"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "الشعاع موجه بمقدار 5-7 درجات للأسفل"
+      },
+      {
+        "name": "Femur AP",
+        "desc": "Thigh bone",
+        "image": "femur_ap.png",
+        "technique": { "kvp": 75, "mas": 25, "sid": 100 },
+        "details": "شمل مفصل الورك والركبة.",
+        "criteria": ["رؤية ثلث العظم الأوسط والعلوي والسفلي", "عدم دوران العظم"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "استخدم كاشف كبير (14x17)"
+      }
+    ]
+  }
+]
