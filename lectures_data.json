@@ -1411,6 +1411,12 @@
               "title": "المحاضرة 2",
               "pdfUrl": "https://drive.google.com/file/d/16yLo2nIC3ZVgdOP3OionuVyfzX_423pf/view?usp=drive_link",
               "size": "4MB"
+            },
+            {
+              "id": "l2",
+              "title": "المحاضرة 3",
+              "pdfUrl": "https://drive.google.com/file/d/1UtjJVXAErrkH9laWgWa7A3yQj8Q9hFdq/view?usp=drive_link",
+              "size": "2MB"
             }
           ],
           "lectures": []
