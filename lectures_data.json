@@ -61,14 +61,26 @@
             },
             {
               "id": "l2",
+              "title": "المحاضرة 2: البايولوجي النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1LMEbpMEAlGl6wOIaNXYAC04o0fWxJsSf/view?usp=drive_link",
+              "size": "3.5MB"
+            },
+            {
+              "id": "l3",
               "title": "المحاضرة 1: البايولوجي العملي",
               "pdfUrl": "https://drive.google.com/file/d/1vMrOfZYjOL3InK_okI_3AhFoG1yDcvK5/view?usp=drive_link",
               "size": "3.5MB"
             },
             {
-              "id": "l3",
-              "title": "المحاضرة 2: البايولوجي النظري",
-              "pdfUrl": "https://drive.google.com/file/d/1LMEbpMEAlGl6wOIaNXYAC04o0fWxJsSf/view?usp=drive_link",
+              "id": "l4",
+              "title": "المحاضرة 2: البايولوجي العملي",
+              "pdfUrl": "https://drive.google.com/file/d/14HZIoBFlDxIEKRskW7rty8vkVNQW2sxK/view?usp=drive_link",
+              "size": "3.5MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 3: البايولوجي العملي",
+              "pdfUrl": "https://drive.google.com/file/d/1MyH-hi0nq2AR_OCHTIMT2amyF1aoLFt3/view?usp=drive_link",
               "size": "3.5MB"
             }
           ],
