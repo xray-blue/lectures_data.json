@@ -151,13 +151,31 @@
               "id": "l1",
               "title": "المحاضرة 1: النظري",
               "pdfUrl": "https://drive.google.com/file/d/174EZriz3UXhrPs4cf3fhk29YCw-WcKh0/view?usp=drive_link",
-              "size": "3.7MB"
+              "size": "النظري"
             },
             {
-              "id": "l1",
+              "id": "l2",
               "title": "المحاضرة 2: النظري",
               "pdfUrl": "https://drive.google.com/file/d/1nUpfsmlOW0oBl0nilscgHVrecfwkpxIe/view?usp=drive_link",
-              "size": "3.4MB"
+              "size": "النظري"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 3: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/163vnUQ0AzLXpgyfe6H1ASO_-ZVv-Ae--/view?usp=drive_link",
+              "size": "النظري"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 4: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1ajvu6IADWb2hxScWtBznAJ7XUobFVOMR/view?usp=drive_link",
+              "size": "النظري"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 5: النظري",
+              "pdfUrl": "https://drive.google.com/file/d/1sAqBCgQ_Lb9MAs3YzHtsLroYmRmbi2r1/view?usp=drive_link",
+              "size": "النظري"
             }
           ],
           "lectures": []
@@ -534,15 +552,33 @@
           "sem1": [
             {
               "id": "l1",
-              "title": "المحاضرة 1: ",
-              "pdfUrl": "https://drive.google.com/file/d/19jwsCp2NuIENQaybbpB8txTA4ceddGQ1/view?usp=drive_link",
+              "title": "المحاضرة 1+2: ",
+              "pdfUrl": "https://drive.google.com/file/d/1ZbTMCTLn7coalwvzFAwzhe2HuwPdlh7U/view?usp=drive_link",
               "size": "1.8MB"
             },
             {
-              "id": "l1",
-              "title": "المحاضرة 2: ",
-              "pdfUrl": "https://drive.google.com/file/d/1RNDyCCafMUNGXHdyp_q0LCq_7K0B3oOM/view?usp=drive_link",
+              "id": "l2",
+              "title": "المحاضرة 3: ",
+              "pdfUrl": "https://drive.google.com/file/d/1Q6880806fsUqL586talSQ6GTKuiJe_WR/view?usp=drive_link",
               "size": "1.8MB"
+            },
+            {
+              "id": "l3",
+              "title": "المحاضرة 4: ",
+              "pdfUrl": "https://drive.google.com/file/d/1O7DsImWyI3F-KiUhwDfT1x3bU8_Eav4v/view?usp=drive_link",
+              "size": "1.8MB"
+            },
+            {
+              "id": "l4",
+              "title": "المحاضرة 5: ",
+              "pdfUrl": "https://drive.google.com/file/d/1yjFZh9GsO1V2bIXr2latULcOzEX73sk_/view?usp=drive_link",
+              "size": "1.8MB"
+            },
+            {
+              "id": "l5",
+              "title": "المحاضرة 5 العملي: ",
+              "pdfUrl": "https://drive.google.com/file/d/1RyGP2qGFjsHfGQm2zWfSOuabPLTzJQKr/view?usp=drive_link",
+              "size": "العملي"
             }
           ],
           "sem2": [],
