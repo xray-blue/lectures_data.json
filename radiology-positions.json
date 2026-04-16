@@ -1,4 +1,4 @@
-const radiologyPositions = [
+[
   {
     "name": "الرأس والجمجمة",
     "positions": [
@@ -350,5 +350,3 @@ const radiologyPositions = [
     ]
   }
 ];
-
-export default radiologyPositions;
