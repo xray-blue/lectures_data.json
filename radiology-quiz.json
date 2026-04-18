@@ -1,0 +1,574 @@
+[
+  {
+    "question": "What is the name of the small carpal bone often referred to in the wrist region and considered the most prone to fracture from a fall?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Normal_AP_X-ray_of_the_hand.jpg/400px-Normal_AP_X-ray_of_the_hand.jpg",
+    "options": [
+      "Lunate",
+      "Scaphoid",
+      "Capitate",
+      "Trapezium"
+    ],
+    "answer": "Scaphoid"
+  },
+  {
+    "question": "In a PA Chest X-ray (CXR), what anatomical structure appears as a radiopaque shadow in the middle and deviates to the left?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Chest_Xray_PA_3-8-2010.png/400px-Chest_Xray_PA_3-8-2010.png",
+    "options": [
+      "Right Lung",
+      "Liver",
+      "Cardiac Silhouette",
+      "Trachea"
+    ],
+    "answer": "Cardiac Silhouette"
+  },
+  {
+    "question": "Which of the following paranasal sinuses appears clearly directly above the eyes in the Caldwell view of the skull?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Caldwells_view.jpg/400px-Caldwells_view.jpg",
+    "options": [
+      "Maxillary Sinuses",
+      "Frontal Sinuses",
+      "Sphenoid Sinuses",
+      "Mastoid air cells"
+    ],
+    "answer": "Frontal Sinuses"
+  },
+  {
+    "question": "What is the common type of fracture of the distal radius usually caused by falling on an outstretched hand (dorsally displaced)?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Colles_fracture_X-ray.jpg/400px-Colles_fracture_X-ray.jpg",
+    "options": [
+      "Colles' Fracture",
+      "Smith's Fracture",
+      "Barton's Fracture",
+      "Bennett's Fracture"
+    ],
+    "answer": "Colles' Fracture"
+  },
+  {
+    "question": "In an abdominal CT scan, which organ lies in the upper right quadrant and appears with homogeneous density?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Abd_ct_normal.png/400px-Abd_ct_normal.png",
+    "options": [
+      "Spleen",
+      "Stomach",
+      "Pancreas",
+      "Liver"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "question": "What is the correct anatomical name for the pelvic cavity where the head of the femur sits?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hip_X-ray_AP.jpg/400px-Hip_X-ray_AP.jpg",
+    "options": [
+      "Obturator Foramen",
+      "Acetabulum",
+      "Iliac Crest",
+      "Symphysis Pubis"
+    ],
+    "answer": "Acetabulum"
+  },
+  {
+    "question": "In a T2-weighted brain MRI, which fluid appears white (hyperintense)?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MRI_head_T2_ax.jpg/400px-MRI_head_T2_ax.jpg",
+    "options": [
+      "CSF",
+      "Blood",
+      "White Matter",
+      "Fat"
+    ],
+    "answer": "CSF"
+  },
+  {
+    "question": "On a lateral cervical spine X-ray, what is the normal alignment of the anterior vertebral body lines described as?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Lateral_c-spine_xray.jpg/400px-Lateral_c-spine_xray.jpg",
+    "options": [
+      "Stepladder",
+      "Smooth lordotic curve",
+      "Kyphotic",
+      "Scoliotic"
+    ],
+    "answer": "Smooth lordotic curve"
+  },
+  {
+    "question": "Which view of the chest is best for visualizing the retrosternal space and the posterior ribs?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chest_X-ray_lateral.jpg/400px-Chest_X-ray_lateral.jpg",
+    "options": [
+      "PA view",
+      "AP view",
+      "Lateral view",
+      "Oblique view"
+    ],
+    "answer": "Lateral view"
+  },
+  {
+    "question": "In a knee X-ray, what is the name of the dense line seen in the distal femur representing the growth plate in children?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Knee_x-ray.jpg/400px-Knee_x-ray.jpg",
+    "options": [
+      "Physis",
+      "Epiphysis",
+      "Metaphysis",
+      "Diaphysis"
+    ],
+    "answer": "Physis"
+  },
+  {
+    "question": "What is the most common sign of a pneumothorax on a chest X-ray?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pneumothorax_CT.jpg/400px-Pneumothorax_CT.jpg",
+    "options": [
+      "Hyperinflation",
+      "Pleural effusion",
+      "Visceral pleural line",
+      "Consolidation"
+    ],
+    "answer": "Visceral pleural line"
+  },
+  {
+    "question": "Which carpal bone is most commonly dislocated (perilunate dislocation)?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lunate_dislocation_AP.jpg/400px-Lunate_dislocation_AP.jpg",
+    "options": [
+      "Scaphoid",
+      "Lunate",
+      "Triquetrum",
+      "Pisiform"
+    ],
+    "answer": "Lunate"
+  },
+  {
+    "question": "On an abdominal X-ray (KUB), what is the classic appearance of a kidney stone?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kidney_stone_on_KUB.jpg/400px-Kidney_stone_on_KUB.jpg",
+    "options": [
+      "Radiolucent",
+      "Radiopaque",
+      "Air-filled",
+      "Calcified ring"
+    ],
+    "answer": "Radiopaque"
+  },
+  {
+    "question": "In a CT scan of the brain, what is the appearance of an acute intracerebral hemorrhage (first 24 hours)?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Intracerebral_hemorrhage_CT.jpg/400px-Intracerebral_hemorrhage_CT.jpg",
+    "options": [
+      "Hypodense (Dark)",
+      "Isodense (Gray)",
+      "Hyperdense (White)",
+      "Air density"
+    ],
+    "answer": "Hyperdense (White)"
+  },
+  {
+    "question": "What is the radiological sign called when the right heart border is obliterated on a PA chest X-ray?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Silhouette_sign_middle_lobe.jpg/400px-Silhouette_sign_middle_lobe.jpg",
+    "options": [
+      "Air bronchogram",
+      "Silhouette sign",
+      "Meniscus sign",
+      "Deep sulcus sign"
+    ],
+    "answer": "Silhouette sign"
+  },
+  {
+    "question": "Which specific X-ray view is used to visualize the scaphoid bone specifically?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Scaphoid_view.jpg/400px-Scaphoid_view.jpg",
+    "options": [
+      "PA view",
+      "Lateral view",
+      "Scaphoid view",
+      "Oblique view"
+    ],
+    "answer": "Scaphoid view"
+  },
+  {
+    "question": "On a shoulder X-ray, what is the normal distance between the acromion and the humeral head (acromiohumeral interval)?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Shoulder_xray.jpg/400px-Shoulder_xray.jpg",
+    "options": [
+      "1-3 mm",
+      "7-14 mm",
+      "20-25 mm",
+      "30-40 mm"
+    ],
+    "answer": "7-14 mm"
+  },
+  {
+    "question": "In a barium swallow study, a 'bird's beak' deformity is indicative of which condition?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Achalasia_bird_beak.jpg/400px-Achalasia_bird_beak.jpg",
+    "options": [
+      "Achalasia",
+      "Esophageal cancer",
+      "Hiatal hernia",
+      "Esophageal varices"
+    ],
+    "answer": "Achalasia"
+  },
+  {
+    "question": "Which tarsal bone is most commonly fractured in cuboid fracture syndrome?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Foot_xray.jpg/400px-Foot_xray.jpg",
+    "options": [
+      "Calcaneus",
+      "Talus",
+      "Cuboid",
+      "Navicular"
+    ],
+    "answer": "Cuboid"
+  },
+  {
+    "question": "What does the 'double bubble sign' represent on an abdominal X-ray in a neonate?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Duodenal_atresia_double_bubble.jpg/400px-Duodenal_atresia_double_bubble.jpg",
+    "options": [
+      "Malrotation",
+      "Duodenal atresia",
+      "Meconium ileus",
+      "Hirschsprung disease"
+    ],
+    "answer": "Duodenal atresia"
+  },
+  {
+    "question": "In a skull X-ray, what structure is seen in the midline and separates the cerebral hemispheres?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Skull_X-ray_lateral.jpg/400px-Skull_X-ray_lateral.jpg",
+    "options": [
+      "Sella turcica",
+      "Diploë",
+      "Coronal suture",
+      "Lambda"
+    ],
+    "answer": "Sella turcica"
+  },
+  {
+    "question": "Which MRI sequence is best for detecting acute hemorrhage?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/MRI_Gradient_Echo.jpg/400px-MRI_Gradient_Echo.jpg",
+    "options": [
+      "T1-weighted",
+      "T2-weighted",
+      "FLAIR",
+      "Gradient Echo (GRE)"
+    ],
+    "answer": "Gradient Echo (GRE)"
+  },
+  {
+    "question": "On a chest X-ray, which vessel forms the left border of the mediastinum?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chest_radiograph_PA_normal_anatomy_labeled.png/400px-Chest_radiograph_PA_normal_anatomy_labeled.png",
+    "options": [
+      "SVC",
+      "Aortic Arch",
+      "Left Atrium",
+      "Left Ventricle"
+    ],
+    "answer": "Left Ventricle"
+  },
+  {
+    "question": "What is the name of the fracture of the base of the 1st metacarpal?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bennett_fracture.jpg/400px-Bennett_fracture.jpg",
+    "options": [
+      "Bennett's Fracture",
+      "Rolando's Fracture",
+      "Boxer's Fracture",
+      "Gamekeeper's thumb"
+    ],
+    "answer": "Bennett's Fracture"
+  },
+  {
+    "question": "In a CT pulmonary angiogram (CTPA), what is the sign of a pulmonary embolism?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pulmonary_Embolism_CT.jpg/400px-Pulmonary_Embolism_CT.jpg",
+    "options": [
+      "Consolidation",
+      "Filling defect",
+      "Cavitation",
+      "Tree-in-bud"
+    ],
+    "answer": "Filling defect"
+  },
+  {
+    "question": "Which radiological view is used to assess the interphalangeal joints of the hand?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hand_X-ray_AP.jpg/400px-Hand_X-ray_AP.jpg",
+    "options": [
+      "Oblique",
+      "Lateral",
+      "PA (Posteroanterior)",
+      "Norgaard view"
+    ],
+    "answer": "PA (Posteroanterior)"
+  },
+  {
+    "question": "What is the appearance of a 'ground glass' opacity on a chest CT?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ground_glass_opacity_CT.jpg/400px-Ground_glass_opacity_CT.jpg",
+    "options": [
+      "Increased attenuation without obscuring bronchial walls",
+      "Solid white area",
+      "Black area",
+      "Cystic change"
+    ],
+    "answer": "Increased attenuation without obscuring bronchial walls"
+  },
+  {
+    "question": "On an ankle X-ray, which ligament injury is suggested by widening of the clear space between the tibia and fibule?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ankle_xray_mortise.jpg/400px-Ankle_xray_mortise.jpg",
+    "options": [
+      "ATFL",
+      "CFL",
+      "Syndesmosis",
+      "Deltoid ligament"
+    ],
+    "answer": "Syndesmosis"
+  },
+  {
+    "question": "In a barium enema, what describes the appearance of Ulcerative Colitis?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ulcerative_colitis_barium_enema.jpg/400px-Ulcerative_colitis_barium_enema.jpg",
+    "options": [
+      "Cobblestoning",
+      "Lead pipe stricture",
+      "String sign",
+      "Apple core lesion"
+    ],
+    "answer": "Lead pipe stricture"
+  },
+  {
+    "question": "What is the term for the radiolucent line seen in long bones representing the site of cartilage growth?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Child_knee_xray.jpg/400px-Child_knee_xray.jpg",
+    "options": [
+      "Epiphyseal plate",
+      "Zone of calcification",
+      "Cortical margin",
+      "Medullary canal"
+    ],
+    "answer": "Epiphyseal plate"
+  },
+  {
+    "question": "On a pelvis X-ray, what is the line drawn along the inner margin of the iliac bone called?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pelvis_X-ray.jpg/400px-Pelvis_X-ray.jpg",
+    "options": [
+      "Iliopectineal line",
+      "Shenton's line",
+      "Teardrop",
+      "Kohler's line"
+    ],
+    "answer": "Iliopectineal line"
+  },
+  {
+    "question": "Which type of fracture involves the posterior arch of C1 (Atlas) due to axial loading?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Jefferson_fracture_CT.jpg/400px-Jefferson_fracture_CT.jpg",
+    "options": [
+      "Hangman's fracture",
+      "Jefferson fracture",
+      "Clay shoveler's fracture",
+      "Teardrop fracture"
+    ],
+    "answer": "Jefferson fracture"
+  },
+  {
+    "question": "What is the 'meniscus sign' on a chest X-ray indicative of?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Pleural_effusion_meniscus.jpg/400px-Pleural_effusion_meniscus.jpg",
+    "options": [
+      "Pneumothorax",
+      "Pleural effusion",
+      "Pneumonia",
+      "Atelectasis"
+    ],
+    "answer": "Pleural effusion"
+  },
+  {
+    "question": "In a spine MRI, a herniated disc is best seen on which sequence?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MRI_spine_disc_herniation.jpg/400px-MRI_spine_disc_herniation.jpg",
+    "options": [
+      "T1-weighted",
+      "T2-weighted",
+      "CT bone window",
+      "Ultrasound"
+    ],
+    "answer": "T2-weighted"
+  },
+  {
+    "question": "What is the name of the fracture of the surgical neck of the humerus?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Humerus_fracture.jpg/400px-Humerus_fracture.jpg",
+    "options": [
+      "Bankart lesion",
+      "Hill-Sachs lesion",
+      "Surgical neck fracture",
+      "Greater tuberosity fracture"
+    ],
+    "answer": "Surgical neck fracture"
+  },
+  {
+    "question": "On an abdominal ultrasound, what characterizes a simple liver cyst?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Liver_cyst_ultrasound.jpg/400px-Liver_cyst_ultrasound.jpg",
+    "options": [
+      "Heterogeneous",
+      "Anechoic with posterior enhancement",
+      "Hyperechoic",
+      "Solid mass"
+    ],
+    "answer": "Anechoic with posterior enhancement"
+  },
+  {
+    "question": "What is the 'tree-in-bud' appearance on chest CT associated with?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tree-in-bud_CT.jpg/400px-Tree-in-bud_CT.jpg",
+    "options": [
+      "Emphysema",
+      "Bronchiolitis",
+      "Pneumothorax",
+      "Pleural plaque"
+    ],
+    "answer": "Bronchiolitis"
+  },
+  {
+    "question": "Which MRI sequence suppresses the signal from CSF (fluid) to make it appear dark?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Brain_MRI_FLAIR.jpg/400px-Brain_MRI_FLAIR.jpg",
+    "options": [
+      "T1",
+      "T2",
+      "FLAIR",
+      "DWI"
+    ],
+    "answer": "FLAIR"
+  },
+  {
+    "question": "In a hip X-ray, Shenton's line is used to assess what?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Shenton_line_drawing.svg/400px-Shenton_line_drawing.svg.png",
+    "options": [
+      "Fracture of the acetabulum",
+      "Congenital hip dislocation",
+      "Femoral neck fracture",
+      "Pelvic ring disruption"
+    ],
+    "answer": "Congenital hip dislocation"
+  },
+  {
+    "question": "What is the 'salt and pepper' appearance on a skull X-ray associated with?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hemangioma_skull.jpg/400px-Hemangioma_skull.jpg",
+    "options": [
+      "Hyperparathyroidism",
+      "Multiple Myeloma",
+      "Paget's disease",
+      "Metastasis"
+    ],
+    "answer": "Hyperparathyroidism"
+  },
+  {
+    "question": "On a shoulder MRI, what structure is commonly torn in the 'SLAP' lesion?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/SLAP_lesion_mri.jpg/400px-SLAP_lesion_mri.jpg",
+    "options": [
+      "Rotator cuff",
+      "Biceps tendon anchor (Labrum)",
+      "AC joint",
+      "Subscapularis"
+    ],
+    "answer": "Biceps tendon anchor (Labrum)"
+  },
+  {
+    "question": "What is the 'spine sign' on a lateral neck X-ray indicative of?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Retropharyngeal_abscess.jpg/400px-Retropharyngeal_abscess.jpg",
+    "options": [
+      "Cervical spondylosis",
+      "Retropharyngeal abscess",
+      "Fractured vertebra",
+      "Normal variant"
+    ],
+    "answer": "Retropharyngeal abscess"
+  },
+  {
+    "question": "In mammography, what is the term for fine linear calcifications that suggest DCIS?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mammography_microcalcifications.jpg/400px-Mammography_microcalcifications.jpg",
+    "options": [
+      "Macrocalcifications",
+      "Pleomorphic microcalcifications",
+      "Popcorn calcifications",
+      "Eggshell calcifications"
+    ],
+    "answer": "Pleomorphic microcalcifications"
+  },
+  {
+    "question": "What is the 'stepladder' appearance in the bowel on an X-ray suggestive of?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Small_bowel_obstruction.jpg/400px-Small_bowel_obstruction.jpg",
+    "options": [
+      "Large bowel obstruction",
+      "Small bowel obstruction",
+      "Paralytic ileus",
+      "Sigmoid volvulus"
+    ],
+    "answer": "Small bowel obstruction"
+  },
+  {
+    "question": "On a foot X-ray, which alignment line assesses the talus and 1st metatarsal?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Foot_AP_Xray.jpg/400px-Foot_AP_Xray.jpg",
+    "options": [
+      "Meary's angle",
+      "Hintermann line",
+      "Boehler's angle",
+      "Cobb angle"
+    ],
+    "answer": "Meary's angle"
+  },
+  {
+    "question": "What is the radiological sign of a 'hidden fracture' in the elbow?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Posterior_fat_pad_sign.jpg/400px-Posterior_fat_pad_sign.jpg",
+    "options": [
+      "Anterior fat pad sign",
+      "Posterior fat pad sign",
+      "Sail sign",
+      "Supracondylar line"
+    ],
+    "answer": "Posterior fat pad sign"
+  },
+  {
+    "question": "In a brain CT, what is the 'hyperdense middle cerebral artery sign' indicative of?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hyperdense_MCA_sign.jpg/400px-Hyperdense_MCA_sign.jpg",
+    "options": [
+      "Aneurysm",
+      "Acute ischemic stroke",
+      "Chronic infarct",
+      "Arteriovenous malformation"
+    ],
+    "answer": "Acute ischemic stroke"
+  },
+  {
+    "question": "On a Wrist X-ray, what is the 'Terry Thomas sign' associated with?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Scapholunate_dissociation.jpg/400px-Scapholunate_dissociation.jpg",
+    "options": [
+      "Scapholunate dissociation",
+      "Gout",
+      "Kienbock's disease",
+      "Radius fracture"
+    ],
+    "answer": "Scapholunate dissociation"
+  },
+  {
+    "question": "Which imaging modality uses sound waves to visualize the gallbladder?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gallbladder_ultrasound.jpg/400px-Gallbladder_ultrasound.jpg",
+    "options": [
+      "CT",
+      "MRI",
+      "Ultrasound",
+      "X-ray"
+    ],
+    "answer": "Ultrasound"
+  },
+  {
+    "question": "What is the 'apple core' lesion on a barium enema characteristic of?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Apple_core_lesion.jpg/400px-Apple_core_lesion.jpg",
+    "options": [
+      "Diverticulosis",
+      "Colorectal carcinoma",
+      "Ulcerative colitis",
+      "Ischemic colitis"
+    ],
+    "answer": "Colorectal carcinoma"
+  },
+  {
+    "question": "On a c-spine X-ray, what is the distance between the dens and the lateral mass of C1 (atlantodental interval) normally?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Atlantodental_interval.jpg/400px-Atlantodental_interval.jpg",
+    "options": [
+      "< 1 mm",
+      "< 3 mm",
+      "< 5 mm",
+      "< 10 mm"
+    ],
+    "answer": "< 3 mm"
+  },
+  {
+    "question": "In an Intravenous Pyelogram (IVP), what is the term for dilation of the renal pelvis and calyces?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/IVP_hydronephrosis.jpg/400px-IVP_hydronephrosis.jpg",
+    "options": [
+      "Hydroureter",
+      "Hydronephrosis",
+      "Nephrocalcinosis",
+      "Renal cyst"
+    ],
+    "answer": "Hydronephrosis"
+  }
+]
