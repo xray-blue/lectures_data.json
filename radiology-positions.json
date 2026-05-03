@@ -5,7 +5,7 @@
       {
         "name": "Skull PA",
         "desc": "View of skull structures minimizing petrous ridges",
-        "image": "https://prod-images-static.radiopaedia.org/images/12150016/607ec625eeb25c5a40890839df3388_big_gallery.jpg",
+        "image": "https://prod-images-static.radiopaedia.org/images/13109254/a1c1be7c45cd57d3e0119254de41b3_big_gallery.jpg",
         "technique": { "kvp": 75, "mas": 25, "sid": 100 },
         "details": "الأنف والجبهة تلامس اللوح، الشعاع عمودي.",
         "criteria": ["تقارب الخطوط السهمية", "ظهور قنوات الأذن الداخلية بشكل متماثل"],
@@ -40,7 +40,7 @@
       {
         "name": "Sinuses Waters (Occipitomental)",
         "desc": "Best view for maxillary sinuses fluid levels",
-        "image": "waters.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/42460646/34c08cf2b8fa9e99cc74429eb6b2cf_big_gallery.jpeg",
         "technique": { "kvp": 75, "mas": 15, "sid": 100 },
         "details": "الذقن والأنف ملامسان للوح، الرأس مائل للخلف بحيث يكون خط الأنف-الأذن عمودياً تقريباً.",
         "criteria": ["ظهور الجيوب الأنفية بوضوح فوق ظلال الأذن", "عدم تراكب الفك السفلي"],
@@ -50,7 +50,7 @@
       {
         "name": "Sinuses Caldwell (Occipitofrontal)",
         "desc": "Demonstrates frontal and ethmoid sinuses",
-        "image": "caldwell.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/12150008/eff134ca2f390539f347ddad1b63fa_gallery.jpg",
         "technique": { "kvp": 75, "mas": 12, "sid": 100 },
         "details": "الجبهة والأنف ملامسان للوح، الشعاع يميل 15-20 درجة للأسفل (Caudal).",
         "criteria": ["ظهور الجيوب الأمامية بوضوح", "توضيح الخلايا الغربالية"],
@@ -65,7 +65,7 @@
       {
         "name": "Mandible PA",
         "desc": "Demonstrates body of mandible",
-        "image": "mandible_pa.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/59338406/6ee672deb643788cd2bde4605d25d1fce108b164e41a95d22066192378add712_big_gallery.jpeg",
         "technique": { "kvp": 65, "mas": 15, "sid": 100 },
         "details": "الأنف والذقن على اللوح، الشعاع عمودي.",
         "criteria": ["ظهور الفك السفلي بالكامل", "توضيح الأسنان"],
@@ -75,7 +75,7 @@
       {
         "name": "Mandible Lateral Oblique",
         "desc": "View of the ramus and body of mandible",
-        "image": "mandible_oblique.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/52430115/be02a7a9f7cfbe1d2a9e5a008e4a43_big_gallery.jpeg",
         "technique": { "kvp": 70, "mas": 20, "sid": 100 },
         "details": "جانب الرأس الملامس للوح مائل قليلاً.",
         "criteria": ["فك لا تراكب العمود الفقري", "ظهور مفصل الفك (TMJ)"],
@@ -90,7 +90,7 @@
       {
         "name": "Cervical Spine AP",
         "desc": "Alignment of vertebral bodies",
-        "image": "cspine_ap.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/9289883/1c20962e46c92ee83a3f551adb24fa_gallery.jpg",
         "technique": { "kvp": 70, "mas": 20, "sid": 100 },
         "details": "الظهر مستقيم، الكتفان مسطحان.",
         "criteria": ["استقامة العمود الفقري", "توضيح أجسام الفقرات العنقية"],
@@ -100,7 +100,7 @@
       {
         "name": "Cervical Spine Lateral",
         "desc": "Most important view for trauma",
-        "image": "cspine_lat.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg",
         "technique": { "kvp": 75, "mas": 25, "sid": 180 },
         "details": "الكتفان للأسفل، الذقن مسحوبة قليلاً.",
         "criteria": ["رؤية الفقرات من C1 إلى C7", "ظهور المسافات بين الفقرات"],
@@ -110,7 +110,7 @@
       {
         "name": "Thoracic Spine AP",
         "desc": "Upper and mid back vertebrae",
-        "image": "tspine_ap.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/24685982/107ba064774cca24d20aeec2847fe9_big_gallery.jpeg",
         "technique": { "kvp": 80, "mas": 40, "sid": 100 },
         "details": "الاستلقاء على الظهر، الذراعان بجانب الجسم.",
         "criteria": ["توضيح أجسام الفقرات الصدرية", "ظهور أقواس الأضلاع بوضوح"],
@@ -120,7 +120,7 @@
       {
         "name": "Lumbar Spine AP",
         "desc": "Demonstrates vertebral bodies and pedicles",
-        "image": "lspine_ap.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/23889548/190e4955159681dacac292680cdccc.jpg",
         "technique": { "kvp": 80, "mas": 35, "sid": 100 },
         "details": "الاستلقاء على الظهر، الركبتان مثنيتان لتسطيح العمود الفقري.",
         "criteria": ["توضيح الأقواس الفقرية", "رؤية مفاصل الوركين جزئياً"],
@@ -130,7 +130,7 @@
       {
         "name": "Lumbar Spine Lateral",
         "desc": "Intervertebral disc spaces and vertebral bodies",
-        "image": "lspine_lat.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg",
         "technique": { "kvp": 90, "mas": 60, "sid": 100 },
         "details": "الاستلقاء على الجنب مع ثني الركبتين.",
         "criteria": ["تراكب أجسام الفقرات الخلفية والأمامية", "توضيح المسافات بين الفقرات"],
@@ -145,7 +145,7 @@
       {
         "name": "Chest PA",
         "desc": "Standard view, reduces heart magnification",
-        "image": "chest_pa.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_big_gallery.jpeg",
         "technique": { "kvp": 120, "mas": 3, "sid": 180 },
         "details": "الصدر والأنف ملامسان للوح، الشهيق العميق والتوقف.",
         "criteria": ["رؤية 6 أضلاع أمامية أو 10 خلفية", "القلب في حجمه الطبيعي (أقل من نصف عرض الصدر)"],
@@ -155,7 +155,7 @@
       {
         "name": "Chest Lateral",
         "desc": "Visualize areas behind heart and diaphragm",
-        "image": "chest_lat.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg",
         "technique": { "kvp": 130, "mas": 8, "sid": 180 },
         "details": "الجانب الأيسر ملامس للوح، الذراعان فوق الرأس، شهيق عميق.",
         "criteria": ["توضيح الحجاب الحاجز كلياً", "رؤية الأبهر الصاعد والنازل"],
@@ -165,7 +165,7 @@
       {
         "name": "Ribs PA",
         "desc": "Trauma survey for rib fractures",
-        "image": "ribs_pa.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/70803236/2b9a72ea6ca5568f41b9a60ac7029af88034906c5ef4f11b9ecc8ad43f40f07b.jpg",
         "technique": { "kvp": 70, "mas": 10, "sid": 180 },
         "details": "مثل صورة الصدر PA ولكن بجهد أقل لتوضيح العظام.",
         "criteria": ["توضيح الأضلاع الخلفية والجانبية", "رؤية الأضلاع العلوية والسفلية"],
@@ -180,7 +180,7 @@
       {
         "name": "Abdomen AP (KUB)",
         "desc": "Kidneys, Ureters, Bladder survey",
-        "image": "kub.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg",
         "technique": { "kvp": 80, "mas": 40, "sid": 100 },
         "details": "الاستلقاء على الظهر، الشهيق العميق والزفير الكامل.",
         "criteria": ["ظهور الحواف الخارجية للعضلات القطنية", "توضيح المثانة والغازات المعوية"],
@@ -190,7 +190,7 @@
       {
         "name": "Pelvis AP",
         "desc": "Hips and pelvic girdle",
-        "image": "pelvis_ap.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/16912/7bb87421cbd7be3955346f5c27ef93_big_gallery.jpeg",
         "technique": { "kvp": 75, "mas": 30, "sid": 100 },
         "details": "القدمان ملفوفتان للداخل 15 درجة.",
         "criteria": ["توضيح عنق الفخذ بشكل كامل", "تراكب عظم العانى"],
@@ -200,7 +200,7 @@
       {
         "name": "Sacrum & Coccyx AP",
         "desc": "Lower spine and tailbone",
-        "image": "sacrum_ap.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/46559070/9209b55409051ce15d4151bebcf9a7_gallery.jpeg",
         "technique": { "kvp": 80, "mas": 50, "sid": 100 },
         "details": "توجيه الشعاع 15 درجة للرأس (Cephalad) لتخطي المثانة.",
         "criteria": ["ظهور العجز والعصعص بوضوح", "عدم تراكب الفقرات القطنية"],
@@ -215,7 +215,7 @@
       {
         "name": "Clavicle AP",
         "desc": "Collar bone",
-        "image": "clavicle.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg",
         "technique": { "kvp": 60, "mas": 8, "sid": 100 },
         "details": "الاستلقاء على الظهر أو وقوف، الشعاع يميل 15 درجة للأعلى.",
         "criteria": ["ظهور الترقوة بالكامل", "توضيح المفصل القصي الترقوي والكتلي"],
@@ -225,7 +225,7 @@
       {
         "name": "Shoulder AP",
         "desc": "Humerus head and glenoid",
-        "image": "shoulder_ap.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg",
         "technique": { "kvp": 65, "mas": 12, "sid": 100 },
         "details": "الكف للخارج، المريض مائل قليلاً نحو الجهة المصابة.",
         "criteria": ["مساحة مفصلية بين عظم العضد واللوح الغضروفي", "ظهور الأخرم (Acromion)"],
@@ -235,7 +235,7 @@
       {
         "name": "Humerus AP",
         "desc": "Upper arm bone",
-        "image": "humerus_ap.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/62045835/d1b7fd3defbd9a39b21c8fec9fa14e7786b13db8fd91898066ba3bc785e09b31_big_gallery.jpeg",
         "technique": { "kvp": 60, "mas": 15, "sid": 100 },
         "details": "شمل مفصل الكوع والكتف.",
         "criteria": ["رؤية ثلثي العظم العلوي والسفلي", "توضيح المنطقة المدارية للكتف"],
@@ -245,7 +245,7 @@
       {
         "name": "Elbow AP & Lateral",
         "desc": "Humerus, Radius and Ulna articulation",
-        "image": "elbow.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/2943878/7c83fe624dd5538d4ca7d1e5f230c8_gallery.jpg",
         "technique": { "kvp": 55, "mas": 6, "sid": 100 },
         "details": "AP: الكف للأعلى، Lateral: الكتف والرقبة بزاوية 90 درجة.",
         "criteria": ["رؤية المساحة المفصلية الثلاثية للكوع", "ظهور الطيات الجلدية الخلفية"],
@@ -255,7 +255,7 @@
       {
         "name": "Forearm AP & Lateral",
         "desc": "Radius and Ulna",
-        "image": "forearm.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/56684726/67d1961886bbccbd8ccd9eb7e411aa26bb329f7f4e1b8b66c709e1546b370d96_big_gallery.jpeg",
         "technique": { "kvp": 55, "mas": 8, "sid": 100 },
         "details": "شمل كلتي المفصلين (الكوع والرسغ).",
         "criteria": ["رؤية الكوع والرسغ بزوايا صحيحة", "عدم تراكب عظم الزند والكعبرة في الصورة الجانبية"],
@@ -265,7 +265,7 @@
       {
         "name": "Wrist AP & Lateral",
         "desc": "Carpals and distal radius/ulna",
-        "image": "wrist.png",
+        "image": "https://www.researchgate.net/publication/350923145/figure/fig1/AS:1013303388147712@1618601762095/Plain-AP-a-and-lateral-b-radiographs-of-the-right-wrist-on-initial-presentation.ppm",
         "technique": { "kvp": 50, "mas": 5, "sid": 100 },
         "details": "AP: الكف ملامسة اللوح، Lateral: الكف في وضعية جانبية.",
         "criteria": ["توضيح المسافات المفصلية للرسغ", "ظهور عظم العضاد في الجانبية"],
@@ -275,7 +275,7 @@
       {
         "name": "Hand PA",
         "desc": "Routine view of hand and fingers",
-        "image": "hand_pa.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/21466951/411a0e1384f8dd492e664ce3cec73d_big_gallery.jpeg",
         "technique": { "kvp": 50, "mas": 5, "sid": 100 },
         "details": "الكف مسطح على اللوح، الأصابع ممدودة.",
         "criteria": ["توضيح المسافات المفصلية", "ظهور النهايات القريبة والبعيدة للعظام"],
@@ -290,7 +290,7 @@
       {
         "name": "Femur AP",
         "desc": "Thigh bone",
-        "image": "femur_ap.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/30113132/2554e834325c2ddb8f090666389d34_big_gallery.jpeg",
         "technique": { "kvp": 75, "mas": 25, "sid": 100 },
         "details": "شمل مفصل الورك والركبة.",
         "criteria": ["رؤية ثلث العظم الأوسط والعلوي والسفلي", "عدم دوران العظم"],
@@ -300,7 +300,7 @@
       {
         "name": "Knee AP & Lateral",
         "desc": "Femur, Tibia, Fibula and Patella",
-        "image": "knee_ap.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/49284469/922598043844e7d696d573c4adc168_gallery.jpeg",
         "technique": { "kvp": 65, "mas": 12, "sid": 100 },
         "details": "AP: الركبة مستقيمة، Lateral: الركبة مثنية 30 درجة.",
         "criteria": ["توضيح الفجوة المفصلية للركبة", "ظهور الرضفة فوق المفصل", "توضيح اللقمة الفخذية"],
@@ -310,7 +310,7 @@
       {
         "name": "Tibia & Fibula AP",
         "desc": "Leg bones",
-        "image": "tibia.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/49284461/554ec65200d246b5f21ad59a1d26c0_big_gallery.jpeg",
         "technique": { "kvp": 60, "mas": 10, "sid": 100 },
         "details": "شمل مفصل الركبة والكاحل.",
         "criteria": ["رؤية الثلث العلوي والسفلي", "توضيح الفراغ بين القصبة والشظية"],
@@ -320,7 +320,7 @@
       {
         "name": "Ankle AP & Lateral",
         "desc": "Tibia, Fibula and Tarsals",
-        "image": "ankle.png",
+        "image": "https://medifyhome.com/wp-content/uploads/2025/08/11.jpeg",
         "technique": { "kvp": 55, "mas": 6, "sid": 100 },
         "details": "AP: القدم للداخل 15 درجة (Mortise), Lateral: الجانب.",
         "criteria": ["توضيح المفصل الكاحلي القاصي", "ظهور الشظية بشكل كامل"],
@@ -330,7 +330,7 @@
       {
         "name": "Calcaneus Axial & Lateral",
         "desc": "Heel bone",
-        "image": "calcaneus.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/49188671/60fc8a812399c7743353fd32b690c1_big_gallery.jpeg",
         "technique": { "kvp": 55, "mas": 8, "sid": 100 },
         "details": "Axial: الظهر مستقيم والكعب مرفوع، الشعاع يدخل من الخلف.",
         "criteria": ["توضيح عظم الكعب من الأعلى والجانب", "رؤية مفصل الكاحل تحت الكعب"],
@@ -340,7 +340,7 @@
       {
         "name": "Foot AP & Lateral",
         "desc": "Bones of the foot",
-        "image": "foot.png",
+        "image": "https://png.pngtree.com/thumb_back/fw800/background/20220622/pngtree-radiographic-views-of-the-right-foot-ap-oblique-and-lateral-photo-image_47267088.jpg",
         "technique": { "kvp": 55, "mas": 8, "sid": 100 },
         "details": "القدم مسطحة على اللوح.",
         "criteria": ["توضيح مشط القدم وأصابعه", "رؤية عظام الرسغ في الجانبية"],
