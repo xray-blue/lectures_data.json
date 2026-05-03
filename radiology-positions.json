@@ -15,7 +15,7 @@
       {
         "name": "Skull Lateral",
         "desc": "Best view for fractures and vault pathology",
-        "image": "skull_lat.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg",
         "technique": { "kvp": 80, "mas": 30, "sid": 100 },
         "details": "الجانب الأقرب للوح يكون ملاصقاً له، الشعاع عمودي على المنتصف.",
         "criteria": ["تراكب الجدران الأمامية والخلفية للجمجمة", "ظهور السرج التركي بشكل واضح"],
@@ -25,7 +25,7 @@
       {
         "name": "Towne's View",
         "desc": "Demonstrates occipital bone and foramen magnum",
-        "image": "towne.png",
+        "image": "https://prod-images-static.radiopaedia.org/images/13205437/dd8bcbdee8e90dcb1f4cf95d5dddd9f3fff9d35946b7d60da5dad5a7e93c2fb0_big_gallery.jpeg",
         "technique": { "kvp": 75, "mas": 35, "sid": 100 },
         "details": "الوجه ينظر للأعلى، الشعاع يدخل من الذقن ويخرج من القمة.",
         "criteria": ["ظهور الثقبة العظمى الكبرى بداخل الحفرة القحفية", "توضيح العظام القذالية"],
