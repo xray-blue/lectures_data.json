@@ -1,42 +1,121 @@
 [
   {
-    "id": "skull",
-    "name": "الجمجمة (Skull)",
+    "id": "skull-AP",
+    "name": "الجمجمة (Skull)-AP",
     "url": "https://media.sciencephoto.com/c0/43/02/36/c0430236-800px-wm.jpg"
   },
   {
-    "id": "chest",
-    "name": "الصدر (Chest PA)",
+    "id": "skull-LAT",
+    "name": "الجمجمة (Skull)-LAT",
+    "url": "https://media.sciencephoto.com/c0/43/02/36/c0430236-800px-wm.jpg"
+  },
+  {
+    "id": "cervical-AP",
+    "name": "الفقرات العنقية (Cervical)-AP",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cervical_Xray_Lower_AP_View.jpg/250px-Cervical_Xray_Lower_AP_View.jpg"
+  },
+  {
+    "id": "cervical-LAT",
+    "name": "الفقرات العنقية (Cervical)-LAT",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/X-ray_of_the_cervical_spine_of_an_20_year_old_male_-_lateral%2C_case_2.jpg"
+  },
+  {
+    "id": "cervical-openmouth",
+    "name": "الفقرات العنقية (Cervical)-Open Mouth / Odontoid",
+    "url": "https://prod-images-static.radiopaedia.org/images/25407931/4d56310528b53bcd11be6a94110059_big_gallery.jpeg"
+  },
+  {
+    "id": "thoracic-AP",
+    "name": "الفقرات الصدرية (Thoracic)-AP",
+    "url": "https://prod-images-static.radiopaedia.org/images/24685982/107ba064774cca24d20aeec2847fe9_big_gallery.jpeg"
+  },
+  {
+    "id": "thoracic-LAT",
+    "name": "الفقرات الصدرية (Thoracic)-LAT",
+    "url": "https://prod-images-static.radiopaedia.org/images/24685982/107ba064774cca24d20aeec2847fe9_big_gallery.jpeg"
+  },
+  {
+    "id": "chest-PA",
+    "name": "الصدر (Chest)-PA",
     "url": "https://medschool.co/images/detail/cxr/pa.jpg"
   },
   {
-    "id": "hand",
-    "name": "اليد والرسغ (Hand)",
+    "id": "chest-AP",
+    "name": "الصدر (Chest)-AP",
+    "url": "https://medschool.co/images/detail/cxr/pa.jpg"
+  },
+  {
+    "id": "chest-LAT",
+    "name": "الصدر (Chest)-LAT",
+    "url": "https://prod-images-static.radiopaedia.org/images/63372127/c1027ac741bfa7286a2e165d33d9204d649267e28e425aea582aae3a49c88f68_big_gallery.jpeg"
+  },
+  {
+    "id": "shoulder-AP",
+    "name": "الكتف (Shoulder)-AP",
+    "url": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
+  },
+  {
+    "id": "shoulder-Axillary",
+    "name": "الكتف (Shoulder)-Axillary",
+    "url": "https://prod-images-static.radiopaedia.org/images/53184952/b272be38c9ddbf76e375f28e386224_gallery.jpeg"
+  },
+  {
+    "id": "hand-PA",
+    "name": "اليد والرسغ (Hand)-PA",
     "url": "https://www.researchgate.net/publication/356237952/figure/fig1/AS:11431281259380745@1720493967838/Plain-X-ray-hand-PA-view-shows-mild-subperiosteal-bone-resorption-affecting-radial.jpg"
   },
   {
-    "id": "pelvis-AP",
-    "name": "الحوض (Pelvis)",
-    "url": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
+    "id": "hand-Oblique",
+    "name": "اليد والرسغ (Hand)-Oblique",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/X-ray_of_the_hand_of_an_8_year_old_male_-_oblique.jpg/960px-X-ray_of_the_hand_of_an_8_year_old_male_-_oblique.jpg"
   },
   {
-    "id": "pelvis-LAT",
-    "name": "الحوض (Pelvis)",
-    "url": "https://upload.orthobullets.com/topic/322136/images/lateral-2.jpg"
+    "id": "hand-LAT",
+    "name": "اليد والرسغ (Hand)-LAT",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/X-ray_of_the_hand_of_a_7_year_old_male_-_lateral.jpg"
   },
-  {
-    "id": "knee",
-    "name": "الركبة (Knee)",
-    "url": "https://prod-images-static.radiopaedia.org/images/12509516/a4888249bacb0ebacd0fa7be38fd38_gallery.jpg"
-  },
+
   {
     "id": "lumbar-AP",
-    "name": "العمود الفقري (Lumbar)",
+    "name": "الفقرات القطنية (Lumbar)-AP",
     "url": "https://prod-images-static.radiopaedia.org/images/23889548/190e4955159681dacac292680cdccc.jpg"
   },
   {
     "id": "lumbar-LAT",
-    "name": "العمود الفقري (Lumbar)",
+    "name": "الفقرات القطنية (Lumbar)-LAT",
     "url": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+  },
+
+  {
+    "id": "pelvis-AP",
+    "name": "الحوض (Pelvis)-AP",
+    "url": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
+  },
+  {
+    "id": "pelvis-LAT",
+    "name": "الحوض (Pelvis)-LAT",
+    "url": "https://upload.orthobullets.com/topic/322136/images/lateral-2.jpg"
+  },
+
+  {
+    "id": "knee-AP",
+    "name": "الركبة (Knee)-AP",
+    "url": "https://prod-images-static.radiopaedia.org/images/12509516/a4888249bacb0ebacd0fa7be38fd38_gallery.jpg"
+  },
+  {
+    "id": "knee-LAT",
+    "name": "الركبة (Knee)-LAT",
+    "url": "https://prod-images-static.radiopaedia.org/images/7971716/1fe811559537e0e660338f19a5e9c8_gallery.jpeg"
+  },
+
+  {
+    "id": "foot-AP",
+    "name": "القدم (Foot)-AP",
+    "url": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
+  },
+  {
+    "id": "foot-LAT",
+    "name": "القدم (Foot)-LAT",
+    "url": "https://prod-images-static.radiopaedia.org/images/12509481/1a9678059e600f0b50100c97c394aa_big_gallery.jpg"
   }
 ]
