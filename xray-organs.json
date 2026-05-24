@@ -15,18 +15,28 @@
     "url": "https://www.researchgate.net/publication/356237952/figure/fig1/AS:11431281259380745@1720493967838/Plain-X-ray-hand-PA-view-shows-mild-subperiosteal-bone-resorption-affecting-radial.jpg"
   },
   {
-    "id": "pelvis",
+    "id": "pelvis-AP",
     "name": "الحوض (Pelvis)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Normal_AP_pelvis_radiograph.jpg"
+    "url": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
+  },
+  {
+    "id": "pelvis-LAT",
+    "name": "الحوض (Pelvis)",
+    "url": "https://upload.orthobullets.com/topic/322136/images/lateral-2.jpg"
   },
   {
     "id": "knee",
     "name": "الركبة (Knee)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Knee_X-ray.jpg"
+    "url": "https://prod-images-static.radiopaedia.org/images/12509516/a4888249bacb0ebacd0fa7be38fd38_gallery.jpg"
   },
   {
-    "id": "lumbar",
+    "id": "lumbar-AP",
     "name": "العمود الفقري (Lumbar)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Normal_lumbar_spine_X-ray.jpg"
+    "url": "https://prod-images-static.radiopaedia.org/images/23889548/190e4955159681dacac292680cdccc.jpg"
+  },
+  {
+    "id": "lumbar-LAT",
+    "name": "العمود الفقري (Lumbar)",
+    "url": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   }
 ]
