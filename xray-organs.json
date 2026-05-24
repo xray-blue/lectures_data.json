@@ -1,0 +1,32 @@
+[
+  {
+    "id": "skull",
+    "name": "الجمجمة (Skull)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Normal_posteroanterior_%28PA%29_X-ray_of_the_skull.jpg"
+  },
+  {
+    "id": "chest",
+    "name": "الصدر (Chest PA)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Normal_posteroanterior_%28PA%29_chest_radiograph_%28X-ray%29.jpg"
+  },
+  {
+    "id": "hand",
+    "name": "اليد والرسغ (Hand)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Normal_X-ray_of_the_hand_and_wrist_in_a_2-year_old_male.jpg"
+  },
+  {
+    "id": "pelvis",
+    "name": "الحوض (Pelvis)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Normal_AP_pelvis_radiograph.jpg"
+  },
+  {
+    "id": "knee",
+    "name": "الركبة (Knee)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Knee_X-ray.jpg"
+  },
+  {
+    "id": "lumbar",
+    "name": "العمود الفقري (Lumbar)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Normal_lumbar_spine_X-ray.jpg"
+  }
+]
