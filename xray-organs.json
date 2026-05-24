@@ -2,17 +2,17 @@
   {
     "id": "skull",
     "name": "الجمجمة (Skull)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Normal_posteroanterior_%28PA%29_X-ray_of_the_skull.jpg"
+    "url": "https://media.sciencephoto.com/c0/43/02/36/c0430236-800px-wm.jpg"
   },
   {
     "id": "chest",
     "name": "الصدر (Chest PA)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Normal_posteroanterior_%28PA%29_chest_radiograph_%28X-ray%29.jpg"
+    "url": "https://medschool.co/images/detail/cxr/pa.jpg"
   },
   {
     "id": "hand",
     "name": "اليد والرسغ (Hand)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Normal_X-ray_of_the_hand_and_wrist_in_a_2-year_old_male.jpg"
+    "url": "https://www.researchgate.net/publication/356237952/figure/fig1/AS:11431281259380745@1720493967838/Plain-X-ray-hand-PA-view-shows-mild-subperiosteal-bone-resorption-affecting-radial.jpg"
   },
   {
     "id": "pelvis",
