@@ -80,8 +80,8 @@
     "id": "hand-PA",
     "name": "اليد والرسغ (Hand)-PA",
     "url": "https://prod-images-static.radiopaedia.org/images/53184924/2945667385191d66440188d5436a8a_big_gallery.jpeg",
-    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1Nn2CoEaaRPpi4_uJxe-1U53pfbfP5pw4",
-    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1evkuQymulY276ui0U4Woa9PEDw8GTDmB"
+    "overexposedUrl": "https://github.com/xray-blue/lectures_data.json/blob/main/images/hand%20pa%20high.png",
+    "underexposedUrl": "https://github.com/xray-blue/lectures_data.json/blob/main/images/hand%20pa%20low.png"
   },
   {
     "id": "hand-Oblique",
