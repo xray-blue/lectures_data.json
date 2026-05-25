@@ -25,24 +25,19 @@
     "url": "https://prod-images-static.radiopaedia.org/images/25407931/4d56310528b53bcd11be6a94110059_big_gallery.jpeg"
   },
   {
-    "id": "thoracic-AP",
+    "id": "thoracic-AP-LAT",
     "name": "الفقرات الصدرية (Thoracic)-AP",
-    "url": "https://prod-images-static.radiopaedia.org/images/24685982/107ba064774cca24d20aeec2847fe9_big_gallery.jpeg"
-  },
-  {
-    "id": "thoracic-LAT",
-    "name": "الفقرات الصدرية (Thoracic)-LAT",
     "url": "https://prod-images-static.radiopaedia.org/images/24685982/107ba064774cca24d20aeec2847fe9_big_gallery.jpeg"
   },
   {
     "id": "chest-PA",
     "name": "الصدر (Chest)-PA",
-    "url": "https://medschool.co/images/detail/cxr/pa.jpg"
+    "url": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
   },
   {
     "id": "chest-AP",
     "name": "الصدر (Chest)-AP",
-    "url": "https://medschool.co/images/detail/cxr/pa.jpg"
+    "url": "https://prod-images-static.radiopaedia.org/images/41351478/a35462cba074949d32da2d1fe33bc5_big_gallery.jpeg"
   },
   {
     "id": "chest-LAT",
