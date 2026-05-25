@@ -2,115 +2,155 @@
   {
     "id": "skull-AP",
     "name": "الجمجمة (Skull)-AP",
-    "url": "https://www.clinicalanatomy.ca/radiology/head/skull.png"
+    "url": "https://www.clinicalanatomy.ca/radiology/head/skull.png",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1UNK0dEpIcQm0Az8kl8GEC4mKnBWTxzHZ",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1b2SxeXJWU-dlzm-6hooEqaICCMew-qyb"
   },
   {
     "id": "skull-LAT",
     "name": "الجمجمة (Skull)-LAT",
-    "url": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
+    "url": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1zssnWvMFNaP683RMDgz1KnpIO1edxcFk",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1DrHJxakLGxGIGWpjVI9Q08_EvW3NkAwb"
   },
   {
     "id": "cervical-AP",
     "name": "الفقرات العنقية (Cervical)-AP",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cervical_Xray_Lower_AP_View.jpg/250px-Cervical_Xray_Lower_AP_View.jpg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cervical_Xray_Lower_AP_View.jpg/250px-Cervical_Xray_Lower_AP_View.jpg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1GQayKIgEszz-1EBoM2O3KUzg5cXwJhxb",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1TivuufZYL1sLBDogClYmyyTzY6gPsNYH"
   },
   {
     "id": "cervical-LAT",
     "name": "الفقرات العنقية (Cervical)-LAT",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/X-ray_of_the_cervical_spine_of_an_20_year_old_male_-_lateral%2C_case_2.jpg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/X-ray_of_the_cervical_spine_of_an_20_year_old_male_-_lateral%2C_case_2.jpg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1DjfzhIT6PzemoZjnsEdqVl5fxNZ1S_HI",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1KGfA7uZAIH9Gd5mrpzazXpRImQ2Vu1q1"
   },
   {
     "id": "cervical-openmouth",
     "name": "الفقرات العنقية (Cervical)-Open Mouth / Odontoid",
-    "url": "https://prod-images-static.radiopaedia.org/images/25407931/4d56310528b53bcd11be6a94110059_big_gallery.jpeg"
+    "url": "https://prod-images-static.radiopaedia.org/images/25407931/4d56310528b53bcd11be6a94110059_big_gallery.jpeg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1a8MOt0W-MdSVJnsLRd39uNaiP1TASPgf",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1DCXs8Vp4N4yEhhDBaAik4gUIMEyq3_ar"
   },
   {
     "id": "thoracic-AP-LAT",
     "name": "الفقرات الصدرية (Thoracic)-AP",
-    "url": "https://prod-images-static.radiopaedia.org/images/24685982/107ba064774cca24d20aeec2847fe9_big_gallery.jpeg"
+    "url": "https://prod-images-static.radiopaedia.org/images/24685982/107ba064774cca24d20aeec2847fe9_big_gallery.jpeg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1ZPqje-fQ0wP8w3nGk29DElb1uILhD0zb",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1MimarGM8VKJPHeOXHvVnLr2p1lG_GkxF"
   },
   {
     "id": "chest-PA",
     "name": "الصدر (Chest)-PA",
-    "url": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
+    "url": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1H123Mz7RQEuLk4K9UL-SRshAL_sv3CNv",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1Ix9owV1p_es9iJJwr8cfw0UcvjJN8ZP-"
   },
   {
     "id": "chest-AP",
     "name": "الصدر (Chest)-AP",
-    "url": "https://prod-images-static.radiopaedia.org/images/41351478/a35462cba074949d32da2d1fe33bc5_big_gallery.jpeg"
+    "url": "https://prod-images-static.radiopaedia.org/images/41351478/a35462cba074949d32da2d1fe33bc5_big_gallery.jpeg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=188WjDVbhmAm_fYMmQSg-IGwipXQAYN-x",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1VvJ6gqwxX2WR8gilcrUtJ8jwDtrEay-C"
   },
   {
     "id": "chest-LAT",
     "name": "الصدر (Chest)-LAT",
-    "url": "https://prod-images-static.radiopaedia.org/images/63372127/c1027ac741bfa7286a2e165d33d9204d649267e28e425aea582aae3a49c88f68_big_gallery.jpeg"
+    "url": "https://prod-images-static.radiopaedia.org/images/63372127/c1027ac741bfa7286a2e165d33d9204d649267e28e425aea582aae3a49c88f68_big_gallery.jpeg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1PklWJuGPAcrZfca4_RH3gKnY6wcCt1MI",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1o4_duRdzShoT3HRRsnNvK0hxkxiSSsbU"
   },
   {
     "id": "shoulder-AP",
     "name": "الكتف (Shoulder)-AP",
-    "url": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
+    "url": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1pRzjVvocbxL86YzAmqlZq8dHKvBdg2jK",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=16P7Umafcj-JV4WIQm13EZOEUr7yeAuGn"
   },
   {
     "id": "shoulder-Axillary",
     "name": "الكتف (Shoulder)-Axillary",
-    "url": "https://prod-images-static.radiopaedia.org/images/53184952/b272be38c9ddbf76e375f28e386224_gallery.jpeg"
+    "url": "https://prod-images-static.radiopaedia.org/images/53184952/b272be38c9ddbf76e375f28e386224_gallery.jpeg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1N2VyVGLZ85i15oWdvLUguX-h2vphjs6-",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1cl9mOJXxt8oFP53Mq7a5_6as7sSfzs8T"
   },
   {
     "id": "hand-PA",
     "name": "اليد والرسغ (Hand)-PA",
-    "url": "https://prod-images-static.radiopaedia.org/images/53184924/2945667385191d66440188d5436a8a_big_gallery.jpeg"
+    "url": "https://prod-images-static.radiopaedia.org/images/53184924/2945667385191d66440188d5436a8a_big_gallery.jpeg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1Nn2CoEaaRPpi4_uJxe-1U53pfbfP5pw4",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1evkuQymulY276ui0U4Woa9PEDw8GTDmB"
   },
   {
     "id": "hand-Oblique",
     "name": "اليد والرسغ (Hand)-Oblique",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/X-ray_of_normal_hand_by_oblique_projection.jpg/960px-X-ray_of_normal_hand_by_oblique_projection.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/X-ray_of_normal_hand_by_oblique_projection.jpg/960px-X-ray_of_normal_hand_by_oblique_projection.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1MEhcY_uL5QNUgMaRiCwO133aevYxH9ug",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=173SoKLyciTAhquNBlB5jhzrqKk9hN-da"
   },
   {
     "id": "hand-LAT",
     "name": "اليد والرسغ (Hand)-LAT",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/X-ray_of_the_hand_of_a_7_year_old_male_-_lateral.jpg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/X-ray_of_the_hand_of_a_7_year_old_male_-_lateral.jpg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1-j-F6_5jdYMWm_A3bNl01JJ-522jInB8",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1QhpgFL03G3v0LocGbnpNZPh9sSMPpt7A"
   },
-
   {
     "id": "lumbar-AP",
     "name": "الفقرات القطنية (Lumbar)-AP",
-    "url": "https://prod-images-static.radiopaedia.org/images/23889548/190e4955159681dacac292680cdccc.jpg"
+    "url": "https://prod-images-static.radiopaedia.org/images/23889548/190e4955159681dacac292680cdccc.jpg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=14KahDm70keDq0lUwcpCS6agZbyv4pPQU",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1SWuEx3cviE4j1O7EHGcB1mFXmDHmErio"
   },
   {
     "id": "lumbar-LAT",
     "name": "الفقرات القطنية (Lumbar)-LAT",
-    "url": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+    "url": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1tzI2iMusHrm57geKxd1gWsiRniVRm0Yj",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1AI8qtWBGkntuVfTW7QCoUcXLzn14Zw5h"
   },
-
   {
     "id": "pelvis-AP",
     "name": "الحوض (Pelvis)-AP",
-    "url": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
+    "url": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1e4fPQC_dC57YaBusWaakmFIrsuufrpMk",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=15PX8Sh_rEPQObmHVF-9E7RGAH4CjMLMl"
   },
   {
     "id": "pelvis-LAT",
     "name": "الحوض (Pelvis)-LAT",
-    "url": "https://www.researchgate.net/publication/305272385/figure/fig8/AS:670324622372886@1536829252955/Follow-up-lateral-pelvic-X-ray-followingstentplacement-Maximumflexibilityofavenous.ppm"
+    "url": "https://www.researchgate.net/publication/305272385/figure/fig8/AS:670324622372886@1536829252955/Follow-up-lateral-pelvic-X-ray-followingstentplacement-Maximumflexibilityofavenous.ppm",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=10WcgArSQNrbcGKJUoveYASjLih_Nx1mN",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=16w4nfdQn14hWnfMU4tmmkhfwtQ6mlMIw"
   },
-
   {
     "id": "knee-AP",
     "name": "الركبة (Knee)-AP",
-    "url": "https://prod-images-static.radiopaedia.org/images/12509516/a4888249bacb0ebacd0fa7be38fd38_gallery.jpg"
+    "url": "https://prod-images-static.radiopaedia.org/images/12509516/a4888249bacb0ebacd0fa7be38fd38_gallery.jpg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=116qvbvHOxEeH3890efJ8ZLRa5Qi0x6gm",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1E8gkir7rCluD33zhQxL8JsdmTvxPiedc"
   },
   {
     "id": "knee-LAT",
     "name": "الركبة (Knee)-LAT",
-    "url": "https://prod-images-static.radiopaedia.org/images/7971716/1fe811559537e0e660338f19a5e9c8_gallery.jpeg"
+    "url": "https://prod-images-static.radiopaedia.org/images/7971716/1fe811559537e0e660338f19a5e9c8_gallery.jpeg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1IYFMeuDwrRCInZLpzc6BkrtvsXxHWteQ",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1aUoVz7E1xg20iq1dvNdqtQboL7dLM2Un"
   },
-
   {
     "id": "foot-AP",
     "name": "القدم (Foot)-AP",
-    "url": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
+    "url": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1vkhqUM8QmiWWysiaiiwTB9UyWrxdAS-q",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1nYD4B2q4BXGJmOEw_peX9wFGizvbFBVu"
   },
   {
     "id": "foot-LAT",
     "name": "القدم (Foot)-LAT",
-    "url": "https://prod-images-static.radiopaedia.org/images/12509481/1a9678059e600f0b50100c97c394aa_big_gallery.jpg"
+    "url": "https://prod-images-static.radiopaedia.org/images/12509481/1a9678059e600f0b50100c97c394aa_big_gallery.jpg",
+    "overexposedUrl": "https://drive.google.com/uc?export=view&id=1nn17b1wQFwt5GxjtUe33g-xUJz0m57BI",
+    "underexposedUrl": "https://drive.google.com/uc?export=view&id=1nuKj1TePv6yOPC9CelcdpdTMyZtPREC2"
   }
 ]
