@@ -2,7 +2,7 @@
   {
     "id": "skull-AP",
     "name": "الجمجمة (Skull)-AP",
-    "url": "https://media.sciencephoto.com/c0/43/02/36/c0430236-800px-wm.jpg"
+    "url": "https://www.clinicalanatomy.ca/radiology/head/skull.png"
   },
   {
     "id": "skull-LAT",
@@ -57,12 +57,12 @@
   {
     "id": "hand-PA",
     "name": "اليد والرسغ (Hand)-PA",
-    "url": "https://www.researchgate.net/publication/356237952/figure/fig1/AS:11431281259380745@1720493967838/Plain-X-ray-hand-PA-view-shows-mild-subperiosteal-bone-resorption-affecting-radial.jpg"
+    "url": "https://prod-images-static.radiopaedia.org/images/53184924/2945667385191d66440188d5436a8a_big_gallery.jpeg"
   },
   {
     "id": "hand-Oblique",
     "name": "اليد والرسغ (Hand)-Oblique",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/X-ray_of_the_hand_of_an_8_year_old_male_-_oblique.jpg/960px-X-ray_of_the_hand_of_an_8_year_old_male_-_oblique.jpg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/X-ray_of_normal_hand_by_oblique_projection.jpg/960px-X-ray_of_normal_hand_by_oblique_projection.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
   },
   {
     "id": "hand-LAT",
