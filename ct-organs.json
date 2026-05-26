@@ -1,0 +1,81 @@
+[
+  {
+    "id": "ct-head",
+    "name": "مفراس الرأس (Brain CT)",
+    "planes": {
+      "axial": [
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_001.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_002.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_003.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_004.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_005.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_006.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_007.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_008.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_009.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_010.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_011.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_012.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_013.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_014.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_015.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_016.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_017.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_018.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_019.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_020.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_021.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_022.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_023.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_024.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_025.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_026.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_027.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_028.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_029.png",
+  "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/ct%20brain/Axial/slice_030.png"
+      ],
+      "coronal": [
+        "https://prod-images-static.radiopaedia.org/images/1301037/87714fc2a76f28efda8fc4c9b2ccab_big_gallery.jpeg",
+        "https://prod-images-static.radiopaedia.org/images/1301040/017efad043d54ef42b93ff5f7da55f_big_gallery.jpeg"
+      ],
+      "sagittal": [
+        "https://prod-images-static.radiopaedia.org/images/1301038/4bcaf8a05c74fb9363d5bc0aecc655_big_gallery.jpeg",
+        "https://prod-images-static.radiopaedia.org/images/1301039/c31562b7cd8c160ac897d19dafeef1_big_gallery.jpeg"
+      ]
+    }
+  },
+  {
+    "id": "ct-chest",
+    "name": "مفراس الصدر (Chest CT)",
+    "planes": {
+      "axial": [
+        "https://prod-images-static.radiopaedia.org/images/33056073/0e69315d0ebec3e5f22e8fd2dbf88c_big_gallery.jpeg",
+        "https://prod-images-static.radiopaedia.org/images/33056074/c77d465d3ecdfdfdf32dfd50fc12ca_big_gallery.jpeg",
+        "https://prod-images-static.radiopaedia.org/images/33056075/d8c11e3b5e40e6988f5e135f6067ae_big_gallery.jpeg"
+      ],
+      "coronal": [
+        "https://prod-images-static.radiopaedia.org/images/33056073/0e69315d0ebec3e5f22e8fd2dbf88c_big_gallery.jpeg"
+      ],
+      "sagittal": [
+        "https://prod-images-static.radiopaedia.org/images/33056074/c77d465d3ecdfdfdf32dfd50fc12ca_big_gallery.jpeg"
+      ]
+    }
+  },
+  {
+    "id": "ct-abdomen",
+    "name": "مفراس البطن (Abdomen CT)",
+    "planes": {
+      "axial": [
+        "https://prod-images-static.radiopaedia.org/images/51761852/355fb507ee6fa7fb10ac336b1debea_big_gallery.jpeg",
+        "https://prod-images-static.radiopaedia.org/images/51761854/a13919e13596bf9993309a47346765_big_gallery.jpeg"
+      ],
+      "coronal": [
+        "https://prod-images-static.radiopaedia.org/images/51761852/355fb507ee6fa7fb10ac336b1debea_big_gallery.jpeg"
+      ],
+      "sagittal": [
+        "https://prod-images-static.radiopaedia.org/images/51761854/a13919e13596bf9993309a47346765_big_gallery.jpeg"
+      ]
+    }
+  }
+]
