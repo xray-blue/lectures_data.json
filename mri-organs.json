@@ -1,0 +1,31 @@
+[
+  {
+    "id": "mri-brain",
+    "name": "رنين الدماغ (Brain MRI)",
+    "sequences": {
+      "t1": {
+        "axial": [
+          "رابط_صورة_1",
+          "رابط_صورة_2"
+        ],
+        "coronal": [
+          "رابط_صورة_1",
+          "رابط_صورة_2"
+        ],
+        "sagittal": [
+          "رابط_صورة_1"
+        ]
+      },
+      "t2": {
+        "axial": [],
+        "coronal": [],
+        "sagittal": []
+      },
+      "flair": {
+        "axial": [],
+        "coronal": [],
+        "sagittal": []
+      }
+    }
+  }
+]
