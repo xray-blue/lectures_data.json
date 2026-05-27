@@ -5,8 +5,8 @@
     "sequences": {
       "t1": {
         "axial": [
-          "رابط_صورة_1",
-          "رابط_صورة_2"
+          "https://www.neuroanatomy.ca/mri/horizontal/h1mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/horizontal/h2mri_lg.png"
         ],
         "coronal": [
           "رابط_صورة_1",
