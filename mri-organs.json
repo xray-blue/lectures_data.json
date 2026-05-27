@@ -22,11 +22,41 @@
           "https://www.neuroanatomy.ca/mri/horizontal/h20mri_lg.png"
         ],
         "coronal": [
-          "رابط_صورة_1",
-          "رابط_صورة_2"
+          "https://www.neuroanatomy.ca/mri/coronal/c1mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/c3mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/c7mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/cTRmri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/c8mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/c9mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/c10mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/c11mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/c12mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/cMRRmri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/c14mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/c16mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/c17mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/c18mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/c24mri_lg.png",
+          "https://www.neuroanatomy.ca/mri/coronal/cVBmri_lg.png"
         ],
         "sagittal": [
-          "رابط_صورة_1"
+          "https://www.neuroanatomy.ca/mri/sagittal/s1mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s2mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s3mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s4mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s5mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s6mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s7mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s8mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s9mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s10mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s11mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s12mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s13mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s14mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s15mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s16mri_lb.png",
+          "https://www.neuroanatomy.ca/mri/sagittal/s17mri_lg.png"
         ]
       },
       "t2": {
