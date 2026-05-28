@@ -1,4 +1,23 @@
 [
+    {
+    "id": "ct-Skull-face",
+    "name": "Bones (Skull)",
+    "planes": {
+      "axial": [
+        "https://casestacks.com/assets/anatomy/skull-face-bones/labeled/slice_001.jpg",
+        "https://casestacks.com/assets/anatomy/skull-face-bones/labeled/slice_002.jpg",
+        "https://casestacks.com/assets/anatomy/skull-face-bones/labeled/slice_003.jpg"
+        "https://casestacks.com/assets/anatomy/skull-face-bones/labeled/slice_004.jpg"
+        "https://casestacks.com/assets/anatomy/skull-face-bones/labeled/slice_005.jpg"
+        "https://casestacks.com/assets/anatomy/skull-face-bones/labeled/slice_006.jpg"
+        "https://casestacks.com/assets/anatomy/skull-face-bones/labeled/slice_007.jpg"
+        "https://casestacks.com/assets/anatomy/skull-face-bones/labeled/slice_008.jpg"
+        "https://casestacks.com/assets/anatomy/skull-face-bones/labeled/slice_009.jpg"
+        "https://casestacks.com/assets/anatomy/skull-face-bones/labeled/slice_0010.jpg"
+        "https://casestacks.com/assets/anatomy/skull-face-bones/labeled/slice_0011.jpg"
+      ],
+    }
+  },
   {
     "id": "ct-head",
     "name": "مفراس الرأس (Brain CT)",
