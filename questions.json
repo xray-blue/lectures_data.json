@@ -1,0 +1,652 @@
+[
+  {
+    "question": "ما هو تأثير زيادة التيار بالمللي أمبير (mAs) على الصورة الشعاعية؟",
+    "options": [
+      "زيادة تباين الصورة",
+      "تقليل كثافة الصورة",
+      "زيادة كثافة الصورة",
+      "تقليل حدة الصورة"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "أي من التالي يعتبر مفعلاً للإشعاع (Radiation Sensitizer)؟",
+    "options": [
+      "الأكسجين",
+      "النيتروجين",
+      "الماء",
+      "الدهون"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما هو العامل الذي يحدد الحد الأقصى لجهد الأنبوب (kVp)؟",
+    "options": [
+      "سعة المبرد",
+      "عزل الزيت",
+      "تيان الفتيل",
+      "مقومة الجهد العالي"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو المصطلح الذي يشير إلى القدرة على تمييز تفاصيل دقيقة في الصورة؟",
+    "options": [
+      "الكثافة الشعاعية (Density)",
+      "التباين (Contrast)",
+      "الحدة (Spatial Resolution)",
+      "التشوه (Distortion)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "في قانون التربيع العكسي، إذا تضاعفت المسافة من المصدر، ماذا يحدث للشدة؟",
+    "options": [
+      "تتضاعف",
+      "تقلص للنصف",
+      "تقلص إلى الربع",
+      "تبقى كما هي"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "أي من التفاعلات التالية يحدث بشكل رئيسي عند طاقات عالية (>100 keV)؟",
+    "options": [
+      "التأثير الكهروضوئي",
+      "تشتت كومبتون",
+      "إنتاج الأزواج",
+      "التشتت المتماسك"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هو الغرض الأساسي من الترشيح (Filtration) في حزمة الأشعة السينية؟",
+    "options": [
+      "زيادة كمية الإشعاع",
+      "تقليل الجرعة للمريض بإزالة الفوتونات ذات الطاقة المنخفضة",
+      "تقليل حجم حزمة الأشعة",
+      "زيادة تباين الصورة"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "أي من المواد التالية تستخدم عادة كفلتر جوهري (Inherent Filter)؟",
+    "options": [
+      "الرصاص",
+      "النحاس",
+      "الزجاج أو مغلف الأنبوب",
+      "الألمنيوم"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هي وحدة قياس الجرعة الممتصة (Absorbed Dose)؟",
+    "options": [
+      "السيفرت (Sievert)",
+      "الرمغن (Roentgen)",
+      "الجراي (Gray)",
+      "الكولوم (Coulomb)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هو النوع الأكثر شيوعاً من الأجهزة الرقمية الحديثة في أقسام الطوارئ؟",
+    "options": [
+      "الأفلام الحساسة (Screen Film)",
+      "التصوير الرقمي بالحاسوب (CR)",
+      "التصوير الرقمي المباشر (DR)",
+      "التصوير الورقي"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "عند تصvrir العمود الفقري القطني، أي وضعية تظهر المسافات بين الفقرات بوضوح؟",
+    "options": [
+      "الوضعية الأمامية الخلفية (AP)",
+      "الوضعية الجانبية (Lateral)",
+      "الوضعية المائلة (Oblique)",
+      "الوضعية المحورية (Axial)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هو تأثير وضع الشبكة (Grid) بشكل مقلوب (Upside Down)؟",
+    "options": [
+      "زيادة كثافة الصورة",
+      "تقليل تباين الصورة",
+      "ظهور خطوط بيضاء على الصورة (Grid cutoff)",
+      "تحسين جودة الصورة"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "أي جزء من أنبوب الأشعة السينية يتحمل الحرارة الناتجة عن التصادم؟",
+    "options": [
+      "الفتيل (Filament)",
+      "الهدف (Target) / القرص الدوار",
+      "الغلاف الزجاجي",
+      "الزيت"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو معامل تباين الأنسجة الرخوة (Soft Tissue) في التصوير الطبي؟",
+    "options": [
+      "مرتفع جداً",
+      "منخفض",
+      "متوسط",
+      "غير موجود"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "أي من التالي يعتبر موانع لاستخدام الرنين المغناطيسي (MRI)؟",
+    "options": [
+      "الحمل",
+      "وجود جبس من الجبس",
+      "وجود منظم ضربات قلب (Pacemaker)",
+      "الربو"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هي الوحدة التي تقاس بها النشاط الإشعاعي؟",
+    "options": [
+      "البيكريل (Becquerel)",
+      "السيفرت (Sievert)",
+      "الجراي (Gray)",
+      "الرنتجن (Roentgen)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما هو التأثير الفيزيائي المسؤول عن ظهور الصورة السلبية الفوتوغرافية؟",
+    "options": [
+      "تأثير كومبتون",
+      "تأثير زمر",
+      "الأيونة",
+      "الإثارة (Excitation)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "أي من العوامل التالية يقلل من التشوه (Distortion) في الصورة؟",
+    "options": [
+      "زيادة مسافة الجسم عن الفيلم (OID)",
+      "تقليل مسافة المصدر عن الفيلم (SID)",
+      "جعل حزمة الأشعة عمودية تماماً على الفيلم",
+      "استخدام جهد عالي (kVp)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هي المادة التي يستخدمها جهاز الطب النووي لتوليد الصور؟",
+    "options": [
+      "المادة المظلمة (Contrast Media)",
+      "النظائر المشعة (Radioisotopes)",
+      "الموجات الصوتية",
+      "المغناطيس"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هي الوضعية المستخدمة لتصوير جيوب الوجه الفكية (Maxillary Sinuses)؟",
+    "options": [
+      "وضعية تاون (Towne's)",
+      "وضعية ووترز (Waters')",
+      "وضعية كالدويل (Caldwell)",
+      "وضعية رايز (Rhese)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو الفرق الرئيسي بين الأشعة السينية التقليدية والأشعة المقطعية (CT)؟",
+    "options": [
+      "CT لا يستخدم الإشعاع",
+      "CT ينتج صور شرائح متعددة الأبعاد",
+      "الأشعة التقليدية أغلى تكلفة",
+      "CT يأخذ وقتاً أطول في الإجراء البسيط"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "أي من الميكروفونات التالية يستخدم في تنظيم الوقت والجهد (Automatic Exposure Control - AEC)؟",
+    "options": [
+      "مستشعر الضوء",
+      "غرف أيونية (Ionization Chambers)",
+      "شبكة التشتت",
+      "الفلتر"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هي المنطقة الواقعة تحت المنحنى (Dose Area Product - DAP)؟",
+    "options": [
+      "قياس جرعة الجلد",
+      "قياس الجرعة الكلية للحزمة مضروبة في المساحة",
+      "قياس الوقت الذي يستغرقه الفحص",
+      "قياس تركيز المادة المظللة"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ماذا يفعل الكوليماتور (Collimator)؟",
+    "options": [
+      "يزيد من طاقة الأشعة",
+      "يقلل من مساحة الحزمة لتحسين الجودة وتقليل الجرعة",
+      "يحول التيار المتردد إلى تيار مستمر",
+      "يمتص الأشعة المشتتة"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هي الطاقة التقريبية لأشعة الأشعة السينية المستخدمة في تصوير الأطراف (Extremities)؟",
+    "options": [
+      "40-60 kVp",
+      "80-100 kVp",
+      "120-140 kVp",
+      "150 kVp"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما هو سبب ظهور الصورة داكنة جداً (Overexposed)؟",
+    "options": [
+      "زيادة SID",
+      "زيادة mAs",
+      "استخدام شبكة",
+      "زيادة OID"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو المصطلح الذي يصف قدرة الفيلم أو المستشعر على إظهار تدرجات لونية مختلفة؟",
+    "options": [
+      "التباين",
+      "النطاق الديناميكي أو عرض التدرج (Latitude)",
+      "الحدة",
+      "التشويش"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "أي من الخمول (Artifacts) التالية يحدث غالباً في الأفلام إذا لم يتم تثبيتها جيداً في الحامل (Cassette)؟",
+    "options": [
+      "الكشط (Scratches)",
+      "تآكل الحواف (Edge Fogging)",
+      "بصمات الأصابع (Fingerprint)",
+      "التصوير المزدوج (Double Exposure)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو الغرض من استخدام مادة الباريوم؟",
+    "options": [
+      "تصوير الأوعية الدموية",
+      "تصوير الجهاز الهضمي",
+      "تصوير الكلى",
+      "تصوير الدماغ"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو الجزء المسؤول عن إنتاج البخار المضغوط في نظام التبريد لأنبوب الأشعة؟",
+    "options": [
+      "الضاغط (Compressor)",
+      "المبخر (Evaporator)",
+      "المكثف (Condenser)",
+      "الزيت"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "أي وضعية تظهر عظمة القص (Sternum) بدون تداخل العمود الفقري؟",
+    "options": [
+      "الجانبية",
+      "الأمامية الخلفية (AP)",
+      "المائلة (Oblique)",
+      "الخلفية الأمامية (PA) مع ميلان"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما هو اسم السبب الرئيسي للموت بين رواد الفضاء بسبب الإشعاع (في السيناريوهات النظرية القصوى)؟",
+    "options": [
+      "التسمم الإشعاعي الحاد",
+      "السرطان طويل الأمد",
+      "الإشعاع الحراري",
+      "الاحتراق"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هي فائدة استخدام منطقة التركيز الصغيرة (Small Focal Spot)؟",
+    "options": [
+      "تحمل حرارة أعلى",
+      "تحسين دقة الصورة (Resolution)",
+      "تقليل وقت التصوير",
+      "تقليل جرعة المريض"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "أي من العناصر التالية يمتلك أعلى عدد ذري وبالتالي يعتبر الأكثر ظلاً؟",
+    "options": [
+      "الكالسيوم",
+      "اليود",
+      "الباريوم",
+      "الرصاص"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما هو نوع الإشعاع المستخدم في معالجة الأورام (Radiation Therapy) غالباً؟",
+    "options": [
+      "أشعة سينية تشخيصية منخفضة الطاقة",
+      "أشعة غاما أو فوتونات عالية الطاقة",
+      "موجات الراديو",
+      "الضوء المرئي"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو مصطلح 'تأثير الكعب' (Heel Effect)؟",
+    "options": [
+      "زيادة امتصاص الأشعة في جانب الأنود، مما يقلل الشدة",
+      "زيادة الشدة في جانب الكاثود",
+      "زيادة حرارة الأنبوب",
+      "تآكل الهدف"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما هي الوضعية المناسبة لتصوير المفصل الحرقفي العجزي (Sacroiliac Joint)؟",
+    "options": [
+      "AP",
+      "PA",
+      "مائلة 15-30 درجة",
+      "جانبية"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "ماذا نعني بـ 'Long Scale Contrast'؟",
+    "options": [
+      "صورة بألوان أبيض وأسود فقط",
+      "صورة ذات تباين قليل وعدة تدرجات رمادية",
+      "صورة سوداء تماماً",
+      "صورة ذات تباين عالٍ جداً"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو الجزء من جهاز الأشعة الذي يحتوي على الزيت والمحامل الدوارة؟",
+    "options": [
+      "غرفة التحكم",
+      "أنبوب الأشعة (X-ray Tube)",
+      "المولد (Generator)",
+      "الطاولة"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "أي من الفحوصات التالية يتطلب إعداداً خاصاً (كالصيام)؟",
+    "options": [
+      "صورة اليد AP",
+      "صورة الصدر PA",
+      "تصوير البطن (KUB)",
+      "صورة العمود الفقري الرقبي"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هو المصطلح العلمي للفراغ داخل أنبوب الأشعة؟",
+    "options": [
+      "الفراغ الهوائي",
+      "مساحة الفجوة",
+      "الفراغ العالي (High Vacuum)",
+      "الفضاء المظلم"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "أي التالي هو عامل فيزيائي يؤثر على جودة الأشعة (Quality)؟",
+    "options": [
+      "mAs",
+      "الوقت (Time)",
+      "kVp",
+      "المسافة (SID)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "ماذا يمثل اللون الأبيض في الصورة الشعاعية التقليدية؟",
+    "options": [
+      "الهواء",
+      "الدهون",
+      "الأنسجة الرخوة",
+      "الأنسجة كثيفة الإشعاع (كالعظم)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية؟",
+    "options": [
+      "الوضعية الجانبية للصدر (Chest Lateral)",
+      "الوضعية الخلفية الأمامية للصدر (Chest PA)",
+      "الوضعية الأمامية الخلفية للصدر (Chest AP)",
+      "الوضعية المائلة للصدر (Chest Oblique)"
+    ],
+    "correctIndex": 1,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية؟",
+    "options": [
+      "الوضعية الخلفية الأمامية (PA)",
+      "الوضعية الجانبية (Lateral)",
+      "الوضعية الأمامية الخلفية (AP)",
+      "الوضعية القصية (Sternal View)"
+    ],
+    "correctIndex": 1,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية؟",
+    "options": [
+      "الوضعية الخلفية الأمامية للبطن (Abdomen PA)",
+      "الوضعية الأمامية الخلفية للبطن (Abdomen AP / KUB)",
+      "الوضعية الجانبية للبطن (Abdomen Lateral)",
+      "الوضعية المائلة للبطن (Abdomen Oblique)"
+    ],
+    "correctIndex": 1,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية الخاصة بالجمجمة؟",
+    "options": [
+      "Towne's View",
+      "Waters' View",
+      "Caldwell's View",
+      "Lateral Skull"
+    ],
+    "correctIndex": 3,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية الخاصة بالجيوب الأنفية؟",
+    "options": [
+      "Lateral Skull",
+      "Caldwell's View",
+      "Waters' View (Occipitomental)",
+      "Towne's View"
+    ],
+    "correctIndex": 2,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية؟",
+    "options": [
+      "Hand AP",
+      "Hand PA",
+      "Hand Lateral",
+      "Hand Oblique"
+    ],
+    "correctIndex": 1,
+    "imageUrl": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية؟",
+    "options": [
+      "Finger AP",
+      "Thumb AP",
+      "Thumb Lateral",
+      "Finger Lateral"
+    ],
+    "correctIndex": 2,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/25120773/8a77da05dcaf4f316924721c7dd924_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية؟",
+    "options": [
+      "Wrist AP",
+      "Wrist PA",
+      "Wrist Lateral",
+      "Scaphoid View"
+    ],
+    "correctIndex": 2,
+    "imageUrl": "hhttps://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية؟",
+    "options": [
+      "Forearm AP",
+      "Forearm PA",
+      "Forearm Lateral",
+      "Elbow AP"
+    ],
+    "correctIndex": 0,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/13584773/160f837f0e87cd5d8097b71c5c32e3d821753111285b6e8dcb0554a73c29e5db_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية لمفصل الركبة؟",
+    "options": [
+      "Knee AP",
+      "Knee PA",
+      "Knee Lateral",
+      "Knee Skyline"
+    ],
+    "correctIndex": 2,
+    "imageUrl": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية لمفصل الكاحل؟",
+    "options": [
+      "Ankle AP",
+      "Ankle Lateral",
+      "Ankle Mortise",
+      "Heel (Calcaneus) Lateral"
+    ],
+    "correctIndex": 1,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/61842235/192c32c862386fa52562b03def2129e7f5fcf097f4e6cdd682f47de59840cc80_gallery.jpeg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية؟",
+    "options": [
+      "Foot AP",
+      "Foot Oblique",
+      "Foot Lateral",
+      "Foot Dorsoplantar"
+    ],
+    "correctIndex": 3,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية للعمود الفقري القطني؟",
+    "options": [
+      "Lumbar Spine AP",
+      "Lumbar Spine PA",
+      "Lumbar Spine Lateral",
+      "Lumbar Spine Oblique"
+    ],
+    "correctIndex": 2,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية للكتف؟",
+    "options": [
+      "Shoulder AP",
+      "Shoulder PA",
+      "Shoulder Lateral Y-Scapular",
+      "Shoulder Axillary"
+    ],
+    "correctIndex": 0,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية الخاصة بالعظم القص؟",
+    "options": [
+      "Sternum AP",
+      "Sternum PA",
+      "Sternum Lateral",
+      "Ribs PA"
+    ],
+    "correctIndex": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sternum_lateral.jpg/300px-Sternum_lateral.jpg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية؟",
+    "options": [
+      "Pelvis AP",
+      "Pelvis Lateral",
+      "Hip AP",
+      "Sacrum AP"
+    ],
+    "correctIndex": 0,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية لمفصل الورك؟",
+    "options": [
+      "Pelvis Inlet",
+      "Pelvis Outlet",
+      "Hip AP (Femur)",
+      "Hip Lateral"
+    ],
+    "correctIndex": 2,
+    "imageUrl": "https://jomi.com/api/files/preopaprhip.jpg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية للعمود الفقري الرقبي؟",
+    "options": [
+      "Cervical Spine AP",
+      "Cervical Spine Odontoid",
+      "Cervical Spine Lateral",
+      "Cervical Spine Swimmer's"
+    ],
+    "correctIndex": 2,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية؟",
+    "options": [
+      "Clavicle AP",
+      "Clavicle PA",
+      "AC Joint (Acromioclavicular)",
+      "Scapula AP"
+    ],
+    "correctIndex": 0,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هو اسم هذه الوضعية الخاصة بالأنف (المنخرية)؟",
+    "options": [
+      "Lateral Nasal Bone",
+      "PA Skull",
+      "Waters' View",
+      "Towne's View"
+    ],
+    "correctIndex": 0,
+    "imageUrl": "https://prod-images-static.radiopaedia.org/images/9470064/507281cb5c0347e7d0bbfeddfc476c_gallery.jpg"
+  }
+]
