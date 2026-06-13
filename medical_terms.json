@@ -1,0 +1,182 @@
+{
+  "part1": {
+    "title": "الجزء الأول: قاموس الجذور اللغوية",
+    "categories": [
+      {
+        "title": "1. لواحق تخص الأورام والنمو (Tumors & Growth)",
+        "headers": ["Suffix", "المعنى", "مثال", "شرح المثال"],
+        "items": [
+          { "col1": "-oma", "col2": "ورم أو تورم", "col3": "Carcinoma", "col4": "ورم سرطاني خبيث ينشأ من نسيج ظهاري" },
+          { "col1": "-plasia", "col2": "نمو أو تكوين", "col3": "Hyperplasia", "col4": "زيادة عدد الخلايا (نمو مفرط)" },
+          { "col1": "-trophy", "col2": "تغذية ونمو", "col3": "Atrophy", "col4": "ضمور (نقص حجم العضو بسبب نقص التغذية أو الاستعمال)" },
+          { "col1": "-megaly", "col2": "تضخم", "col3": "Hepatomegaly", "col4": "تضخم الكبد" },
+          { "col1": "-plasty", "col2": "ترميم أو إصلاح جراحي", "col3": "Angioplasty", "col4": "ترميم أو توسيع الأوعية الدموية" }
+        ]
+      },
+      {
+        "title": "2. لواحق تخص الأدوية والمواد (Chemicals & Drugs)",
+        "headers": ["Suffix", "المعنى", "مثال", "شرح المثال"],
+        "items": [
+          { "col1": "-lytic", "col2": "محلل أو مفتت", "col3": "Thrombolytic", "col4": "دواء محلل للجلطة" },
+          { "col1": "-static", "col2": "موقف (يثبط النمو)", "col3": "Bacteriostatic", "col4": "مادة توقف تكاثر البكتيريا دون قتلها" },
+          { "col1": "-cide", "col2": "قاتل", "col3": "Bactericide", "col4": "مادة قاتلة للبكتيريا" },
+          { "col1": "-emia", "col2": "حالة دموية", "col3": "Anemia", "col4": "فقر الدم (نسبة الهيموغلوبين منخفضة)" }
+        ]
+      },
+      {
+        "title": "3. بادئات تخص العدد والكمية (Number & Quantity)",
+        "headers": ["Prefix", "المعنى", "مثال", "شرح المثال"],
+        "items": [
+          { "col1": "Hemi-", "col2": "نصف", "col3": "Hemiplegia", "col4": "شلل نصفي (في جانب واحد من الجسم)" },
+          { "col1": "Bi- / Di-", "col2": "اثنين", "col3": "Bilateral", "col4": "يوجد في جانبين (يمين ويسار)" },
+          { "col1": "Tri-", "col2": "ثلاثة", "col3": "Triceps", "col4": "عضلة ذات ثلاثة رؤوس" },
+          { "col1": "Multi-", "col2": "كثير", "col3": "Multifocal", "col4": "متعدد البؤر (في أماكن متفرقة)" },
+          { "col1": "Mono-", "col2": "واحد", "col3": "Monotherapy", "col4": "علاج بدواء واحد" },
+          { "col1": "Pan-", "col2": "كلي / شامل", "col3": "Pancytopenia", "col4": "نقص شامل في كريات الدم" },
+          { "col1": "Nulli-", "col2": "لا شيء", "col3": "Nullipara", "col4": "امرأة لم تلد أبداً" },
+          { "col1": "Primi-", "col2": "أول", "col3": "Primigravida", "col4": "حمل لأول مرة" },
+          { "col1": "Poly-", "col2": "متعدد", "col3": "Polyuria", "col4": "كثرة التبول" }
+        ]
+      },
+      {
+        "title": "4. بادئات وصفية (Descriptive Prefixes)",
+        "headers": ["Prefix", "المعنى", "مثال", "شرح المثال"],
+        "items": [
+          { "col1": "Dys-", "col2": "صعوبة / خلل / ألم", "col3": "Dyspnea", "col4": "صعوبة في التنفس (ضيق نفس)" },
+          { "col1": "Hyper-", "col2": "زيادة / فرط", "col3": "Hypertension", "col4": "ارتفاع ضغط الدم" },
+          { "col1": "Hypo-", "col2": "نقص / قلة", "col3": "Hypoxia", "col4": "نقص الأكسجين في الأنسجة" },
+          { "col1": "Eu-", "col2": "طبيعي / صحي", "col3": "Euthyroid", "col4": "وظيفة الغدة الدرقية طبيعية" },
+          { "col1": "Mal-", "col2": "سيء", "col3": "Malnutrition", "col4": "سوء التغذية" },
+          { "col1": "Pseudo-", "col2": "كاذب / شبيه", "col3": "Pseudocyst", "col4": "تجمع سوائل يشبه الكيس ولكنه ليس له جدار حقيقي" },
+          { "col1": "Tachy-", "col2": "سريع", "col3": "Tachycardia", "col4": "تسارع نبضات القلب" },
+          { "col1": "Brady-", "col2": "بطيء", "col3": "Bradycardia", "col4": "بطء نبضات القلب" }
+        ]
+      },
+      {
+        "title": "5. بادئات مكانية (Positional Prefixes)",
+        "headers": ["Prefix", "المعنى", "مثال", "شرح المثال"],
+        "items": [
+          { "col1": "Sub-", "col2": "تحت", "col3": "Subcutaneous", "col4": "تحت الجلد" },
+          { "col1": "Supra-", "col2": "فوق", "col3": "Suprapubic", "col4": "فوق العانة" },
+          { "col1": "Retro-", "col2": "خلف", "col3": "Retroperitoneal", "col4": "خلف الصفاق (الغشاء المبطن لجدار البطن)" },
+          { "col1": "Trans-", "col2": "عبر / خلال", "col3": "Transfusion", "col4": "نقل دم أو سوائل من شخص لآخر" },
+          { "col1": "Peri-", "col2": "حول", "col3": "Perioperative", "col4": "فترة حول الجراحة (قبلها وبعدها)" },
+          { "col1": "Endo-", "col2": "داخلي", "col3": "Endoscopy", "col4": "فحص داخل الجسم بجهاز منظار" },
+          { "col1": "Exo-", "col2": "خارجي", "col3": "Exogenous", "col4": "منشأه خارج الجسم" }
+        ]
+      }
+    ]
+  },
+  "part2": {
+    "title": "الجزء الثاني: التشريح السطحي والإتجاهات (Anatomical Terms)",
+    "headers": ["المصطلح (الإنجليزي)", "المعنى (عربي)", "مثال تطبيقي"],
+    "items": [
+      { "col1": "Anterior / Ventral", "col2": "أمامي / بطني", "col3": "The sternum is anterior to the heart (عظمة القص أمام القلب)" },
+      { "col1": "Posterior / Dorsal", "col2": "خلفي / ظهري", "col3": "The spine is posterior to the heart (العمود الفقري خلف القلب)" },
+      { "col1": "Superior", "col2": "علوي (أقرب للرأس)", "col3": "The head is superior to the neck (الرأس أعلى من الرقبة)" },
+      { "col1": "Inferior", "col2": "سفلي (أقرب للقدم)", "col3": "The feet are inferior to the knees (القدمين أسفل الركبتين)" },
+      { "col1": "Medial", "col2": "إنسي (نحو الخط الوسطي)", "col3": "The nose is medial to the eyes (الأنف أنسي بالنسبة للعينين)" },
+      { "col1": "Lateral", "col2": "وحشي (بعيداً عن الخط الوسطي)", "col3": "The ears are lateral to the nose (الأذنين وحشيتين بالنسبة للأنف)" },
+      { "col1": "Proximal", "col2": "قريب (من نقطة الارتكاز)", "col3": "The elbow is proximal to the wrist (الكوع قريب من الرس)" },
+      { "col1": "Distal", "col2": "بعيد (عن نقطة الارتكاز)", "col3": "The fingers are distal to the wrist (الأصابع بعيدة عن الرس)" },
+      { "col1": "Superficial", "col2": "سطحي", "col3": "The skin is superficial to the muscles (الجلد سطحي بالنسبة للعضلات)" },
+      { "col1": "Deep", "col2": "عميق", "col3": "The bones are deep to the muscles (العظام عميقة تحت العضلات)" },
+      { "col1": "Ipsilateral", "col2": "نفس الجانب", "col3": "The right hand and right foot are ipsilateral (اليد اليمنى والقدم اليمنى في نفس الجهة)" },
+      { "col1": "Contralateral", "col2": "الجهة المقابلة", "col3": "The right hand controls the left side (contralateral) (اليد اليمنى تتحكم بالجهة اليمنى في الدماغ المقابل)" }
+    ]
+  },
+  "part3": {
+    "title": "الجزء الثالث: مصطلحات وصف الأمراض في الأشعة (Radiological Findings)",
+    "categories": [
+      {
+        "title": "1. صفات الكثافة والشكل (Density & Shape Characteristics)",
+        "headers": ["المصطلح", "المعنى", "ملاحظات"],
+        "items": [
+          { "col1": "Radiopaque", "col2": "كثيف للأشعة السينية (يظهر أبيض)", "col3": "يستخدم لوصف العظام والمعادن والمادة الظليلة في الـ X-ray" },
+          { "col1": "Radiolucent", "col2": "شفاف للأشعة السينية (يظهر أسود)", "col3": "يستخدم لوصف الهواء، الدهون، أو التآكل العظمي" },
+          { "col1": "Homogeneous", "col2": "متجانس", "col3": "الكثافة موزعة بالتساوي في الكتلة (غالباً حميد)" },
+          { "col1": "Heterogeneous", "col2": "غير متجانس", "col3": "توجد مناطق مختلفة الكثافة داخل الكتلة (غالباً ورم خبيث أو معقد)" },
+          { "col1": "Well-defined", "col2": "محدد الحدود", "col3": "حدود واضحة وحادة (ميزة للأكياس والأورام الحميدة)" },
+          { "col1": "Ill-defined", "col2": "حدود غير واضحة", "col3": "حدود مموهة وغير منتظمة (ميزة للأورام الخبيثة أو الالتهابات)" },
+          { "col1": "Sclerotic", "col2": "تصلب (زيادة الكثافة)", "col3": "العظام تصبح أكثر بياضاً (شفاء الكسر، أو ورم عظمي)" },
+          { "col1": "Lytic", "col2": "تآكل (نقص الكثافة)", "col3": "وجود ثقوب منخفضة الكثافة في العظم (مثل النقائل السرطانية)" }
+        ]
+      },
+      {
+        "title": "2. مصطلحات خاصة بالرئة (Lung Specifics)",
+        "headers": ["المصطلح", "المعنى", "ملاحظات"],
+        "items": [
+          { "col1": "Consolidation", "col2": "تكثف / اندماج", "col3": "مساحة بيضاء في الرئة محل الهواء (دلالة على التهاب رئوي Pneumonia)" },
+          { "col1": "Atelectasis", "col2": "انخماص", "col3": "انهيار أو انكماش جزء من الرئة يقلل من حجمها" },
+          { "col1": "GGO (Ground Glass Opacity)", "col2": "ضبابية زجاجية", "col3": "لون رمادي شفاف في الرئة (قد يكون التهاب فيروسي، ورم مبكر، أو وذمة)" },
+          { "col1": "Pleural Effusion", "col2": "انصباب جنبي", "col3": "تجمع سوائل (سوائل أو دم) في الفراغ بين الرئة والجدار الصدري" },
+          { "col1": "Honeycombing", "col2": "شكل خلايا النحل", "col3": "مظهر شبكي من الأكياس الهوائية يدل على التليف الرئوي المزمن" },
+          { "col1": "Nodules", "col2": "عقيدات", "col3": "بؤر صغيرة دائرية في الرئة (تتطلب متابعة لاستبعاد السرطان)" },
+          { "col1": "Pneumothorax", "col2": "استرواح الصدر", "col3": "وجود هواء في التجويف الجنبي يضمن الرئة (يظهر خط حاد أبيض)" }
+        ]
+      },
+      {
+        "title": "3. مصطلحات خاصة بالرنين المغناطيسي MRI Sequences",
+        "headers": ["المصطلح", "المعنى", "ملاحظات"],
+        "items": [
+          { "col1": "Hyperintense", "col2": "عالي الإشارة (يظهر أبيض)", "col3": "مثل الدهون في T1، أو السوائل في T2 (يظهر مشرقاً)" },
+          { "col1": "Hypointense", "col2": "منخفض الإشارة (يظهر أسود)", "col3": "مثل التكلس أو الهواء في معظم التسلسلات (يظهر معتماً)" },
+          { "col1": "T1-weighted", "col2": "تسلسل تي 1", "col3": "الماء (CSF) = أسود. يوضح التشريح الدقيق والدهون (بيضاء)" },
+          { "col1": "T2-weighted", "col2": "تسلسل تي 2", "col3": "الماء (CSF) = أبيض ساطع. يوضح الأورام والالتهابات" },
+          { "col1": "FLAIR", "col2": "تثبيط السائل", "col3": "مثل T2 لكن الماء (السائل الدماغي) أسود (لإظهار الأورام بوضوح)" },
+          { "col1": "DWI", "col2": "التصوير بالانتشار", "col3": "مهم جداً لتشخيص الجلطة الدماغية الحادة (تظهر بيضاء فوراً)" },
+          { "col1": "Gadolinium Enhancement", "col2": "التعزيز بالصبغة", "col3": "بعد الحقن، الأماكن التي تضيء تعني كثافة أوعية دموية (ورم نشط، التهاب)" }
+        ]
+      }
+    ]
+  },
+  "part4": {
+    "title": "الجزء الرابع: الأجهزة والمصطلحات الفيزيائية (Physics & Equipment)",
+    "headers": ["المصطلح", "المعنى", "الشرح"],
+    "items": [
+      { "col1": "Ionizing Radiation", "col2": "إشعاع مؤين", "col3": "أشعة تمتلك طاقة كافية لتأين الذرات (X-ray, CT, Nuclear Medicine)" },
+      { "col1": "Non-ionizing Radiation", "col2": "إشعاع غير مؤين", "col3": "لا يكسر الروابط الكيميائية ويعتبر أكثر أماناً (Ultrasound, MRI)" },
+      { "col1": "Attenuation", "col2": "توهين / إضعاف", "col3": "فقدان شدة الأشعة أثناء مرورها عبر الجسم (امتصاص وتشتت)" },
+      { "col1": "Scatter", "col2": "تشتت", "col3": "انحراف الأشعة عن مسارها مما يسبب ضوضاء (ضبابية) في الصورة" },
+      { "col1": "Artifact", "col2": "أثر صناعي / خلل", "col3": "عيوب في الصورة ليست جزءاً من الجسم (مثل حركة المريض أو معدن جسبي)" },
+      { "col1": "Windowing / Leveling", "col2": "النافذة والمستوى", "col3": "عملية ضبط تباين الصورة في الـ CT (نافذة عظم، ناعمة، رئة)" },
+      { "col1": "Spatial Resolution", "col2": "الدقة المكانية", "col3": "قدرة الجهاز على إظهار أدق التفاصيل الصغيرة المنفصلة" },
+      { "col1": "Temporal Resolution", "col2": "الدقة الزمنية", "col3": "قدرة الجهاز على تصوير الأعضاء المتحركة (القلب) بدقة في الزمن" },
+      { "col1": "Transducer / Probe", "col2": "المحول / المجس", "col3": "الجزء من جهاز السونار الذي يرسل ويستقبل الموجات الصوتية" }
+    ]
+  },
+  "part5": {
+    "title": "الجزء الخامس: اختصارات الأنظمة والإجراءات (Systems & Abbreviations)",
+    "headers": ["الاختصار", "الاسم الكامل", "المعنى / الاستخدام"],
+    "items": [
+      { "col1": "PACS", "col2": "Picture Archiving and Communication System", "col3": "نظام أرشفة وتناقل الصور الطبية (لحفظ وعرض الأشعة عبر الشبكة)" },
+      { "col1": "RIS", "col2": "Radiology Information System", "col3": "نظام معلومات الأشعة (لإدارة بيانات المرضى وجدولة المواعيد)" },
+      { "col1": "HIS", "col2": "Hospital Information System", "col3": "النظام المركزي للمعلومات في المستشفى" },
+      { "col1": "DICOM", "col2": "Digital Imaging and Communications in Medicine", "col3": "المعيار العالمي لتنسيق الصور الطبية الرقمية وتبادلها" },
+      { "col1": "ROI", "col2": "Region of Interest", "col3": "منطقة الاهتمام (يحددها الطبيب لقياس الكثافة أو الحجم)" },
+      { "col1": "CR", "col2": "Computed Radiography", "col3": "تقنية أشعة حاسوبية تستخدم ألواح فسفورية (تقنية قديمة نسبياً)" },
+      { "col1": "DR", "col2": "Digital Radiography", "col3": "تقنية أشعة رقمية مباشرة سريعة وحديثة" },
+      { "col1": "DEXA / DXA", "col2": "Dual-energy X-ray Absorptiometry", "col3": "قياس كثافة العظام (للكشف عن الهشاشة)" },
+      { "col1": "IVP / IVU", "col2": "Intravenous Pyelogram / Urogram", "col3": "تصوير الجهاز البولي بالأشعة بعد حقن صبغة" },
+      { "col1": "ERCP", "col2": "Endoscopic Retrograde Cholangiopancreatography", "col3": "فحص القنوات الصفراوية والبنكرياس بالمنظير والأشعة" }
+    ]
+  },
+  "part6": {
+    "title": "الجزء السادس: أوضاع المريض للمريض (Patient Positions)",
+    "headers": ["الوضع", "المعنى", "الصورة"],
+    "items": [
+      { "col1": "Supine", "col2": "استلقاء على الظهر (الوجه لأعلى) - وهو الوضع الأكثر شيوعاً للفحص", "image": "https://nurseslabs.com/wp-content/uploads/2022/06/SUPINE-DORSAL-RECUMBENT-PATIENT-POSITIONING-GUIDE-AND-CHEAT-SHEET.jpg" },
+      { "col1": "Prone", "col2": "استلقاء على البطن (الوجه لأسفل) - يستخدم لتصوير العمود الفقري الظهري", "image": "https://nurseslabs.com/wp-content/uploads/2022/06/PRONE-PATIENT-POSITIONING-GUIDE-AND-CHEAT-SHEET.jpg" },
+      { "col1": "Lateral Decubitus", "col2": "الاستلقاء الجانبي - يستخدم للكشف عن السوائل الحرة في الصدر أو البطن", "image": "https://nurseslabs.com/wp-content/uploads/2022/06/LATERAL-PATIENT-POSITIONING-GUIDE-AND-CHEAT-SHEET.jpg" },
+      { "col1": "Fowler’s Position", "col2": "وضع الجلوس شبه التام (رفع الرأس) - يستخدم لمرضى القلب أو الصدر", "image": "https://nurseslabs.com/wp-content/uploads/2022/06/FOWLERS-PATIENT-POSITIONING-GUIDE-AND-CHEAT-SHEET.jpg" },
+      { "col1": "Orthopneic or Tripod Position", "col2": "وضع ثلاثي القوائم (الجلوز والانحناء للأمام) - يراهنه المرضى بضيق التنفس", "image": "https://nurseslabs.com/wp-content/uploads/2022/06/ORTHOPNEIC-PATIENT-POSITIONING-GUIDE-AND-CHEAT-SHEET.jpg" },
+      { "col1": "Sims’ Position", "col2": "وضع سيمز (استلقاء جانبي مع ثني الركبة) - يستخدم لفحوصات المستقيم أو الحقن", "image": "https://nurseslabs.com/wp-content/uploads/2022/06/SIMS-PATIENT-POSITIONING-GUIDE-AND-CHEAT-SHEET.jpg" },
+      { "col1": "Lithotomy Position", "col2": "وضع استلقاء الظهر مع رفع الساقين - يستخدم لعمليات النساء أو المسالك البولية", "image": "https://nurseslabs.com/wp-content/uploads/2022/06/LITHOTOMY-PATIENT-POSITIONING-GUIDE-AND-CHEAT-SHEET.jpg" },
+      { "col1": "Trendelenburg’s Position", "col2": "استلقاء الظهر مع رفع الساقين وخفض الرأس - يزيد العائد الوريدي للقلب", "image": "https://nurseslabs.com/wp-content/uploads/2022/06/TRENDELENBURG-PATIENT-POSITIONING-GUIDE-AND-CHEAT-SHEET.jpg" },
+      { "col1": "Reverse Trendelenburg’s Position", "col2": "استلقاء الظهر مع خفض الساقين ورفع الرأس - يستخدم لعمليات الرأس والرقبة", "image": "https://nurseslabs.com/wp-content/uploads/2022/06/REVERSE-TRENDELENBURG-PATIENT-POSITIONING-GUIDE-AND-CHEAT-SHEET.jpg" },
+      { "col1": "Knee-Chest Position", "col2": "وضع الركبة والصدر - يستخدم لفحوصات العمود الفقري القطني", "image": "https://nurseslabs.com/wp-content/uploads/2022/06/KNEE-CHEST-PATIENT-POSITIONING-GUIDE-AND-CHEAT-SHEET-1.jpg" },
+      { "col1": "Jackknife Position", "col2": "وضع السكين (ثني الجسم عند الخصر) - يستخدم لعمليات الشرج والفتق", "image": "https://nurseslabs.com/wp-content/uploads/2022/06/JACKKNIFE-POSITION-PATIENT-POSITIONING-GUIDE-AND-CHEAT-SHEET.jpg" },
+      { "col1": "Kidney Position", "col2": "وضع الكلى (انحناء جانبي تحت الضلع) - يستخدم للوصول للكلية جراحياً", "image": "https://nurseslabs.com/wp-content/uploads/2022/06/KIDNEY-POSITION-PATIENT-POSITIONING-GUIDE-AND-CHEAT-SHEET.jpg" }
+    ]
+  }
+}
