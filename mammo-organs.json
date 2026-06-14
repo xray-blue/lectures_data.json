@@ -4,16 +4,16 @@
     "name": "طبيعي (Normal Breast)",
     "exams": {
       "screening": {
-        "img1": "رابط_صورة_اليمين_أو_CC_للمسح.jpg",
-        "img2": "رابط_صورة_اليسار_أو_MLO_للمسح.jpg"
+        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/noraml1.png",
+        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/noraml2.png"
       },
       "diagnostic": {
-        "img1": "رابط_صورة_اليمين_أو_CC_للتشخيص.jpg",
-        "img2": "رابط_صورة_اليسار_أو_MLO_للتشخيص.jpg"
+        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/digonce1.png",
+        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/digonce2.png"
       },
       "tomosynthesis": {
-        "img1": "رابط_صورة_اليمين_ثلاثي_الأبعاد.jpg",
-        "img2": "رابط_صورة_اليسار_ثلاثي_الأبعاد.jpg"
+        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/3d1.png",
+        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/3d2.png"
       }
     }
   },
@@ -22,16 +22,16 @@
     "name": "حالة مرضية (Pathology)",
     "exams": {
       "screening": {
-        "img1": "...",
-        "img2": "..."
+        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathologynoraml1.png",
+        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathologynoramal2.png"
       },
       "diagnostic": {
-        "img1": "...",
-        "img2": "..."
+        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathologydignoci1.png",
+        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathologydigno2.png"
       },
       "tomosynthesis": {
-        "img1": "...",
-        "img2": "..."
+        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathology3d1.png",
+        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathology3d2.png"
       }
     }
   }
