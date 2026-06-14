@@ -22,8 +22,8 @@
     "name": "هشاشة العظام-معصم (Osteopenia-Wrist)",
     "url": "رابط_صورة_العظام.jpg",
     "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
-  }
-    {
+  },
+  {
     "id": "Osteoporsis-Skeletal",
     "name": "هشاشة العظام (Osteoporsis-Skeletal)",
     "url": "رابط_صورة_العظام.jpg",
@@ -46,5 +46,5 @@
     "name": "هشاشة العظام-معصم (Osteoporsis-Wrist)",
     "url": "رابط_صورة_العظام.jpg",
     "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
-  },
+  }
 ]
