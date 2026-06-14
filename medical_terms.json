@@ -71,7 +71,7 @@
     "title": "الجزء الثاني: التشريح السطحي والإتجاهات (Anatomical Terms)",
     "headers": ["المصطلح (الإنجليزي)", "المعنى (عربي)", "مثال تطبيقي"],
     "items": [
-      { "col1": "Anterior / Ventral", "col2": "أمامي / بطني", "col3": "The sternum is anterior to the heart (عظمة القص أمام القلب)" },
+      { "col1": "Anterior / Ventral", "col2": "أمامي / بطني", "col3": "The sternum is anterior to the heart (عظمة القص أمام القلب)", "image": "https://study.com/cimages/multimages/16/640px-silhouette_humain_asexue_anterieur_posterieur.svg3793846600880383014.jpeg" },
       { "col1": "Posterior / Dorsal", "col2": "خلفي / ظهري", "col3": "The spine is posterior to the heart (العمود الفقري خلف القلب)" },
       { "col1": "Superior", "col2": "علوي (أقرب للرأس)", "col3": "The head is superior to the neck (الرأس أعلى من الرقبة)" },
       { "col1": "Inferior", "col2": "سفلي (أقرب للقدم)", "col3": "The feet are inferior to the knees (القدمين أسفل الركبتين)" },
