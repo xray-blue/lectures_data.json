@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dental-panoramic",
+    "name": "بانوراما (Panoramic OPG)",
+    "url": "رابط_صورة_البانوراما.jpg"
+  },
+  {
+    "id": "dental-periapical",
+    "name": "حول الذروة (Periapical)",
+    "url": "رابط_صورة_متخصصة_للسن.jpg"
+  }
+]
