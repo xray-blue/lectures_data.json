@@ -1,14 +1,50 @@
 [
   {
-    "id": "dexa-spine",
-    "name": "العمود الفقري (L-Spine)",
+    "id": "Osteopenia-Skeletal",
+    "name": "هشاشة العظام (Osteopenia-Skeletal)",
     "url": "رابط_صورة_العظام.jpg",
     "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
   },
   {
-    "id": "dexa-femur",
-    "name": "الساق (Femur)",
-    "url": "رابط_صورة_عظم_الساق.jpg",
-    "tScoreUrl": "رابط_صورة_المخطط_البياني_للساق.jpg"
+    "id": "Osteopenia-Lumbar",
+    "name": "هشاشة العظام-الفقرات (Osteopenia-Lumbar)",
+    "url": "رابط_صورة_العظام.jpg",
+    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+  },
+  {
+    "id": "Osteopenia-Hip",
+    "name": "هشاشة العظام-الورك (Osteopenia-Hip)",
+    "url": "رابط_صورة_العظام.jpg",
+    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+  },
+  {
+    "id": "Osteopenia-Wrist",
+    "name": "هشاشة العظام-معصم (Osteopenia-Wrist)",
+    "url": "رابط_صورة_العظام.jpg",
+    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
   }
+    {
+    "id": "Osteoporsis-Skeletal",
+    "name": "هشاشة العظام (Osteoporsis-Skeletal)",
+    "url": "رابط_صورة_العظام.jpg",
+    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+  },
+  {
+    "id": "Osteoporsis-Lumbar",
+    "name": "هشاشة العظام-الفقرات (Osteoporsis-Lumbar)",
+    "url": "رابط_صورة_العظام.jpg",
+    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+  },
+  {
+    "id": "Osteoporsis-Hip",
+    "name": "هشاشة العظام-الورك (Osteoporsis-Hip)",
+    "url": "رابط_صورة_العظام.jpg",
+    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+  },
+  {
+    "id": "Osteoporsis-Wrist",
+    "name": "هشاشة العظام-معصم (Osteoporsis-Wrist)",
+    "url": "رابط_صورة_العظام.jpg",
+    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+  },
 ]
