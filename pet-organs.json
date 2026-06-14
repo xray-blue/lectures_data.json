@@ -1,14 +1,14 @@
 [
   {
     "id": "pet-wholebody",
-    "name": "الجسم الكامل (Whole Body PET/CT)",
-    "url": "https://www.researchgate.net/publication/363680198/figure/fig2/AS:11431281085211381@1663680152569/Whole-body-PET-CT-A-coronal-CT-image-B-coronal-PET-image-CT-computed-tomography.ppm",
-    "ctUrl": "https://physicsworld.com/wp-content/uploads/2018/11/EXPLORER.jpg"
+    "name": "محور الجسم الكامل (Whole Body PET/CT)",
+    "url": "رابط_صورة_الـ_PET_الملونة_هنا",
+    "ctUrl": "رابط_الصورة_الطبيعية_CT_هنا"
   },
   {
     "id": "pet-brain",
-    "name": "الدماغ (Brain PET)",
-    "url": "رابط_صورة_الدماغ_pet.jpg",
-    "ctUrl": "رابط_صورة_الدماغ_ct.jpg"
+    "name": "فحص الدماغ (Brain PET)",
+    "url": "رابط_صورة_الـ_PET_الخاصة_بالدماغ",
+    "ctUrl": "رابط_الصورة_الطبيعية_للدماغ"
   }
 ]
