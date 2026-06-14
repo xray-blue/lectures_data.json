@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mammo-normal",
+    "name": "طبيعي (Normal Breast)",
+    "exams": {
+      "screening": {
+        "img1": "رابط_صورة_اليمين_أو_CC_للمسح.jpg",
+        "img2": "رابط_صورة_اليسار_أو_MLO_للمسح.jpg"
+      },
+      "diagnostic": {
+        "img1": "رابط_صورة_اليمين_أو_CC_للتشخيص.jpg",
+        "img2": "رابط_صورة_اليسار_أو_MLO_للتشخيص.jpg"
+      },
+      "tomosynthesis": {
+        "img1": "رابط_صورة_اليمين_ثلاثي_الأبعاد.jpg",
+        "img2": "رابط_صورة_اليسار_ثلاثي_الأبعاد.jpg"
+      }
+    }
+  },
+  {
+    "id": "mammo-pathology",
+    "name": "حالة مرضية (Pathology)",
+    "exams": {
+      "screening": {
+        "img1": "...",
+        "img2": "..."
+      },
+      "diagnostic": {
+        "img1": "...",
+        "img2": "..."
+      },
+      "tomosynthesis": {
+        "img1": "...",
+        "img2": "..."
+      }
+    }
+  }
+]
