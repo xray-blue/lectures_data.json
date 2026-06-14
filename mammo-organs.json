@@ -4,16 +4,16 @@
     "name": "طبيعي (Normal Breast)",
     "exams": {
       "screening": {
-        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/noraml1.png",
-        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/noraml2.png"
+        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/noraml2.png",
+        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/noraml1.png"
       },
       "diagnostic": {
-        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/digonce1.png",
-        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/digonce2.png"
+        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/digonce2.png",
+        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/digonce1.png"
       },
       "tomosynthesis": {
-        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/3d1.png",
-        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/3d2.png"
+        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/3d2.png",
+        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/3d1.png"
       }
     }
   },
@@ -22,16 +22,16 @@
     "name": "حالة مرضية (Pathology)",
     "exams": {
       "screening": {
-        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathologynoraml1.png",
-        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathologynoramal2.png"
+        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathologynoraml2.png",
+        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathologynoramal1.png"
       },
       "diagnostic": {
-        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathologydignoci1.png",
-        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathologydigno2.png"
+        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathologydignoci2.png",
+        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathologydigno1.png"
       },
       "tomosynthesis": {
-        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathology3d1.png",
-        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathology3d2.png"
+        "img1": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathology3d2.png",
+        "img2": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/pathology3d1.png"
       }
     }
   }
