@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fluoro-barium",
+    "name": "وجبة الباريوم (Barium Swallow)",
+    "url": "رابط_صورة_ثابتة.jpg",
+    "loopUrl": "رابط_صورة_متحركة_لفحص_حي.gif"
+  },
+  {
+    "id": "fluoro-angio",
+    "name": "تصوير الأوعية الدموية (Angiography)",
+    "url": "رابط_صورة_أوعية_ثابتة.jpg",
+    "loopUrl": "رابط_لفيديو_أو_gif_متحرك.mp4"
+  }
+]
