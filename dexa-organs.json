@@ -2,49 +2,49 @@
   {
     "id": "Osteopenia-Skeletal",
     "name": "هشاشة العظام (Osteopenia-Skeletal)",
-    "url": "رابط_صورة_العظام.jpg",
-    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/skele1.png",
+    "tScoreUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/opskele.png"
   },
   {
     "id": "Osteopenia-Lumbar",
     "name": "هشاشة العظام-الفقرات (Osteopenia-Lumbar)",
-    "url": "رابط_صورة_العظام.jpg",
-    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/spiannormal.png",
+    "tScoreUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/spinop.png"
   },
   {
     "id": "Osteopenia-Hip",
     "name": "هشاشة العظام-الورك (Osteopenia-Hip)",
-    "url": "رابط_صورة_العظام.jpg",
-    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/hipnormal.png",
+    "tScoreUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/hipop.png"
   },
   {
     "id": "Osteopenia-Wrist",
     "name": "هشاشة العظام-معصم (Osteopenia-Wrist)",
-    "url": "رابط_صورة_العظام.jpg",
-    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/wristnormal.png",
+    "tScoreUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/wrstop.png"
   },
   {
     "id": "Osteoporsis-Skeletal",
     "name": "هشاشة العظام (Osteoporsis-Skeletal)",
-    "url": "رابط_صورة_العظام.jpg",
-    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/skele1.png",
+    "tScoreUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/opskele.png"
   },
   {
     "id": "Osteoporsis-Lumbar",
     "name": "هشاشة العظام-الفقرات (Osteoporsis-Lumbar)",
-    "url": "رابط_صورة_العظام.jpg",
-    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/spiannormal.png",
+    "tScoreUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/spinos.png"
   },
   {
     "id": "Osteoporsis-Hip",
     "name": "هشاشة العظام-الورك (Osteoporsis-Hip)",
-    "url": "رابط_صورة_العظام.jpg",
-    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/hipnormal.png",
+    "tScoreUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/hipos.png"
   },
   {
     "id": "Osteoporsis-Wrist",
     "name": "هشاشة العظام-معصم (Osteoporsis-Wrist)",
-    "url": "رابط_صورة_العظام.jpg",
-    "tScoreUrl": "رابط_صورة_المخطط_او_التقرير_البياني.jpg"
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/wristnormal.png",
+    "tScoreUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/DEXA/wistos.png"
   }
 ]
