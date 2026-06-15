@@ -2,25 +2,25 @@
   {
     "id": "Vascular",
     "name": "الأشعة الوعائية والتداخلية (Vascular and Interventional Radiology)",
-    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/floroscopy/Barium%20Swallow.jpg",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/floroscopy/Interventional%20Radiology.jpg",
     "loopUrl": "https://www.downstate.edu/education-training/fellowship-residency-programs/radiology/_images/vir-image-2.gif"
   },
   {
     "id": "NEUROVASCULAR",
     "name": "الأوعية الدموية العصبية (NEUROVASCULAR)",
-    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/floroscopy/Angiography-coronal.jpg",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/floroscopy/NEUROVASCULAR.jpg",
     "loopUrl": "https://delhiinterventionalradiology.com/wp-content/uploads/2025/06/04-2.gif"
   },
   {
     "id": "NON-VASCULAR",
     "name": "غير وعائي (NON VASCULAR)",
-    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/floroscopy/Angiography-coronal.jpg",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/floroscopy/NON%20VASCULAR.jpg",
     "loopUrl": "https://delhiinterventionalradiology.com/wp-content/uploads/2025/06/ptbdWeb-ezgif.com-speed.gif"
   },
   {
     "id": "ONCOLOGY-CANCER",
     "name": "علم الأورام - السرطان (ONCOLOGY - CANCER)",
-    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/floroscopy/Cardiac%20Catheterization.jpg",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/floroscopy/ONCOLOGY%20-%20CANCER.jpg",
     "loopUrl": "https://delhiinterventionalradiology.com/wp-content/uploads/2025/06/RFALiver_1-ezgif.com-speed.gif"
   }
 ]
