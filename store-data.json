@@ -14,10 +14,10 @@
           "name": "أطلس التشريح البشري (نتر)",
           "description": "أطلس نتر لتشريح جسم الإنسان، النسخة الأحدث مع صور عالية الدقة وتوضيحات دقيقة.",
           "price": 45000,
-          "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=400&q=80",
+          "image": "https://3.imimg.com/data3/GH/QD/MY-3659254/netter-anatomy-atlas.jpg",
           "images": [
-            "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=400&q=80",
-            "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=400&q=80"
+            "https://www.medicalholodeck.com/images/gallery-gen/MhKBwwfIm7-250.png",
+            "https://www.medicalholodeck.com/images/gallery-gen/aciUuoZG69-250.png"
           ],
           "available": true
         },
@@ -34,7 +34,13 @@
           "name": "كتاب ديفيدسون للطب الباطني",
           "description": "المرجع الأول لطلاب الطب، طبعة محدثة تتضمن أحدث بروتوكولات العلاج.",
           "price": 65000,
-          "image": "https://images.unsplash.com/photo-1555449377-548aa01cf5c7?auto=format&fit=crop&w=400&q=80",
+          "image": "https://m.media-amazon.com/images/I/71FFAJpm-RL._AC_UF1000,1000_QL80_.jpg",
+          "images": [
+            "https://media.zid.store/thumbs/c3c80b9f-f176-496c-9f27-04187e1270f9/4ecfb0b0-8976-4e5e-a364-7c2b01ec72df-thumbnail-770x770-70.jpeg",
+            "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1478162636i/32863354.jpg",
+            "https://z.nooncdn.com/products/tr:n-t_240/pzsku/Z41E8EEA178489E92BDCCZ/45/_/1722761839/22040452-c3c1-4438-9fbc-a4fc43b3e5ec.jpg",
+            "https://services.aotalecso.org//sites/default/files/books/covers/book_42976_outer_cover_of_the_book.jpg"
+          ],
           "available": true
         },
         {
