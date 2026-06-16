@@ -2,164 +2,156 @@
   "stores": [
     {
       "id": "store1",
-      "storeName": "مكتبة المعرفة الطبية",
-      "ownerName": "د. ليلى أحمد",
-      "phone": "07700000000",
-      "whatsapp": "+9647700000000",
-      "goodsType": "كتب ومعدات طبية",
-      "deliveryFee": 3000,
+      "storeName": "مكتبة المعرفة الجامعية",
+      "ownerName": "د. أحمد حسن",
+      "phone": "07712345678",
+      "whatsapp": "+9647712345678",
+      "goodsType": "كتب ومراجع دراسية",
+      "deliveryFee": 2500,
       "products": [
         {
           "id": 1,
-          "name": "أطلس التشريح البشري (نتر)",
-          "description": "أطلس نتر لتشريح جسم الإنسان، النسخة الأحدث مع صور عالية الدقة وتوضيحات دقيقة.",
-          "price": 45000,
-          "image": "https://3.imimg.com/data3/GH/QD/MY-3659254/netter-anatomy-atlas.jpg",
+          "name": "أطلس التشريح البشري - طبعة محدثة",
+          "description": "أطلس طبي شامل يشرح أعضاء الجسم بالتفصيل مع رسوم توضيحية عالية الدقة.",
+          "price": 55000,
+          "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=400&q=80",
           "images": [
-            "https://www.medicalholodeck.com/images/gallery-gen/MhKBwwfIm7-250.png",
-            "https://www.medicalholodeck.com/images/gallery-gen/aciUuoZG69-250.png"
+            "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=400&q=80",
+            "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=400&q=80"
           ],
-          "available": true
+          "available": true,
+          "externalLink": "https://instagram.com",
+          "linkPlatform": "instagram"
         },
         {
           "id": 2,
-          "name": "ملازم التصوير الشعاعي - المرحلة الثانية",
-          "description": "مجموعة كاملة وشاملة لملازم التصوير الشعاعي والفيزياء الطبية مراجعة 2024.",
-          "price": 12000,
-          "image": "https://images.unsplash.com/photo-1629851887324-bcbc4e8e16fd?auto=format&fit=crop&w=400&q=80",
-          "available": true
+          "name": "ملزمات الهندسة المدنية",
+          "description": "مجموعة ملازم مكثفة لطلاب المرحلة الثالثة والرابعة في الهندسة المدنية.",
+          "price": 18000,
+          "image": "https://images.unsplash.com/photo-1555449377-548aa01cf5c7?auto=format&fit=crop&w=400&q=80",
+          "available": true,
+          "externalLink": "https://facebook.com",
+          "linkPlatform": "facebook"
         },
         {
           "id": 3,
-          "name": "كتاب ديفيدسون للطب الباطني",
-          "description": "المرجع الأول لطلاب الطب، طبعة محدثة تتضمن أحدث بروتوكولات العلاج.",
-          "price": 65000,
-          "image": "https://m.media-amazon.com/images/I/71FFAJpm-RL._AC_UF1000,1000_QL80_.jpg",
-          "images": [
-            "https://media.zid.store/thumbs/c3c80b9f-f176-496c-9f27-04187e1270f9/4ecfb0b0-8976-4e5e-a364-7c2b01ec72df-thumbnail-770x770-70.jpeg",
-            "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1478162636i/32863354.jpg",
-            "https://z.nooncdn.com/products/tr:n-t_240/pzsku/Z41E8EEA178489E92BDCCZ/45/_/1722761839/22040452-c3c1-4438-9fbc-a4fc43b3e5ec.jpg",
-            "https://services.aotalecso.org//sites/default/files/books/covers/book_42976_outer_cover_of_the_book.jpg"
-          ],
-          "available": true
+          "name": "قاموس أكسفورد الإنجليزي",
+          "description": "القاموس الأكثر شمولاً للمترجمين وطلاب اللغة الإنجليزية، طبعة فاخرة.",
+          "price": 35000,
+          "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=400&q=80",
+          "available": true,
+          "externalLink": "https://tiktok.com",
+          "linkPlatform": "tiktok"
         },
         {
           "id": 4,
-          "name": "رأس 史ماعات طبية كلاسيك",
-          "description": "سماعة طبية عالية الجودة من نوع ليتمان كلاسيك II، تضمن دقة عالية في سماعات القلب والرئة.",
-          "price": 120000,
-          "image": "https://images.unsplash.com/photo-1620188681170-424b91dc38d3?auto=format&fit=crop&w=400&q=80",
-          "available": true
-        },
-        {
-          "id": 5,
-          "name": "تطبيقات سريرية في التمريض",
-          "description": "دليل الطالب العملي لقسم التمريض، يشرح الإجراءات الأساسية خطوة بخطوة.",
-          "price": 25000,
-          "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=400&q=80",
+          "name": "حقيبة ظهر للطلاب",
+          "description": "حقيبة متينة ومريحة تحتوي على جيوب متعددة للكتب واللابتوب.",
+          "price": 28000,
+          "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=400&q=80",
           "available": false
         }
       ]
     },
     {
       "id": "store2",
-      "storeName": "واحة التقنية المتطورة",
-      "ownerName": "م. محمد علي",
-      "phone": "07800000000",
-      "whatsapp": "+9647800000000",
-      "goodsType": "هواتف وإلكترونيات",
-      "deliveryFee": 5000,
+      "storeName": "عالم التقنية الرقمية",
+      "ownerName": "م. سارة علي",
+      "phone": "07898765432",
+      "whatsapp": "+9647898765432",
+      "goodsType": "إلكترونيات وملحقات",
+      "deliveryFee": 4000,
       "products": [
         {
+          "id": 5,
+          "name": "سماعات بلوتوث سوني",
+          "description": "سماعات رأس لاسلكية تعزل الضوضاء مع بطارية تدوم طويلاً وجودة صوت عالية.",
+          "price": 125000,
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+          "available": true,
+          "externalLink": "https://instagram.com",
+          "linkPlatform": "instagram"
+        },
+        {
           "id": 6,
-          "name": "iPhone 15 Pro Max",
-          "description": "أيفون 15 برو ماكس، ذاكرة 256 جيجابايت، شريحة تيتانيوم، لون تيتانيوم طبيعي.",
-          "price": 1550000,
-          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=400&q=80",
-          "available": true
+          "name": "ساعة ذكية برو",
+          "description": "تتبع النشاط البدني، نبضات القلب، والإشعارات، مقاومة للماء.",
+          "price": 85000,
+          "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
+          "available": true,
+          "externalLink": "https://facebook.com",
+          "linkPlatform": "facebook"
         },
         {
           "id": 7,
-          "name": "Samsung Galaxy S24 Ultra",
-          "description": "سامسونج جالاكسي S24 ألترا، مع قلم S-Pen، ذاكرة 512 جيجا، ذكاء اصطناعي مدمج.",
-          "price": 1450000,
-          "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=400&q=80",
+          "name": "كيبورد ميكانيكي للألعاب",
+          "description": "كيبورد بإضاءة RGB ومفاتيح حمراء سريعة الاستجابة.",
+          "price": 95000,
+          "image": "https://images.unsplash.com/photo-1587829741301-dc798b91a603?auto=format&fit=crop&w=400&q=80",
           "available": true
         },
         {
           "id": 8,
-          "name": "MacBook Air M2",
-          "description": "لابتوب ماك بوك اير بشريحة M2، شاشة 13.6 إنش، رمادي فاتح، مناسب للعمل الجامعي.",
-          "price": 1850000,
-          "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=400&q=80",
-          "available": true
-        },
-        {
-          "id": 9,
-          "name": "سماعات Sony WH-1000XM5",
-          "description": "سماعات رأس لاسلكية من سوني، تعزل الضوضاء بشكل فعال، بطارية تدوم 30 ساعة.",
-          "price": 420000,
-          "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&w=400&q=80",
-          "available": true
-        },
-        {
-          "id": 10,
-          "name": "Apple Watch Series 9",
-          "description": "ساعة آبل الجديدة، مقاومة للماء، تتتبع النشاط الرياضي والصحي، دعم البلاط.",
-          "price": 650000,
-          "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=400&q=80",
-          "available": false
+          "name": "شاحن سريع 20 واط",
+          "description": "شاحن أصلي متوافق مع معظم الهواتف الحديثة، يضمن شحناً آمناً وسريعاً.",
+          "price": 15000,
+          "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=400&q=80",
+          "available": true,
+          "externalLink": "https://tiktok.com",
+          "linkPlatform": "tiktok"
         }
       ]
     },
     {
       "id": "store3",
-      "storeName": "ديكور المنزل العصري",
-      "ownerName": "سارة محمود",
-      "phone": "07900000000",
-      "whatsapp": "+9647900000000",
-      "goodsType": "أثاث وديكور منزلي",
-      "deliveryFee": 10000,
+      "storeName": "متجر الأناقة العصرية",
+      "ownerName": "رنا محمود",
+      "phone": "07555555555",
+      "whatsapp": "+9647555555555",
+      "goodsType": "ملابس وإكسسوارات",
+      "deliveryFee": 3000,
       "products": [
         {
-          "id": 11,
-          "name": "طقم صالة مودرن (3 قطع)",
-          "description": "طقم أريكة مكون من 3 قطع، قماش فاخر، لون رصاصي فاتح، يناسب الصالات العصرية.",
-          "price": 1200000,
-          "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=400&q=80",
+          "id": 9,
+          "name": "قميص كلاسيك أبيض",
+          "description": "قميص قطني 100%، تصميم أنيق يناسب المناسبات الرسمية والعمل.",
+          "price": 30000,
+          "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=400&q=80",
+          "images": [
+            "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=400&q=80",
+            "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=400&q=80"
+          ],
+          "available": true,
+          "externalLink": "https://instagram.com",
+          "linkPlatform": "instagram"
+        },
+        {
+          "id": 10,
+          "name": "حذاء رياضي مريح",
+          "description": "حذاء للمشي والجري، نعل طبي مضاد للصدمات، متوفر بألوان متعددة.",
+          "price": 65000,
+          "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80",
           "available": true
+        },
+        {
+          "id": 11,
+          "name": "نظارة شمسية فاخرة",
+          "description": "نظارات حماية من الأشعة فوق البنفسجية بتصميم عصري وجذاب.",
+          "price": 45000,
+          "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=400&q=80",
+          "available": true,
+          "externalLink": "https://facebook.com",
+          "linkPlatform": "facebook"
         },
         {
           "id": 12,
-          "name": "طاولة طعام خشب بلوط",
-          "description": "طاولة طعام تتسع لـ 6 أشخاص، صناعة من خشب البلوط الطبيعي مع كراسي مريحة.",
-          "price": 850000,
-          "image": "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=400&q=80",
-          "available": true
-        },
-        {
-          "id": 13,
-          "name": "سرير مزدوج مع مرتبة",
-          "description": "سرير ملكي (King Size) خشب معياري، يأتي مع مرتبة طبية مريحة وضمان 5 سنوات.",
-          "price": 900000,
-          "image": "https://images.unsplash.com/photo-1505693416388-b0346b76691a?auto=format&fit=crop&w=400&q=80",
-          "available": true
-        },
-        {
-          "id": 14,
-          "name": "ثريا سقف كريستال",
-          "description": "ثريا إنارة مودرن، كريستال مع حواف ذهبية، تضفي جواً من الفخامة على الغرفة.",
-          "price": 250000,
-          "image": "https://images.unsplash.com/photo-1513506003011-3b03c8014133?auto=format&fit=crop&w=400&q=80",
-          "available": true
-        },
-        {
-          "id": 15,
-          "name": "مكتبة خشبية أرضية",
-          "description": "رفوف خشبية متعددة الأطوال لتخزين الكتب والديكورات، تصميم بسيط وأنيق.",
-          "price": 180000,
-          "image": "https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&w=400&q=80",
-          "available": false
+          "name": "حقيبة يد جلدية",
+          "description": "حقيبة يد نسائية من الجلد الطبيعي، مساحة واسعة ومتينة.",
+          "price": 80000,
+          "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=400&q=80",
+          "available": false,
+          "externalLink": "https://tiktok.com",
+          "linkPlatform": "tiktok"
         }
       ]
     }
