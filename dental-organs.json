@@ -2,11 +2,21 @@
   {
     "id": "dental-panoramic",
     "name": "بانوراما (Panoramic OPG)",
-    "url": "رابط_صورة_البانوراما.jpg"
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/Dental%20Image/panoramatic.png"
   },
   {
     "id": "dental-periapical",
-    "name": "حول الذروة (Periapical)",
-    "url": "رابط_صورة_متخصصة_للسن.jpg"
+    "name": "أشعة حول الذروة (periapical OPG)",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/Dental%20Image/periapical.png"
+  },
+  {
+    "id": "dental-CBCT",
+    "name": "التصوير المقطعي المحوسب ذو الحزمة المخروطية (CBCT OPG)",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/Dental%20Image/CBCT.png"
+  },
+  {
+    "id": "dental-cephalometric",
+    "name": "أشعة السيفالومترية (cephalometric)",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/Dental%20Image/cephalometric.png"
   }
 ]
