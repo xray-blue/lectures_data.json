@@ -8,7 +8,7 @@
     "goodsType": "قهوة ومعدات تحضير",
     "deliveryFee": 3500,
     "logoUrl": "https://cdn.asp.events/CLIENT_Dubai_Wo_4B15F265_5056_B739_54F3125D47F0BC95/sites/saudifood-2023/media/COFFEE-WORLD-LOGO-01.png",
-    "themeColor": "#6f4e37",
+    "themeColor": "#d19d79",
     "products": [
       {
         "id": 3,
@@ -68,7 +68,7 @@
     "goodsType": "أدوات فنية وقرطاسية",
     "deliveryFee": 3000,
     "logoUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=150&q=80",
-    "themeColor": "#d946ef",
+    "themeColor": "#92e896",
     "products": [
       {
         "id": 7,
@@ -125,7 +125,7 @@
     "goodsType": "ساعات وإكسسوارات",
     "deliveryFee": 4000,
     "logoUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=150&q=80",
-    "themeColor": "#eab308",
+    "themeColor": "#bd92e8",
     "products": [
       {
         "id": 11,
