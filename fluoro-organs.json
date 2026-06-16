@@ -12,6 +12,18 @@
     "loopUrl": "https://i.makeagif.com/media/10-26-2015/wiJyCc.gif"
   },
   {
+    "id": "fluoro-Gastric",
+    "name": "تصوير المعدة (Gastric)",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/floroscopy/Angiography-coronal.jpg",
+    "loopUrl": "https://i.makeagif.com/media/11-18-2014/6uaOsP.gif"
+  },
+  {
+    "id": "my-neck",
+    "name": "تصوير الرقبة (NECK)",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/floroscopy/Angiography-coronal.jpg",
+    "loopUrl": "https://i.makeagif.com/media/8-30-2015/LXfiuO.gif"
+  },
+  {
     "id": "Cardiac Catheterization",
     "name": "قسطرة القلب (Cardiac Catheterization)",
     "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/floroscopy/Cardiac%20Catheterization.jpg",
