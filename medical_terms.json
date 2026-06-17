@@ -6,11 +6,11 @@
         "title": "1. لواحق تخص الأورام والنمو (Tumors & Growth)",
         "headers": ["Suffix", "المعنى", "مثال", "شرح المثال"],
         "items": [
-          { "col1": "-oma", "col2": "ورم أو تورم", "col3": "Carcinoma", "col4": "ورم سرطاني خبيث ينشأ من نسيج ظهاري" },
-          { "col1": "-plasia", "col2": "نمو أو تكوين", "col3": "Hyperplasia", "col4": "زيادة عدد الخلايا (نمو مفرط)" },
-          { "col1": "-trophy", "col2": "تغذية ونمو", "col3": "Atrophy", "col4": "ضمور (نقص حجم العضو بسبب نقص التغذية أو الاستعمال)" },
-          { "col1": "-megaly", "col2": "تضخم", "col3": "Hepatomegaly", "col4": "تضخم الكبد" },
-          { "col1": "-plasty", "col2": "ترميم أو إصلاح جراحي", "col3": "Angioplasty", "col4": "ترميم أو توسيع الأوعية الدموية" }
+          { "col1": "-oma", "col2": "ورم أو تورم", "col3": "Carcinoma", "col4": "ورم سرطاني خبيث ينشأ من نسيج ظهاري", "image": "https://cdn.britannica.com/99/144399-050-9D9944DD/cell-carcinoma.jpg" },
+          { "col1": "-plasia", "col2": "نمو أو تكوين", "col3": "Hyperplasia", "col4": "زيادة عدد الخلايا (نمو مفرط)", "image": "https://thumbs.dreamstime.com/z/normal-cells-hypertrophy-hyperplasia-normal-cells-hypertrophy-increase-cell-size-hyperplasia-results-increase-129584602.jpg" },
+          { "col1": "-trophy", "col2": "تغذية ونمو", "col3": "Atrophy", "col4": "ضمور (نقص حجم العضو بسبب نقص التغذية أو الاستعمال)", "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/1025_Atrophy.png" },
+          { "col1": "-megaly", "col2": "تضخم", "col3": "Hepatomegaly", "col4": "تضخم الكبد", "image": "https://dada2.org/wp-content/uploads/2023/06/Liver-Hepatomegaly-scaled.jpeg" },
+          { "col1": "-plasty", "col2": "ترميم أو إصلاح جراحي", "col3": "Angioplasty", "col4": "ترميم أو توسيع الأوعية الدموية", "image": "https://www.hopkinsmedicine.org/-/media/images/health/2_-treatment/cardiovascular/coronary-artery-disease-treatment/pcardio20140402v0001.jpg" }
         ]
       },
       {
