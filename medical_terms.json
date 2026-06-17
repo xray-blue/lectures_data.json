@@ -71,18 +71,26 @@
     "title": "الجزء الثاني: التشريح السطحي والإتجاهات (Anatomical Terms)",
     "headers": ["المصطلح (الإنجليزي)", "المعنى (عربي)", "مثال تطبيقي"],
     "items": [
-      { "col1": "Anterior / Ventral", "col2": "أمامي / بطني", "col3": "The sternum is anterior to the heart (عظمة القص أمام القلب)", "image": "https://study.com/cimages/multimages/16/640px-silhouette_humain_asexue_anterieur_posterieur.svg3793846600880383014.jpeg" },
-      { "col1": "Posterior / Dorsal", "col2": "خلفي / ظهري", "col3": "The spine is posterior to the heart (العمود الفقري خلف القلب)" },
-      { "col1": "Superior", "col2": "علوي (أقرب للرأس)", "col3": "The head is superior to the neck (الرأس أعلى من الرقبة)" },
-      { "col1": "Inferior", "col2": "سفلي (أقرب للقدم)", "col3": "The feet are inferior to the knees (القدمين أسفل الركبتين)" },
-      { "col1": "Medial", "col2": "إنسي (نحو الخط الوسطي)", "col3": "The nose is medial to the eyes (الأنف أنسي بالنسبة للعينين)" },
-      { "col1": "Lateral", "col2": "وحشي (بعيداً عن الخط الوسطي)", "col3": "The ears are lateral to the nose (الأذنين وحشيتين بالنسبة للأنف)" },
-      { "col1": "Proximal", "col2": "قريب (من نقطة الارتكاز)", "col3": "The elbow is proximal to the wrist (الكوع قريب من الرس)" },
-      { "col1": "Distal", "col2": "بعيد (عن نقطة الارتكاز)", "col3": "The fingers are distal to the wrist (الأصابع بعيدة عن الرس)" },
-      { "col1": "Superficial", "col2": "سطحي", "col3": "The skin is superficial to the muscles (الجلد سطحي بالنسبة للعضلات)" },
-      { "col1": "Deep", "col2": "عميق", "col3": "The bones are deep to the muscles (العظام عميقة تحت العضلات)" },
-      { "col1": "Ipsilateral", "col2": "نفس الجانب", "col3": "The right hand and right foot are ipsilateral (اليد اليمنى والقدم اليمنى في نفس الجهة)" },
-      { "col1": "Contralateral", "col2": "الجهة المقابلة", "col3": "The right hand controls the left side (contralateral) (اليد اليمنى تتحكم بالجهة اليمنى في الدماغ المقابل)" }
+      { "col1": "Anterior / Ventral", "col2": "أمامي / بطني", "col3": "The sternum is anterior to the heart (عظمة القص أمام القلب)", "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/position/anterior.jpg" },
+      { "col1": "Posterior / Dorsal", "col2": "خلفي / ظهري", "col3": "The spine is posterior to the heart (العمود الفقري خلف القلب)", "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/position/postiroir.jpg" },
+      { "col1": "Superior", "col2": "علوي (أقرب للرأس)", "col3": "The head is superior to the neck (الرأس أعلى من الرقبة)", "image": "https://basicmedicalkey.com/wp-content/uploads/2016/06/B9780702051319000080_f008-004-9780702051319.jpg" },
+      { "col1": "Inferior", "col2": "سفلي (أقرب للقدم)", "col3": "The feet are inferior to the knees (القدمين أسفل الركبتين)", "image": "https://www.hamiltonphysiorehab.ca/media/img/343028/3265_anatomy_1.jpg" },
+      { "col1": "Medial", "col2": "إنسي (نحو الخط الوسطي)", "col3": "The nose is medial to the eyes (الأنف أنسي بالنسبة للعينين)", "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/position/medial.jpg" },
+      { "col1": "Lateral", "col2": "وحشي (بعيداً عن الخط الوسطي)", "col3": "The ears are lateral to the nose (الأذنين وحشيتين بالنسبة للأنف)", "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/position/laterior.jpg" },
+      { "col1": "Flexion and extension of neck", "col2": "الثني والبسط للرقبة", "col3": "Nodding your head 'yes' involves flexion and extension of neck (الإيماء بالرأس لأسفل وأعلى يشتمل على ثني وبسط الرقبة)", "image": "" },
+      { "col1": "Flexion and extension of elbow", "col2": "الثني والبسط للمرفق", "col3": "Doing a bicep curl is flexion and extension of elbow (ثني الذراع لأعلى وفردها يشتمل على ثني وبسط المرفق)", "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/position/Flexion%20and%20extension%20of%20elbow.jpg" },
+      { "col1": "Dorsiflexion and plantarflexion of foot", "col2": "الثني الظهري والثني الأخمصي للقدم", "col3": "Standing on heels is dorsiflexion, on toes is plantarflexion of foot (الوقوف على الكعب ثني ظهري، وعلى أصابع القدم ثني أخمصي)", "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/position/Dorsiflexion%20and%20plantarflexion%20foot.jpg" },
+      { "col1": "Flexion and extension of shoulder", "col2": "الثني والبسط للكتف", "col3": "Raising arm forward is flexion, pulling backward is extension of shoulder (رفع الذراع للأمام ثني، وسحبها للخلف بسط للكتف)", "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/position/Flexion%20and%20extension%20of%20shoulder.jpg" },
+      { "col1": "Abduction and adduction of hip", "col2": "التبعيد والتقريب للورك", "col3": "Spreading legs apart is abduction, bringing together is adduction of hip (فتح الساقين للجانبين تبعيد، وضمهما تقريب للورك)", "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/position/Abduction%20and%20adduction%20of%20hip.jpg" },
+      { "col1": "Abduction and adduction of wrist", "col2": "التبعيد والتقريب للرس (المعصم)", "col3": "Moving hand sideways away from body is abduction of wrist (تحريك اليد جانباً بعيداً عن الجسم تبعيد للرس)", "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/position/Abduction%20and%20adduction%20of%20wrist.jpg" },
+      { "col1": "Pronation and supination of hand/forearm", "col2": "الكب والاستلقاء لليد/الساعد", "col3": "Turning palm down is pronation, up is supination of hand/forearm (توجيه راحة اليد للأسفل كب، وللأعلى استلقاء لليد/الساعد)", "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/position/Pronation%20and%20supination%20of%20hand%20forearm.jpg" },
+      { "col1": "Inversion and eversion of foot", "col2": "الانقلاب الداخلي والخارجي للقدم", "col3": "Turning sole inward is inversion, outward is eversion of foot (توجيه باطن القدم للداخل انقلاب داخلي، وللخارج انقلاب خارجي)", "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/main/images/position/Inversion%20and%20eversion%20of%20foot.jpg" }
+      { "col1": "Proximal", "col2": "قريب (من نقطة الارتكاز)", "col3": "The elbow is proximal to the wrist (الكوع قريب من الرس)", "image": "https://ittcs.wordpress.com/wp-content/uploads/2010/10/img_03101.jpg" },
+      { "col1": "Distal", "col2": "بعيد (عن نقطة الارتكاز)", "col3": "The fingers are distal to the wrist (الأصابع بعيدة عن الرس)", "image": "https://ittcs.wordpress.com/wp-content/uploads/2010/10/img_03101.jpg" },
+      { "col1": "Superficial", "col2": "سطحي", "col3": "The skin is superficial to the muscles (الجلد سطحي بالنسبة للعضلات)", "image": "https://www.veincarecenter.com/wp-content/uploads/2022/10/Superficial-Thrombophlebitis.jpg" },
+      { "col1": "Deep", "col2": "عميق", "col3": "The bones are deep to the muscles (العظام عميقة تحت العضلات)", "image": "https://www.veincarecenter.com/wp-content/uploads/2022/10/Superficial-Thrombophlebitis.jpg" },
+      { "col1": "Ipsilateral", "col2": "نفس الجانب", "col3": "The right hand and right foot are ipsilateral (اليد اليمنى والقدم اليمنى في نفس الجهة)", "image": "https://admin.anatomy.app/Media/images/anatomical-terminology-directional-terminology-contralateral-ipsilateral_20241024042752_large.jpg" },
+      { "col1": "Contralateral", "col2": "الجهة المقابلة", "col3": "The right hand controls the left side (contralateral) (اليد اليمنى تتحكم بالجهة اليمنى في الدماغ المقابل)", "image": "https://admin.anatomy.app/Media/images/anatomical-terminology-directional-terminology-contralateral-ipsilateral_20241024042752_large.jpg" }
     ]
   },
   "part3": {
@@ -92,40 +100,40 @@
         "title": "1. صفات الكثافة والشكل (Density & Shape Characteristics)",
         "headers": ["المصطلح", "المعنى", "ملاحظات"],
         "items": [
-          { "col1": "Radiopaque", "col2": "كثيف للأشعة السينية (يظهر أبيض)", "col3": "يستخدم لوصف العظام والمعادن والمادة الظليلة في الـ X-ray", "image": "https://cdn.britannica.com/99/144399-050-9D9944DD/cell-carcinoma.jpg" },
-          { "col1": "Radiolucent", "col2": "شفاف للأشعة السينية (يظهر أسود)", "col3": "يستخدم لوصف الهواء، الدهون، أو التآكل العظمي" },
-          { "col1": "Homogeneous", "col2": "متجانس", "col3": "الكثافة موزعة بالتساوي في الكتلة (غالباً حميد)" },
-          { "col1": "Heterogeneous", "col2": "غير متجانس", "col3": "توجد مناطق مختلفة الكثافة داخل الكتلة (غالباً ورم خبيث أو معقد)" },
+          { "col1": "Radiopaque", "col2": "كثيف للأشعة السينية (يظهر أبيض)", "col3": "يستخدم لوصف العظام والمعادن والمادة الظليلة في الـ X-ray", "image": "https://mediamedent.com/wp-content/uploads/2021/10/PrincDA-L2-1024x574.png" },
+          { "col1": "Radiolucent", "col2": "شفاف للأشعة السينية (يظهر أسود)", "col3": "يستخدم لوصف الهواء، الدهون، أو التآكل العظمي", "image": "https://mediamedent.com/wp-content/uploads/2021/10/PrincDA-L2-1024x574.png" },
+          { "col1": "Homogeneous", "col2": "متجانس", "col3": "الكثافة موزعة بالتساوي في الكتلة (غالباً حميد)", "image": "https://chemistrytalk.org/wp-content/uploads/2023/03/1200px-Mixtures_and_Pure_Substances_2x2.svg.png" },
+          { "col1": "Heterogeneous", "col2": "غير متجانس", "col3": "توجد مناطق مختلفة الكثافة داخل الكتلة (غالباً ورم خبيث أو معقد)", "image": "https://chemistrytalk.org/wp-content/uploads/2023/03/1200px-Mixtures_and_Pure_Substances_2x2.svg.png" },
           { "col1": "Well-defined", "col2": "محدد الحدود", "col3": "حدود واضحة وحادة (ميزة للأكياس والأورام الحميدة)" },
           { "col1": "Ill-defined", "col2": "حدود غير واضحة", "col3": "حدود مموهة وغير منتظمة (ميزة للأورام الخبيثة أو الالتهابات)" },
-          { "col1": "Sclerotic", "col2": "تصلب (زيادة الكثافة)", "col3": "العظام تصبح أكثر بياضاً (شفاء الكسر، أو ورم عظمي)" },
-          { "col1": "Lytic", "col2": "تآكل (نقص الكثافة)", "col3": "وجود ثقوب منخفضة الكثافة في العظم (مثل النقائل السرطانية)" }
+          { "col1": "Sclerotic", "col2": "تصلب (زيادة الكثافة)", "col3": "العظام تصبح أكثر بياضاً (شفاء الكسر، أو ورم عظمي)", "image": "https://voca-land.sgp1.cdn.digitaloceanspaces.com/0/1757685185907/912371f1.jpg" },
+          { "col1": "Lytic", "col2": "تآكل (نقص الكثافة)", "col3": "وجود ثقوب منخفضة الكثافة في العظم (مثل النقائل السرطانية)", "image": "https://prod-images-static.radiopaedia.org/images/11379617/ac53b8d7e0dbc78b7106d412609e03_big_gallery.jpg" }
         ]
       },
       {
         "title": "2. مصطلحات خاصة بالرئة (Lung Specifics)",
         "headers": ["المصطلح", "المعنى", "ملاحظات"],
         "items": [
-          { "col1": "Consolidation", "col2": "تكثف / اندماج", "col3": "مساحة بيضاء في الرئة محل الهواء (دلالة على التهاب رئوي Pneumonia)" },
-          { "col1": "Atelectasis", "col2": "انخماص", "col3": "انهيار أو انكماش جزء من الرئة يقلل من حجمها" },
-          { "col1": "GGO (Ground Glass Opacity)", "col2": "ضبابية زجاجية", "col3": "لون رمادي شفاف في الرئة (قد يكون التهاب فيروسي، ورم مبكر، أو وذمة)" },
-          { "col1": "Pleural Effusion", "col2": "انصباب جنبي", "col3": "تجمع سوائل (سوائل أو دم) في الفراغ بين الرئة والجدار الصدري" },
-          { "col1": "Honeycombing", "col2": "شكل خلايا النحل", "col3": "مظهر شبكي من الأكياس الهوائية يدل على التليف الرئوي المزمن" },
-          { "col1": "Nodules", "col2": "عقيدات", "col3": "بؤر صغيرة دائرية في الرئة (تتطلب متابعة لاستبعاد السرطان)" },
-          { "col1": "Pneumothorax", "col2": "استرواح الصدر", "col3": "وجود هواء في التجويف الجنبي يضمن الرئة (يظهر خط حاد أبيض)" }
+          { "col1": "Consolidation", "col2": "تكثف / اندماج", "col3": "مساحة بيضاء في الرئة محل الهواء (دلالة على التهاب رئوي Pneumonia)", "image": "https://thecommonvein.com/wp-content/uploads/2023/03/consolidation-RUL-47F-001.jpg" },
+          { "col1": "Atelectasis", "col2": "انخماص", "col3": "انهيار أو انكماش جزء من الرئة يقلل من حجمها", "image": "https://www.health.com/thmb/gwtHiej7CZlYCGtgqzAtY8i-71Y=/2120x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1331571645-aaf66848de044e8593f26342731eac90.jpg" },
+          { "col1": "GGO (Ground Glass Opacity)", "col2": "ضبابية زجاجية", "col3": "لون رمادي شفاف في الرئة (قد يكون التهاب فيروسي، ورم مبكر، أو وذمة)", "image": "https://patientworthy.com/wp-content/uploads/2020/05/X-ray_of_ground_glass_opacities_of_pneumocystis_pneumonia.jpg" },
+          { "col1": "Pleural Effusion", "col2": "انصباب جنبي", "col3": "تجمع سوائل (سوائل أو دم) في الفراغ بين الرئة والجدار الصدري", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Effusionhalf.PNG/250px-Effusionhalf.PNG" },
+          { "col1": "Honeycombing", "col2": "شكل خلايا النحل", "col3": "مظهر شبكي من الأكياس الهوائية يدل على التليف الرئوي المزمن", "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/CT_scan_in_usual_interstitial_pneumonia_%28UIP%29.jpg" },
+          { "col1": "Nodules", "col2": "عقيدات", "col3": "بؤر صغيرة دائرية في الرئة (تتطلب متابعة لاستبعاد السرطان)", "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-improves-lung-nodul.jpg" },
+          { "col1": "Pneumothorax", "col2": "استرواح الصدر", "col3": "وجود هواء في التجويف الجنبي يضمن الرئة (يظهر خط حاد أبيض)", "image": "https://mdsearchlight.com/wp-content/uploads/2024/08/27370-1724697049320.jpg" }
         ]
       },
       {
         "title": "3. مصطلحات خاصة بالرنين المغناطيسي MRI Sequences",
         "headers": ["المصطلح", "المعنى", "ملاحظات"],
         "items": [
-          { "col1": "Hyperintense", "col2": "عالي الإشارة (يظهر أبيض)", "col3": "مثل الدهون في T1، أو السوائل في T2 (يظهر مشرقاً)" },
-          { "col1": "Hypointense", "col2": "منخفض الإشارة (يظهر أسود)", "col3": "مثل التكلس أو الهواء في معظم التسلسلات (يظهر معتماً)" },
-          { "col1": "T1-weighted", "col2": "تسلسل تي 1", "col3": "الماء (CSF) = أسود. يوضح التشريح الدقيق والدهون (بيضاء)" },
-          { "col1": "T2-weighted", "col2": "تسلسل تي 2", "col3": "الماء (CSF) = أبيض ساطع. يوضح الأورام والالتهابات" },
-          { "col1": "FLAIR", "col2": "تثبيط السائل", "col3": "مثل T2 لكن الماء (السائل الدماغي) أسود (لإظهار الأورام بوضوح)" },
-          { "col1": "DWI", "col2": "التصوير بالانتشار", "col3": "مهم جداً لتشخيص الجلطة الدماغية الحادة (تظهر بيضاء فوراً)" },
-          { "col1": "Gadolinium Enhancement", "col2": "التعزيز بالصبغة", "col3": "بعد الحقن، الأماكن التي تضيء تعني كثافة أوعية دموية (ورم نشط، التهاب)" }
+          { "col1": "Hyperintense", "col2": "عالي الإشارة (يظهر أبيض)", "col3": "مثل الدهون في T1، أو السوائل في T2 (يظهر مشرقاً)", "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/CADASIL.jpg" },
+          { "col1": "Hypointense", "col2": "منخفض الإشارة (يظهر أسود)", "col3": "مثل التكلس أو الهواء في معظم التسلسلات (يظهر معتماً)", "image": "https://www.researchgate.net/publication/335777398/figure/fig2/AS:802388944375809@1568315840879/Signal-on-the-T1-weighted-images-hypointense-lesion-A-lesion-with-hypointense-center.png" },
+          { "col1": "T1-weighted", "col2": "تسلسل تي 1", "col3": "الماء (CSF) = أسود. يوضح التشريح الدقيق والدهون (بيضاء)", "image": "https://mrimaster.com/wp-content/uploads/2023/09/MRI-T1-axial-image-of-the-brain-e1694777562521.jpg" },
+          { "col1": "T2-weighted", "col2": "تسلسل تي 2", "col3": "الماء (CSF) = أبيض ساطع. يوضح الأورام والالتهابات", "image": "https://prod-images-static.radiopaedia.org/images/19320457/f1eda9941bacc5ddf135c1886218c4_gallery.jpeg" },
+          { "col1": "FLAIR", "col2": "تثبيط السائل", "col3": "مثل T2 لكن الماء (السائل الدماغي) أسود (لإظهار الأورام بوضوح)", "image": "https://www.researchgate.net/publication/394969185/figure/fig1/AS:11431281606651840@1756227825676/FLAIR-weighted-brain-MRI-on-hospital-day-1-showing-no-localized-atrophy-or-abnormal.png" },
+          { "col1": "DWI", "col2": "التصوير بالانتشار", "col3": "مهم جداً لتشخيص الجلطة الدماغية الحادة (تظهر بيضاء فوراً)", "image": "https://medifyhome.com/wp-content/uploads/2024/11/images-6.jpeg" },
+          { "col1": "Gadolinium Enhancement", "col2": "التعزيز بالصبغة", "col3": "بعد الحقن، الأماكن التي تضيء تعني كثافة أوعية دموية (ورم نشط، التهاب)", "image": "https://www.researchgate.net/publication/337428670/figure/fig1/AS:827790354026497@1574372008497/Gadolinium-enhanced-T1-weighted-magnetic-resonance-imaging-displaying-a-left-frontal.png" }
         ]
       }
     ]
@@ -134,7 +142,7 @@
     "title": "الجزء الرابع: الأجهزة والمصطلحات الفيزيائية (Physics & Equipment)",
     "headers": ["المصطلح", "المعنى", "الشرح"],
     "items": [
-      { "col1": "Ionizing Radiation", "col2": "إشعاع مؤين", "col3": "أشعة تمتلك طاقة كافية لتأين الذرات (X-ray, CT, Nuclear Medicine)", "image": "https://cdn.britannica.com/99/144399-050-9D9944DD/cell-carcinoma.jpg" },
+      { "col1": "Ionizing Radiation", "col2": "إشعاع مؤين", "col3": "أشعة تمتلك طاقة كافية لتأين الذرات (X-ray, CT, Nuclear Medicine)" },
       { "col1": "Non-ionizing Radiation", "col2": "إشعاع غير مؤين", "col3": "لا يكسر الروابط الكيميائية ويعتبر أكثر أماناً (Ultrasound, MRI)" },
       { "col1": "Attenuation", "col2": "توهين / إضعاف", "col3": "فقدان شدة الأشعة أثناء مرورها عبر الجسم (امتصاص وتشتت)" },
       { "col1": "Scatter", "col2": "تشتت", "col3": "انحراف الأشعة عن مسارها مما يسبب ضوضاء (ضبابية) في الصورة" },
@@ -149,7 +157,7 @@
     "title": "الجزء الخامس: اختصارات الأنظمة والإجراءات (Systems & Abbreviations)",
     "headers": ["الاختصار", "الاسم الكامل", "المعنى / الاستخدام"],
     "items": [
-      { "col1": "PACS", "col2": "Picture Archiving and Communication System", "col3": "نظام أرشفة وتناقل الصور الطبية (لحفظ وعرض الأشعة عبر الشبكة)", "image": "https://cdn.britannica.com/99/144399-050-9D9944DD/cell-carcinoma.jpg" },
+      { "col1": "PACS", "col2": "Picture Archiving and Communication System", "col3": "نظام أرشفة وتناقل الصور الطبية (لحفظ وعرض الأشعة عبر الشبكة)" },
       { "col1": "RIS", "col2": "Radiology Information System", "col3": "نظام معلومات الأشعة (لإدارة بيانات المرضى وجدولة المواعيد)" },
       { "col1": "HIS", "col2": "Hospital Information System", "col3": "النظام المركزي للمعلومات في المستشفى" },
       { "col1": "DICOM", "col2": "Digital Imaging and Communications in Medicine", "col3": "المعيار العالمي لتنسيق الصور الطبية الرقمية وتبادلها" },
