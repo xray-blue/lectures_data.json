@@ -92,7 +92,7 @@
         "title": "1. صفات الكثافة والشكل (Density & Shape Characteristics)",
         "headers": ["المصطلح", "المعنى", "ملاحظات"],
         "items": [
-          { "col1": "Radiopaque", "col2": "كثيف للأشعة السينية (يظهر أبيض)", "col3": "يستخدم لوصف العظام والمعادن والمادة الظليلة في الـ X-ray" },
+          { "col1": "Radiopaque", "col2": "كثيف للأشعة السينية (يظهر أبيض)", "col3": "يستخدم لوصف العظام والمعادن والمادة الظليلة في الـ X-ray", "image": "https://cdn.britannica.com/99/144399-050-9D9944DD/cell-carcinoma.jpg" },
           { "col1": "Radiolucent", "col2": "شفاف للأشعة السينية (يظهر أسود)", "col3": "يستخدم لوصف الهواء، الدهون، أو التآكل العظمي" },
           { "col1": "Homogeneous", "col2": "متجانس", "col3": "الكثافة موزعة بالتساوي في الكتلة (غالباً حميد)" },
           { "col1": "Heterogeneous", "col2": "غير متجانس", "col3": "توجد مناطق مختلفة الكثافة داخل الكتلة (غالباً ورم خبيث أو معقد)" },
@@ -134,7 +134,7 @@
     "title": "الجزء الرابع: الأجهزة والمصطلحات الفيزيائية (Physics & Equipment)",
     "headers": ["المصطلح", "المعنى", "الشرح"],
     "items": [
-      { "col1": "Ionizing Radiation", "col2": "إشعاع مؤين", "col3": "أشعة تمتلك طاقة كافية لتأين الذرات (X-ray, CT, Nuclear Medicine)" },
+      { "col1": "Ionizing Radiation", "col2": "إشعاع مؤين", "col3": "أشعة تمتلك طاقة كافية لتأين الذرات (X-ray, CT, Nuclear Medicine)", "image": "https://cdn.britannica.com/99/144399-050-9D9944DD/cell-carcinoma.jpg" },
       { "col1": "Non-ionizing Radiation", "col2": "إشعاع غير مؤين", "col3": "لا يكسر الروابط الكيميائية ويعتبر أكثر أماناً (Ultrasound, MRI)" },
       { "col1": "Attenuation", "col2": "توهين / إضعاف", "col3": "فقدان شدة الأشعة أثناء مرورها عبر الجسم (امتصاص وتشتت)" },
       { "col1": "Scatter", "col2": "تشتت", "col3": "انحراف الأشعة عن مسارها مما يسبب ضوضاء (ضبابية) في الصورة" },
@@ -149,7 +149,7 @@
     "title": "الجزء الخامس: اختصارات الأنظمة والإجراءات (Systems & Abbreviations)",
     "headers": ["الاختصار", "الاسم الكامل", "المعنى / الاستخدام"],
     "items": [
-      { "col1": "PACS", "col2": "Picture Archiving and Communication System", "col3": "نظام أرشفة وتناقل الصور الطبية (لحفظ وعرض الأشعة عبر الشبكة)" },
+      { "col1": "PACS", "col2": "Picture Archiving and Communication System", "col3": "نظام أرشفة وتناقل الصور الطبية (لحفظ وعرض الأشعة عبر الشبكة)", "image": "https://cdn.britannica.com/99/144399-050-9D9944DD/cell-carcinoma.jpg" },
       { "col1": "RIS", "col2": "Radiology Information System", "col3": "نظام معلومات الأشعة (لإدارة بيانات المرضى وجدولة المواعيد)" },
       { "col1": "HIS", "col2": "Hospital Information System", "col3": "النظام المركزي للمعلومات في المستشفى" },
       { "col1": "DICOM", "col2": "Digital Imaging and Communications in Medicine", "col3": "المعيار العالمي لتنسيق الصور الطبية الرقمية وتبادلها" },
