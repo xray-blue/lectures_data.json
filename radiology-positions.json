@@ -60,7 +60,7 @@
       {
         "name": "Sinuses Lateral",
         "desc": "Demonstrates sphenoid sinuses and fluid levels",
-        "image": "https://prod-images-static.radiopaedia.org/images/5583514/5ed884d964a6547820314d6dc4b2e6_big_gallery.jpeg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Paranasal_sinuses_radiograph_lateral.jpg",
         "technique": { "kvp": 75, "mas": 12, "sid": 100 },
         "details": "الجانب ملامس للوح، الشعاع عمودي على مستوى الغدة الصنوبرية.",
         "criteria": ["توضيح الجيوب الوتدية (Sphenoid)", "تراكب الصدغين"],
@@ -100,7 +100,7 @@
       {
         "name": "Cervical Spine AP",
         "desc": "Alignment of vertebral bodies",
-        "image": "https://prod-images-static.radiopaedia.org/images/9289883/1c20962e46c92ee83a3f551adb24fa_gallery.jpg",
+        "image": "https://www.ebmconsult.com/content/images/Xrays/AP_Neck.png",
         "technique": { "kvp": 70, "mas": 20, "sid": 100 },
         "details": "الظهر مستقيم، الكتفان للأسفل.",
         "criteria": ["استقامة العمود الفقري", "توضيح أجسام الفقرات"],
@@ -120,7 +120,7 @@
       {
         "name": "Cervical Oblique Views",
         "desc": "Demonstrates intervertebral foramina (Right & Left)",
-        "image": "https://prod-images-static.radiopaedia.org/images/11054505/d7f3b4c697e30685b1bc778862245f_big_gallery.jpeg",
+        "image": "https://www.clinicalanatomy.ca/radiology/neck/neckOblq.png",
         "technique": { "kvp": 75, "mas": 20, "sid": 100 },
         "details": "تدوير الرأس 45 درجة نحو الجهة المفحوصة.",
         "criteria": ["توضيح الثقوب بين الفقرات (Foramina) بوضوح", "عدم تراكب المفاصل الصغيرة"],
@@ -130,7 +130,7 @@
       {
         "name": "Thoracic Spine AP",
         "desc": "Upper and mid back vertebrae",
-        "image": "https://prod-images-static.radiopaedia.org/images/24685982/107ba064774cca24d20aeec2847fe9_big_gallery.jpeg",
+        "image": "https://omeka.lib.jmu.edu/r4a/files/original/f367342f719e5e0bd4c198b2b39de9d1.png",
         "technique": { "kvp": 80, "mas": 40, "sid": 100 },
         "details": "الاستلقاء على الظهر، الذراعان للأعلى لإبعاد الكتفين.",
         "criteria": ["توضيح أجسام الفقرات الصدرية", "عدم تراكب الأضلاع السفلية"],
@@ -140,7 +140,7 @@
       {
         "name": "Thoracic Spine Lateral",
         "desc": "Lateral view of thoracic vertebrae",
-        "image": "https://prod-images-static.radiopaedia.org/images/5536909/3d6010165dce62905e353991c111f4_big_gallery.jpeg",
+        "image": "https://prod-images-static.radiopaedia.org/images/23889596/f480e630fa3996dde165bbeb9c1205.jpg",
         "technique": { "kvp": 85, "mas": 60, "sid": 100 },
         "details": "الاستلقاء على الجنب، الذراعان فوق الرأس.",
         "criteria": ["توضيح الفقرات الصدرية جانبياً", "مساحة الفقرات"],
@@ -214,11 +214,21 @@
       },
       {
         "name": "Ribs Lateral",
-        "desc": "Lateral view for rib fractures",
-        "image": "https://prod-images-static.radiopaedia.org/images/70803236/2b9a72ea6ca5568f41b9a60ac7029af88034906c5ef4f11b9ecc8ad43f40f07b.jpg",
+        "desc": "Lateral view",
+        "image": "https://i.pinimg.com/736x/fb/6d/34/fb6d3491095e9168cbaf4d5772ad1fb9.jpg",
         "technique": { "kvp": 75, "mas": 12, "sid": 180 },
         "details": "الجانب المؤلم ملامس للوح.",
         "criteria": ["توضيح الأضلاع الجانبية بوضوح", "تدوير الأضلاع"],
+        "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
+        "notes": "تؤخذ للجهتين عادة."
+      },
+      {
+        "name": "Ribs AP oblique",
+        "desc": "oblique view",
+        "image": "https://prod-images-static.radiopaedia.org/images/54151097/bf08cac3156189e9301a1e31712eed2c2b65a20c132775bfef81079a07f2b107_big_gallery.jpeg",
+        "technique": { "kvp": 70, "mas": 10, "sid": 180 },
+        "details": "الجانب المائل ملامس للوح.",
+        "criteria": ["توضيح الأضلاع المائلة بوضوح", "تدوير الأضلاع"],
         "adjustments": { "thin": "-20% mAs", "obese": "+30% mAs", "pediatric": "-50% mAs" },
         "notes": "تؤخذ للجهتين عادة."
       }
@@ -265,7 +275,7 @@
       {
         "name": "Clavicle Lateral",
         "desc": "Lateral view of clavicle (or PA with angulation)",
-        "image": "https://prod-images-static.radiopaedia.org/images/5009793/a985914f54e33c6e2f10bb62546320_big_gallery.jpeg",
+        "image": "https://www.clinicaladvisor.com/wp-content/uploads/sites/11/2023/10/Figure1.-lateral-clavicle-fracture-scaled.jpg",
         "technique": { "kvp": 60, "mas": 10, "sid": 100 },
         "details": "المريض يميل للخلف 30-40 درجة، أو الشعاع يميل caudad.",
         "criteria": ["فصل الترقوة عن الأضلاع", "تأكيد موقع الكسر"],
@@ -285,7 +295,7 @@
       {
         "name": "Shoulder Lateral (Y-Scapula)",
         "desc": "Demonstrates shoulder dislocation",
-        "image": "https://prod-images-static.radiopaedia.org/images/63811111/a16498e683d03d2f3d459f6775c8d7_big_gallery.jpeg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Y_CR_shoulder.jpg",
         "technique": { "kvp": 65, "mas": 12, "sid": 100 },
         "details": "الجانب المصاب للوح، المريض يدور باتجاه اللوح لتشكيل حرف Y.",
         "criteria": ["ظهور شكل Y للوح الكتف", "موقع عظم العضد بالنسبة للوح"],
@@ -325,7 +335,7 @@
       {
         "name": "Elbow Oblique (Medial)",
         "desc": "Demonstrates radial head and coronoid process",
-        "image": "https://prod-images-static.radiopaedia.org/images/2943878/7c83fe624dd5538d4ca7d1e5f230c8_gallery.jpg",
+        "image": "https://prod-images-static.radiopaedia.org/images/57229960/0._gallery.jpeg",
         "technique": { "kvp": 55, "mas": 6, "sid": 100 },
         "details": "الكف ملامسة للوح، الكف تدور 45 درجة للداخل.",
         "criteria": ["توضيح رأس الكعبرة بوضوح", "رؤية الناتئ الإكليلي"],
@@ -335,7 +345,7 @@
       {
         "name": "Forearm AP & Lateral",
         "desc": "Radius and Ulna",
-        "image": "https://prod-images-static.radiopaedia.org/images/56684726/67d1961886bbccbd8ccd9eb7e411aa26bb329f7f4e1b8b66c709e1546b370d96_big_gallery.jpeg",
+        "image": "https://www.researchgate.net/publication/338863934/figure/fig4/AS:963470937833496@1606720780506/Plain-radiograph-right-forearm-AP-and-lateral-views-demonstrating-cortical-defect-in.jpg",
         "technique": { "kvp": 55, "mas": 8, "sid": 100 },
         "details": "شمل الكوع والرسغ.",
         "criteria": ["رؤية الكوع والرسغ", "عدم تراكب الزند والكعبرة"],
@@ -345,7 +355,7 @@
       {
         "name": "Wrist AP & Lateral",
         "desc": "Carpals and distal radius/ulna",
-        "image": "https://www.researchgate.net/publication/350923145/figure/fig1/AS:1013303388147712@1618601762095/Plain-AP-a-and-lateral-b-radiographs-of-the-right-wrist-on-initial-presentation.ppm",
+        "image": "https://www.researchgate.net/publication/323641114/figure/fig1/AS:601948382326784@1520527086675/The-wrist-AP-and-lateral-X-ray-shows-us-soft-tissue-density-increase-soft-tissue.png",
         "technique": { "kvp": 50, "mas": 5, "sid": 100 },
         "details": "AP: الكف ملامسة اللوح. Lateral: الإبهام للأعلى.",
         "criteria": ["توضيح المسافات المفصلية", "ظهور عظم العضاد"],
@@ -355,7 +365,7 @@
       {
         "name": "Wrist Oblique",
         "desc": "Demonstrates scaphoid and carpals",
-        "image": "https://prod-images-static.radiopaedia.org/images/21466951/411a0e1384f8dd492e664ce3cec73d_big_gallery.jpeg",
+        "image": "https://prod-images-static.radiopaedia.org/images/13570062/c3d77957ba01327f505d93dc6ba2ce54c2f9fc2c3f628a86998f5ed6bdd6bf3c_gallery.jpeg",
         "technique": { "kvp": 50, "mas": 5, "sid": 100 },
         "details": "الكف تدور 45 درجة للداخل (Ulnar deviation) وللأسفل قليلاً.",
         "criteria": ["توضيح عظم الزورقية (Scaphoid) بوضوح", "رؤية المفصل المشطي السلامي"],
@@ -375,7 +385,7 @@
       {
         "name": "Hand Lateral",
         "desc": "Lateral view of hand (True Lateral)",
-        "image": "https://prod-images-static.radiopaedia.org/images/21466951/411a0e1384f8dd492e664ce3cec73d_big_gallery.jpeg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/X-ray_of_normal_hand_by_lateral_projection.jpg/500px-X-ray_of_normal_hand_by_lateral_projection.jpg",
         "technique": { "kvp": 50, "mas": 6, "sid": 100 },
         "details": "الجانب الخارجي لليد (الجانب الزندي) ملامس للوح، الإبهام مثني للأمام أو للخلف.",
         "criteria": ["رؤية الأصابع في وضعية جانبية", "توضيح الأجسام الغريبة إن وجدت"],
@@ -385,7 +395,7 @@
       {
         "name": "Hand Oblique",
         "desc": "Oblique view of hand",
-        "image": "https://prod-images-static.radiopaedia.org/images/21466951/411a0e1384f8dd492e664ce3cec73d_big_gallery.jpeg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/X-ray_of_normal_hand_by_oblique_projection.jpg/960px-X-ray_of_normal_hand_by_oblique_projection.jpg",
         "technique": { "kvp": 50, "mas": 5, "sid": 100 },
         "details": "الكف تدور 45 درجة (Pronation Oblique أو Supination Oblique).",
         "criteria": ["توضيح المفاصل بين السلاميات", "رؤية رؤوس المشط"],
@@ -410,7 +420,7 @@
       {
         "name": "Femur Lateral",
         "desc": "Lateral view of thigh bone",
-        "image": "https://prod-images-static.radiopaedia.org/images/30113132/2554e834325c2ddb8f090666389d34_big_gallery.jpeg",
+        "image": "https://prod-images-static.radiopaedia.org/images/30113131/300d029f5b5d1677f48b6b0d372a19_big_gallery.jpeg",
         "technique": { "kvp": 80, "mas": 35, "sid": 100 },
         "details": "الجانب المصاب للوح، الرجل السليمة مرفوعة للأعلى.",
         "criteria": ["رؤية الفخذ جانبياً", "شمل المفصلين"],
@@ -430,7 +440,7 @@
       {
         "name": "Knee Oblique",
         "desc": "Demonstrates fibular head and tibial plateau",
-        "image": "https://prod-images-static.radiopaedia.org/images/49284469/922598043844e7d696d573c4adc168_gallery.jpeg",
+        "image": "https://prod-images-static.radiopaedia.org/images/2357781/8fbef792c0515ff3c33b397f1c7a0f_gallery.jpg",
         "technique": { "kvp": 65, "mas": 12, "sid": 100 },
         "details": "تدوير الساق 45 درجة للداخل أو الخارج.",
         "criteria": ["توضيح اللقمة الفخذية الجانبية", "رؤية رأس الشظية"],
@@ -450,7 +460,7 @@
       {
         "name": "Tibia & Fibula Lateral",
         "desc": "Lateral view of leg bones",
-        "image": "https://prod-images-static.radiopaedia.org/images/49284461/554ec65200d246b5f21ad59a1d26c0_big_gallery.jpeg",
+        "image": "https://prod-images-static.radiopaedia.org/images/23964348/270091cae942462aeac284122a0cbf_gallery.jpeg",
         "technique": { "kvp": 65, "mas": 15, "sid": 100 },
         "details": "الجانب المصاب للوح، الركبة مثنية 30 درجة.",
         "criteria": ["تراكب القصبة والشظية في المناطق القريبة", "توضيح الكسر"],
@@ -490,7 +500,7 @@
       {
         "name": "Foot Oblique",
         "desc": "Oblique view of foot",
-        "image": "https://png.pngtree.com/thumb_back/fw800/background/20220622/pngtree-radiographic-views-of-the-right-foot-ap-oblique-and-lateral-photo-image_47267088.jpg",
+        "image": "https://prod-images-static.radiopaedia.org/images/2027035/334be608f1b82ed6931895038118c6_big_gallery.jpg",
         "technique": { "kvp": 55, "mas": 8, "sid": 100 },
         "details": "القدم تدور 45 درجة (Medial Oblique) لتوضيح قاعدة المشط الخامس.",
         "criteria": ["توضيح المشط والسلاميات", "رؤية قاعدة المشط الخامس"],
