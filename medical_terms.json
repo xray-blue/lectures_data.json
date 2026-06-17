@@ -166,7 +166,7 @@
       { "col1": "DR", "col2": "Digital Radiography", "col3": "تقنية أشعة رقمية مباشرة سريعة وحديثة" },
       { "col1": "DEXA / DXA", "col2": "Dual-energy X-ray Absorptiometry", "col3": "قياس كثافة العظام (للكشف عن الهشاشة)" },
       { "col1": "IVP / IVU", "col2": "Intravenous Pyelogram / Urogram", "col3": "تصوير الجهاز البولي بالأشعة بعد حقن صبغة" },
-      { "col1": "ERCP", "col2": "Endoscopic Retrograde Cholangiopancreatography", "col3": "فحص القنوات الصفراوية والبنكرياس بالمنظير والأشعة" }
+      { "col1": "ERCP", "col2": "Endoscopic Retrograde Cholangiopancreatography", "col3": "فحص القنوات الصفراوية والبنكرياس بالمنظور والأشعة" }
     ]
   },
   "part6": {
