@@ -17,22 +17,22 @@
         "title": "2. لواحق تخص الأدوية والمواد (Chemicals & Drugs)",
         "headers": ["Suffix", "المعنى", "مثال", "شرح المثال"],
         "items": [
-          { "col1": "-lytic", "col2": "محلل أو مفتت", "col3": "Thrombolytic", "col4": "دواء محلل للجلطة" },
-          { "col1": "-static", "col2": "موقف (يثبط النمو)", "col3": "Bacteriostatic", "col4": "مادة توقف تكاثر البكتيريا دون قتلها" },
-          { "col1": "-cide", "col2": "قاتل", "col3": "Bactericide", "col4": "مادة قاتلة للبكتيريا" },
-          { "col1": "-emia", "col2": "حالة دموية", "col3": "Anemia", "col4": "فقر الدم (نسبة الهيموغلوبين منخفضة)" }
+          { "col1": "-lytic", "col2": "محلل أو مفتت", "col3": "Thrombolytic", "col4": "دواء محلل للجلطة", "image": "https://interventionalradiologist.in/wp-content/uploads/2024/07/Treatment-2-Thrombolysis-mechanical-thrombectomy-for-acute-arterial-thrombosis1.jpg" },
+          { "col1": "-static", "col2": "موقف (يثبط النمو)", "col3": "Bacteriostatic", "col4": "مادة توقف تكاثر البكتيريا دون قتلها", "image": "https://microbiology-nuts-and-bolts.weebly.com/uploads/7/8/9/4/7894682/828627_orig.jpg" },
+          { "col1": "-cide", "col2": "قاتل", "col3": "Bactericide", "col4": "مادة قاتلة للبكتيريا", "image": "" },
+          { "col1": "-emia", "col2": "حالة دموية", "col3": "Anemia", "col4": "فقر الدم (نسبة الهيموغلوبين منخفضة)", "image": "https://healthinfo.healthengine.com.au/assets/iron-anaemia-1024x671.jpg" }
         ]
       },
       {
         "title": "3. بادئات تخص العدد والكمية (Number & Quantity)",
         "headers": ["Prefix", "المعنى", "مثال", "شرح المثال"],
         "items": [
-          { "col1": "Hemi-", "col2": "نصف", "col3": "Hemiplegia", "col4": "شلل نصفي (في جانب واحد من الجسم)" },
+          { "col1": "Hemi-", "col2": "نصف", "col3": "Hemiplegia", "col4": "شلل نصفي (في جانب واحد من الجسم)", "image": "https://media.istockphoto.com/id/2197603455/vector/paralysis-quadriplegia-paraplegia-hemiplegia-monoplegia-and-diplegia.jpg?s=612x612&w=0&k=20&c=8gYvvFPNJIdEcdEFSgrVWaAbtCOyObmNwrNcUFKDVYs=" },
           { "col1": "Bi- / Di-", "col2": "اثنين", "col3": "Bilateral", "col4": "يوجد في جانبين (يمين ويسار)" },
           { "col1": "Tri-", "col2": "ثلاثة", "col3": "Triceps", "col4": "عضلة ذات ثلاثة رؤوس" },
           { "col1": "Multi-", "col2": "كثير", "col3": "Multifocal", "col4": "متعدد البؤر (في أماكن متفرقة)" },
           { "col1": "Mono-", "col2": "واحد", "col3": "Monotherapy", "col4": "علاج بدواء واحد" },
-          { "col1": "Pan-", "col2": "كلي / شامل", "col3": "Pancytopenia", "col4": "نقص شامل في كريات الدم" },
+          { "col1": "Pan-", "col2": "كلي / شامل", "col3": "Pancytopenia", "col4": "نقص شامل في كريات الدم", "image": "https://labmedicineblog.com/wp-content/uploads/2015/02/myeloprolif.jpg" },
           { "col1": "Nulli-", "col2": "لا شيء", "col3": "Nullipara", "col4": "امرأة لم تلد أبداً" },
           { "col1": "Primi-", "col2": "أول", "col3": "Primigravida", "col4": "حمل لأول مرة" },
           { "col1": "Poly-", "col2": "متعدد", "col3": "Polyuria", "col4": "كثرة التبول" }
