@@ -6,6 +6,18 @@
     "ctUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/3-s2.0-B9780323885379000088-f10-01-9780323885379.jpg"
   },
   {
+    "id": "pet-Pulmonary",
+    "name": "رئوي (Pulmonary PET/CT)",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/chestpet.jpg",
+    "ctUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/chestct.jpg"
+  },
+  {
+    "id": "pet-kidney",
+    "name": "كلية (kidney PET/CT)",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/kidnypet.jpg",
+    "ctUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/kidnyct.jpg"
+  },
+  {
     "id": "pet-brain",
     "name": "فحص الدماغ (Brain PET)",
     "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/Examples-of-brain-images-a-MRI-b-PET-scan-c-CT-scanb.jpg",
