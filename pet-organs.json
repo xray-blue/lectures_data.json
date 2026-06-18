@@ -2,13 +2,13 @@
   {
     "id": "pet-wholebody",
     "name": "محور الجسم الكامل (Whole Body PET/CT)",
-    "url": "رابط_صورة_الـ_PET_الملونة_هنا",
-    "ctUrl": "رابط_الصورة_الطبيعية_CT_هنا"
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/3-s2.0-B9780323885379000088-f10-01-97803238853790.jpg",
+    "ctUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/3-s2.0-B9780323885379000088-f10-01-9780323885379.jpg"
   },
   {
     "id": "pet-brain",
     "name": "فحص الدماغ (Brain PET)",
-    "url": "رابط_صورة_الـ_PET_الخاصة_بالدماغ",
-    "ctUrl": "رابط_الصورة_الطبيعية_للدماغ"
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/3-s2.0-B9780323885379000088-f10-01-97803238853790.jpg",
+    "ctUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/3-s2.0-B9780323885379000088-f10-01-9780323885379.jpg"
   }
 ]
