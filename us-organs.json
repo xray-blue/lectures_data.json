@@ -1,8 +1,26 @@
 [
   {
-    "id": "us-liver",
-    "name": "الكبد (Liver)",
+    "id": "us-kidney",
+    "name": "الكلى (kidney)",
     "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/floroscopy/uskydny.jpg",
     "loopUrl": "https://static.wixstatic.com/media/9f9742_23a920faccac4cb2afbb1a4e38f6a3f7~mv2.gif"
+  },
+  {
+    "id": "Us-Valves Of Heart",
+    "name": "صمامات القلب (Valves Of Heart)",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/floroscopy/heart.jpg",
+    "loopUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Valves_Of_Heart_Ultrasound.gif"
+  },
+  {
+    "id": "Us-liver-Abscess",
+    "name": "خراج الكبد (liver-Abscess)",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/floroscopy/liver.jpg",
+    "loopUrl": "https://img.grepmed.com/uploads/5128/hepatic-clinical-abdominal-liver-ultrasound-original.gif"
+  },
+  {
+    "id": "us-spleen",
+    "name": "الطحال (spleen)",
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/floroscopy/spleen.jpg",
+    "loopUrl": "https://i.makeagif.com/media/4-21-2016/fkokPT.gif"
   }
 ]
