@@ -8,7 +8,7 @@
   {
     "id": "pet-brain",
     "name": "فحص الدماغ (Brain PET)",
-    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/3-s2.0-B9780323885379000088-f10-01-97803238853790.jpg",
-    "ctUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/3-s2.0-B9780323885379000088-f10-01-9780323885379.jpg"
+    "url": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/Examples-of-brain-images-a-MRI-b-PET-scan-c-CT-scanb.jpg",
+    "ctUrl": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/PET/Examples-of-brain-images-a-MRI-b-PET-scan-c-CT-scan.png"
   }
 ]
