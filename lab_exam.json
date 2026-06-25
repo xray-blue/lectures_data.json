@@ -1,0 +1,320 @@
+[
+  {
+    "question": "ما اسم هذا العظم الذي يقع في الجزء العلوي من الذراع؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Humerus_-_anterior_view.png/200px-Humerus_-_anterior_view.png",
+    "options": ["عظم العضد (Humerus)", "عظم الكعبرة (Radius)", "عظم الزند (Ulna)", "عظم الترقوة (Clavicle)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما هو العظم الموجود في الجانب الوحشي (الإبهام) من الساعد؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Radius_-_anterior_view.png/200px-Radius_-_anterior_view.png",
+    "options": ["عظم الزند (Ulna)", "عظم العضد (Humerus)", "عظم الكعبرة (Radius)", "عظم الرسغ (Carpals)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هو العظم الذي يقع في الجانب الإنسي (الخنصر) من الساعد؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ulna_-_anterior_view.png/200px-Ulna_-_anterior_view.png",
+    "options": ["عظم الكعبرة (Radius)", "عظم الزند (Ulna)", "عظم العضد (Humerus)", "عظم المرفق (Olecranon)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما اسم أطول عظم في جسم الإنسان والذي يقع في الفخذ؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Femur_-_anterior_view.png/200px-Femur_-_anterior_view.png",
+    "options": ["عظم الظنبوب (Tibia)", "عظم الفخذ (Femur)", "عظم الشظية (Fibula)", "عظم الحوض (Pelvis)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو العظم الرئيسي الذي يحمل وزن الجسم في الجزء السفلي من الساق؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tibia_-_anterior_view.png/200px-Tibia_-_anterior_view.png",
+    "options": ["عظم الشظية (Fibula)", "عظم الفخذ (Femur)", "عظم الظنبوب (Tibia)", "عظم الرضفة (Patella)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هو العظم الرفيع الموجود في الجانب الوحشي من الساق؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fibula_-_anterior_view.png/200px-Fibula_-_anterior_view.png",
+    "options": ["عظم الظنبوب (Tibia)", "عظم الشظية (Fibula)", "عظم الكاحل (Talus)", "عظم العقب (Calcaneus)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما اسم العظم المسطح الذي يقع أمام مفصل الركبة؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Patella_-_anterior_view.png/150px-Patella_-_anterior_view.png",
+    "options": ["عظم الركبة (Meniscus)", "الرضفة (Patella)", "عظم الظنبوب (Tibia)", "الرباط الصليبي (Cruciate Ligament)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو العظم الذي يشكل العقب (الكعب) في القدم؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Calcaneus_-_anterior_view.png/200px-Calcaneus_-_anterior_view.png",
+    "options": ["عظم الكاحل (Talus)", "عظم العقب (Calcaneus)", "عظم النعل (Navicular)", "عظم المشط (Metatarsal)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو العظم الذي يتصل مع عظم الساق والشظية ليكون جزءاً من الكاحل؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Talus_-_superior_view.png/200px-Talus_-_superior_view.png",
+    "options": ["عظم العقب (Calcaneus)", "عظم الكاحل (Talus)", "عظم النعل (Navicular)", "عظم المكعب (Cuboid)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هي العظام الطويلة الموجودة في راحة القدم؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Metatarsals_-_anterior_view.png/200px-Metatarsals_-_anterior_view.png",
+    "options": ["عظام الرسغ (Carpals)", "عظام السلاميات (Phalanges)", "عظام مشط القدم (Metatarsals)", "عظام الرصغ (Tarsals)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هو هذا العظم الموجود في الرسغ والذي غالباً ما يصاب بالكسر عند السقوط على اليد؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Scaphoid_bone_-_anterolateral_view.png/200px-Scaphoid_bone_-_anterolateral_view.png",
+    "options": ["عظم الهلال (Lunate)", "عظم الزورقي (Scaphoid)", "عظم الهرمي (Triquetrum)", "عظم المثلث (Pisiform)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما اسم العظام التي تشكل أصابع اليد؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Phalanges_of_hand_-_anterior_view.png/200px-Phalanges_of_hand_-_anterior_view.png",
+    "options": ["عظام السنع (Metacarpals)", "عظام الرسغ (Carpals)", "عظام السلاميات (Phalanges)", "عظام المشط (Metatarsals)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم العظام التي تقع بين الرسغ وأصابع اليد؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Metacarpal_bones_-_anterior_view.png/200px-Metacarpal_bones_-_anterior_view.png",
+    "options": ["عظام السلاميات (Phalanges)", "عظام السنع (Metacarpals)", "عظام الرسغ (Carpals)", "عظم الكعبرة (Radius)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو العظم الذي يربط بين عظم القص ولوح الكتف؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Clavicle_-_anterior_view.png/200px-Clavicle_-_anterior_view.png",
+    "options": ["الترقوة (Clavicle)", "لوح الكتف (Scapula)", "عظم العضد (Humerus)", "الضلع الأول (First Rib)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما اسم العظم المسطح المثلث الشكل الموجود في الظهر؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Scapula_-_posterior_view.png/200px-Scapula_-_posterior_view.png",
+    "options": ["عظم القص (Sternum)", "الترقوة (Clavicle)", "لوح الكتف (Scapula)", "عظم العجز (Sacrum)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هو العظم المسطح الذي يقع في منتصف الصدر الأمامي؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sternum_-_anterior_view2.png/200px-Sternum_-_anterior_view2.png",
+    "options": ["لوح الكتف (Scapula)", "عظم القص (Sternum)", "الفقرات الصدرية (Thoracic Vertebrae)", "الترقوة (Clavicle)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هي هذه العظام المنحنية التي تتصل بالعمود الفقري من الخلف وعظم القص من الأمام؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ribs_anterior.png/200px-Ribs_anterior.png",
+    "options": ["الغضاريف الضلعية (Costal Cartilages)", "الضلوع (Ribs)", "الفقرات (Vertebrae)", "الترقوة (Clavicle)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما اسم الفقرات الموجودة في الرق والتي تسمح بحركة الرأس؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cervical_vertebrae_eng.png/200px-Cervical_vertebrae_eng.png",
+    "options": ["الفقرات الصدرية (Thoracic)", "الفقرات القطنية (Lumbar)", "الفقرات العنقية (Cervical)", "الفقرات العجزية (Sacral)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هي الفقرات الأكبر حجماً والتي تحمل معظم وزن الجسم العلوي؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lumbar_vertebrae.png/200px-Lumbar_vertebrae.png",
+    "options": ["الفقرات العنقية (Cervical)", "الفقرات الصدرية (Thoracic)", "عظم العجز (Sacrum)", "الفقرات القطنية (Lumbar)"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما هو العظم المثلث الذي يتكون من اندماج 5 فقرات ويوجد في قاعدة العمود الفقري؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sacrum_anterior_surface.png/200px-Sacrum_anterior_surface.png",
+    "options": ["عظم العصعص (Coccyx)", "عظم الحوض (Ilium)", "عظم العجز (Sacrum)", "الفقرات القطنية (Lumbar)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم العظم الذي يقع في مقدمة الجمجمة ويشكل الجبهة؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Frontal_bone_anterior.png/200px-Frontal_bone_anterior.png",
+    "options": ["العظم الجبهي (Frontal)", "العظم الجداري (Parietal)", "العظم الوتدي (Sphenoid)", "العظم الغربالي (Ethmoid)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما هو العظم الموجود في الجانب العلوي والجانبي من الجمجمة؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Parietal_bone_outer_surface.png/200px-Parietal_bone_outer_surface.png",
+    "options": ["العظم الصدغي (Temporal)", "العظم الجداري (Parietal)", "العظم القفوي (Occipital)", "العظم الجبهي (Frontal)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو العظم الذي يقع في قاع الجمجمة من الخلف ويحتوي على الثقبة العظمى؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Occipital_bone_inferior.png/200px-Occipital_bone_inferior.png",
+    "options": ["العظم الجداري (Parietal)", "العظم الوتدي (Sphenoid)", "العظم القفوي (Occipital)", "العظم الصدغي (Temporal)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هو العظم الذي يقع على جانبي الجمجمة ويحتوي على الأذن الوسطى والداخلية؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Temporal_bone_outer_surface.png/200px-Temporal_bone_outer_surface.png",
+    "options": ["العظم الغربالي (Ethmoid)", "العظم الصدغي (Temporal)", "العظم الوجني (Zygomatic)", "العظم الجداري (Parietal)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو العظم الوحيد المتحرك في الجمجمة؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mandible_outside.png/200px-Mandible_outside.png",
+    "options": ["عظم الفك العلوي (Maxilla)", "عظم الوجني (Zygomatic)", "عظم الفك السفلي (Mandible)", "العظم الحاجزي (Vomer)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هو العظم الذي يشكل الجزء العلوي من الفك العلوي ويرتبط بالأنف؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Maxilla_anterior.png/200px-Maxilla_anterior.png",
+    "options": ["العظم الحاجزي (Vomer)", "عظم الفك العلوي (Maxilla)", "العظم الغربالي (Ethmoid)", "العظم الوجني (Zygomatic)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هو العظم الذي يشكل بروز الخد؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Zygomatic_bone_anterior.png/200px-Zygomatic_bone_anterior.png",
+    "options": ["العظم الجبهي (Frontal)", "العظم الصدغي (Temporal)", "عظم الفك العلوي (Maxilla)", "العظم الوجني (Zygomatic)"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما هو العظم الذي يشبه الفراشة ويوجد في قاعدة الجمجمة؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Sphenoid_bone_anterior.png/200px-Sphenoid_bone_anterior.png",
+    "options": ["العظم الوتدي (Sphenoid)", "العظم الغربالي (Ethmoid)", "العظم القفوي (Occipital)", "العظم الجبهي (Frontal)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما هو العظم المسؤول عن تشكيل الحاجز الأنفي وجيوب الأنف؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ethmoid_bone_anterior.png/200px-Ethmoid_bone_anterior.png",
+    "options": ["العظم الوتدي (Sphenoid)", "العظم الحاجزي (Vomer)", "العظم الغربالي (Ethmoid)", "عظم الفك العلوي (Maxilla)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم أكبر عظم في حوض الإنسان ويشكل الجناح الحوضي؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ilium_-_anterior_view.png/200px-Ilium_-_anterior_view.png",
+    "options": ["عظم العانة (Pubis)", "عظم الإسكين (Ischium)", "عظم الحرقفة (Ilium)", "عظم العجز (Sacrum)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هو العظم الذي نجلس عليه ويشكل الجزء السفلي الخلفي من الحوض؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ischium_-_anterior_view.png/200px-Ischium_-_anterior_view.png",
+    "options": ["عظم الإسكين (Ischium)", "عظم العانة (Pubis)", "عظم الحرقفة (Ilium)", "عظم الفخذ (Femur)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما هو العظم الذي يشكل الجزء الأمامي السفلي من الحوض؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pubis_-_anterior_view.png/200px-Pubis_-_anterior_view.png",
+    "options": ["عظم العانة (Pubis)", "عظم الإسكين (Ischium)", "عظم الحرقفة (Ilium)", "عظم القص (Sternum)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما هي هذه الوضعية القياسية التي يستخدمها تشريحيو الجسم حيث يكون الجسم مستقيماً والنظر للأمام؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anatomical_position1.png/150px-Anatomical_position1.png",
+    "options": ["وضعية الاستلقاء (Supine)", "الوضع التشريحي (Anatomical Position)", "وضعية الجلوس (Sitting)", "وضعية التقريب (Adduction)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ماذا نسمي وضعية الاستلقاء على الظهر بحيث يكون الوجه متجهاً للأعلى؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Fowler%27s_position.png/200px-Fowler%27s_position.png",
+    "options": ["الاستلقاء البطني (Prone)", "الوضع الجانبي (Lateral)", "الاستلقاء الظهري (Supine)", "وضعية ترندلنبرغ (Trendelenburg)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ماذا نسمي وضعية الاستلقاء على البطن بحيث يكون الوجه متجهاً للأسفل؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Prone_position.jpg/200px-Prone_position.jpg",
+    "options": ["الاستلقاء الظهري (Supine)", "الاستلقاء البطني (Prone)", "الوضع الجانبي (Lateral Decubitus)", "الوضع التشريحي (Anatomical)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هي هذه الحركة التي تقلل الزاوية بين عظمتين (مثل ثني الكوع)؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flexion.svg/200px-Flexion.svg.png",
+    "options": ["البسط (Extension)", "الثني (Flexion)", "التدوير الداخلي (Internal Rotation)", "التقريب (Adduction)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هي هذه الحركة التي تزيد الزاوية بين عظمتين (مثل فرد الكوع)؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Extension.svg/200px-Extension.svg.png",
+    "options": ["البسط (Extension)", "الثني (Flexion)", "التبعيد (Abduction)", "الدوران (Rotation)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما هي حركة تحريك الطرف بعيداً عن خط المنتصف للجسم؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Abduction.svg/200px-Abduction.svg.png",
+    "options": ["التقريب (Adduction)", "التبعيد (Abduction)", "الرفع (Elevation)", "الثني (Flexion)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هي حركة تحريك الطرف نحو خط المنتصف للجسم؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Adduction.svg/200px-Adduction.svg.png",
+    "options": ["التقريب (Adduction)", "التبعيد (Abduction)", "الخفض (Depression)", "البسط (Extension)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما هي حركة دوران الساعد بحيث تتجه راحة اليد للأسفل؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pronation.svg/200px-Pronation.svg.png",
+    "options": ["الكب (Pronation)", "الاستلقاء الكعبري (Supination)", "الثني (Flexion)", "التبعيد (Abduction)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما هي حركة دوران الساعد بحيث تتجه راحة اليد للأعلى؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Supination.svg/200px-Supination.svg.png",
+    "options": ["الكب (Pronation)", "الاستلقاء الكعبري (Supination)", "البسط (Extension)", "التدوير الخارجي (Lateral Rotation)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هي حركة تقريب باطن القدم نحو الخط المنصف للجسم؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Inversion.svg/200px-Inversion.svg.png",
+    "options": ["الانقلاب للخارج (Eversion)", "الانقلاب للداخل (Inversion)", "البسط الأخمصي (Plantarflexion)", "الانثناء الظهري (Dorsiflexion)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هي حركة إبعاد باطن القدم عن الخط المنصف للجسم؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eversion.svg/200px-Eversion.svg.png",
+    "options": ["الانقلاب للخارج (Eversion)", "الانقلاب للداخل (Inversion)", "الانثناء الظهري (Dorsiflexion)", "البسط الأخمصي (Plantarflexion)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما هي حركة رفع أصابع القدم نحو الساق (تقريب الظهر القدمي للساق)؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dorsiflexion.svg/200px-Dorsiflexion.svg.png",
+    "options": ["البسط الأخمصي (Plantarflexion)", "الانقلاب للداخل (Inversion)", "الانثناء الظهري (Dorsiflexion)", "البسط (Extension)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هي حركة توجيه أطراف الأصابع بعيداً عن الأرض (كالوقوف على أطراف الأصابع)؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Plantarflexion.svg/200px-Plantarflexion.svg.png",
+    "options": ["الانثناء الظهري (Dorsiflexion)", "البسط الأخمصي (Plantarflexion)", "الانقلاب للخارج (Eversion)", "الثني (Flexion)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما اسم هذا المفصل الكروي الحقي الذي يربط العضد بلوح الكتف؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Shoulder_joint_-_anterolateral_view.png/200px-Shoulder_joint_-_anterolateral_view.png",
+    "options": ["مفصل الكوع (Elbow Joint)", "مفصل الكتف (Shoulder Joint)", "مفصل الصدر الترقوي (Sternoclavicular)", "مفصل الكاحل (Ankle Joint)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما اسم هذا المفصل الرزي الذي يربط بين عظم العضد، والزند، والكعبرة؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Elbow_joint_-_anterior_view.png/200px-Elbow_joint_-_anterior_view.png",
+    "options": ["مفصل الكتف (Shoulder Joint)", "مفصل الرسغ (Wrist Joint)", "مفصل الكوع (Elbow Joint)", "مفصل تحت الترقوة (Acromioclavicular)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم المفصل البيضوي الذي يربط بين عظمي الكعبرة والزند وعظام الرسغ؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wrist_joint_-_anteroposterior_view.png/200px-Wrist_joint_-_anteroposterior_view.png",
+    "options": ["مفصل الكوع (Elbow Joint)", "مفصل السنع الرسغي (CMC Joint)", "مفصل الرسغ (Wrist Joint)", "مفصل السلاميات (IP Joint)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم المفصل الكروي العميق الذي يربط عظم الفخذ بعظم الحوض؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hip_joint_-_anterolateral_view.png/200px-Hip_joint_-_anterolateral_view.png",
+    "options": ["مفصل الركبة (Knee Joint)", "مفصل الورك (Hip Joint)", "مفصل العجز الحرقفي (Sacroiliac Joint)", "مفصل الظهر العجزي (Lumbosacral)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ماذا يظهر في هذه الصورة الشعاعية؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chest_x-ray_PA.jpg/200px-Chest_x-ray_PA.jpg",
+    "options": ["البطن (Abdomen)", "الرئتان والقلب (Lungs and Heart)", "الجمجمة (Skull)", "العمود الفقري (Spine)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ماذا يظهر في هذه الصورة الشعاعية؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Normal_hand_x-ray.jpg/150px-Normal_hand_x-ray.jpg",
+    "options": ["القدم (Foot)", "الرسغ فقط (Wrist)", "اليد (Hand)", "الكتف (Shoulder)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما هي حركة تحريك الكتف إلى الأمام (كما يحدث عند الدفع)؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Protraction.svg/200px-Protraction.svg.png",
+    "options": ["السحب للخلف (Retraction)", "الدفع للأمام (Protraction)", "الرفع (Elevation)", "الخفض (Depression)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما هي حركة سحب لوح الكتف إلى الخلف (كما يحدث عند الوقوف بانتباه)؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Retraction.svg/200px-Retraction.svg.png",
+    "options": ["الدفع للأمام (Protraction)", "السحب للخلف (Retraction)", "التدوير الداخلي (Medial Rotation)", "الثني (Flexion)"],
+    "correctIndex": 1
+  }
+]
