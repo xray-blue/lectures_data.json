@@ -1,177 +1,24 @@
 [
   {
-    "id": "coffee-world",
-    "storeName": "عالم القهوة المختصة",
-    "ownerName": "سامر جبار",
-    "phone": "07998765432",
-    "whatsapp": "07998765432",
-    "goodsType": "قهوة ومعدات تحضير",
-    "deliveryFee": 3500,
-    "logoUrl": "https://cdn.asp.events/CLIENT_Dubai_Wo_4B15F265_5056_B739_54F3125D47F0BC95/sites/saudifood-2023/media/COFFEE-WORLD-LOGO-01.png",
-    "themeColor": "#d19d79",
-    "products": [
-      {
-        "id": 3,
-        "name": "بُن عربي محمص 1 كغم",
-        "description": "بُن عربي عالي الجودة، درجة تحميص متوسطة، يمنع الأصل.",
-        "price": 25000,
-        "images": [
-          "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=400&q=80",
-          "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=400&q=80"
-        ],
-        "available": true,
-        "externalLink": "https://instagram.com/p/coffee-beans",
-        "linkPlatform": "instagram"
-      },
-      {
-        "id": 4,
-        "name": "قهوة تركي سادة",
-        "description": "علبة قهوة تركي (سادة) وزن 500 غرام، نكهة غنية ومميزة.",
-        "price": 8000,
-        "images": [
-          "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=400&q=80"
-        ],
-        "available": true,
-        "externalLink": "https://facebook.com/post/turkish-coffee",
-        "linkPlatform": "facebook"
-      },
-      {
-        "id": 5,
-        "name": "كوب سيراميك حراري",
-        "description": "كوب فخاري يدوي الصنع، يحافظ على حرارة القهوة لمدة طويلة.",
-        "price": 12000,
-        "images": [
-          "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=400&q=80"
-        ],
-        "available": true
-      },
-      {
-        "id": 6,
-        "name": "ريشة سكروبي يدوية",
-        "description": "أداة تقليبية لتحضير القهوة بأسلوب فني، خشب زان طبيعي.",
-        "price": 15000,
-        "images": [
-          "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=400&q=80"
-        ],
-        "available": true,
-        "externalLink": "https://tiktok.com/v/dripper",
-        "linkPlatform": "tiktok"
-      }
-    ]
+    "id": 1,
+    "name": "كتاب التشريح الشعاعي السريري",
+    "description": "نسخة أصلية بحالة ممتازة، يحتوي على شروحات واضحة للمبتدئين.",
+    "price": 25000,
+    "image": "https://example.com/image_link_here.jpg",
+    "available": true,
+    "sellerName": "أحمد خليل",
+    "sellerPhone": "07700000000",
+    "category": "كتب وملازم"
   },
   {
-    "id": "art-station",
-    "storeName": "محترف الرسم والأدوات",
-    "ownerName": "لينا خالد",
-    "phone": "07755556666",
-    "whatsapp": "07755556666",
-    "goodsType": "أدوات فنية وقرطاسية",
-    "deliveryFee": 3000,
-    "logoUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=150&q=80",
-    "themeColor": "#92e896",
-    "products": [
-      {
-        "id": 7,
-        "name": "طقم ماركرات احترافي 36 لون",
-        "description": "ماركرات ذات رأسين (دقيق وعريض) للرسومات بالأنيمي والمانغا.",
-        "price": 45000,
-        "images": [
-          "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=400&q=80"
-        ],
-        "available": true,
-        "externalLink": "https://instagram.com/p/markers",
-        "linkPlatform": "instagram"
-      },
-      {
-        "id": 8,
-        "name": "كراسة رسم A4 160 ورقة",
-        "description": "كراسة سميكة مناسبة للألوان المائية والفحم، ورق خشن.",
-        "price": 5000,
-        "images": [
-          "https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&w=400&q=80"
-        ],
-        "available": true
-      },
-      {
-        "id": 9,
-        "name": "ظرف ألوان مائية",
-        "description": "ظرف ألوان مائية 12 لون، مع فرشاة مدمجة.",
-        "price": 7500,
-        "images": [
-          "https://images.unsplash.com/photo-1580136608260-4eb11f4b64fe?auto=format&fit=crop&w=400&q=80"
-        ],
-        "available": true
-      },
-      {
-        "id": 10,
-        "name": "طاولة رسم خشبية قابلة للطي",
-        "description": "طاولة عملية للرسامين، يمكن ضبط الزاوية لراحة أكبر.",
-        "price": 85000,
-        "images": [
-          "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=400&q=80"
-        ],
-        "available": false,
-        "externalLink": "https://facebook.com/marketplace/desk",
-        "linkPlatform": "facebook"
-      }
-    ]
-  },
-  {
-    "id": "golden-time",
-    "storeName": "الوقت الذهبي للساعات",
-    "ownerName": "عماد حسين",
-    "phone": "07899998888",
-    "whatsapp": "07899998888",
-    "goodsType": "ساعات وإكسسوارات",
-    "deliveryFee": 4000,
-    "logoUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=150&q=80",
-    "themeColor": "#bd92e8",
-    "products": [
-      {
-        "id": 11,
-        "name": "ساعة كلاسيك للرجال",
-        "description": "ساعة يد بجلد طبيعي ولون ذهبي، تصميم أنيق يليق بالمناسبات الرسمية.",
-        "price": 120000,
-        "images": [
-          "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&q=80",
-          "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?auto=format&fit=crop&w=400&q=80"
-        ],
-        "available": true,
-        "externalLink": "https://instagram.com/p/mens-watch",
-        "linkPlatform": "instagram"
-      },
-      {
-        "id": 12,
-        "name": "ساعة ذكية رياضية",
-        "description": "تتبع النشاط البدني، نبضات القلب، ومقاومة للماء حتى 50 متر.",
-        "price": 95000,
-        "images": [
-          "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=400&q=80"
-        ],
-        "available": true
-      },
-      {
-        "id": 13,
-        "name": "سوار جلد فاخر",
-        "description": "سوار يد بسيط وأنيق، متوفر بني و أسود.",
-        "price": 15000,
-        "images": [
-          "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=400&q=80"
-        ],
-        "available": true
-      },
-      {
-        "id": 14,
-        "name": "ساعة رقمية LED",
-        "description": "ساعة بتصميم عصري مضيء، خفيفة الوزن ومقاومة للصدمات.",
-        "price": 25000,
-        "images": [
-          "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?auto=format&fit=crop&w=400&q=80"
-        ],
-        "available": true,
-        "externalLink": "https://tiktok.com/v/led-watch",
-        "linkPlatform": "tiktok"
-      }
-    ]
+    "id": 2,
+    "name": "سديري طبي (سكراب) مقاس M",
+    "description": "سكراب طبي لون أزرق داكن، قماش ممتاز، مستخدم مرة واحدة.",
+    "price": 15000,
+    "image": "https://example.com/image_link_here.jpg",
+    "available": false,
+    "sellerName": "سارة علي",
+    "sellerPhone": "07800000000",
+    "category": "ملابس طبية"
   }
 ]
