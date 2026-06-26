@@ -298,5 +298,53 @@
     "image": "https://prod-images-static.radiopaedia.org/images/49284469/922598043844e7d696d573c4adc168_gallery.jpeg",
     "options": ["Ankle AP & Lateral", "Femur AP", "Knee Oblique", "Knee AP & Lateral"],
     "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://cdn2.picryl.com/photo/2018/03/14/x-ray-of-the-hand-of-an-8-year-old-male-oblique-1521a2-1024.jpg",
+    "options": ["AP", "Lateral", "oblique", "PA"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/52186446/96cfdd3acb67e51f93cbdb8392fae7_big_gallery.jpeg",
+    "options": ["oblique", "AP & Lateral", "Lateral", "PA"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/13586184/90d12bf03014d2b0012251779be304cc87f440cd2f3e096d734220411657cd90_big_gallery.jpeg",
+    "options": ["PA", "Lateral", "AP", "oblique"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://www.researchgate.net/publication/286538975/figure/fig3/AS:1086790949699619@1636122562725/Oblique-radiograph-of-the-wrist-demonstrates-isolated-scaphotrapezial-coalition.jpg",
+    "options": ["AP & Lateral", "oblique", "Lateral", "PA"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/2357781/8fbef792c0515ff3c33b397f1c7a0f_gallery.jpg",
+    "options": ["AP", "Lateral", "oblique", "PA"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/30113133/66e623a67524fdfc4d9d3a1f2934a2_gallery.jpeg",
+    "options": ["AP", "oblique", "PA", "Lateral"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/9289901/d1d3c486f4ffeff23939dc85e999c3_big_gallery.jpg",
+    "options": ["oblique", "Lateral", "PA", "AP"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/17225057/9aa8631451426a683b4cb5c91acdb9_gallery.jpeg",
+    "options": ["Chest PA", "Lateral", "abdominal", "Pelvis AP"],
+    "correctIndex": 2
   }
 ]
