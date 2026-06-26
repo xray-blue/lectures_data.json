@@ -115,9 +115,9 @@
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://i.pinimg.com/736x/fb/6d/34/fb6d3491095e9168cbaf4d5772ad1fb9.jpg",
+    "image": "https://prod-images-static.radiopaedia.org/images/54151097/bf08cac3156189e9301a1e31712eed2c2b65a20c132775bfef81079a07f2b107_big_gallery.jpeg",
     "options": ["Ribs PA", "Chest Lateral", "Ribs Lateral", "Ribs AP oblique"],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "question": "ما اسم الوضعية؟",
@@ -145,7 +145,7 @@
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://www.clinicaladvisor.com/wp-content/uploads/sites/11/2023/10/Figure1.-lateral-clavicle-fracture-scaled.jpg",
+    "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_gallery.jpeg",
     "options": ["Clavicle AP", "Clavicle Lateral", "Shoulder Lateral (Y-Scapula)", "Ribs Lateral"],
     "correctIndex": 1
   },
