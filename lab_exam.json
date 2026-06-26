@@ -1,320 +1,302 @@
 [
   {
-    "question": "ما اسم هذا العظم؟",
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/13109254/a1c1be7c45cd57d3e0119254de41b3_big_gallery.jpg",
+    "options": ["Skull PA", "Skull Lateral", "Towne's View", "Skull AP Oblique"],
+    "correctIndex": 0
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg",
+    "options": ["Skull PA", "Skull AP Oblique", "Towne's View", "Skull Lateral"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/13205437/dd8bcbdee8e90dcb1f4cf95d5dddd9f3fff9d35946b7d60da5dad5a7e93c2fb0_big_gallery.jpeg",
+    "options": ["Skull Lateral", "Skull PA", "Caldwell View", "Towne's View"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/42460646/34c08cf2b8fa9e99cc74429eb6b2cf_big_gallery.jpeg",
+    "options": ["Sinuses Lateral", "Sinuses Caldwell (Occipitofrontal)", "Sinuses Waters (Occipitomental)", "Skull PA"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/12150008/eff134ca2f390539f347ddad1b63fa_gallery.jpg",
+    "options": ["Sinuses Waters (Occipitomental)", "Sinuses Lateral", "Sinuses Caldwell (Occipitofrontal)", "Towne's View"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Paranasal_sinuses_radiograph_lateral.jpg",
+    "options": ["Sinuses Waters (Occipitomental)", "Skull Lateral", "Sinuses Lateral", "Sinuses Caldwell (Occipitofrontal)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/59338406/6ee672deb643788cd2bde4605d25d1fce108b164e41a95d22066192378add712_big_gallery.jpeg",
+    "options": ["Mandible Lateral Oblique", "Skull PA", "Mandible PA", "Sinuses Waters"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/52430115/be02a7a9f7cfbe1d2a9e5a008e4a43_big_gallery.jpeg",
+    "options": ["Mandible PA", "Mandible Lateral Oblique", "Cervical Spine AP", "Cervical Oblique Views"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://www.ebmconsult.com/content/images/Xrays/AP_Neck.png",
+    "options": ["Cervical Spine Lateral", "Cervical Oblique Views", "Thoracic Spine AP", "Cervical Spine AP"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg",
+    "options": ["Cervical Spine AP", "Cervical Oblique Views", "Thoracic Spine Lateral", "Cervical Spine Lateral"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://www.clinicalanatomy.ca/radiology/neck/neckOblq.png",
+    "options": ["Cervical Spine Lateral", "Cervical Spine AP", "Cervical Oblique Views", "Thoracic Spine AP"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://omeka.lib.jmu.edu/r4a/files/original/f367342f719e5e0bd4c198b2b39de9d1.png",
+    "options": ["Lumbar Spine AP", "Thoracic Spine Lateral", "Cervical Spine AP", "Thoracic Spine AP"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/23889596/f480e630fa3996dde165bbeb9c1205.jpg",
+    "options": ["Thoracic Spine AP", "Lumbar Spine Lateral", "Thoracic Spine Lateral", "Cervical Spine Lateral"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/23889548/190e4955159681dacac292680cdccc.jpg",
+    "options": ["Lumbar Spine Lateral", "Lumbar Oblique (Scotty Dog)", "Thoracic Spine AP", "Lumbar Spine AP"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg",
+    "options": ["Lumbar Spine AP", "Thoracic Spine Lateral", "Lumbar Spine Lateral", "Lumbar Oblique (Scotty Dog)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/3518447/78f4945877858a66e0c93d31e0b072_big_gallery.jpeg",
+    "options": ["Lumbar Spine Lateral", "Lumbar Spine AP", "Thoracic Spine Lateral", "Lumbar Oblique (Scotty Dog)"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_big_gallery.jpeg",
+    "options": ["Chest Lateral", "Ribs PA", "Chest PA", "Chest AP"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg",
+    "options": ["Chest PA", "Ribs Lateral", "Chest Lateral", "Ribs AP oblique"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/70803236/2b9a72ea6ca5568f41b9a60ac7029af88034906c5ef4f11b9ecc8ad43f40f07b.jpg",
+    "options": ["Chest PA", "Ribs AP oblique", "Ribs Lateral", "Ribs PA"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://i.pinimg.com/736x/fb/6d/34/fb6d3491095e9168cbaf4d5772ad1fb9.jpg",
+    "options": ["Ribs PA", "Chest Lateral", "Ribs Lateral", "Ribs AP oblique"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/54151097/bf08cac3156189e9301a1e31712eed2c2b65a20c132775bfef81079a07f2b107_big_gallery.jpeg",
+    "options": ["Ribs Lateral", "Ribs PA", "Chest Lateral", "Ribs AP oblique"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg",
+    "options": ["Pelvis AP", "Abdomen AP (KUB)", "Lumbar Spine AP", "Thoracic Spine AP"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/16912/7bb87421cbd7be3955346f5c27ef93_big_gallery.jpeg",
+    "options": ["Abdomen AP (KUB)", "Lumbar Spine AP", "Pelvis AP", "Femur AP"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg",
+    "options": ["Clavicle Lateral", "Shoulder AP", "Clavicle AP", "Ribs PA"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://www.clinicaladvisor.com/wp-content/uploads/sites/11/2023/10/Figure1.-lateral-clavicle-fracture-scaled.jpg",
+    "options": ["Clavicle AP", "Clavicle Lateral", "Shoulder Lateral (Y-Scapula)", "Ribs Lateral"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg",
+    "options": ["Clavicle AP", "Shoulder AP", "Humerus AP", "Shoulder Lateral (Y-Scapula)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Y_CR_shoulder.jpg",
+    "options": ["Shoulder AP", "Clavicle Lateral", "Shoulder Lateral (Y-Scapula)", "Humerus Lateral"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
     "image": "https://prod-images-static.radiopaedia.org/images/62045835/d1b7fd3defbd9a39b21c8fec9fa14e7786b13db8fd91898066ba3bc785e09b31_big_gallery.jpeg",
-    "options": ["عظم العضد (Humerus)", "عظم الكعبرة (Radius)", "عظم الزند (Ulna)", "عظم الترقوة (Clavicle)"],
-    "correctIndex": 0
-  },
-  {
-    "question": "ما هو العظم الموجود؟",
-    "image": "https://prod-images-static.radiopaedia.org/images/37002600/a3f8eec28457982500feab3a838e27_big_gallery.jpeg",
-    "options": ["عظم الزند (Ulna)", "عظم العضد (Humerus)", "عظم الكعبرة (Radius)", "عظم الرسغ (Carpals)"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ما هو العظم الذي يقع في الجانب الإنسي (الخنصر) من الساعد؟",
-    "image": "",
-    "options": ["عظم الكعبرة (Radius)", "عظم الزند (Ulna)", "عظم العضد (Humerus)", "عظم المرفق (Olecranon)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما اسم أطول عظم في جسم الإنسان؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Femur_-_anterior_view.png/200px-Femur_-_anterior_view.png",
-    "options": ["عظم الظنبوب (Tibia)", "عظم الفخذ (Femur)", "عظم الشظية (Fibula)", "عظم الحوض (Pelvis)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما هو العظم الرئيسي الذي يحمل وزن الجسم في الجزء السفلي من الساق؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tibia_-_anterior_view.png/200px-Tibia_-_anterior_view.png",
-    "options": ["عظم الشظية (Fibula)", "عظم الفخذ (Femur)", "عظم الظنبوب (Tibia)", "عظم الرضفة (Patella)"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ما هو العظم الرفيع الموجود في الجانب الوحشي من الساق؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fibula_-_anterior_view.png/200px-Fibula_-_anterior_view.png",
-    "options": ["عظم الظنبوب (Tibia)", "عظم الشظية (Fibula)", "عظم الكاحل (Talus)", "عظم العقب (Calcaneus)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما اسم العظم المسطح الذي يقع أمام مفصل الركبة؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Patella_-_anterior_view.png/150px-Patella_-_anterior_view.png",
-    "options": ["عظم الركبة (Meniscus)", "الرضفة (Patella)", "عظم الظنبوب (Tibia)", "الرباط الصليبي (Cruciate Ligament)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما هو العظم الذي يشكل العقب (الكعب) في القدم؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Calcaneus_-_anterior_view.png/200px-Calcaneus_-_anterior_view.png",
-    "options": ["عظم الكاحل (Talus)", "عظم العقب (Calcaneus)", "عظم النعل (Navicular)", "عظم المشط (Metatarsal)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما هو العظم الذي يتصل مع عظم الساق والشظية ليكون جزءاً من الكاحل؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Talus_-_superior_view.png/200px-Talus_-_superior_view.png",
-    "options": ["عظم العقب (Calcaneus)", "عظم الكاحل (Talus)", "عظم النعل (Navicular)", "عظم المكعب (Cuboid)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما هي العظام الطويلة الموجودة في راحة القدم؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Metatarsals_-_anterior_view.png/200px-Metatarsals_-_anterior_view.png",
-    "options": ["عظام الرسغ (Carpals)", "عظام السلاميات (Phalanges)", "عظام مشط القدم (Metatarsals)", "عظام الرصغ (Tarsals)"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ما هو هذا العظم الموجود في الرسغ والذي غالباً ما يصاب بالكسر عند السقوط على اليد؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Scaphoid_bone_-_anterolateral_view.png/200px-Scaphoid_bone_-_anterolateral_view.png",
-    "options": ["عظم الهلال (Lunate)", "عظم الزورقي (Scaphoid)", "عظم الهرمي (Triquetrum)", "عظم المثلث (Pisiform)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما اسم العظام التي تشكل أصابع اليد؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Phalanges_of_hand_-_anterior_view.png/200px-Phalanges_of_hand_-_anterior_view.png",
-    "options": ["عظام السنع (Metacarpals)", "عظام الرسغ (Carpals)", "عظام السلاميات (Phalanges)", "عظام المشط (Metatarsals)"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ما اسم العظام التي تقع بين الرسغ وأصابع اليد؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Metacarpal_bones_-_anterior_view.png/200px-Metacarpal_bones_-_anterior_view.png",
-    "options": ["عظام السلاميات (Phalanges)", "عظام السنع (Metacarpals)", "عظام الرسغ (Carpals)", "عظم الكعبرة (Radius)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما هو العظم الذي يربط بين عظم القص ولوح الكتف؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Clavicle_-_anterior_view.png/200px-Clavicle_-_anterior_view.png",
-    "options": ["الترقوة (Clavicle)", "لوح الكتف (Scapula)", "عظم العضد (Humerus)", "الضلع الأول (First Rib)"],
-    "correctIndex": 0
-  },
-  {
-    "question": "ما اسم العظم المسطح المثلث الشكل الموجود في الظهر؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Scapula_-_posterior_view.png/200px-Scapula_-_posterior_view.png",
-    "options": ["عظم القص (Sternum)", "الترقوة (Clavicle)", "لوح الكتف (Scapula)", "عظم العجز (Sacrum)"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ما هو العظم المسطح الذي يقع في منتصف الصدر الأمامي؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sternum_-_anterior_view2.png/200px-Sternum_-_anterior_view2.png",
-    "options": ["لوح الكتف (Scapula)", "عظم القص (Sternum)", "الفقرات الصدرية (Thoracic Vertebrae)", "الترقوة (Clavicle)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما هي هذه العظام المنحنية التي تتصل بالعمود الفقري من الخلف وعظم القص من الأمام؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ribs_anterior.png/200px-Ribs_anterior.png",
-    "options": ["الغضاريف الضلعية (Costal Cartilages)", "الضلوع (Ribs)", "الفقرات (Vertebrae)", "الترقوة (Clavicle)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما اسم الفقرات الموجودة في الرق والتي تسمح بحركة الرأس؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cervical_vertebrae_eng.png/200px-Cervical_vertebrae_eng.png",
-    "options": ["الفقرات الصدرية (Thoracic)", "الفقرات القطنية (Lumbar)", "الفقرات العنقية (Cervical)", "الفقرات العجزية (Sacral)"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ما هي الفقرات الأكبر حجماً والتي تحمل معظم وزن الجسم العلوي؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lumbar_vertebrae.png/200px-Lumbar_vertebrae.png",
-    "options": ["الفقرات العنقية (Cervical)", "الفقرات الصدرية (Thoracic)", "عظم العجز (Sacrum)", "الفقرات القطنية (Lumbar)"],
+    "options": ["Humerus Lateral", "Shoulder AP", "Femur AP", "Humerus AP"],
     "correctIndex": 3
   },
   {
-    "question": "ما هو العظم المثلث الذي يتكون من اندماج 5 فقرات ويوجد في قاعدة العمود الفقري؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sacrum_anterior_surface.png/200px-Sacrum_anterior_surface.png",
-    "options": ["عظم العصعص (Coccyx)", "عظم الحوض (Ilium)", "عظم العجز (Sacrum)", "الفقرات القطنية (Lumbar)"],
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/62045835/d1b7fd3defbd9a39b21c8fec9fa14e7786b13db8fd91898066ba3bc785e09b31_big_gallery.jpeg",
+    "options": ["Humerus AP", "Femur Lateral", "Humerus Lateral", "Forearm AP & Lateral"],
     "correctIndex": 2
   },
   {
-    "question": "ما اسم العظم الذي يقع في مقدمة الجمجمة ويشكل الجبهة؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Frontal_bone_anterior.png/200px-Frontal_bone_anterior.png",
-    "options": ["العظم الجبهي (Frontal)", "العظم الجداري (Parietal)", "العظم الوتدي (Sphenoid)", "العظم الغربالي (Ethmoid)"],
-    "correctIndex": 0
-  },
-  {
-    "question": "ما هو العظم الموجود في الجانب العلوي والجانبي من الجمجمة؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Parietal_bone_outer_surface.png/200px-Parietal_bone_outer_surface.png",
-    "options": ["العظم الصدغي (Temporal)", "العظم الجداري (Parietal)", "العظم القفوي (Occipital)", "العظم الجبهي (Frontal)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما هو العظم الذي يقع في قاع الجمجمة من الخلف ويحتوي على الثقبة العظمى؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Occipital_bone_inferior.png/200px-Occipital_bone_inferior.png",
-    "options": ["العظم الجداري (Parietal)", "العظم الوتدي (Sphenoid)", "العظم القفوي (Occipital)", "العظم الصدغي (Temporal)"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ما هو العظم الذي يقع على جانبي الجمجمة ويحتوي على الأذن الوسطى والداخلية؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Temporal_bone_outer_surface.png/200px-Temporal_bone_outer_surface.png",
-    "options": ["العظم الغربالي (Ethmoid)", "العظم الصدغي (Temporal)", "العظم الوجني (Zygomatic)", "العظم الجداري (Parietal)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما هو العظم الوحيد المتحرك في الجمجمة؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mandible_outside.png/200px-Mandible_outside.png",
-    "options": ["عظم الفك العلوي (Maxilla)", "عظم الوجني (Zygomatic)", "عظم الفك السفلي (Mandible)", "العظم الحاجزي (Vomer)"],
-    "correctIndex": 2
-  },
-  {
-    "question": "ما هو العظم الذي يشكل الجزء العلوي من الفك العلوي ويرتبط بالأنف؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Maxilla_anterior.png/200px-Maxilla_anterior.png",
-    "options": ["العظم الحاجزي (Vomer)", "عظم الفك العلوي (Maxilla)", "العظم الغربالي (Ethmoid)", "العظم الوجني (Zygomatic)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما هو العظم الذي يشكل بروز الخد؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Zygomatic_bone_anterior.png/200px-Zygomatic_bone_anterior.png",
-    "options": ["العظم الجبهي (Frontal)", "العظم الصدغي (Temporal)", "عظم الفك العلوي (Maxilla)", "العظم الوجني (Zygomatic)"],
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/2943878/7c83fe624dd5538d4ca7d1e5f230c8_gallery.jpg",
+    "options": ["Elbow Oblique (Medial)", "Forearm AP & Lateral", "Wrist AP & Lateral", "Elbow AP & Lateral"],
     "correctIndex": 3
   },
   {
-    "question": "ما هو العظم الذي يشبه الفراشة ويوجد في قاعدة الجمجمة؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Sphenoid_bone_anterior.png/200px-Sphenoid_bone_anterior.png",
-    "options": ["العظم الوتدي (Sphenoid)", "العظم الغربالي (Ethmoid)", "العظم القفوي (Occipital)", "العظم الجبهي (Frontal)"],
-    "correctIndex": 0
-  },
-  {
-    "question": "ما هو العظم المسؤول عن تشكيل الحاجز الأنفي وجيوب الأنف؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ethmoid_bone_anterior.png/200px-Ethmoid_bone_anterior.png",
-    "options": ["العظم الوتدي (Sphenoid)", "العظم الحاجزي (Vomer)", "العظم الغربالي (Ethmoid)", "عظم الفك العلوي (Maxilla)"],
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/57229960/0._gallery.jpeg",
+    "options": ["Elbow AP & Lateral", "Wrist Oblique", "Elbow Oblique (Medial)", "Forearm AP & Lateral"],
     "correctIndex": 2
   },
   {
-    "question": "ما اسم أكبر عظم في حوض الإنسان ويشكل الجناح الحوضي؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ilium_-_anterior_view.png/200px-Ilium_-_anterior_view.png",
-    "options": ["عظم العانة (Pubis)", "عظم الإسكين (Ischium)", "عظم الحرقفة (Ilium)", "عظم العجز (Sacrum)"],
+    "question": "ما اسم الوضعية؟",
+    "image": "https://www.researchgate.net/publication/338863934/figure/fig4/AS:963470937833496@1606720780506/Plain-radiograph-right-forearm-AP-and-lateral-views-demonstrating-cortical-defect-in.jpg",
+    "options": ["Elbow AP & Lateral", "Humerus AP & Lateral", "Forearm AP & Lateral", "Wrist AP & Lateral"],
     "correctIndex": 2
   },
   {
-    "question": "ما هو العظم الذي نجلس عليه ويشكل الجزء السفلي الخلفي من الحوض؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ischium_-_anterior_view.png/200px-Ischium_-_anterior_view.png",
-    "options": ["عظم الإسكين (Ischium)", "عظم العانة (Pubis)", "عظم الحرقفة (Ilium)", "عظم الفخذ (Femur)"],
-    "correctIndex": 0
-  },
-  {
-    "question": "ما هو العظم الذي يشكل الجزء الأمامي السفلي من الحوض؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pubis_-_anterior_view.png/200px-Pubis_-_anterior_view.png",
-    "options": ["عظم العانة (Pubis)", "عظم الإسكين (Ischium)", "عظم الحرقفة (Ilium)", "عظم القص (Sternum)"],
-    "correctIndex": 0
-  },
-  {
-    "question": "ما هي هذه الوضعية القياسية التي يستخدمها تشريحيو الجسم حيث يكون الجسم مستقيماً والنظر للأمام؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anatomical_position1.png/150px-Anatomical_position1.png",
-    "options": ["وضعية الاستلقاء (Supine)", "الوضع التشريحي (Anatomical Position)", "وضعية الجلوس (Sitting)", "وضعية التقريب (Adduction)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ماذا نسمي وضعية الاستلقاء على الظهر بحيث يكون الوجه متجهاً للأعلى؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Fowler%27s_position.png/200px-Fowler%27s_position.png",
-    "options": ["الاستلقاء البطني (Prone)", "الوضع الجانبي (Lateral)", "الاستلقاء الظهري (Supine)", "وضعية ترندلنبرغ (Trendelenburg)"],
+    "question": "ما اسم الوضعية؟",
+    "image": "https://www.researchgate.net/publication/323641114/figure/fig1/AS:601948382326784@1520527086675/The-wrist-AP-and-lateral-X-ray-shows-us-soft-tissue-density-increase-soft-tissue.png",
+    "options": ["Forearm AP & Lateral", "Hand PA", "Wrist AP & Lateral", "Wrist Oblique"],
     "correctIndex": 2
   },
   {
-    "question": "ماذا نسمي وضعية الاستلقاء على البطن بحيث يكون الوجه متجهاً للأسفل؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Prone_position.jpg/200px-Prone_position.jpg",
-    "options": ["الاستلقاء الظهري (Supine)", "الاستلقاء البطني (Prone)", "الوضع الجانبي (Lateral Decubitus)", "الوضع التشريحي (Anatomical)"],
-    "correctIndex": 1
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/13570062/c3d77957ba01327f505d93dc6ba2ce54c2f9fc2c3f628a86998f5ed6bdd6bf3c_gallery.jpeg",
+    "options": ["Wrist AP & Lateral", "Hand Oblique", "Elbow Oblique (Medial)", "Wrist Oblique"],
+    "correctIndex": 3
   },
   {
-    "question": "ما هي هذه الحركة التي تقلل الزاوية بين عظمتين (مثل ثني الكوع)؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flexion.svg/200px-Flexion.svg.png",
-    "options": ["البسط (Extension)", "الثني (Flexion)", "التدوير الداخلي (Internal Rotation)", "التقريب (Adduction)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما هي هذه الحركة التي تزيد الزاوية بين عظمتين (مثل فرد الكوع)؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Extension.svg/200px-Extension.svg.png",
-    "options": ["البسط (Extension)", "الثني (Flexion)", "التبعيد (Abduction)", "الدوران (Rotation)"],
-    "correctIndex": 0
-  },
-  {
-    "question": "ما هي حركة تحريك الطرف بعيداً عن خط المنتصف للجسم؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Abduction.svg/200px-Abduction.svg.png",
-    "options": ["التقريب (Adduction)", "التبعيد (Abduction)", "الرفع (Elevation)", "الثني (Flexion)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما هي حركة تحريك الطرف نحو خط المنتصف للجسم؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Adduction.svg/200px-Adduction.svg.png",
-    "options": ["التقريب (Adduction)", "التبعيد (Abduction)", "الخفض (Depression)", "البسط (Extension)"],
-    "correctIndex": 0
-  },
-  {
-    "question": "ما هي حركة دوران الساعد بحيث تتجه راحة اليد للأسفل؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pronation.svg/200px-Pronation.svg.png",
-    "options": ["الكب (Pronation)", "الاستلقاء الكعبري (Supination)", "الثني (Flexion)", "التبعيد (Abduction)"],
-    "correctIndex": 0
-  },
-  {
-    "question": "ما هي حركة دوران الساعد بحيث تتجه راحة اليد للأعلى؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Supination.svg/200px-Supination.svg.png",
-    "options": ["الكب (Pronation)", "الاستلقاء الكعبري (Supination)", "البسط (Extension)", "التدوير الخارجي (Lateral Rotation)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما هي حركة تقريب باطن القدم نحو الخط المنصف للجسم؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Inversion.svg/200px-Inversion.svg.png",
-    "options": ["الانقلاب للخارج (Eversion)", "الانقلاب للداخل (Inversion)", "البسط الأخمصي (Plantarflexion)", "الانثناء الظهري (Dorsiflexion)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ما هي حركة إبعاد باطن القدم عن الخط المنصف للجسم؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eversion.svg/200px-Eversion.svg.png",
-    "options": ["الانقلاب للخارج (Eversion)", "الانقلاب للداخل (Inversion)", "الانثناء الظهري (Dorsiflexion)", "البسط الأخمصي (Plantarflexion)"],
-    "correctIndex": 0
-  },
-  {
-    "question": "ما هي حركة رفع أصابع القدم نحو الساق (تقريب الظهر القدمي للساق)؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dorsiflexion.svg/200px-Dorsiflexion.svg.png",
-    "options": ["البسط الأخمصي (Plantarflexion)", "الانقلاب للداخل (Inversion)", "الانثناء الظهري (Dorsiflexion)", "البسط (Extension)"],
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/21466951/411a0e1384f8dd492e664ce3cec73d_big_gallery.jpeg",
+    "options": ["Hand Lateral", "Wrist AP & Lateral", "Hand PA", "Hand Oblique"],
     "correctIndex": 2
   },
   {
-    "question": "ما هي حركة توجيه أطراف الأصابع بعيداً عن الأرض (كالوقوف على أطراف الأصابع)؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Plantarflexion.svg/200px-Plantarflexion.svg.png",
-    "options": ["الانثناء الظهري (Dorsiflexion)", "البسط الأخمصي (Plantarflexion)", "الانقلاب للخارج (Eversion)", "الثني (Flexion)"],
-    "correctIndex": 1
+    "question": "ما اسم الوضعية؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/X-ray_of_normal_hand_by_lateral_projection.jpg/500px-X-ray_of_normal_hand_by_lateral_projection.jpg",
+    "options": ["Hand Oblique", "Hand PA", "Wrist Lateral", "Hand Lateral"],
+    "correctIndex": 3
   },
   {
-    "question": "ما اسم هذا المفصل الكروي الحقي الذي يربط العضد بلوح الكتف؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Shoulder_joint_-_anterolateral_view.png/200px-Shoulder_joint_-_anterolateral_view.png",
-    "options": ["مفصل الكوع (Elbow Joint)", "مفصل الكتف (Shoulder Joint)", "مفصل الصدر الترقوي (Sternoclavicular)", "مفصل الكاحل (Ankle Joint)"],
-    "correctIndex": 1
+    "question": "ما اسم الوضعية؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/X-ray_of_normal_hand_by_oblique_projection.jpg/960px-X-ray_of_normal_hand_by_oblique_projection.jpg",
+    "options": ["Hand PA", "Hand Lateral", "Wrist Oblique", "Hand Oblique"],
+    "correctIndex": 3
   },
   {
-    "question": "ما اسم هذا المفصل الرزي الذي يربط بين عظم العضد، والزند، والكعبرة؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Elbow_joint_-_anterior_view.png/200px-Elbow_joint_-_anterior_view.png",
-    "options": ["مفصل الكتف (Shoulder Joint)", "مفصل الرسغ (Wrist Joint)", "مفصل الكوع (Elbow Joint)", "مفصل تحت الترقوة (Acromioclavicular)"],
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/30113132/2554e834325c2ddb8f090666389d34_big_gallery.jpeg",
+    "options": ["Femur Lateral", "Tibia & Fibula AP", "Femur AP", "Pelvis AP"],
     "correctIndex": 2
   },
   {
-    "question": "ما اسم المفصل البيضوي الذي يربط بين عظمي الكعبرة والزند وعظام الرسغ؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wrist_joint_-_anteroposterior_view.png/200px-Wrist_joint_-_anteroposterior_view.png",
-    "options": ["مفصل الكوع (Elbow Joint)", "مفصل السنع الرسغي (CMC Joint)", "مفصل الرسغ (Wrist Joint)", "مفصل السلاميات (IP Joint)"],
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/30113131/300d029f5b5d1677f48b6b0d372a19_big_gallery.jpeg",
+    "options": ["Femur AP", "Tibia & Fibula Lateral", "Femur Lateral", "Knee Lateral"],
     "correctIndex": 2
   },
   {
-    "question": "ما اسم المفصل الكروي العميق الذي يربط عظم الفخذ بعظم الحوض؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hip_joint_-_anterolateral_view.png/200px-Hip_joint_-_anterolateral_view.png",
-    "options": ["مفصل الركبة (Knee Joint)", "مفصل الورك (Hip Joint)", "مفصل العجز الحرقفي (Sacroiliac Joint)", "مفصل الظهر العجزي (Lumbosacral)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ماذا يظهر في هذه الصورة الشعاعية؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chest_x-ray_PA.jpg/200px-Chest_x-ray_PA.jpg",
-    "options": ["البطن (Abdomen)", "الرئتان والقلب (Lungs and Heart)", "الجمجمة (Skull)", "العمود الفقري (Spine)"],
-    "correctIndex": 1
-  },
-  {
-    "question": "ماذا يظهر في هذه الصورة الشعاعية؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Normal_hand_x-ray.jpg/150px-Normal_hand_x-ray.jpg",
-    "options": ["القدم (Foot)", "الرسغ فقط (Wrist)", "اليد (Hand)", "الكتف (Shoulder)"],
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/49284469/922598043844e7d696d573c4adc168_gallery.jpeg",
+    "options": ["Knee Oblique", "Ankle AP & Lateral", "Knee AP & Lateral", "Tibia & Fibula AP & Lateral"],
     "correctIndex": 2
   },
   {
-    "question": "ما هي حركة تحريك الكتف إلى الأمام (كما يحدث عند الدفع)؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Protraction.svg/200px-Protraction.svg.png",
-    "options": ["السحب للخلف (Retraction)", "الدفع للأمام (Protraction)", "الرفع (Elevation)", "الخفض (Depression)"],
-    "correctIndex": 1
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/2357781/8fbef792c0515ff3c33b397f1c7a0f_gallery.jpg",
+    "options": ["Knee AP & Lateral", "Tibia & Fibula AP", "Ankle Oblique", "Knee Oblique"],
+    "correctIndex": 3
   },
   {
-    "question": "ما هي حركة سحب لوح الكتف إلى الخلف (كما يحدث عند الوقوف بانتباه)؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Retraction.svg/200px-Retraction.svg.png",
-    "options": ["الدفع للأمام (Protraction)", "السحب للخلف (Retraction)", "التدوير الداخلي (Medial Rotation)", "الثني (Flexion)"],
-    "correctIndex": 1
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/49284461/554ec65200d246b5f21ad59a1d26c0_big_gallery.jpeg",
+    "options": ["Femur AP", "Tibia & Fibula Lateral", "Tibia & Fibula AP", "Fibula AP"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/23964348/270091cae942462aeac284122a0cbf_gallery.jpeg",
+    "options": ["Tibia & Fibula AP", "Femur Lateral", "Tibia & Fibula Lateral", "Knee Lateral"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://medifyhome.com/wp-content/uploads/2025/08/11.jpeg",
+    "options": ["Tibia & Fibula AP & Lateral", "Foot AP & Lateral", "Calcaneus Axial & Lateral", "Ankle AP & Lateral"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/49188671/60fc8a812399c7743353fd32b690c1_big_gallery.jpeg",
+    "options": ["Ankle Lateral", "Foot AP & Lateral", "Calcaneus Axial & Lateral", "Ankle AP & Lateral"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://png.pngtree.com/thumb_back/fw800/background/20220622/pngtree-radiographic-views-of-the-right-foot-ap-oblique-and-lateral-photo-image_47267088.jpg",
+    "options": ["Ankle AP & Lateral", "Foot Oblique", "Calcaneus Axial & Lateral", "Foot AP & Lateral"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/2027035/334be608f1b82ed6931895038118c6_big_gallery.jpg",
+    "options": ["Foot AP & Lateral", "Hand Oblique", "Foot Oblique", "Ankle Oblique"],
+    "correctIndex": 2
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_big_gallery.jpeg",
+    "options": ["Chest AP", "Ribs PA", "Chest Lateral", "Chest PA"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg",
+    "options": ["Thoracic Spine Lateral", "Lumbar Oblique (Scotty Dog)", "Lumbar Spine AP", "Lumbar Spine Lateral"],
+    "correctIndex": 3
+  },
+  {
+    "question": "ما اسم الوضعية؟",
+    "image": "https://prod-images-static.radiopaedia.org/images/49284469/922598043844e7d696d573c4adc168_gallery.jpeg",
+    "options": ["Ankle AP & Lateral", "Femur AP", "Knee Oblique", "Knee AP & Lateral"],
+    "correctIndex": 3
   }
 ]
