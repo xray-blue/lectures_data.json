@@ -49,7 +49,7 @@
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://www.ebmconsult.com/content/images/Xrays/AP_Neck.png",
+    "image": "https://prod-images-static.radiopaedia.org/images/9289881/972eed11eb9e25fdd8fd27b8ca94a6_big_gallery.jpg",
     "options": ["Cervical Spine Lateral", "Cervical Oblique Views", "Thoracic Spine AP", "Cervical Spine AP"],
     "correctIndex": 3
   },
@@ -61,15 +61,15 @@
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://www.clinicalanatomy.ca/radiology/neck/neckOblq.png",
+    "image": "https://media.sciencephoto.com/image/p1160718/800wm/P1160718.jpg",
     "options": ["Cervical Spine Lateral", "Cervical Spine AP", "Cervical Oblique Views", "Thoracic Spine AP"],
     "correctIndex": 2
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://omeka.lib.jmu.edu/r4a/files/original/f367342f719e5e0bd4c198b2b39de9d1.png",
+    "image": "https://prod-images-static.radiopaedia.org/images/23961556/ac905d11388b4abeffc8dcc32bbb8c_big_gallery.jpeg",
     "options": ["Lumbar Spine AP", "Thoracic Spine Lateral", "Cervical Spine AP", "Thoracic Spine AP"],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "question": "ما اسم الوضعية؟",
