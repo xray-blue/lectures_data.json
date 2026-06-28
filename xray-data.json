@@ -42,8 +42,8 @@
       "items": [
         {
           "id": "skull_ap",
-          "name": "Skull AP",
-          "sub": "",
+          "name": "",
+          "sub": "Skull AP",
           "cat": "Skull",
           "icon": "💀",
           "kvp": 80,
@@ -59,8 +59,8 @@
         },
         {
           "id": "skull_pa",
-          "name": "Skull PA",
-          "sub": "",
+          "name": "",
+          "sub": "Skull PA",
           "cat": "Skull",
           "icon": "💀",
           "kvp": 82,
@@ -76,8 +76,8 @@
         },
         {
           "id": "skull_lat",
-          "name": "Skull Lateral",
-          "sub": "",
+          "name": "",
+          "sub": "Skull Lateral",
           "cat": "Skull",
           "icon": "🧠",
           "kvp": 78,
