@@ -1,722 +1,602 @@
 [
   {
-    "question": "ما هي وضعية الصدر PA المثلى التي تُظهر الرئتين والقلب وتُقلل من تضخم القلب الوهمي؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية اليسرى", "الوضعية المائلة"],
+    "question": "ما هي الوضعية القياسية الأساسية لتصوير الصدر؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المائلة"],
     "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية الجانبية للصدر التي تُظهر الفراغ خلف القلب بوضوح؟",
-    "options": ["الجانبية اليمنى", "الجانبية اليسرى", "الوضعية الأمامية الخلفية", "الوضعية المائلة الأمامية"],
+    "question": "في وضعية الصدر الخلفية الأمامية (PA)، من أين تتجه حزمة الأشعة؟",
+    "options": ["من الأمام إلى الخلف", "من الخلف إلى الأمام", "من الجانب الأيمن إلى الأيسر", "من الأعلى إلى الأسفل"],
     "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
   },
   {
-    "question": "أي وضعية تُستخدم لتوضيح قمم الرئتين عند الاشتباه بآفة في القمم؟",
-    "options": ["وضعية Lordotic (AP مع ميلان المريض للخلف)", "الوضعية الجانبية", "الوضعية الخلفية الأمامية العادية", "وضعية Decubitus"],
-    "correctIndex": 0,
+    "question": "ما هي الوضعية المستخدمة لتصوير المرضى في السرير (Portable)؟",
+    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "وضعية فتحة الفم"],
+    "correctIndex": 1,
+    "image": "https://prod-images-static.radiopaedia.org/images/20747422/6edb4d5a5b1cf443db30a6fcd9e562_big_gallery.jpeg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتصوير قمم الرئتين بوضوح؟",
+    "options": ["الوضعية الجانبية", "وضعية اللوردوتيك (Lordotic)", "الوضعية الخلفية الأمامية (PA) العادية", "وضعية الاستلقاء الجانبي"],
+    "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/7356635/125e28937329a35ab973a09b43f46b_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية البطن القياسية للكشف عن انسداد الأمعاء وحصوات الكلى؟",
-    "options": ["وضعية KUB (AP مستلقٍ)", "الوضعية الجانبية", "الوضعية الخلفية الأمامية", "الوضعية المائلة"],
+    "question": "ما هي الوضعية الجانبية للصدر التي تُظهر القلب والفراغ خلفه؟",
+    "options": ["الوضعية الجانبية اليسرى", "الوضعية الجانبية اليمنى", "الوضعية الأمامية الخلفية", "الوضعية المائلة"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتصوير البطن للبحث عن حصوات الكلى والمثانة (KUB)؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) مستلقياً", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "وضعية الاستلقاء الجانبي"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "أي وضعية تُستخدم لتقييم مستويات السوائل والهواء في البطن أو الصدر؟",
-    "options": ["الاستلقاء الظهري (Supine)", "الاستلقاء الجانبي (Lateral Decubitus)", "الوضعية الخلفية الأمامية", "الانبطاح (Prone)"],
+    "question": "ما هي الوضعية التي تُظهر مستويات السوائل والهواء في البطن بوضوح؟",
+    "options": ["الاستلقاء الظهري (Supine)", "الوقوف (Upright) أو الاستلقاء الجانبي (Decubitus)", "الوضعية الخلفية الأمامية (PA)", "الانبطاح على البطن (Prone)"],
     "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية اليد القياسية التي تُظهر السلاميات والمشط والرسغ بوضوح؟",
-    "options": ["وضعية اليد AP", "وضعية اليد PA", "وضعية اليد الجانبية", "وضعية اليد المائلة"],
+    "question": "ما هي الوضعية القياسية لتصوير اليد؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المحورية"],
     "correctIndex": 1,
     "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
   },
   {
-    "question": "أي وضعية لليد تُظهر الفراغات المفصلية بين السلاميات لتقييم التهاب المفاصل؟",
-    "options": ["الوضعية AP", "الوضعية PA", "الوضعية الجانبية", "الوضعية المائلة (Oblique)"],
-    "correctIndex": 1,
+    "question": "أي وضعية لليد تُظهر الفراغات بين عظام الأصابع بوضوح؟",
+    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية"],
+    "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/13587840/6d5c18e3e314af3c97a16365a5756efeb9dd7c145eb0dcf2675804533caf9f48_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الرسغ الجانبية التي تُظهر المحور الطولي للرسغ؟",
-    "options": ["الوضعية AP", "الوضعية PA", "الوضعية الجانبية (Lateral)", "الوضعية المحورية"],
-    "correctIndex": 2,
+    "question": "ما هي الوضعية القياسية لتصوير الرسغ؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية فقط", "الوضعية المائلة فقط"],
+    "correctIndex": 1,
     "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
   },
   {
-    "question": "ما هي وضعية الكوع القياسية التي تُظهر العضد والزند والكعبرة معاً؟",
-    "options": ["وضعية الكوع AP", "وضعية الكوع PA", "وضعية الكوع الجانبية", "وضعية الكوع المائلة"],
+    "question": "أي وضعية تُستخدم لتصوير عظم الزورقي (Scaphoid) في الرسغ؟",
+    "options": ["الوضعية الخلفية الأمامية (PA) مع انحراف زندي", "الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587542/e7e7d8204f7f69192e32161a918240_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية الجانبية لتصوير الرسغ؟",
+    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة"],
+    "correctIndex": 0,
+    "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
+  },
+  {
+    "question": "ما هي الوضعية التي تُصور فيها اليد وهي مشدودة القبضة لتقييم الرسغ؟",
+    "options": ["وضعية قبضة اليد (Clenched Fist)", "الوضعية الجانبية", "الوضعية الخلفية الأمامية العادية", "وضعية الانحراف الزندي"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13585856/7e82b270ddf6e0adc2e37136d2861c_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير الساعد (الكعبرة والزند)؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA) فقط", "الوضعية المحورية", "الوضعية المائلة فقط"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/13584773/160f837f0e87cd5d8097b71c5c32e3d821753111285b6e8dcb0554a73c29e5db_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الكتف AP التي تُظهر مفصل الكتف ورأس العضد؟",
-    "options": ["وضعية الكتف AP", "وضعية Scapular Y", "وضعية Axillary", "وضعية الكتف PA"],
+    "question": "ما هي الوضعية القياسية لتصوير الكوع؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة فقط", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13584773/160f837f0e87cd5d8097b71c5c32e3d821753111285b6e8dcb0554a73c29e5db_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية الجانبية لتصوير الكوع؟",
+    "options": ["الوضعية الجانبية (Lateral) بزاوية 90 درجة", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتصوير رأس الكعبرة في الكوع بوضوح؟",
+    "options": ["الوضعية المائلة (Oblique) مع دوران داخلي", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية الخلفية الأمامية (PA)"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587541/98bb80b803ec2065bc1470ed51a6d1_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير عظم العضد (الذراع)؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الركبة الجانبية التي تُظهر الرضفة والمسافة بين الفخذ والظنبوب؟",
-    "options": ["وضعية الركبة AP", "وضعية الركبة PA", "وضعية الركبة الجانبية (Lateral)", "وضعية الركبة المائلة"],
-    "correctIndex": 2,
-    "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
-  },
-  {
-    "question": "ما هي وضعية الركبة المحورية (Skyline/Sunrise) المستخدمة لتقييم الرضفة؟",
-    "options": ["وضعية الركبة AP", "وضعية الركبة الجانبية", "وضعية الركبة المحورية (Sunrise)", "وضعية الركبة المائلة"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الكاحل الجانبية التي تظهر عظم الكعب والظنبوب والشظية؟",
-    "options": ["وضعية الكاحل AP", "وضعية الكاحل الجانبية (Lateral)", "وضعية الكاحل المائلة (Mortise)", "وضعية الكاحل المحورية"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/61842235/192c32c862386fa52562b03def2129e7f5fcf097f4e6cdd682f47de59840cc80_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية القدم التي توضح عظام القدم بشكل قياسي؟",
-    "options": ["وضعية القدم AP", "وضعية القدم PA", "وضعية القدم الظهرية الأخمصية (Dorsoplantar)", "وضعية القدم الجانبية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية العمود الفقري القطني الجانبية التي تظهر الأجسام الفقرية والأقراص؟",
-    "options": ["الوضعية AP", "الوضعية الجانبية (Lateral)", "الوضعية المائلة", "الوضعية المحورية"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "ما هي وضعية العمود الفقري الرقبي الجانبية التي تظهر الفقرات الرقبية السبعة؟",
-    "options": ["الوضعية AP", "الوضعية الجانبية (Lateral)", "الوضعية المائلة", "وضعية الأودونتويد"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية فتحة الفم (Open Mouth) المستخدمة لتقييم الفقرة الرقبية الثانية (الأودونتويد)؟",
-    "options": ["وضعية الرقبة AP", "وضعية الرقبة الجانبية", "وضعية الأودونتويد (Open Mouth)", "الوضعية المائلة"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/23089841/a82f9cbbdddf7fe1417dfbf586b62f_big_gallery.jpg"
-  },
-  {
-    "question": "ما هي وضعية الحوض AP القياسية التي تظهر العظام الحرقفية والعانة والوركين؟",
-    "options": ["وضعية الحوض AP", "وضعية الحوض PA", "وضعية الحوض الجانبية", "وضعية الحوض المائلة"],
+    "question": "ما هي الوضعية القياسية لتصوير الكتف؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية العادية", "الوضعية المائلة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الورك الجانبية (Frog Leg) التي تظهر رأس الفخذ من الجانب؟",
-    "options": ["وضعية الورك AP", "وضعية Frog Leg", "وضعية الورك المائلة", "وضعية الورك المحورية"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587676/52e8427af248ee84611ac1231f3218_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الجمجمة الجانبية التي تظهر القحف والجيوب الأنفية؟",
-    "options": ["وضعية الجمجمة الجانبية (Lateral)", "وضعية الجمجمة AP", "وضعية ووترز", "وضعية كالدويل"],
+    "question": "ما هي الوضعية المحورية التي تُظهر تجويف الحق (Glenoid Cavity) في الكتف؟",
+    "options": ["الوضعية الإبطية (Axillary)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "وضعية Scapular Y"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
-  },
-  {
-    "question": "ما هي وضعية ووترز (Waters/Occipitomental) المستخدمة لتصوير الجيوب الفكية؟",
-    "options": ["الوضعية الجانبية", "وضعية ووترز (Occipitomental)", "وضعية كالدويل", "وضعية تاون"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية كالدويل (Caldwell) التي تُظهر الجيوب الأمامية والغربالية؟",
-    "options": ["وضعية ووترز", "وضعية كالدويل (PA مع ميلان)", "وضعية تاون", "الوضعية الجانبية"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593520/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية تاون (Towne) المستخدمة لتصوير العظم القذالي والمخيخ؟",
-    "options": ["الوضعية الجانبية", "وضعية تاون (AP مع ميلان نحو القدم)", "وضعية ووترز", "وضعية كالدويل"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593523/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الكتف المحورية (Axillary) التي تُظهر مفصل الكتف من الأسفل؟",
-    "options": ["وضعية الكتف AP", "وضعية Scapular Y", "وضعية Axillary", "وضعية الكتف PA"],
-    "correctIndex": 2,
     "image": "https://prod-images-static.radiopaedia.org/images/13587243/10335461f8420e146184784cb310e1_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية Scapular Y التي تُظهر لوح الكتف والرأس العضدي بشكل جانبي؟",
-    "options": ["وضعية الكتف AP", "وضعية Axillary", "وضعية Scapular Y", "وضعية الكتف PA"],
-    "correctIndex": 2,
+    "question": "ما هي وضعية (Scapular Y) للكتف؟",
+    "options": ["وضعية جانبية تُظهر لوح الكتف ورأس العضد", "وضعية أمامية خلفية", "وضعية محورية من الأعلى", "وضعية مائلة"],
+    "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/13585993/bb3e0392fe5c730db60c5ac3fa2ceb_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الكاحل المائلة (Mortise) التي تظهر مفصل الكاحل بزاوية 15-20 درجة؟",
-    "options": ["وضعية الكاحل AP", "وضعية الكاحل الجانبية", "وضعية Mortise", "وضعية الكاحل المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/61842237/49c77546f4c3bdefe74de1b5177ecf_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية عظم الكعب المحورية (Calcaneal Axial) التي تظهر عظم الكعب من الأسفل؟",
-    "options": ["وضعية الكاحل AP", "وضعية الكاحل الجانبية", "وضعية Calcaneal Axial", "وضعية القدم Dorsoplantar"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587279/f9a54ed07ec79da2d92723780349f7_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية العمود الفقري القطني المائلة التي تظهر المفاصل الفقرية الجانبية؟",
-    "options": ["الوضعية AP", "الوضعية الجانبية", "الوضعية المائلة (Oblique)", "الوضعية المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13586211/7cc3ae8c22f1ac6c3f6387b15cb33f_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الحوض المائلة المستخدمة لتقييم المفصل الحرقفي العجزي؟",
-    "options": ["وضعية الحوض AP", "وضعية الحوض الجانبية", "وضعية الحوض المائلة (Sacroiliac Joints)", "وضعية الحوض المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13586254/fdb7f721a549843718d0fec316f73a_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الزورقي (Scaphoid View) مع تمديد المعصم وانحرافه زندياً؟",
-    "options": ["وضعية الرسغ AP", "وضعية الرسغ PA", "وضعية الرسغ الجانبية", "وضعية Scaphoid View"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587542/e7e7d8204f7f69192e32161a918240_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية قبضة اليد (Clenched Fist) المستخدمة لتقييم المفصل الرسغي الزندي؟",
-    "options": ["وضعية المعصم AP", "وضعية المعصم PA", "وضعية المعصم الجانبية", "وضعية Clenched Fist"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13585856/7e82b270ddf6e0adc2e37136d2861c_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية عظم القص الجانبية التي تظهر الجسم واليد؟",
-    "options": ["وضعية القص AP", "وضعية القص PA", "وضعية القص الجانبية (Lateral)", "وضعية القص المائلة"],
-    "correctIndex": 2,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sternum_lateral.jpg/300px-Sternum_lateral.jpg"
-  },
-  {
-    "question": "ما هي وضعية الترقوة AP القياسية التي تظهر الترقوة بالكامل؟",
-    "options": ["وضعية الترقوة AP", "وضعية الترقوة PA", "وضعية الترقوة الجانبية", "وضعية مفصل الكتف الترقوي"],
+    "question": "ما هي الوضعية القياسية لتصوير الترقوة؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المحورية"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الفك السفلي المائلة التي تظهر الفروع الصاعدة للفك؟",
-    "options": ["وضعية الفك AP", "وضعية الفك الجانبية", "وضعية الفك المائلة (Oblique)", "وضعية تاون"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/12073744/5c0dc8bf06798c6db06cd168df4d9a_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية عظام الأنف الجانبية التي تظهر عظم الأنف؟",
-    "options": ["وضعية الأنف الجانبية (Lateral Nasal Bone)", "وضعية الأنف AP", "وضعية ووترز", "وضعية كالدويل"],
+    "question": "أي وضعية تُستخدم لتصوير مفصل الكتف الترقوي (AC Joint)؟",
+    "options": ["وضعية الترقوة الأمامية الخلفية (AP) مع أو بدون أثقال", "الوضعية الجانبية", "الوضعية المحورية", "وضعية Scapular Y"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/9470064/507281cb5c0347e7d0bbfeddfc476c_gallery.jpg"
+    "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg"
   },
   {
-    "question": "ما هو الخطأ الشائع في تصوير الصدر PA عندما يكون المريض مدوراً؟",
-    "options": ["الأضلاع غير متناظرة والقصبة الهوائية منحرفة", "الرئتان مظلمتان", "القلب يبدو متضخماً", "الزوايا الضلعية الحجابية تختفي"],
+    "question": "ما هي الوضعية القياسية لتصوير القدم؟",
+    "options": ["الوضعية الظهرية الأخمصية (Dorsoplantar)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية فقط", "الوضعية المحورية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/18975222/3e3c5f33a07b8689d7bd722fdd04cc_big_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الورك المحورية (Lateral Hip) المستخدمة لتقييم زاوية العنق الفخذي؟",
-    "options": ["وضعية الورك AP", "وضعية Frog Leg", "وضعية الورك الجانبية (Lateral)", "وضعية الورك المائلة"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587676/52e8427af248ee84611ac1231f3218_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الكوع المائلة (Oblique) التي تظهر المرفق مع دوران الساعد؟",
-    "options": ["وضعية الكوع AP", "وضعية الكوع الجانبية", "وضعية الكوع المائلة (Internal/External Rotation)", "وضعية الكوع المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587541/98bb80b803ec2065bc1470ed51a6d1_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الركبة المائلة التي تظهر الفراغات بين اللقمتين؟",
-    "options": ["وضعية الركبة AP", "وضعية الركبة الجانبية", "وضعية الركبة المائلة (Internal/External Rotation)", "وضعية الركبة المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13586037/1b97f6c3e49ec13ae6fb888f1b42f1_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية العمود الفقري الصدري الجانبية التي تظهر الفقرات الصدرية؟",
-    "options": ["الوضعية AP", "الوضعية الجانبية (Lateral)", "الوضعية المائلة", "الوضعية المحورية"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587779/c8ba5fd99a2cb5ed9cc51bf56b4174_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية عظم العضد AP التي تظهر عظم العضد بالكامل؟",
-    "options": ["وضعية العضد AP", "وضعية العضد PA", "وضعية العضد الجانبية", "وضعية العضد المائلة"],
+    "question": "ما هي الوضعية الجانبية لتصوير القدم؟",
+    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الظهرية الأخمصية", "الوضعية الأمامية الخلفية", "الوضعية المائلة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الساعد AP التي تظهر الكعبرة والزند؟",
-    "options": ["وضعية الساعد AP", "وضعية الساعد PA", "وضعية الساعد الجانبية", "وضعية الساعد المائلة"],
+    "question": "ما هي الوضعية القياسية لتصوير الأصابع؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة فقط"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13584773/160f837f0e87cd5d8097b71c5c32e3d821753111285b6e8dcb0554a73c29e5db_big_gallery.jpeg"
+    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
   },
   {
-    "question": "ما هي وضعية عظم الظنبوب والشظية AP التي تظهر الساق بالكامل؟",
-    "options": ["وضعية الساق AP", "وضعية الساق PA", "وضعية الساق الجانبية", "وضعية الساق المائلة"],
+    "question": "ما هي الوضعية القياسية لتصوير الكاحل؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية فقط", "الوضعية المائلة فقط"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/61842235/192c32c862386fa52562b03def2129e7f5fcf097f4e6cdd682f47de59840cc80_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية الكاحل المائلة (Mortise) التي تُظهر الفراغ المفصلي بوضوح؟",
+    "options": ["وضعية AP مع دوران داخلي 15-20 درجة", "الوضعية الجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/61842237/49c77546f4c3bdefe74de1b5177ecf_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية المحورية لتصوير عظم الكعب (Calcaneus)؟",
+    "options": ["الوضعية المحورية (Axial Calcaneus)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587279/f9a54ed07ec79da2d92723780349f7_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية الجانبية لتصوير عظم الكعب؟",
+    "options": ["الوضعية الجانبية (Lateral)", "الوضعية المحورية", "الوضعية الأمامية الخلفية", "وضعية القدم Dorsoplantar"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/61842235/192c32c862386fa52562b03def2129e7f5fcf097f4e6cdd682f47de59840cc80_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير عظم الظنبوب والشظية (الساق)؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة فقط"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية عظم الفخذ AP التي تظهر عظم الفخذ بالكامل؟",
-    "options": ["وضعية الفخذ AP", "وضعية الفخذ PA", "وضعية الفخذ الجانبية", "وضعية الفخذ المائلة"],
-    "correctIndex": 0,
-    "image": "https://jomi.com/api/files/preopaprhip.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لالتهاب الرئة البكتيري (Lobar Pneumonia)؟",
-    "options": ["تكدس قصبي متناسق (Consolidation) في فص واحد", "ارتشاح منتشر ثنائي الجانب", "تكلسات منتشرة", "انصباب جنبي"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/4236380/2fba8b6ee61af762b89f0f36b0afbc_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للانصباب الجنبي (Pleural Effusion) في صورة الصدر الجانبية؟",
-    "options": ["تعتيم خلفي محدب يخفي الحجاب الحاجز", "تعتيم منتشر في كلا الرئتين", "تكلسات في القصبات", "فقاعات هوائية في الرئة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/30767834/2e38c9f97b7b0e8b4e5a6f7c8d9e0f1_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للخراج الرئوي (Lung Abscess)؟",
-    "options": ["تجويف يحتوي على مستوى سائل-هواء مع جدار سميك", "تكدس صلب بدون تجويف", "ارتشاح منتشر حبيبي", "انخماص كامل للرئة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/6430840/7a3b5c8d9e1f2a4b6c8d0e2f4a6b8c_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو العلاج الأولي لالتهاب الرئة المكتسب من المجتمع (CAP) الخفيف إلى المتوسط؟",
-    "options": ["مضاد حيوي من مجموعة الماكروليدات أو أموكسيسيللين", "جراحة فورية", "علاج كيميائي", "علاج بالأشعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/4236380/2fba8b6ee61af762b89f0f36b0afbc_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للسل الرئوي (Pulmonary Tuberculosis) في المرحلة الأولية؟",
-    "options": ["تكدس في الفص السفلي مع تضخم العقد اللمفاوية hilum", "تكدس في قمة الرئة مع تجاويف", "انصباب جنبي كبير", "ارتشاح منتشر سفلي"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2667113/78a9b0c1d2e3f4a5b6c7d8e9f0a1b2_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو العلاج القياسي للسل الرئوي النشط؟",
-    "options": ["مزيج من أربعة أدوية (Isoniazid, Rifampicin, Pyrazinamide, Ethambutol) لمدة 6 أشهر", "مضاد حيوي واحد لمدة أسبوع", "جراحة استئصال الرئة", "علاج بالكورتيزون"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2667113/78a9b0c1d2e3f4a5b6c7d8e9f0a1b2_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للانسداد الرئوي (Pulmonary Embolism) في صورة الصدر؟",
-    "options": ["منطقة نقص تروية على شكل وتد (Hampton's Hump) أو ارتفاع الحجاب الحاجز", "تكدس فصوي واضح", "تكلسات منتشرة", "توسع القصبات"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/19953680/1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو العلاج الأولي للانسداد الرئوي الحاد الكبير؟",
-    "options": ["مضادات التخثر (Heparin) ثم Warfarin", "مضادات حيوية واسعة الطيف", "جراحة فورية", "علاج بالأكسجين فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/19953680/1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للربو القصبي الحاد في صورة الصدر؟",
-    "options": ["توسع القصبات مع ارتشاح حبيبي منتشر وارتخاء الحجاب الحاجز", "تكدس فصوي صلب", "انصباب جنبي كبير", "تكلسات hilum"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/4627035/9c8d7e6f5a4b3c2d1e0f9a8b7c6d5e_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو علاج نوبة الربو الحادة؟",
-    "options": ["موسعات القصبات (Salbutamol) مع كورتيكوستيرويدات systemic", "مضادات حيوية", "مضادات التخثر", "جراحة فورية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/4627035/9c8d7e6f5a4b3c2d1e0f9a8b7c6d5e_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لسرطان الرئة ذو الخلايا غير الصغيرة (NSCLC) المركزي؟",
-    "options": ["كتلة مركزية مع انصمام قصبي وربما انخماصdistal", "عقيدات صغيرة متعددة في القمم", "تكلسات منتشرة", "توسع القصبات المنتشر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/4603527/0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لالتهاب الشعب الهوائية المزمن (COPD)؟",
-    "options": ["توسع القصبات مع فرط انتفاخ الرئتين وانخفاض الحجاب الحاجز", "تكدس فصوي حاد", "انصباب جنبي ثنائي", "تكلسات غضروفية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/3456589/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو العلاج الداعم الرئيسي لمرضى COPD الحاد المتفاقم؟",
-    "options": ["موسعات القصبات قصيرة المفعول + كورتيكوستيرويدات + أكسجين مُتحكم به", "مضادات حيوية فقط", "جراحة استئصال فص", "علاج بالأشعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/3456589/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للقصور القلبي الاحتقاني (CHF) في صورة الصدر؟",
-    "options": ["توسع الأوعية الرئوية مع خطوط Kerley B وانصباب جنبي ثنائي وتوسع القلب", "رئة صافية تماماً", "تكدس فصوي واحد", "توسع قصبات منتشر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2664951/3c2d1e0f9a8b7c6d5e4f3a2b1c0d9e_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو العلاج الأولي لقصور القلب الاحتقاني الحاد؟",
-    "options": ["مدرات (Furosemide) + محصرات ACE + محدودية الملح", "مضادات حيوية", "جراحة فورية", "علاج بالأشعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2664951/3c2d1e0f9a8b7c6d5e4f3a2b1c0d9e_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للوهن الرئوي (Pulmonary Edema)_CARDIOGENIC؟",
-    "options": ["تعتيم فراشي (Bat Wing) متماثل مع توسع القلب", "تكدس لقمي غير متماثل", "تكلسات منتشرة", "انخماص كامل لرئة واحدة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/4724493/8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للالتهاب الرئوي المتناشئ من الاستنشاق (Aspiration Pneumonia)؟",
-    "options": ["تكدس في الفص السفلي الأيمن أو المناطق الخلفية القاعدية", "تكدس في قمم الرئتين", "انصباب جنبي بسيط", "توسع القصبات المركزي"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/14782367/2e1f0a9b8c7d6e5f4a3b2c1d0e9f8a_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للخراج تحت الحجاب الحاجز (Subphrenic Abscess)؟",
-    "options": ["ارتفاع الحجاب الحاجز مع انصباب جنبي أساسي وتعتيم تحت حجابي", "رئة طبيعية تماماً", "توسع القصبات", "تكلسات في الرئة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/12345678/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لكسر الضلع في صورة الصدر؟",
-    "options": ["خط كسر واضح مع انزياح أحياناً وربما استرواح صدر ثانوي", "تعتيم رئوي منتشر", "توسع القلب", "تكلسات ضلعية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/26823703/6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للاسترواح الصدري التوتري (Tension Pneumothorax)؟",
-    "options": ["انخماص كامل للرئة مع انزياح الوسيط إلى الجانب المقابل وانبساط الحجاب الحاجز", "انصباب جنبي بسيط", "تكدس رئوي جزئي", "توسع القلب"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/9367560/1b0c9d8e7f6a5b4c3d2e1f0a9b8c7d6e_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو العلاج الإسعافي للاسترواح الصدري التوتري؟",
-    "options": ["إبرة تفجير (Needle Decompression) في الفضاء الثاني بين الضلوع ثم تصريف صدر", "مضادات حيوية", "علاج بالأكسجين فقط", "مراقبة فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/9367560/1b0c9d8e7f6a5b4c3d2e1f0a9b8c7d6e_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للورم الحبيبي الساركويدي (Sarcoidosis) في الصدر؟",
-    "options": ["تضخم متماثل للعقد اللمفاوية Hilar مع ارتشاح منتشر عقدي", "انصباب جنبي وحيد", "كتلة مركزية واحدة", "توسع قصبات"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/3318665/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لالتليف الرئوي مجهول السبب (IPF)؟",
-    "options": ["تعتيم شبكي قاعدي مع تكبير القلوب الرئوية (Honeycomming) في القواعد", "تكدس فصوي علوي", "انصباب جنبي ثنائي", "عقيدات منتشرة علوية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/4743175/3e2f1a0b9c8d7e6f5a4b3c2d1e0f9a_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو علاج التليف الرئوي مجهول السبب (IPF)؟",
-    "options": ["مضاد التليف (Pirfenidone أو Nintedanib) وقد يحتاج زراعة رئة", "مضادات حيوية", "جراحة استئصال", "علاج بالأشعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/4743175/3e2f1a0b9c8d7e6f5a4b3c2d1e0f9a_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لاعتلال الرئة بالغبار السيليسي (Silicosis)؟",
-    "options": ["عقيدات منتشرة صغيرة في القسم العلوي مع تكلسات Hilum (Eggshell Calcification)", "تكدس سفلي فصوي", "انصباب جنبي", "توسع قصبات مركزي"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/3976223/7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لالتهاب الغشاء الجنبي الخبيث (Malignant Mesothelioma)؟",
-    "options": ["انصباب جنبي كبير مع سماكة جنبي لا منتظمة وربما غزو جدار الصدر", "انصباب بسيط منتظم", "رئة طبيعية", "تكدس رئوي منتشر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2615850/5d4e3f2a1b0c9d8e7f6a5b4c3d2e1f_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لسرطان الرئة المحيطي (Peripheral Lung Cancer)؟",
-    "options": ["عقيدة محيطية مع حواف غير منتظمة (Spiculation) وربما تجويف مركزي", "كتلة مركزية سلسة الحواف", "تكدس منتشر حبيبي", "انصباب جنبي معزول"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/6144341/9e8f7a6b5c4d3e2f1a0b9c8d7e6f5a4b_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لانسداد الأمعاء الدقيقة في صورة البطن القائمة؟",
-    "options": ["مستويات سائل-هواء متعددة في الأمعاء الدقيقة مع قلة الغاز في القولون", "غاز واحد كبير في القولون", "تكلسات بطنية", "لا يظهر أي تغير"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "ما هو العلاج الأولي لانسداد الأمعاء الدقيقة البسيط (غير المختنق)؟",
-    "options": ["إنزال أنبوب معدي + سوائل وريديعة + مراقبة", "جراحة فورية", "علاج بالأشعة", "مضادات حيوية فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لانسداد القولون في صورة البطن؟",
-    "options": ["توسع كبير في القولون مع مستويات سائل-هواء قريبة من موقع الانسداد", "مستويات متعددة في الأمعاء الدقيقة فقط", "غاز منتظم في كامل القولون", "لا يظهر تغير"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للفتق الإربي (Inguinal Hernia) في صورة البطن؟",
-    "options": ["غاز أو أمعاء في منطقة الفخذ أسفل الارتفاق العاني", "غاز في الصدر", "توسع المعدة", "تكلسات حوضية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لحصوات الكلى في صورة KUB؟",
-    "options": ["تكلسات على مسار الحالبين أو في منطقة الكلى", "تعتيم منتشر في البطن", "مستويات سائل-هواء", "غاز في الكبد"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "ما هو العلاج الأولي لحصى الكلى المؤلمة (ال مغص الكلوي)؟",
-    "options": ["مسكنات ألم قوية (NSAIDs أو Opioids) + ترطيب وريدي", "جراحة فورية", "مضادات حيوية", "علاج بالأشعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للتهاب الزائدة الدودية الحاد في صورة البطن؟",
-    "options": ["قد يظهر حجر برازي (Appendicolith) في الحفرة الحرقفية اليمنى مع تكلس صغير", "توسع كبير في الأمعاء", "مستويات سائل-هواء متعددة", "غاز في الصدر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للثقب المعدة (Perforated Ulcer) في صورة البطن القائمة؟",
-    "options": ["هواء حر تحت الحجاب الحاجز (Free Air تحت الحجاب)", "انصباب جنبي", "توسع المعدة", "تكلسات حوضية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "ما هو العلاج الجراحي للثقب المعدة الحر؟",
-    "options": ["إغلاق جراحي للثقب + غسيل بريتوني + مضادات حيوية وريدية", "مضادات حيوية فموية فقط", "مراقبة فقط", "علاج بالأشعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لهشاشة العظام (Osteoporosis) في صورة العمود الفقري؟",
-    "options": ["انخفاض كثافة العظام مع انضغاط الفقرات (تشوه إسفيضي)", "تكلسات فقرية", "توسع الفراغ المفصلي", "تكوين عظمي زائد"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "ما هو علاج هشاشة العظام الشديدة؟",
-    "options": ["Bisphosphonates (مثل Alendronate) + كالسيوم + فيتامين D", "مضادات حيوية", "جراحة فورية", "علاج بالأشعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لكسر كوليس (Colles' Fracture) في الرسغ؟",
-    "options": ["كسر بعيد من الكعبرة مع انزياح خلفي وزندي", "كسر قريب من الكوع", "كسر في عظم الزند فقط", "خلع مفصل الرسغ"],
-    "correctIndex": 0,
-    "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لالتهاب المفاصل التنكسي (Osteoarthritis) في الركبة؟",
-    "options": ["تضيق غير منتظم للفراغ المفصلي مع تكوين عظمي حافي (Osteophytes) وتكلسات", "تضيق منتظم للفراغ المفصلي مع تآكل عظمي", "توسع الفراغ المفصلي", "تكلسات في الأنسجة الرخوة فقط"],
+    "question": "ما هي الوضعية القياسية لتصوير الركبة؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية فقط", "الوضعية المحورية"],
     "correctIndex": 0,
     "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
   },
   {
-    "question": "ما هو علاج التهاب المفاصل التنكسي الخفيف إلى المتوسط؟",
-    "options": ["مسكنات (Paracetamol/NSAIDs) + تمارين физيائية + إنقاص الوزن", "مضادات حيوية", "جراحة استبدال مفصل فورية", "علاج بالأشعة"],
+    "question": "ما هي الوضعية الجانبية لتصوير الركبة؟",
+    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية المحورية"],
     "correctIndex": 0,
     "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
   },
   {
-    "question": "ما هو المظهر الشعاعي لالتهاب المفاصل الروماتويدي في اليد؟",
-    "options": ["تضيق منتظم للفراغات المفصلية مع تآكل عظمي حافي وخلع مفصلي زندي", "تكلسات مفصلية", "توسع الفراغ المفصلي", "تكوين عظمي زائد"],
+    "question": "ما هي الوضعية المحورية (Skyline/Sunrise) التي تُصور الرضفة (Patella)؟",
+    "options": ["الوضعية المحورية (Axial) للرضفة", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة"],
     "correctIndex": 0,
-    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
+    "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
   },
   {
-    "question": "ما هو العلاج الأساسي لالتهاب المفاصل الروماتويدي؟",
-    "options": ["Methotrexate + مضادات TNF-alpha (Biologics) + كورتيكوستيرويدات", "مضادات حيوية", "جراحة فورية", "علاج بالأشعة"],
+    "question": "أي وضعية تُظهر الفراغات بين اللقمتين في الركبة بوضوح؟",
+    "options": ["الوضعية المائلة (Oblique)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية"],
     "correctIndex": 0,
-    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13586037/1b97f6c3e49ec13ae6fb888f1b42f1_big_gallery.jpeg"
   },
   {
-    "question": "ما هو المظهر الشعاعي لكسور العجز والعدوة (Sacral Insufficiency Fracture)؟",
-    "options": ["خطوط كسر عمودية في العجز (H-shape) مع انخفاض كثافة العظم", "تكسر وحيد في الحوض", "تكلسات حوضية", "لا يظهر في الأشعة العادية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي للنقرس (Gout) في المفاصل؟",
-    "options": ["عيوب ارتشاحية مدورة محددة (Punch-out lesions) مع حواف متصلبة وربما تورم الأنسجة الرخوة", "تضيق مفصلي منتظم", "تكلسات في الغضروف", "تكوين عظمي زائد"],
-    "correctIndex": 0,
-    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
-  },
-  {
-    "question": "ما هو علاج نوبة النقرس الحادة؟",
-    "options": ["Colchicine أو NSAIDs أو كورتيكوستيرويدات", "مضادات حيوية", "جراحة فورية", "علاج بالأشعة"],
-    "correctIndex": 0,
-    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لكسر عنق الفخذ (Femoral Neck Fracture)؟",
-    "options": ["خط كسر في عنق عظم الفخذ مع انزياح أحياناً (لاحظ Garden Classification)", "كسر في جسم الفخذ", "كسر في الحُق", "خلع مفصل الورك"],
+    "question": "ما هي الوضعية القياسية لتصوير عظم الفخذ؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة"],
     "correctIndex": 0,
     "image": "https://jomi.com/api/files/preopaprhip.jpg"
   },
   {
-    "question": "ما هو العلاج الجراحي المفضل لكسر عنق الفخذ عند المرضى المسنين؟",
-    "options": ["استبدال نصف مفصل الورك (Hemiarthroplasty)", "تثبيت بالمسامير فقط", "جبس فقط", "راحة تامة فقط"],
+    "question": "ما هي الوضعية القياسية لتصوير الحوض؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير مفصل الورك؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية (Frog Leg)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة"],
     "correctIndex": 0,
     "image": "https://jomi.com/api/files/preopaprhip.jpg"
   },
   {
-    "question": "ما هو المظهر الشعاعي لفتق القرص الفقري القطني (Lumbar Disc Herniation) في صورة العمود الفقري الجانبية؟",
-    "options": ["انخفاض ارتفاع الفراغ القرصي مع بروز خلفي للقرص (يُشخص أفضل بالـ MRI)", "انخفاض ارتفاع القرص فقط بدون بروز", "تكلسات فقرية", "توسع القناة الفقرية"],
+    "question": "ما هي الوضعية الجانبية التي تُصور مفصل الورك (شبيهة وضعية الضفدع)؟",
+    "options": ["وضعية Frog Leg (Lateral)", "الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية", "الوضعية المائلة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587676/52e8427af248ee84611ac1231f3218_big_gallery.jpeg"
   },
   {
-    "question": "ما هو العلاج الأولي لفتق القرص الفقري القطني البسيط بدون علامات عصبية خطيرة؟",
-    "options": ["راحة + مسكنات + فيزيوترابيا + تمارين تقوية الظهر", "جراحة فورية", "علاج بالأشعة", "مضادات حيوية"],
+    "question": "أي وضعية تُستخدم لتصوير المفصل الحرقفي العجزي (SI Joint) بوضوح؟",
+    "options": ["الوضعية المائلة (Oblique)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13586254/fdb7f721a549843718d0fec316f73a_big_gallery.jpeg"
   },
   {
-    "question": "ما هو المظهر الشعاعي للتهاب الفقار اللاصق (Ankylosing Spondylitis) في العمود الفقري؟",
-    "options": ["تصلب الأربطة الطولية (Syndesmophytes) مع تعظم المفاصل الفقرية (Bamboo Spine)", "انخفاض كثافة العظام فقط", "توسع الفراغ القرصي", "كسور فقرية متعددة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "ما هو علاج التهاب الفقار اللاصق؟",
-    "options": ["مضادات التهاب غير ستيرويدية (NSAIDs) + TNF inhibitors + تمارين بدنية", "مضادات حيوية", "جراحة تثبيت فقري فورية", "راحة تامة في الفراش"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لكسر ثنية الساق (Tibial Plateau Fracture) في الركبة؟",
-    "options": ["انضغاط أو انقسام في اللقمة الظنبوبية العلوية", "كسر في عظم الرضفة", "كسر في أسفل الفخذ", "خلع مفصل الركبة"],
-    "correctIndex": 0,
-    "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لخلع الكتف الأمامي (Anterior Shoulder Dislocation) في وضعية Scapular Y؟",
-    "options": ["رأس العضد أمام حافة لوح الكتف (تحت الإبطي)", "رأس العضد خلف لوح الكتف", "رأس العضد تحت الحق", "رأس العضد في مكانه الطبيعي"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13585993/bb3e0392fe5c730db60c5ac3fa2ceb_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو العلاج الأولي لخلع الكتف الأمامي الحاد؟",
-    "options": ["إرجاع (Reduction) مغلق تحت تخدير أو تسكين ثم تثبيت", "جراحة مفتوحة فورية", "راحة فقط", "علاج بالأشعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13585993/bb3e0392fe5c730db60c5ac3fa2ceb_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لكسر ماليزونيا (Malleolus) في الكاحل؟",
-    "options": ["خط كسر في الشظية (القحف الجانبي) وربما الظنبوب (القحف الإنسي) مع توسع الفراغ المفصلي", "كسر في عظم الكعب فقط", "كسر في عظام القدم", "لا يظهر في الأشعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/61842235/192c32c862386fa52562b03def2129e7f5fcf097f4e6cdd682f47de59840cc80_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لالتهاب الجيوب الأنفية الفكية الحاد (Maxillary Sinusitis) في وضعية ووترز؟",
-    "options": ["تعتيم موحد في الجيب الفكي مع مستوى سائل أحياناً", "شفافية كاملة للجيب", "تكلسات في الجيب", "كتلة في الجيب مع تدمير العظم"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو علاج التهاب الجيوب الأنفية الفكية الحاد البكتيري؟",
-    "options": ["مضادات حيوية (Amoxicillin) + مزيلات الاحتقان الأنفية + غسيل الأنف", "جراحة فورية", "علاج بالأشعة", "راحة فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لورم العظم العظمي الغضروفي (Osteochondroma)؟",
-    "options": ["تكلس عظمي يشبه الفطر ينمو من سطح العظم نحو الأنسجة الرخوة", "تآكل عظمي منتشر", "انكسار مركزي في العظم", "تكلسات ناعمة منتشرة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لسرطان العظم العظمي الغضروفي (Chondrosarcoma)؟",
-    "options": ["تكلسات عظمية غير منتظمة مع تدمير العظم وتوسع الأنسجة الرخوة", "تكلسات منتظمة صغيرة", "تآكل عظمي بسيط", "لا يظهر تغير"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لساركوما عظم يوينغ (Ewing Sarcoma)؟",
-    "options": ["تدمير عظمي لامنظم مع تفاعل سمحي للسمحاق (Onion Skin) وكتلة أنسجة رخوة", "تكلسات منتظمة", "تضيق الفراغ المفصلي", "انخفاض كثافة منتظم"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لنقائل العظم (Bone Metastases) الليثية (Lytic)؟",
-    "options": ["آفات مدمرة بدون حافة متصلبة (مثل سرطان الثدي والرئة والكلى)", "تكلسات عظمية كثيفة", "تضيق مفصلي منتظم", "تكوين عظمي حافي"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لنقائل العظم التصلبية (Blastic Metastases)؟",
-    "options": ["بقع كثيفة بيضاء منتشرة في العظام (مثل سرطان البروستاتا)", "آفات مدمرة لامنظمة", "تكلسات في الأنسجة الرخوة", "توسع الفراغ المفصلي"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لالتهاب العظم والنخاع (Osteomyelitis) الحاد في صورة الأشعة العادية؟",
-    "options": ["تدمير عظمي مع تفاعل سمحي للسمحاق وربما تكلسات نسيج ميت (Sequestrum)", "تضيق مفصلي", "تكلسات منتظمة", "لا يظهر أي تغير في الأسبوع الأول"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو علاج التهاب العظم والنخاع الحاد؟",
-    "options": ["مضادات حيوية وريدية لفترة طويلة (4-6 أسابيع) وربما جراحة تنضير", "مسكنات فقط", "راحة تامة فقط", "علاج بالأشعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لكسر الإجهاد (Stress Fracture) في الظنبوب؟",
-    "options": ["خط كسر دقيق متعامد على القشرة مع تكلس سمحاقي (Callus) أحياناً", "كسر كامل منفصل", "تآكل عظمي منتشر", "لا يظهر في الأشعة العادية أبداً"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/61842235/192c32c862386fa52562b03def2129e7f5fcf097f4e6cdd682f47de59840cc80_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لمرض باجيت العظمي (Paget's Disease) في الحوض؟",
-    "options": ["تسمك العظم مع توسع القشرة وتغير نمط العظم المخطط (Cotton Wool)", "انخفاض كثافة منتظم", "كسر واحد فقط", "تكلسات صغيرة منتشرة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو علاج مرض باجيت العظمي المؤلم أو المضاعف؟",
-    "options": ["Bisphosphonates (مثل Zoledronic Acid)", "مضادات حيوية", "جراحة فورية", "علاج بالأشعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المظهر الشعاعي لتكلسات الأربطة الصفراء (OPLL) في العمود الفقري الرقبي؟",
-    "options": ["تكلسات طولية أمامية للنخاع الشوكي في الوضعية الجانبية", "تكلسات خلفية", "تضيق القرص فقط", "لا يظهر"],
+    "question": "ما هي الوضعية القياسية لتصوير العمود الفقري الرقبي؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية فقط", "الوضعية المائلة فقط"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
   },
   {
-    "question": "ما هو المظهر الشعاعي لكسور ضلعية متعددة مع شريط صدري متحرك (Flail Chest)؟",
-    "options": ["كسور في 3 ضلوع أو أكثر في مكانين لكل ضلع مع حركة شاذة للجدار الصدري", "كسر ضلع واحد", "انصباب جنبي بسيط", "رئة طبيعية"],
+    "question": "ما هي وضعية فتحة الفم (Open Mouth) المستخدمة في العمود الفقري الرقبي؟",
+    "options": ["لتصوير الفقرة الرقبية الثانية (الأودونتويد)", "لتصوير الفقرة الرقبية السابعة", "لتصوير الفقرات الصدرية", "لتصوير لوح الكتف"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/26823703/6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e_big_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/23089841/a82f9cbbdddf7fe1417dfbf586b62f_big_gallery.jpg"
   },
   {
-    "question": "ما هو العلاج الميكانيكي لشريط صدري متحرك (Flail Chest)؟",
-    "options": ["تثبيت ميكانيكي بالتهوية (Mechanical Ventilation) مع تشخيص وإصلاح الإصابات الداخلية", "جبس صدري", "راحة فقط", "مسكنات فموية فقط"],
+    "question": "أي وضعية تُظهر الثقوب الفقرية (Neural Foramina) في العمود الفقري الرقبي؟",
+    "options": ["الوضعية المائلة (Oblique)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "وضعية فتحة الفم"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/26823703/6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e_big_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
   },
   {
-    "question": "ما هو المظهر الشعاعي لكسر عظم الزورقي (Scaphoid Fracture) في صورة الرسغ؟",
-    "options": ["خط كسر دقيق في عظم الزورقي (قد لا يظهر في الصور الأولى ويحتاج تصوير متأخر بعد أسبوعين)", "كسر في الكعبرة", "كسر في الزند", "خلع مفصل الرسغ"],
+    "question": "ما هي الوضعية القياسية لتصوير العمود الفقري الصدري؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة فقط", "الوضعية المحورية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587542/e7e7d8204f7f69192e32161a918240_big_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587779/c8ba5fd99a2cb5ed9cc51bf56b4174_big_gallery.jpeg"
   },
   {
-    "question": "ما هو خطر عدم تشخيص كسر عظم الزورقي؟",
-    "options": ["تنخر عظمي (AVN) في قطعة الزورقي القريبة بسبب انقطاع التروية الدموية", "الشفاء التلقائي دائماً", "لا يوجد أي خطر", "التحول لسرطان"],
+    "question": "ما هي الوضعية القياسية لتصوير العمود الفقري القطني؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة فقط"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587542/e7e7d8204f7f69192e32161a918240_big_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
-    "question": "ما هو المظهر الشعاعي للداء النشواني (Amyloidosis) في المفاصل؟",
-    "options": ["آفات ارتشاحية مدورة في العظام تحت الغضروف مع تورم الأنسجة الرخوة", "تضيق مفصلي منتظم", "تكوين عظمي زائد", "تكلسات غضروفية فقط"],
+    "question": "أي وضعية تُظهر المفاصل الفقرية الجانبية (Facet Joints) في العمود الفقري القطني؟",
+    "options": ["الوضعية المائلة (Oblique)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13586211/7cc3ae8c22f1ac6c3f6387b15cb33f_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير العجز؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية فقط", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية الجانبية لتصوير العصعص؟",
+    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير الجمجمة؟",
+    "options": ["الوضعية الجانبية (Lateral) والأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA) فقط", "الوضعية المحورية فقط", "الوضعية المائلة فقط"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
+  },
+  {
+    "question": "ما هي وضعية ووترز (Waters)؟",
+    "options": ["وضعية للجمجمة لتصوير الجيوب الفكية", "وضعية لتصوير العمود الفقري", "وضعية لتصوير الركبة", "وضعية لتصوير الكتف"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية كالدويل (Caldwell)؟",
+    "options": ["وضعية للجمجمة لتصوير الجيوب الأمامية", "وضعية لتصوير عظم الكعب", "وضعية لتصوير الكاحل", "وضعية لتصوير اليد"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/58593520/0._big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية تاون (Towne)؟",
+    "options": ["وضعية للجمجمة لتصوير العظم القذالي والمخيخ", "وضعية لتصوير الترقوة", "وضعية لتصوير الحوض", "وضعية لتصوير القدم"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/58593523/0._big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير عظام الأنف؟",
+    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية", "الوضعية المائلة"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/9470064/507281cb5c0347e7d0bbfeddfc476c_gallery.jpg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير الفك السفلي؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية فقط", "وضعية ووترز"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/12073744/5c0dc8bf06798c6db06cd168df4d9a_big_gallery.jpeg"
+  },
+  {
+    "question": "أي وضعية تُظهر الفروع الصاعدة للفك السفلي بوضوح؟",
+    "options": ["الوضعية المائلة (Oblique)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/12073744/5c0dc8bf06798c6db06cd168df4d9a_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير عظم القص؟",
+    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة"],
+    "correctIndex": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sternum_lateral.jpg/300px-Sternum_lateral.jpg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتصوير الأضلاع العلوية؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) للصدر", "الوضعية الخلفية الأمامية (PA) للصدر", "وضعية البطن (KUB)", "وضعية الاستلقاء الجانبي"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتصوير الأضلاع السفلية؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) للبطن (KUB)", "الوضعية الجانبية للصدر", "وضعية اللوردوتيك", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
+  },
+  {
+    "question": "ما هي الوضعية التي يتم فيها إمالة المريض على جانبه لتصوير الصدر؟",
+    "options": ["الاستلقاء الجانبي (Lateral Decubitus)", "الاستلقاء الظهري (Supine)", "الانبطاح (Prone)", "الوقوف (Upright)"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
+  },
+  {
+    "question": "في وضعية الاستلقاء الجانبي لتصوير الصدر، أي جانب يجب أن يكون متجهاً نحو الأسفل لتقييم الانصباب الجنبي الأيمن؟",
+    "options": ["الجانب الأيمن", "الجانب الأيسر", "البطن", "الظهر"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية التي يقع فيها المريض على وجهه (البطن)؟",
+    "options": ["الانبطاح (Prone)", "الاستلقاء الظهري (Supine)", "الاستلقاء الجانبي (Decubitus)", "الوضعية الجانبية (Lateral)"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/7356635/125e28937329a35ab973a09b43f46b_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية التي يقع فيها المريض على ظهره؟",
+    "options": ["الاستلقاء الظهري (Supine)", "الانبطاح (Prone)", "الاستلقاء الجانبي (Decubitus)", "الوقوف (Upright)"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
+  },
+  {
+    "question": "لتصوير الرضفة (صابونة الركبة) من الأمام، ما هي الوضعية المستخدمة؟",
+    "options": ["الوضعية المحورية (Axial/Skyline)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتصوير عظام السمسمان (Sesamoid Bones) في القدم؟",
+    "options": ["الوضعية المحورية (Axial)", "الوضعية الظهرية الأخمصية (Dorsoplantar)", "الوضعية الجانبية", "الوضعية المائلة"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
+  },
+  {
+    "question": "للتأكد من وجود هواء حر تحت الحجاب الحاجز، ما هي أفضل وضعية؟",
+    "options": ["الوقوف (Upright AP)", "الاستلقاء الظهري (Supine AP)", "الوضعية الجانبية", "وضعية اللوردوتيك"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية التي تُظهر القصبة الهوائية والقص في صورة الصدر الجانبية؟",
+    "options": ["الوضعية الجانبية اليسرى", "الوضعية الجانبية اليمنى", "الوضعية الأمامية الخلفية", "الوضعية الخلفية الأمامية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
+  },
+  {
+    "question": "أي وضعية مفيدة لتصوير العمود الفقري الرقبي عند المرضى ذوي الأكتاف العريضة؟",
+    "options": ["وضعية السباح (Swimmer's View)", "الوضعية الأمامية الخلفية (AP)", "وضعية فتحة الفم", "الوضعية المائلة"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
+  },
+  {
+    "question": "ما الاختصار الذي يشير إلى وضعية تصوير الكلى والحالب والمثانة؟",
+    "options": ["KUB", "PA", "AP", "LAT"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
+  },
+  {
+    "question": "وضعية (AP) تعني أن الأشعة تدخل من:",
+    "options": ["الأمام وتخرج من الخلف", "الخلف وتخرج من الأمام", "الجانب الأيمن", "الجانب الأيسر"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/20747422/6edb4d5a5b1cf443db30a6fcd9e562_big_gallery.jpeg"
+  },
+  {
+    "question": "وضعية (PA) تعني أن الأشعة تدخل من:",
+    "options": ["الخلف وتخرج من الأمام", "الأمام وتخرج من الخلف", "الأعلى وتخرج من الأسفل", "الأسفل وتخرج من الأعلى"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
+  },
+  {
+    "question": "وضعية (Lat أو Lateral) تعني أن الأشعة تدخل من:",
+    "options": ["أحد الجانبين وتخرج من الجانب الآخر", "الأمام وتخرج من الخلف", "الأعلى وتخرج من الأسفل", "الخلف وتخرج من الأمام"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
+  },
+  {
+    "question": "في وضعية تصوير الكتف الأمامية الخلفية (AP)، يجب تدوير الذراع إلى:",
+    "options": ["دوران داخلي أو خارجي حسب الطريقة المطلوبة", "تركه معلقاً بحرية بدون دوران", "وضعه فوق الرأس", "ثنيه على البطن"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتقييم انزلاق الفقار (Spondylolisthesis) في العمود الفقري القطني؟",
+    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+  },
+  {
+    "question": "ما هي الوضعية التي تُصور فيها عظام المشط والسلاميات في اليد بشكل مفرط قليلاً؟",
+    "options": ["الوضعية المائلة (Oblique)", "الوضعية الخلفية الأمامية (PA) المستقيمة", "الوضعية الجانبية", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587840/6d5c18e3e314af3c97a16365a5756efeb9dd7c145eb0dcf2675804533caf9f48_big_gallery.jpeg"
+  },
+  {
+    "question": "لتصوير قاعدة الجمجمة، ما هي الوضعية المستخدمة؟",
+    "options": ["الوضعية المحورية (Axial / Submentovertex)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "وضعية كالدويل"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
+  },
+  {
+    "question": "ما هي الوضعية التي تُستخدم لتصوير القنوات النصف دائرية في الأذن؟",
+    "options": ["الوضعية المحورية (Axial) أو وضعية شولر (Stenvers)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية", "وضعية ووترز"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتصوير الجيوب الغربالية (Ethmoid Sinuses)؟",
+    "options": ["وضعية كالدويل (Caldwell)", "وضعية ووترز (Waters)", "وضعية تاون (Towne)", "الوضعية الجانبية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/58593520/0._big_gallery.jpeg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتصوير الجيوب الوتدية (Sphenoid Sinuses)؟",
+    "options": ["وضعية كالدويل (Caldwell)", "وضعية ووترز (Waters)", "الوضعية الجانبية فقط", "وضعية فتحة الفم"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/58593520/0._big_gallery.jpeg"
+  },
+  {
+    "question": "في تصوير الساق (الظنبوب والشظية)، يجب تضمين أي مفصل في الصورة؟",
+    "options": ["مفصل الركبة ومفصل الكاحل", "مفصل الورك ومفصل الركبة", "مفصل الكاحل ومفصل القدم", "مفصل الورك فقط"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
+  },
+  {
+    "question": "في تصوير الذراع (العضد)، يجب تضمين أي مفصل في الصورة؟",
+    "options": ["مفصل الكتف ومفصل الكوع", "مفصل الكوع ومفصل الرسغ", "مفصل الكتف فقط", "مفصل الرسغ فقط"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
+  },
+  {
+    "question": "لتصوير العمود الفقري القطني والصدري معاً (بكامل طوله)، ما هي الوضعية؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية طويلة المسافة", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+  },
+  {
+    "question": "ما هي الوضعية الأفضل لتصوير القنوات الصفراوية بالأشعة بعد حقن الصبغة؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) مع ميلان بسيط", "الوضعية الجانبية فقط", "الوضعية المحورية", "الوضعية المائلة"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
+  },
+  {
+    "question": "عند تصوير الحوض القياسي (AP)، يجب أن تكون القدمين:",
+    "options": ["مقلوبتين للداخل (Internal Rotation) بـ 15-20 درجة", "مقلوبتين للخارج", "مستقيمتين للأمام تماماً", "واحدة للأمام والأخرى للخلف"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
+  },
+  {
+    "question": "لماذا نستخدم وضعية (PA) بدلاً من (AP) في تصوير الصدر القياسي للبالغين؟",
+    "options": ["لتقليل حجم ظل القلب الوهمي لأن القلب قريب من الفيلم", "لأنها أسهل للمريض", "لأنها تستخدم جرعة أقل دائماً", "لتوضيح قمم الرئتين فقط"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتصوير عظم العجز من الأمام؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة", "الوضعية المحورية من الأعلى"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتصوير الأقواس الوجنية (Zygomatic Arches)؟",
+    "options": ["الوضعية المحورية (Axial / Tangential)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية", "وضعية كالدويل"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
+  },
+  {
+    "question": "في وضعية تصوير الرسغ (PA)، يجب أن تكون الأصابع:",
+    "options": ["ممتدة قليلاً ومفرقة قليلاً", "مقبوضة بشدة", "مثنية تماماً", "متجاوزة بعضها تماماً"],
+    "correctIndex": 0,
+    "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
+  },
+  {
+    "question": "ما هي الوضعية التي يتم فيها تصوير المريض وهو واقف لتقييم تقوس العمود الفقري (Scoliosis)؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) واقفاً", "الوضعية الجانبية مستلقياً", "الوضعية المائلة جالساً", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+  },
+  {
+    "question": "لتصوير عظمتي المشط الخامسة والقاعدة في القدم، أي وضعية هي الأفضل؟",
+    "options": ["الوضعية المائلة (Oblique)", "الوضعية الظهرية الأخمصية (Dorsoplantar)", "الوضعية الجانبية", "الوضعية المحورية"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير الإبهام وحده؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة فقط", "الوضعية المحورية"],
     "correctIndex": 0,
     "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
   },
   {
-    "question": "ما هو المظهر الشعاعي لالتهاب العظم والغضروف الفقري (Spondylodiscitis)؟",
-    "options": ["تدمير الأجسام الفقرية المجاورة والقرص بينها مع انخفاض ارتفاع القرص", "انخفاض ارتفاع القرص فقط", "تكلسات فقرية", "توسع القناة الفقرية"],
+    "question": "أي وضعية تُظهر النخاع الشوكي في العمود الفقري الرقبي بعد حقن الصبغة (Myelogram)؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية المائلة فقط", "الوضعية المحورية فقط", "وضعية فتحة الفم"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
+  },
+  {
+    "question": "في وضعية (Frog Leg) لتصوير الورك، يكون القدمين:",
+    "options": ["مثنيتين والركبتين مفتوحتان للخارج", "مستقيمتين للأمام", "واحدة مستقيمة والأخرى مثنية", "مثنيتين للداخل"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587676/52e8427af248ee84611ac1231f3218_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية الجانبية للعمود الفقري القطني التي نطلب فيها من المريض ثني ركبتيه؟",
+    "options": ["الوضعية الجانبية (Lateral) لتقليل انحناء الظهر", "الوضعية الأمامية الخلفية", "الوضعية المائلة", "الوضعية المحورية"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
-    "question": "ما هو علاج التهاب العظم والغضروف الفقري الجرثومي؟",
-    "options": ["مضادات حيوية وريدية طويلة الأمد (6-8 أسابيع) وربما تثبيت جراحي", "مسكنات فقط", "علاج بالأشعة", "راحة قصيرة"],
+    "question": "أي جزء من الجسم يتم تصويره في وضعية (Waters)؟",
+    "options": ["الوجه والجيوب الأنفية", "العمود الفقري القطني", "الركبة", "الكتف"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+    "image": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
+  },
+  {
+    "question": "أي جزء من الجسم يتم تصويره في وضعية (Towne)؟",
+    "options": ["الجمجمة من الخلف والعظم القذالي", "الصدر", "البطن", "الساعد"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/58593523/0._big_gallery.jpeg"
+  },
+  {
+    "question": "عند التصوير الجانبي للكوع، يجب أن تكون الزاوية بين الذراع والساعد:",
+    "options": ["90 درجة", "180 درجة (مستقيم)", "45 درجة", "120 درجة"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/13584773/160f837f0e87cd5d8097b71c5c32e3d821753111285b6e8dcb0554a73c29e5db_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية التي تُستخدم لتصوير التجويف الفموي والأسنان العلوية؟",
+    "options": ["الوضعية المحورية (Occlusal)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية", "الوضعية المائلة"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/9470064/507281cb5c0347e7d0bbfeddfc476c_gallery.jpg"
+  },
+  {
+    "question": "لتصوير عظمة الترقوة، أي وضعية تُظهرها بدون تداخل من الأضلاع أو العمود الفقري؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) مع ميلان بسيط", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المائلة"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتصوير الحجاب الحاجز بشكل منفصل؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) للبطن مع ميلان", "الوضعية الجانبية للصدر", "وضعية الاستلقاء الظهري", "وضعية فتحة الفم"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
+  },
+  {
+    "question": "في تصوير الكاحل (Mortise)، يتم تدوير القدم داخلياً بزاوية:",
+    "options": ["15 إلى 20 درجة", "45 إلى 50 درجة", "90 درجة", "5 درجات فقط"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/61842237/49c77546f4c3bdefe74de1b5177ecf_gallery.jpeg"
   }
 ]
