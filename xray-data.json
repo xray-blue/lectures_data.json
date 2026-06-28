@@ -93,7 +93,7 @@
         },
         {
           "id": "skull_towne",
-          "name": "Skull Towne's (Fronto-occipital)",
+          "name": "",
           "sub": "Skull Towne's (Fronto-occipital)",
           "cat": "Skull",
           "icon": "💀",
@@ -110,7 +110,7 @@
         },
         {
           "id": "skull_smv",
-          "name": "Skull Submentovertex (SMV / Basal)",
+          "name": "",
           "sub": "Skull Submentovertex (SMV / Basal)",
           "cat": "Skull",
           "icon": "💀",
@@ -127,7 +127,7 @@
         },
         {
           "id": "skull_basal_axial",
-          "name": "Skull Basal Axial (Haas Method)",
+          "name": "",
           "sub": "Skull Basal Axial (Haas Method)",
           "cat": "Skull",
           "icon": "💀",
@@ -144,7 +144,7 @@
         },
         {
           "id": "sella_turcica_lat",
-          "name": "Sella Turcica Lateral",
+          "name": "",
           "sub": "Sella Turcica Lateral",
           "cat": "Skull",
           "icon": "🧠",
@@ -161,7 +161,7 @@
         },
         {
           "id": "optic_foramen",
-          "name": "Optic Foramen (Rhese Method)",
+          "name": "",
           "sub": "Optic Foramen (Rhese Method)",
           "cat": "Skull",
           "icon": "👁️",
@@ -235,7 +235,7 @@
         },
         {
           "id": "sinuses_lateral_top",
-          "name": "Sinuses Lateral (Upright)",
+          "name": "",
           "sub": "Sinuses Lateral (Upright)",
           "cat": "Sinuses",
           "icon": "👃",
@@ -258,7 +258,7 @@
       "items": [
         {
           "id": "facial_ap_pa",
-          "name": "Facial Bones AP/PA",
+          "name": "",
           "sub": "Facial Bones AP/PA",
           "cat": "Facial Bones",
           "icon": "😊",
@@ -275,7 +275,7 @@
         },
         {
           "id": "facial_lat",
-          "name": "Facial Bones Lateral",
+          "name": "",
           "sub": "Facial Bones Lateral",
           "cat": "Facial Bones",
           "icon": "😊",
@@ -292,7 +292,7 @@
         },
         {
           "id": "zygomatic_arch_tangential",
-          "name": "Zygomatic Arch Tangential",
+          "name": "",
           "sub": "Zygomatic Arch Tangential",
           "cat": "Facial Bones",
           "icon": "😊",
@@ -309,7 +309,7 @@
         },
         {
           "id": "nasal_bones_lat",
-          "name": "Nasal Bones Lateral",
+          "name": "",
           "sub": "Nasal Bones Lateral",
           "cat": "Facial Bones",
           "icon": "👃",
@@ -326,7 +326,7 @@
         },
         {
           "id": "nasal_bones_ap",
-          "name": "Nasal Bones AP (Waters Modified)",
+          "name": "",
           "sub": "Nasal Bones AP (Waters Modified)",
           "cat": "Facial Bones",
           "icon": "👃",
@@ -343,7 +343,7 @@
         },
         {
           "id": "mandible_ap",
-          "name": "Mandible AP",
+          "name": "",
           "sub": "Mandible AP",
           "cat": "Facial Bones",
           "icon": "🦷",
@@ -360,7 +360,7 @@
         },
         {
           "id": "mandible_lat_oblique",
-          "name": "Mandible Lateral Oblique",
+          "name": "",
           "sub": "Mandible Lateral Oblique",
           "cat": "Facial Bones",
           "icon": "🦷",
@@ -377,7 +377,7 @@
         },
         {
           "id": "mandible_pa",
-          "name": "Mandible PA",
+          "name": "",
           "sub": "Mandible PA",
           "cat": "Facial Bones",
           "icon": "🦷",
@@ -394,7 +394,7 @@
         },
         {
           "id": "tmj_lat",
-          "name": "TMJ Lateral (Parma Method)",
+          "name": "",
           "sub": "TMJ Lateral (Parma Method)",
           "cat": "Facial Bones",
           "icon": "🦷",
@@ -411,7 +411,7 @@
         },
         {
           "id": "tmj_ap",
-          "name": "TMJ AP (Towne Modified)",
+          "name": "",
           "sub": "TMJ AP (Towne Modified)",
           "cat": "Facial Bones",
           "icon": "🦷",
@@ -434,7 +434,7 @@
       "items": [
         {
           "id": "cspine_ap",
-          "name": "Cervical Spine AP",
+          "name": "",
           "sub": "Cervical Spine AP",
           "cat": "Cervical",
           "icon": "🦴",
@@ -451,7 +451,7 @@
         },
         {
           "id": "cspine_lat",
-          "name": "Cervical Spine Lateral",
+          "name": "",
           "sub": "Cervical Spine Lateral",
           "cat": "Cervical",
           "icon": "🦴",
@@ -468,7 +468,7 @@
         },
         {
           "id": "cspine_odontoid",
-          "name": "Cervical Spine Open Mouth (Odontoid)",
+          "name": "",
           "sub": "Cervical Spine Open Mouth (Odontoid/Peg)",
           "cat": "Cervical",
           "icon": "🦷",
@@ -485,7 +485,7 @@
         },
         {
           "id": "cspine_fuchs",
-          "name": "Cervical Spine Fuchs Method",
+          "name": "",
           "sub": "Cervical Spine Fuchs Method",
           "cat": "Cervical",
           "icon": "🦴",
@@ -502,7 +502,7 @@
         },
         {
           "id": "cspine_pillars",
-          "name": "Cervical Pillars AP",
+          "name": "",
           "sub": "Cervical Pillars AP",
           "cat": "Cervical",
           "icon": "🦴",
@@ -519,7 +519,7 @@
         },
         {
           "id": "cspine_oblique",
-          "name": "Cervical Spine Oblique",
+          "name": "",
           "sub": "Cervical Spine Oblique",
           "cat": "Cervical",
           "icon": "🦴",
@@ -536,7 +536,7 @@
         },
         {
           "id": "cspine_flexion",
-          "name": "Cervical Spine Lateral Flexion",
+          "name": "",
           "sub": "Cervical Spine Lateral Flexion",
           "cat": "Cervical",
           "icon": "🦴",
@@ -553,7 +553,7 @@
         },
         {
           "id": "cspine_extension",
-          "name": "Cervical Spine Lateral Extension",
+          "name": "",
           "sub": "Cervical Spine Lateral Extension",
           "cat": "Cervical",
           "icon": "🦴",
@@ -570,7 +570,7 @@
         },
         {
           "id": "cspine_swimmer",
-          "name": "Cervicothoracic Swimmer's View",
+          "name": "",
           "sub": "Cervicothoracic Swimmer's View",
           "cat": "Cervical",
           "icon": "🏊",
@@ -593,7 +593,7 @@
       "items": [
         {
           "id": "tspine_ap",
-          "name": "Thoracic Spine AP",
+          "name": "",
           "sub": "Thoracic Spine AP",
           "cat": "Thoracic",
           "icon": "🦴",
@@ -610,7 +610,7 @@
         },
         {
           "id": "tspine_pa",
-          "name": "Thoracic Spine PA",
+          "name": "",
           "sub": "Thoracic Spine PA",
           "cat": "Thoracic",
           "icon": "🦴",
@@ -627,7 +627,7 @@
         },
         {
           "id": "tspine_lat",
-          "name": "Thoracic Spine Lateral",
+          "name": "",
           "sub": "Thoracic Spine Lateral",
           "cat": "Thoracic",
           "icon": "🦴",
@@ -644,7 +644,7 @@
         },
         {
           "id": "tspine_oblique",
-          "name": "Thoracic Spine Oblique",
+          "name": "",
           "sub": "Thoracic Spine Oblique",
           "cat": "Thoracic",
           "icon": "🦴",
@@ -661,7 +661,7 @@
         },
         {
           "id": "tspine_spot",
-          "name": "Thoracic Spine Spot View",
+          "name": "",
           "sub": "Thoracic Spine Spot View",
           "cat": "Thoracic",
           "icon": "🔍",
@@ -684,7 +684,7 @@
       "items": [
         {
           "id": "lspine_ap",
-          "name": "Lumbar Spine AP",
+          "name": "",
           "sub": "Lumbar Spine AP",
           "cat": "Lumbar",
           "icon": "🦴",
@@ -701,7 +701,7 @@
         },
         {
           "id": "lspine_lat",
-          "name": "Lumbar Spine Lateral",
+          "name": "",
           "sub": "Lumbar Spine Lateral",
           "cat": "Lumbar",
           "icon": "🦴",
@@ -718,7 +718,7 @@
         },
         {
           "id": "lspine_l5s1",
-          "name": "L5-S1 Spot Lateral",
+          "name": "",
           "sub": "L5-S1 Spot Lateral",
           "cat": "Lumbar",
           "icon": "🔍",
@@ -735,7 +735,7 @@
         },
         {
           "id": "lspine_oblique",
-          "name": "Lumbar Spine Oblique",
+          "name": "",
           "sub": "Lumbar Spine Oblique",
           "cat": "Lumbar",
           "icon": "🦴",
@@ -758,7 +758,7 @@
       "items": [
         {
           "id": "sacrum_ap",
-          "name": "Sacrum AP",
+          "name": "",
           "sub": "Sacrum AP",
           "cat": "Sacrum & Coccyx",
           "icon": "🦴",
@@ -775,7 +775,7 @@
         },
         {
           "id": "sacrum_lat",
-          "name": "Sacrum Lateral",
+          "name": "",
           "sub": "Sacrum Lateral",
           "cat": "Sacrum & Coccyx",
           "icon": "🦴",
@@ -792,7 +792,7 @@
         },
         {
           "id": "coccyx_ap",
-          "name": "Coccyx AP",
+          "name": "",
           "sub": "Coccyx AP",
           "cat": "Sacrum & Coccyx",
           "icon": "🦴",
@@ -809,7 +809,7 @@
         },
         {
           "id": "coccyx_lat",
-          "name": "Coccyx Lateral",
+          "name": "",
           "sub": "Coccyx Lateral",
           "cat": "Sacrum & Coccyx",
           "icon": "🦴",
@@ -832,7 +832,7 @@
       "items": [
         {
           "id": "sternum_lat",
-          "name": "Sternum Lateral",
+          "name": "",
           "sub": "Sternum Lateral",
           "cat": "Sternum",
           "icon": "🦴",
@@ -849,7 +849,7 @@
         },
         {
           "id": "sternum_rao",
-          "name": "Sternum RAO Oblique",
+          "name": "",
           "sub": "Sternum RAO Oblique",
           "cat": "Sternum",
           "icon": "🦴",
@@ -866,7 +866,7 @@
         },
         {
           "id": "sternum_lao",
-          "name": "Sternum LAO Oblique",
+          "name": "",
           "sub": "Sternum LAO Oblique",
           "cat": "Sternum",
           "icon": "🦴",
@@ -889,7 +889,7 @@
       "items": [
         {
           "id": "ribs_upper_pa",
-          "name": "Upper Ribs PA",
+          "name": "",
           "sub": "Upper Ribs PA",
           "cat": "Ribs",
           "icon": "🦴",
@@ -906,7 +906,7 @@
         },
         {
           "id": "ribs_upper_ap",
-          "name": "Upper Ribs AP",
+          "name": "",
           "sub": "Upper Ribs AP",
           "cat": "Ribs",
           "icon": "🦴",
@@ -923,7 +923,7 @@
         },
         {
           "id": "ribs_upper_oblique",
-          "name": "Upper Ribs Oblique (Anterior)",
+          "name": "",
           "sub": "Upper Ribs Oblique (Anterior)",
           "cat": "Ribs",
           "icon": "🦴",
@@ -940,7 +940,7 @@
         },
         {
           "id": "ribs_lower_pa",
-          "name": "Lower Ribs PA",
+          "name": "",
           "sub": "Lower Ribs PA",
           "cat": "Ribs",
           "icon": "🦴",
@@ -957,7 +957,7 @@
         },
         {
           "id": "ribs_lower_ap",
-          "name": "Lower Ribs AP",
+          "name": "",
           "sub": "Lower Ribs AP",
           "cat": "Ribs",
           "icon": "🦴",
@@ -974,7 +974,7 @@
         },
         {
           "id": "ribs_lower_oblique",
-          "name": "Lower Ribs Oblique",
+          "name": "",
           "sub": "Lower Ribs Oblique",
           "cat": "Ribs",
           "icon": "🦴",
@@ -997,7 +997,7 @@
       "items": [
         {
           "id": "chest_pa",
-          "name": "Chest PA",
+          "name": "",
           "sub": "Chest PA",
           "cat": "Chest",
           "icon": "🫁",
@@ -1014,7 +1014,7 @@
         },
         {
           "id": "chest_ap",
-          "name": "Chest AP",
+          "name": "",
           "sub": "Chest AP",
           "cat": "Chest",
           "icon": "🫁",
@@ -1031,7 +1031,7 @@
         },
         {
           "id": "chest_lat",
-          "name": "Chest Lateral",
+          "name": "",
           "sub": "Chest Lateral",
           "cat": "Chest",
           "icon": "🦴",
@@ -1048,7 +1048,7 @@
         },
         {
           "id": "chest_lordotic",
-          "name": "Chest AP Lordotic",
+          "name": "",
           "sub": "Chest AP Lordotic",
           "cat": "Chest",
           "icon": "🫁",
@@ -1065,7 +1065,7 @@
         },
         {
           "id": "chest_decubitus_lat",
-          "name": "Chest Lateral Decubitus",
+          "name": "",
           "sub": "Chest Lateral Decubitus",
           "cat": "Chest",
           "icon": "🫁",
@@ -1082,7 +1082,7 @@
         },
         {
           "id": "chest_decubitus_ap",
-          "name": "Chest AP Decubitus",
+          "name": "",
           "sub": "Chest AP Decubitus",
           "cat": "Chest",
           "icon": "🫁",
@@ -1099,7 +1099,7 @@
         },
         {
           "id": "chest_ap_portable",
-          "name": "Chest AP Portable (Bedside)",
+          "name": "",
           "sub": "Chest AP Portable (Bedside)",
           "cat": "Chest",
           "icon": "🛏️",
@@ -1116,7 +1116,7 @@
         },
         {
           "id": "chest_pa_routine",
-          "name": "Chest Routine (PA + Lat)",
+          "name": "",
           "sub": "Chest Routine (PA + Lateral)",
           "cat": "Chest",
           "icon": "📋",
@@ -1139,7 +1139,7 @@
       "items": [
         {
           "id": "abd_ap",
-          "name": "Abdomen AP (KUB)",
+          "name": "",
           "sub": "Abdomen AP (KUB)",
           "cat": "Abdomen",
           "icon": "🫃",
@@ -1156,7 +1156,7 @@
         },
         {
           "id": "abd_erect",
-          "name": "Abdomen Erect AP",
+          "name": "",
           "sub": "Abdomen Erect AP",
           "cat": "Abdomen",
           "icon": "🧍",
@@ -1173,7 +1173,7 @@
         },
         {
           "id": "abd_lat_decubitus",
-          "name": "Abdomen Lateral Decubitus",
+          "name": "",
           "sub": "Abdomen Lateral Decubitus",
           "cat": "Abdomen",
           "icon": "🫃",
@@ -1190,7 +1190,7 @@
         },
         {
           "id": "kub",
-          "name": "KUB (Kidneys, Ureters, Bladder)",
+          "name": "",
           "sub": "KUB (Kidneys, Ureters, Bladder)",
           "cat": "Abdomen",
           "icon": "🫘",
@@ -1207,7 +1207,7 @@
         },
         {
           "id": "abd_oblique",
-          "name": "Abdomen Oblique",
+          "name": "",
           "sub": "Abdomen Oblique",
           "cat": "Abdomen",
           "icon": "🫃",
@@ -1230,7 +1230,7 @@
       "items": [
         {
           "id": "pelvis_ap",
-          "name": "Pelvis AP",
+          "name": "",
           "sub": "Pelvis AP",
           "cat": "Pelvis",
           "icon": "🦴",
@@ -1247,7 +1247,7 @@
         },
         {
           "id": "pelvis_inlet",
-          "name": "Pelvis Inlet (Brim View)",
+          "name": "",
           "sub": "Pelvis Inlet (Brim View)",
           "cat": "Pelvis",
           "icon": "🦴",
@@ -1264,7 +1264,7 @@
         },
         {
           "id": "pelvis_outlet",
-          "name": "Pelvis Outlet",
+          "name": "",
           "sub": "Pelvis Outlet",
           "cat": "Pelvis",
           "icon": "🦴",
@@ -1281,7 +1281,7 @@
         },
         {
           "id": "pelvis_judet_r",
-          "name": "Pelvis Right Judet Oblique",
+          "name": "",
           "sub": "Pelvis Right Judet Oblique",
           "cat": "Pelvis",
           "icon": "🦴",
@@ -1298,7 +1298,7 @@
         },
         {
           "id": "pelvis_judet_l",
-          "name": "Pelvis Left Judet Oblique",
+          "name": "",
           "sub": "Pelvis Left Judet Oblique",
           "cat": "Pelvis",
           "icon": "🦴",
@@ -1315,7 +1315,7 @@
         },
         {
           "id": "si_joint_ap",
-          "name": "SI Joints AP",
+          "name": "",
           "sub": "SI Joints AP",
           "cat": "Pelvis",
           "icon": "🦴",
@@ -1332,7 +1332,7 @@
         },
         {
           "id": "si_joint_oblique_r",
-          "name": "Right SI Joint Oblique",
+          "name": "",
           "sub": "Right SI Joint Oblique",
           "cat": "Pelvis",
           "icon": "🦴",
@@ -1349,7 +1349,7 @@
         },
         {
           "id": "si_joint_oblique_l",
-          "name": "Left SI Joint Oblique",
+          "name": "",
           "sub": "Left SI Joint Oblique",
           "cat": "Pelvis",
           "icon": "🦴",
@@ -1372,7 +1372,7 @@
       "items": [
         {
           "id": "hip_ap",
-          "name": "Hip AP",
+          "name": "",
           "sub": "Hip AP",
           "cat": "Lower Extremity",
           "icon": "🦴",
@@ -1389,7 +1389,7 @@
         },
         {
           "id": "hip_lat_frog",
-          "name": "Hip Lateral (Frog-leg)",
+          "name": "",
           "sub": "Hip Lateral (Frog-leg / Modified Cleaves)",
           "cat": "Lower Extremity",
           "icon": "🐸",
@@ -1406,7 +1406,7 @@
         },
         {
           "id": "hip_lat_danelius",
-          "name": "Hip Lateral (Danelius-Miller)",
+          "name": "",
           "sub": "Hip Lateral (Danelius-Miller)",
           "cat": "Lower Extremity",
           "icon": "🦴",
@@ -1423,7 +1423,7 @@
         },
         {
           "id": "hip_lat_crosstable",
-          "name": "Hip Lateral Cross-table",
+          "name": "",
           "sub": "Hip Lateral Cross-table",
           "cat": "Lower Extremity",
           "icon": "🦴",
@@ -1440,7 +1440,7 @@
         },
         {
           "id": "hip_oblique",
-          "name": "Hip Oblique",
+          "name": "",
           "sub": "Hip Oblique",
           "cat": "Lower Extremity",
           "icon": "🦴",
@@ -1463,7 +1463,7 @@
       "items": [
         {
           "id": "shoulder_ap_int_rot",
-          "name": "Shoulder AP Internal Rotation",
+          "name": "",
           "sub": "Shoulder AP Internal Rotation",
           "cat": "Upper Extremity",
           "icon": "💪",
@@ -1480,7 +1480,7 @@
         },
         {
           "id": "shoulder_ap_ext_rot",
-          "name": "Shoulder AP External Rotation",
+          "name": "",
           "sub": "Shoulder AP External Rotation",
           "cat": "Upper Extremity",
           "icon": "💪",
@@ -1497,7 +1497,7 @@
         },
         {
           "id": "shoulder_ap_neutral",
-          "name": "Shoulder AP Neutral Rotation",
+          "name": "",
           "sub": "Shoulder AP Neutral Rotation",
           "cat": "Upper Extremity",
           "icon": "💪",
@@ -1514,7 +1514,7 @@
         },
         {
           "id": "shoulder_axillary",
-          "name": "Shoulder AP Axillary (Lawrence)",
+          "name": "",
           "sub": "Shoulder AP Axillary (Lawrence Method)",
           "cat": "Upper Extremity",
           "icon": "💪",
@@ -1531,7 +1531,7 @@
         },
         {
           "id": "shoulder_inferior_axillary",
-          "name": "Shoulder Inferior Axillary (Velpeau)",
+          "name": "",
           "sub": "Shoulder Inferior Axillary (Velpeau)",
           "cat": "Upper Extremity",
           "icon": "💪",
@@ -1548,7 +1548,7 @@
         },
         {
           "id": "shoulder_scapular_y",
-          "name": "Shoulder Scapular Y Lateral",
+          "name": "",
           "sub": "Shoulder Scapular Y Lateral",
           "cat": "Upper Extremity",
           "icon": "🦴",
@@ -1565,7 +1565,7 @@
         },
         {
           "id": "shoulder_stryker",
-          "name": "Shoulder Stryker Notch View",
+          "name": "",
           "sub": "Shoulder Stryker Notch View",
           "cat": "Upper Extremity",
           "icon": "🔍",
@@ -1588,7 +1588,7 @@
       "items": [
         {
           "id": "clavicle_ap",
-          "name": "Clavicle AP",
+          "name": "",
           "sub": "Clavicle AP",
           "cat": "Upper Extremity",
           "icon": "🦴",
@@ -1605,7 +1605,7 @@
         },
         {
           "id": "clavicle_pa",
-          "name": "Clavicle PA",
+          "name": "",
           "sub": "Clavicle PA",
           "cat": "Upper Extremity",
           "icon": "🦴",
@@ -1622,7 +1622,7 @@
         },
         {
           "id": "clavicle_inclined",
-          "name": "Clavicle AP 15° Cephalad",
+          "name": "",
           "sub": "Clavicle AP 15° Cephalad",
           "cat": "Upper Extremity",
           "icon": "🦴",
@@ -1645,7 +1645,7 @@
       "items": [
         {
           "id": "ac_joint_ap_unweighted",
-          "name": "AC Joint AP Unweighted",
+          "name": "",
           "sub": "AC Joint AP Unweighted",
           "cat": "Upper Extremity",
           "icon": "🦴",
@@ -1662,7 +1662,7 @@
         },
         {
           "id": "ac_joint_ap_weighted",
-          "name": "AC Joint AP Weighted",
+          "name": "",
           "sub": "AC Joint AP Weighted",
           "cat": "Upper Extremity",
           "icon": "🏋️",
@@ -1685,7 +1685,7 @@
       "items": [
         {
           "id": "scapula_ap",
-          "name": "Scapula AP",
+          "name": "",
           "sub": "Scapula AP",
           "cat": "Upper Extremity",
           "icon": "🦴",
@@ -1702,7 +1702,7 @@
         },
         {
           "id": "scapula_lat_y",
-          "name": "Scapula Lateral Y",
+          "name": "",
           "sub": "Scapula Lateral Y",
           "cat": "Upper Extremity",
           "icon": "🦴",
@@ -1725,7 +1725,7 @@
       "items": [
         {
           "id": "humerus_ap",
-          "name": "Humerus AP",
+          "name": "",
           "sub": "Humerus AP",
           "cat": "Upper Extremity",
           "icon": "🦾",
@@ -1742,7 +1742,7 @@
         },
         {
           "id": "humerus_lat",
-          "name": "Humerus Lateral",
+          "name": "",
           "sub": "Humerus Lateral",
           "cat": "Upper Extremity",
           "icon": "🦾",
@@ -1759,7 +1759,7 @@
         },
         {
           "id": "humerus_oblique",
-          "name": "Humerus Oblique",
+          "name": "",
           "sub": "Humerus Oblique",
           "cat": "Upper Extremity",
           "icon": "🦾",
@@ -1782,7 +1782,7 @@
       "items": [
         {
           "id": "elbow_ap",
-          "name": "Elbow AP",
+          "name": "",
           "sub": "Elbow AP",
           "cat": "Upper Extremity",
           "icon": "🦴",
@@ -1799,7 +1799,7 @@
         },
         {
           "id": "elbow_lat",
-          "name": "Elbow Lateral",
+          "name": "",
           "sub": "Elbow Lateral",
           "cat": "Upper Extremity",
           "icon": "🦴",
@@ -1816,7 +1816,7 @@
         },
         {
           "id": "elbow_oblique_medial",
-          "name": "Elbow Medial Oblique",
+          "name": "",
           "sub": "Elbow Medial Oblique",
           "cat": "Upper Extremity",
           "icon": "🦴",
@@ -1833,7 +1833,7 @@
         },
         {
           "id": "elbow_oblique_lateral",
-          "name": "Elbow Lateral Oblique",
+          "name": "",
           "sub": "Elbow Lateral Oblique",
           "cat": "Upper Extremity",
           "icon": "🦴",
@@ -1856,7 +1856,7 @@
       "items": [
         {
           "id": "forearm_ap",
-          "name": "Forearm AP",
+          "name": "",
           "sub": "Forearm AP",
           "cat": "Upper Extremity",
           "icon": "🤲",
@@ -1873,7 +1873,7 @@
         },
         {
           "id": "forearm_lat",
-          "name": "Forearm Lateral",
+          "name": "",
           "sub": "Forearm Lateral",
           "cat": "Upper Extremity",
           "icon": "🤲",
@@ -1896,7 +1896,7 @@
       "items": [
         {
           "id": "wrist_pa",
-          "name": "Wrist PA",
+          "name": "",
           "sub": "Wrist PA",
           "cat": "Upper Extremity",
           "icon": "🤝",
@@ -1913,7 +1913,7 @@
         },
         {
           "id": "wrist_lat",
-          "name": "Wrist Lateral",
+          "name": "",
           "sub": "Wrist Lateral",
           "cat": "Upper Extremity",
           "icon": "🤝",
@@ -1930,7 +1930,7 @@
         },
         {
           "id": "wrist_oblique_medial",
-          "name": "Wrist Medial Oblique",
+          "name": "",
           "sub": "Wrist Medial Oblique",
           "cat": "Upper Extremity",
           "icon": "🤝",
@@ -1947,7 +1947,7 @@
         },
         {
           "id": "wrist_oblique_lateral",
-          "name": "Wrist Lateral Oblique",
+          "name": "",
           "sub": "Wrist Lateral Oblique",
           "cat": "Upper Extremity",
           "icon": "🤝",
@@ -1964,7 +1964,7 @@
         },
         {
           "id": "wrist_scaphoid",
-          "name": "Wrist Scaphoid View (Ulnar Deviation PA)",
+          "name": "",
           "sub": "Wrist Scaphoid View (Ulnar Deviation PA)",
           "cat": "Upper Extremity",
           "icon": "🔍",
@@ -1981,7 +1981,7 @@
         },
         {
           "id": "wrist_carpal_tunnel",
-          "name": "Wrist Carpal Tunnel (Axial / Gaynor-Hart)",
+          "name": "",
           "sub": "Wrist Carpal Tunnel (Axial / Gaynor-Hart)",
           "cat": "Upper Extremity",
           "icon": "🔍",
@@ -2004,7 +2004,7 @@
       "items": [
         {
           "id": "hand_pa",
-          "name": "Hand PA",
+          "name": "",
           "sub": "Hand PA",
           "cat": "Upper Extremity",
           "icon": "✋",
@@ -2021,7 +2021,7 @@
         },
         {
           "id": "hand_lat",
-          "name": "Hand Lateral",
+          "name": "",
           "sub": "Hand Lateral",
           "cat": "Upper Extremity",
           "icon": "✋",
@@ -2038,7 +2038,7 @@
         },
         {
           "id": "hand_oblique",
-          "name": "Hand Oblique",
+          "name": "",
           "sub": "Hand Oblique (Lateral Medial Rotation)",
           "cat": "Upper Extremity",
           "icon": "✋",
@@ -2055,8 +2055,8 @@
         },
         {
           "id": "hand_norgaard",
-          "name": "Hand Norgaard (Ball-Catcher's View)",
-          "sub": "Hand Norgaard (Ball-Catcher's View)",
+          "name": "",
+          "sub": "Hand (Ball-Catcher's View)",
           "cat": "Upper Extremity",
           "icon": "🧤",
           "kvp": 50,
@@ -2072,7 +2072,7 @@
         },
         {
           "id": "thumb_pa",
-          "name": "Thumb AP (Robert's Method)",
+          "name": "",
           "sub": "Thumb AP (Robert's Method)",
           "cat": "Upper Extremity",
           "icon": "👍",
@@ -2089,7 +2089,7 @@
         },
         {
           "id": "thumb_lat",
-          "name": "Thumb Lateral",
+          "name": "",
           "sub": "Thumb Lateral",
           "cat": "Upper Extremity",
           "icon": "👍",
@@ -2106,7 +2106,7 @@
         },
         {
           "id": "finger_ap",
-          "name": "Finger AP",
+          "name": "",
           "sub": "Finger AP",
           "cat": "Upper Extremity",
           "icon": "👆",
@@ -2123,7 +2123,7 @@
         },
         {
           "id": "finger_lat",
-          "name": "Finger Lateral",
+          "name": "",
           "sub": "Finger Lateral",
           "cat": "Upper Extremity",
           "icon": "👆",
@@ -2140,7 +2140,7 @@
         },
         {
           "id": "finger_oblique",
-          "name": "Finger Oblique",
+          "name": "",
           "sub": "Finger Oblique",
           "cat": "Upper Extremity",
           "icon": "👆",
@@ -2163,7 +2163,7 @@
       "items": [
         {
           "id": "femur_ap",
-          "name": "Femur AP",
+          "name": "",
           "sub": "Femur AP",
           "cat": "Lower Extremity",
           "icon": "🦵",
@@ -2180,7 +2180,7 @@
         },
         {
           "id": "femur_lat",
-          "name": "Femur Lateral",
+          "name": "",
           "sub": "Femur Lateral",
           "cat": "Lower Extremity",
           "icon": "🦵",
@@ -2197,7 +2197,7 @@
         },
         {
           "id": "femur_oblique",
-          "name": "Femur Oblique",
+          "name": "",
           "sub": "Femur Oblique",
           "cat": "Lower Extremity",
           "icon": "🦵",
@@ -2220,7 +2220,7 @@
       "items": [
         {
           "id": "knee_ap",
-          "name": "Knee AP",
+          "name": "",
           "sub": "Knee AP",
           "cat": "Lower Extremity",
           "icon": "🦿",
@@ -2237,7 +2237,7 @@
         },
         {
           "id": "knee_lat",
-          "name": "Knee Lateral",
+          "name": "",
           "sub": "Knee Lateral",
           "cat": "Lower Extremity",
           "icon": "🦿",
@@ -2254,7 +2254,7 @@
         },
         {
           "id": "knee_pa_rosenberg",
-          "name": "Knee PA (Rosenberg / Weight-bearing)",
+          "name": "",
           "sub": "Knee PA (Rosenberg / Weight-bearing)",
           "cat": "Lower Extremity",
           "icon": "🦿",
@@ -2271,7 +2271,7 @@
         },
         {
           "id": "knee_oblique_medial",
-          "name": "Knee Medial Oblique",
+          "name": "",
           "sub": "Knee Medial Oblique",
           "cat": "Lower Extremity",
           "icon": "🦿",
@@ -2288,7 +2288,7 @@
         },
         {
           "id": "knee_oblique_lateral",
-          "name": "Knee Lateral Oblique",
+          "name": "",
           "sub": "Knee Lateral Oblique",
           "cat": "Lower Extremity",
           "icon": "🦿",
@@ -2305,7 +2305,7 @@
         },
         {
           "id": "knee_tunnel",
-          "name": "Knee Intercondylar Notch (Tunnel View)",
+          "name": "",
           "sub": "Knee Intercondylar Notch (Tunnel View)",
           "cat": "Lower Extremity",
           "icon": "🔍",
@@ -2322,7 +2322,7 @@
         },
         {
           "id": "knee_merchant",
-          "name": "Patella Axial (Merchant / Skyline View)",
+          "name": "",
           "sub": "Patella Axial (Merchant / Skyline View)",
           "cat": "Lower Extremity",
           "icon": "🦿",
@@ -2339,7 +2339,7 @@
         },
         {
           "id": "knee_setteguard",
-          "name": "Patella Axial (Settegast Method)",
+          "name": "",
           "sub": "Patella Axial (Settegast Method)",
           "cat": "Lower Extremity",
           "icon": "🦿",
@@ -2356,7 +2356,7 @@
         },
         {
           "id": "knee_patella_lat",
-          "name": "Patella Lateral",
+          "name": "",
           "sub": "Patella Lateral",
           "cat": "Lower Extremity",
           "icon": "🦿",
@@ -2436,7 +2436,7 @@
       "items": [
         {
           "id": "ankle_ap",
-          "name": "Ankle AP",
+          "name": "",
           "sub": "Ankle AP",
           "cat": "Lower Extremity",
           "icon": "🦶",
@@ -2453,7 +2453,7 @@
         },
         {
           "id": "ankle_lat",
-          "name": "Ankle Lateral",
+          "name": "",
           "sub": "Ankle Lateral",
           "cat": "Lower Extremity",
           "icon": "🦶",
@@ -2470,8 +2470,8 @@
         },
         {
           "id": "ankle_mortise",
-          "name": "Ankle Mortise View (15-20° Internal Rotation)",
-          "sub": "Ankle Mortise View",
+          "name": "",
+          "sub": "Ankle Mortise View(15-20° Internal Rotation)",
           "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 55,
@@ -2487,7 +2487,7 @@
         },
         {
           "id": "ankle_stress_eversion",
-          "name": "Ankle Stress Eversion",
+          "name": "",
           "sub": "Ankle Stress Eversion",
           "cat": "Lower Extremity",
           "icon": "🦶",
@@ -2504,7 +2504,7 @@
         },
         {
           "id": "ankle_stress_inversion",
-          "name": "Ankle Stress Inversion",
+          "name": "",
           "sub": "Ankle Stress Inversion",
           "cat": "Lower Extremity",
           "icon": "🦶",
@@ -2527,7 +2527,7 @@
       "items": [
         {
           "id": "foot_ap",
-          "name": "Foot AP (Dorsoplantar)",
+          "name": "",
           "sub": "Foot AP (Dorsoplantar)",
           "cat": "Lower Extremity",
           "icon": "🦶",
@@ -2544,7 +2544,7 @@
         },
         {
           "id": "foot_lat",
-          "name": "Foot Lateral",
+          "name": "",
           "sub": "Foot Lateral",
           "cat": "Lower Extremity",
           "icon": "🦶",
@@ -2561,7 +2561,7 @@
         },
         {
           "id": "foot_oblique_medial",
-          "name": "Foot Medial Oblique",
+          "name": "",
           "sub": "Foot Medial Oblique",
           "cat": "Lower Extremity",
           "icon": "🦶",
@@ -2578,7 +2578,7 @@
         },
         {
           "id": "foot_oblique_lateral",
-          "name": "Foot Lateral Oblique",
+          "name": "",
           "sub": "Foot Lateral Oblique",
           "cat": "Lower Extremity",
           "icon": "🦶",
@@ -2595,7 +2595,7 @@
         },
         {
           "id": "calcaneus_axial",
-          "name": "Calcaneus Axial (Harris-Beath)",
+          "name": "",
           "sub": "Calcaneus Axial (Harris-Beath)",
           "cat": "Lower Extremity",
           "icon": "🦶",
@@ -2612,7 +2612,7 @@
         },
         {
           "id": "calcaneus_lat",
-          "name": "Calcaneus Lateral",
+          "name": "",
           "sub": "Calcaneus Lateral",
           "cat": "Lower Extremity",
           "icon": "🦶",
@@ -2629,7 +2629,7 @@
         },
         {
           "id": "foot_sesamoids",
-          "name": "Foot Sesamoid Axial",
+          "name": "",
           "sub": "Foot Sesamoid Axial",
           "cat": "Lower Extremity",
           "icon": "🔍",
@@ -2646,7 +2646,7 @@
         },
         {
           "id": "foot_cuboid",
-          "name": "Foot Cuboid Oblique",
+          "name": "",
           "sub": "Foot Cuboid Oblique",
           "cat": "Lower Extremity",
           "icon": "🔍",
@@ -2669,7 +2669,7 @@
       "items": [
         {
           "id": "thoracic_outlet",
-          "name": "Thoracic Outlet (Cervicothoracic)",
+          "name": "",
           "sub": "Thoracic Outlet (Cervicothoracic)",
           "cat": "Chest",
           "icon": "🫁",
@@ -2686,7 +2686,7 @@
         },
         {
           "id": "scoliosis_ap",
-          "name": "Scoliosis Full Spine AP",
+          "name": "",
           "sub": "Scoliosis Full Spine AP",
           "cat": "Spine",
           "icon": "🦴",
@@ -2703,7 +2703,7 @@
         },
         {
           "id": "scoliosis_lat",
-          "name": "Scoliosis Full Spine Lateral",
+          "name": "",
           "sub": "Scoliosis Full Spine Lateral",
           "cat": "Spine",
           "icon": "🦴",
@@ -2720,7 +2720,7 @@
         },
         {
           "id": "leg_length_ap",
-          "name": "Leg Length Measurement (Orthoroentgenogram)",
+          "name": "",
           "sub": "Leg Length Measurement (Orthoroentgenogram)",
           "cat": "Lower Extremity",
           "icon": "📏",
@@ -2737,7 +2737,7 @@
         },
         {
           "id": "skeleton_survey",
-          "name": "Skeletal Survey (Pediatric)",
+          "name": "",
           "sub": "Skeletal Survey (Pediatric)",
           "cat": "Pediatric",
           "icon": "👶",
