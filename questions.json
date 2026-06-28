@@ -1,104 +1,146 @@
 [
   {
-    "question": "ما هي الوضعية القياسية الأساسية لتصوير الصدر؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المائلة"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
-  },
-  {
-    "question": "في وضعية الصدر الخلفية الأمامية (PA)، من أين تتجه حزمة الأشعة؟",
-    "options": ["من الأمام إلى الخلف", "من الخلف إلى الأمام", "من الجانب الأيمن إلى الأيسر", "من الأعلى إلى الأسفل"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية المستخدمة لتصوير المرضى في السرير (Portable)؟",
-    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "وضعية فتحة الفم"],
-    "correctIndex": 1,
+    "question": "ما المقصود بالاختصار (AP) في التصوير الشعاعي؟",
+    "options": ["الأشعة تدخل من الأمام وتخرج من الخلف", "الأشعة تدخل من الخلف وتخرج من الأمام", "الأشعة تدخل من الجانب", "الأشعة تدخل من الأسفل"],
+    "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/20747422/6edb4d5a5b1cf443db30a6fcd9e562_big_gallery.jpeg"
   },
   {
-    "question": "أي وضعية تُستخدم لتصوير قمم الرئتين بوضوح؟",
-    "options": ["الوضعية الجانبية", "وضعية اللوردوتيك (Lordotic)", "الوضعية الخلفية الأمامية (PA) العادية", "وضعية الاستلقاء الجانبي"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/7356635/125e28937329a35ab973a09b43f46b_gallery.jpeg"
+    "question": "ما المقصود بالاختصار (PA) في التصوير الشعاعي؟",
+    "options": ["الأشعة تدخل من الأمام", "الأشعة تدخل من الجانب", "الأشعة تدخل من الخلف وتخرج من الأمام", "الأشعة تدخل من الأعلى"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية الجانبية للصدر التي تُظهر القلب والفراغ خلفه؟",
-    "options": ["الوضعية الجانبية اليسرى", "الوضعية الجانبية اليمنى", "الوضعية الأمامية الخلفية", "الوضعية المائلة"],
-    "correctIndex": 0,
+    "question": "ما المقصود بالاختصار (Lat أو Lateral) في التصوير الشعاعي؟",
+    "options": ["الأشعة تدخل من الأمام", "الأشعة تدخل من الخلف", "الأشعة تدخل من الأعلى", "الأشعة تدخل من أحد الجانبين وتخرج من الجانب الآخر"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
   },
   {
-    "question": "أي وضعية تُستخدم لتصوير البطن للبحث عن حصوات الكلى والمثانة (KUB)؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) مستلقياً", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "وضعية الاستلقاء الجانبي"],
+    "question": "ما المقصود بالوضعية المائلة (Oblique)؟",
+    "options": ["الوقوف مستقيماً", "الاستلقاء على الظهر", "الاستلقاء على البطن", "تدوير الجسم بزاوية معينة عن الوضعية الأمامية أو الجانبية"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13586037/1b97f6c3e49ec13ae6fb888f1b42f1_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير الصدر للبالغين القادرين على الوقوف؟",
+    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية المستخدمة لتصوير الصدر للمرضى في السرير باستخدام جهاز محمول؟",
+    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المائلة", "الوضعية الأمامية الخلفية (AP) مستلقياً"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/20747422/6edb4d5a5b1cf443db30a6fcd9e562_big_gallery.jpeg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتوضيح قمم الرئتين بوضوح؟",
+    "options": ["الاستلقاء الظهري", "الوضعية الجانبية", "وضعية اللوردوتيك (Lordotic)", "الاستلقاء الجانبي"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/7356635/125e28937329a35ab973a09b43f46b_gallery.jpeg"
+  },
+  {
+    "question": "أي وضعية جانبية للصدر تُظهر القلب والمنطقة خلفه بوضوح؟",
+    "options": ["الوضعية الجانبية اليمنى", "الوضعية الأمامية الخلفية", "الاستلقاء الجانبي الأيمن", "الوضعية الجانبية اليسرى"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير البطن للكشف عن حصوات الكلى والمثانة (KUB)؟",
+    "options": ["الوضعية الأمامية الخلفية (AP) مستلقياً", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "وضعية الوقوف"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "ما هي الوضعية التي تُظهر مستويات السوائل والهواء في البطن بوضوح؟",
-    "options": ["الاستلقاء الظهري (Supine)", "الوقوف (Upright) أو الاستلقاء الجانبي (Decubitus)", "الوضعية الخلفية الأمامية (PA)", "الانبطاح على البطن (Prone)"],
-    "correctIndex": 1,
+    "question": "ما هي أفضل وضعية لتصوير البطن للكشف عن وجود هواء حر تحت الحجاب الحاجز؟",
+    "options": ["الاستلقاء على الظهر", "الوضعية الجانبية", "الاستلقاء على البطن", "وضعية الوقوف (Upright)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
   },
   {
+    "question": "أي وضعية تُستخدم لتقييم مستويات السوائل والهواء في الأمعاء؟",
+    "options": ["الاستلقاء الظهري", "الوقوف", "الاستلقاء الجانبي (Lateral Decubitus)", "الانبطاح على البطن"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
+  },
+  {
+    "question": "إذا كان المريض يستلقي على وجهه (البطن)، ما تسمى هذه الوضعية؟",
+    "options": ["الاستلقاء الظهري (Supine)", "الاستلقاء الجانبي (Decubitus)", "الوضعية الجانبية (Lateral)", "الانبطاح (Prone)"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/7356635/125e28937329a35ab973a09b43f46b_gallery.jpeg"
+  },
+  {
     "question": "ما هي الوضعية القياسية لتصوير اليد؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المحورية"],
-    "correctIndex": 1,
+    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية"],
+    "correctIndex": 0,
     "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
   },
   {
-    "question": "أي وضعية لليد تُظهر الفراغات بين عظام الأصابع بوضوح؟",
-    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية"],
-    "correctIndex": 0,
+    "question": "أي وضعية تُظهر الفراغات المفصلية بين عظام الأصابع بوضوح؟",
+    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587840/6d5c18e3e314af3c97a16365a5756efeb9dd7c145eb0dcf2675804533caf9f48_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير الإبهام وحده؟",
+    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) والجانبية"],
+    "correctIndex": 3,
+    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتصوير اليد بزاوية لإظهار تفاصيل إضافية بين عظام اليد؟",
+    "options": ["الوضعية الخلفية الأمامية (PA) المستقيمة", "الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة (Oblique)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13587840/6d5c18e3e314af3c97a16365a5756efeb9dd7c145eb0dcf2675804533caf9f48_big_gallery.jpeg"
   },
   {
     "question": "ما هي الوضعية القياسية لتصوير الرسغ؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية فقط", "الوضعية المائلة فقط"],
-    "correctIndex": 1,
+    "options": ["الوضعية الخلفية الأمامية (PA) والجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية فقط", "الوضعية المائلة فقط"],
+    "correctIndex": 0,
     "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
   },
   {
-    "question": "أي وضعية تُستخدم لتصوير عظم الزورقي (Scaphoid) في الرسغ؟",
-    "options": ["الوضعية الخلفية الأمامية (PA) مع انحراف زندي", "الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة"],
-    "correctIndex": 0,
+    "question": "أي وضعية تُستخدم خصيصاً لتصوير عظم الزورقي (Scaphoid) في الرسغ؟",
+    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية الخلفية الأمامية (PA) مع انحراف زندي"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13587542/e7e7d8204f7f69192e32161a918240_big_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية الجانبية لتصوير الرسغ؟",
-    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة"],
-    "correctIndex": 0,
-    "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
-  },
-  {
-    "question": "ما هي الوضعية التي تُصور فيها اليد وهي مشدودة القبضة لتقييم الرسغ؟",
-    "options": ["وضعية قبضة اليد (Clenched Fist)", "الوضعية الجانبية", "الوضعية الخلفية الأمامية العادية", "وضعية الانحراف الزندي"],
-    "correctIndex": 0,
+    "question": "ما هي وضعية (Clenched Fist) للرسغ؟",
+    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA) مع قبض اليد", "الوضعية المحورية"],
+    "correctIndex": 2,
     "image": "https://prod-images-static.radiopaedia.org/images/13585856/7e82b270ddf6e0adc2e37136d2861c_big_gallery.jpeg"
   },
   {
+    "question": "في التصوير الجانبي للرسغ، كيف يجب أن يكون وضع اليد؟",
+    "options": ["كف اليد للأعلى", "كف اليد للأسفل", "الإبهام للأعلى (وضعية جانبية طبيعية)", "الإبهام للأسفل"],
+    "correctIndex": 2,
+    "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
+  },
+  {
     "question": "ما هي الوضعية القياسية لتصوير الساعد (الكعبرة والزند)؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA) فقط", "الوضعية المحورية", "الوضعية المائلة فقط"],
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة فقط"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/13584773/160f837f0e87cd5d8097b71c5c32e3d821753111285b6e8dcb0554a73c29e5db_big_gallery.jpeg"
   },
   {
     "question": "ما هي الوضعية القياسية لتصوير الكوع؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة فقط", "الوضعية المحورية"],
-    "correctIndex": 0,
+    "options": ["الوضعية الجانبية فقط", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) والجانبية"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13584773/160f837f0e87cd5d8097b71c5c32e3d821753111285b6e8dcb0554a73c29e5db_big_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية الجانبية لتصوير الكوع؟",
-    "options": ["الوضعية الجانبية (Lateral) بزاوية 90 درجة", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية المحورية"],
-    "correctIndex": 0,
+    "question": "في التصوير الجانبي للكوع، ما هي الزاوية المطلوبة بين الذراع والساعد؟",
+    "options": ["45 درجة", "180 درجة (مستقيم)", "120 درجة", "90 درجة"],
+    "correctIndex": 3,
     "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
   },
   {
-    "question": "أي وضعية تُستخدم لتصوير رأس الكعبرة في الكوع بوضوح؟",
-    "options": ["الوضعية المائلة (Oblique) مع دوران داخلي", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية الخلفية الأمامية (PA)"],
-    "correctIndex": 0,
+    "question": "أي وضعية تُستخدم لتصوير رأس الكعبرة في الكوع بوضوح بعيداً عن تداخل العظام؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة (Oblique) مع دوران"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13587541/98bb80b803ec2065bc1470ed51a6d1_big_gallery.jpeg"
   },
   {
@@ -108,21 +150,27 @@
     "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية القياسية لتصوير الكتف؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية العادية", "الوضعية المائلة"],
-    "correctIndex": 0,
+    "question": "عند تصوير العضد، يجب تضمين أي مفصلين في الصورة؟",
+    "options": ["الكتف والرسغ", "الكوع والرسغ", "الرأس والرقبة", "مفصل الكتف ومفصل الكوع"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية المحورية التي تُظهر تجويف الحق (Glenoid Cavity) في الكتف؟",
-    "options": ["الوضعية الإبطية (Axillary)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "وضعية Scapular Y"],
-    "correctIndex": 0,
+    "question": "ما هي الوضعية القياسية لتصوير الكتف؟",
+    "options": ["الوضعية الجانبية", "الوضعية المحورية", "الوضعية المائلة", "الوضعية الأمامية الخلفية (AP)"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية المحورية التي تُظهر تجويف الحق (Glenoid) في الكتف؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "وضعية Scapular Y", "الوضعية الجانبية", "الوضعية الإبطية (Axillary)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13587243/10335461f8420e146184784cb310e1_big_gallery.jpeg"
   },
   {
     "question": "ما هي وضعية (Scapular Y) للكتف؟",
-    "options": ["وضعية جانبية تُظهر لوح الكتف ورأس العضد", "وضعية أمامية خلفية", "وضعية محورية من الأعلى", "وضعية مائلة"],
-    "correctIndex": 0,
+    "options": ["وضعية محورية من الأعلى", "وضعية أمامية خلفية", "وضعية إبطية", "وضعية جانبية تُظهر لوح الكتف والعضد"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13585993/bb3e0392fe5c730db60c5ac3fa2ceb_big_gallery.jpeg"
   },
   {
@@ -133,27 +181,45 @@
   },
   {
     "question": "أي وضعية تُستخدم لتصوير مفصل الكتف الترقوي (AC Joint)؟",
-    "options": ["وضعية الترقوة الأمامية الخلفية (AP) مع أو بدون أثقال", "الوضعية الجانبية", "الوضعية المحورية", "وضعية Scapular Y"],
-    "correctIndex": 0,
+    "options": ["الوضعية الجانبية", "وضعية Scapular Y", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) مع أو بدون أثقال"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg"
   },
   {
+    "question": "لتصوير الترقوة دون تداخل من الأضلاع، نستخدم:",
+    "options": ["الوضعية الجانبية", "الوضعية الخلفية الأمامية (PA)", "وضعية AP مع ميلان طفيف (15 درجة)", "الوضعية المحورية"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير لوح الكتف (Scapula)؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية الجانبية (Scapular Y) والأمامية"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13585993/bb3e0392fe5c730db60c5ac3fa2ceb_big_gallery.jpeg"
+  },
+  {
     "question": "ما هي الوضعية القياسية لتصوير القدم؟",
-    "options": ["الوضعية الظهرية الأخمصية (Dorsoplantar)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية فقط", "الوضعية المحورية"],
+    "options": ["الوضعية الظهرية الأخمصية (Dorsoplantar) والجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية فقط", "الوضعية المائلة فقط"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية الجانبية لتصوير القدم؟",
-    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الظهرية الأخمصية", "الوضعية الأمامية الخلفية", "الوضعية المائلة"],
-    "correctIndex": 0,
+    "question": "ما هي الوضعية القياسية لتصوير أصابع القدم؟",
+    "options": ["الوضعية الظهرية الأخمصية (DP)", "الوضعية الجانبية فقط", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) والجانبية"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية القياسية لتصوير الأصابع؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة فقط"],
-    "correctIndex": 0,
-    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
+    "question": "أي وضعية تُستخدم لتصوير عظام السمسمان (Sesamoid Bones) في القدم؟",
+    "options": ["الوضعية الظهرية الأخمصية (DP)", "الوضعية الجانبية", "الوضعية المائلة", "الوضعية المحورية (Axial)"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
+  },
+  {
+    "question": "ما الفائدة من الوضعية المائلة (Oblique) للقدم؟",
+    "options": ["تصوير عظم الكعب", "تصوير الكاحل", "تصوير الأصابع فقط", "إظهار الفراغات بين عظام المشط"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
   },
   {
     "question": "ما هي الوضعية القياسية لتصوير الكاحل؟",
@@ -162,52 +228,52 @@
     "image": "https://prod-images-static.radiopaedia.org/images/61842235/192c32c862386fa52562b03def2129e7f5fcf097f4e6cdd682f47de59840cc80_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الكاحل المائلة (Mortise) التي تُظهر الفراغ المفصلي بوضوح؟",
-    "options": ["وضعية AP مع دوران داخلي 15-20 درجة", "الوضعية الجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية"],
-    "correctIndex": 0,
+    "question": "ما هي وضعية (Mortise) للكاحل؟",
+    "options": ["الوضعية الجانبية", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) مع دوران داخلي 15-20 درجة", "الوضعية الخلفية الأمامية (PA)"],
+    "correctIndex": 2,
     "image": "https://prod-images-static.radiopaedia.org/images/61842237/49c77546f4c3bdefe74de1b5177ecf_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية المحورية لتصوير عظم الكعب (Calcaneus)؟",
-    "options": ["الوضعية المحورية (Axial Calcaneus)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة"],
-    "correctIndex": 0,
+    "question": "أي وضعية تُستخدم لتصوير عظم الكعب (Calcaneus) من الأمام؟",
+    "options": ["الوضعية الجانبية", "الوضعية الظهرية الأخمصية", "الوضعية المائلة", "الوضعية المحورية (Axial Calcaneus)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13587279/f9a54ed07ec79da2d92723780349f7_big_gallery.jpeg"
   },
   {
     "question": "ما هي الوضعية الجانبية لتصوير عظم الكعب؟",
-    "options": ["الوضعية الجانبية (Lateral)", "الوضعية المحورية", "الوضعية الأمامية الخلفية", "وضعية القدم Dorsoplantar"],
-    "correctIndex": 0,
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية", "الوضعية المائلة", "الوضعية الجانبية (Lateral)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/61842235/192c32c862386fa52562b03def2129e7f5fcf097f4e6cdd682f47de59840cc80_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية القياسية لتصوير عظم الظنبوب والشظية (الساق)؟",
+    "question": "ما هي الوضعية القياسية لتصوير عظمي الظنبوب والشظية (الساق)؟",
     "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة فقط"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية القياسية لتصوير الركبة؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية فقط", "الوضعية المحورية"],
-    "correctIndex": 0,
-    "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
-  },
-  {
-    "question": "ما هي الوضعية الجانبية لتصوير الركبة؟",
-    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية المحورية"],
-    "correctIndex": 0,
-    "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
-  },
-  {
-    "question": "ما هي الوضعية المحورية (Skyline/Sunrise) التي تُصور الرضفة (Patella)؟",
-    "options": ["الوضعية المحورية (Axial) للرضفة", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة"],
-    "correctIndex": 0,
+    "question": "عند تصوير الساق، يجب تضمين أي مفصلين في الصورة؟",
+    "options": ["مفصل الورك والركبة", "مفصل الكاحل والقدم", "مفصل الورك والكاحل", "مفصل الركبة ومفصل الكاحل"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
   },
   {
+    "question": "ما هي الوضعية القياسية لتصوير الركبة؟",
+    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية فقط", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) والجانبية"],
+    "correctIndex": 3,
+    "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
+  },
+  {
     "question": "أي وضعية تُظهر الفراغات بين اللقمتين في الركبة بوضوح؟",
-    "options": ["الوضعية المائلة (Oblique)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية"],
-    "correctIndex": 0,
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية (Sunrise)", "الوضعية المائلة (Oblique)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13586037/1b97f6c3e49ec13ae6fb888f1b42f1_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية المحورية (Skyline/Sunrise) التي تُصور الرضفة (صابونة الركبة)؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة", "الوضعية المحورية (Axial) للرضفة"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
   },
   {
     "question": "ما هي الوضعية القياسية لتصوير عظم الفخذ؟",
@@ -216,27 +282,39 @@
     "image": "https://jomi.com/api/files/preopaprhip.jpg"
   },
   {
+    "question": "عند تصوير عظم الفخذ، يجب تضمين أي مفصلين؟",
+    "options": ["الركبة والكاحل", "الكاحل والقدم", "الورك والركبة", "الكتف والكوع"],
+    "correctIndex": 2,
+    "image": "https://jomi.com/api/files/preopaprhip.jpg"
+  },
+  {
     "question": "ما هي الوضعية القياسية لتصوير الحوض؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المحورية"],
-    "correctIndex": 0,
+    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المائلة", "الوضعية الأمامية الخلفية (AP)"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
+  },
+  {
+    "question": "في وضعية الحوض القياسية (AP)، كيف يجب أن تكون وضعية القدمين؟",
+    "options": ["مقلوبتين للخارج", "مستقيمتين للأمام تماماً", "واحدة للأمام والأخرى للخلف", "مقلوبتين للداخل (Internal Rotation) بـ 15-20 درجة"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
   },
   {
     "question": "ما هي الوضعية القياسية لتصوير مفصل الورك؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية (Frog Leg)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة"],
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية (Frog Leg)", "الوضعية المائلة"],
     "correctIndex": 0,
     "image": "https://jomi.com/api/files/preopaprhip.jpg"
   },
   {
-    "question": "ما هي الوضعية الجانبية التي تُصور مفصل الورك (شبيهة وضعية الضفدع)؟",
-    "options": ["وضعية Frog Leg (Lateral)", "الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية", "الوضعية المائلة"],
-    "correctIndex": 0,
+    "question": "ما هي وضعية (Frog Leg) للورك؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية الجانبية مع ثني الركبتين وفتحهما للخارج"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13587676/52e8427af248ee84611ac1231f3218_big_gallery.jpeg"
   },
   {
     "question": "أي وضعية تُستخدم لتصوير المفصل الحرقفي العجزي (SI Joint) بوضوح؟",
-    "options": ["الوضعية المائلة (Oblique)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية"],
-    "correctIndex": 0,
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية", "الوضعية المائلة (Oblique)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13586254/fdb7f721a549843718d0fec316f73a_big_gallery.jpeg"
   },
   {
@@ -247,44 +325,62 @@
   },
   {
     "question": "ما هي وضعية فتحة الفم (Open Mouth) المستخدمة في العمود الفقري الرقبي؟",
-    "options": ["لتصوير الفقرة الرقبية الثانية (الأودونتويد)", "لتصوير الفقرة الرقبية السابعة", "لتصوير الفقرات الصدرية", "لتصوير لوح الكتف"],
-    "correctIndex": 0,
+    "options": ["لتصوير الفقرة السابعة", "لتصوير الفقرات الصدرية", "لتصوير الفقرة الرقبية الثانية (الأودونتويد)", "لتصوير الأضلاع"],
+    "correctIndex": 2,
     "image": "https://prod-images-static.radiopaedia.org/images/23089841/a82f9cbbdddf7fe1417dfbf586b62f_big_gallery.jpg"
   },
   {
     "question": "أي وضعية تُظهر الثقوب الفقرية (Neural Foramina) في العمود الفقري الرقبي؟",
-    "options": ["الوضعية المائلة (Oblique)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "وضعية فتحة الفم"],
-    "correctIndex": 0,
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "وضعية فتحة الفم", "الوضعية المائلة (Oblique)"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية (Swimmer's View) للعمود الفقري الرقبي؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة", "وضعية خاصة لتصوير منطقة C7-T1 عند الأكتاف العريضة"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
   },
   {
     "question": "ما هي الوضعية القياسية لتصوير العمود الفقري الصدري؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة فقط", "الوضعية المحورية"],
+    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة فقط"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/13587779/c8ba5fd99a2cb5ed9cc51bf56b4174_big_gallery.jpeg"
   },
   {
     "question": "ما هي الوضعية القياسية لتصوير العمود الفقري القطني؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة فقط"],
-    "correctIndex": 0,
+    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة فقط", "الوضعية الأمامية الخلفية (AP) والجانبية"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
     "question": "أي وضعية تُظهر المفاصل الفقرية الجانبية (Facet Joints) في العمود الفقري القطني؟",
-    "options": ["الوضعية المائلة (Oblique)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية"],
-    "correctIndex": 0,
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "وضعية فتحة الفم", "الوضعية المائلة (Oblique)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13586211/7cc3ae8c22f1ac6c3f6387b15cb33f_big_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية القياسية لتصوير العجز؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية فقط", "الوضعية المحورية"],
+    "question": "في التصوير الجانبي للعمود الفقري القطني، ما هي وضعية الركبتين لتقليل انحناء الظهر؟",
+    "options": ["مستقيمتان تماماً", "مثنيتان بزاوية 45 درجة", "مثنيتان بزاوية 90 درجة", "واحدة مستقيمة والأخرى مثنية"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+  },
+  {
+    "question": "ما هي الوضعية القياسية لتصوير عظم العجز؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية فقط", "الوضعية المائلة"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية الجانبية لتصوير العصعص؟",
-    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية المحورية"],
-    "correctIndex": 0,
+    "question": "ما هي الوضعية القياسية لتصوير العصعص؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة", "الوضعية الجانبية (Lateral)"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+  },
+  {
+    "question": "أي وضعية تُستخدم لتقييم انزلاق الفقار (Spondylolisthesis) في العمود الفقري؟",
+    "options": ["الوضعية المائلة", "الوضعية الأمامية الخلفية (AP)", "وضعية فتحة الفم", "الوضعية الجانبية (Lateral)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
@@ -295,20 +391,20 @@
   },
   {
     "question": "ما هي وضعية ووترز (Waters)؟",
-    "options": ["وضعية للجمجمة لتصوير الجيوب الفكية", "وضعية لتصوير العمود الفقري", "وضعية لتصوير الركبة", "وضعية لتصوير الكتف"],
-    "correctIndex": 0,
+    "options": ["لتصوير العمود الفقري القطني", "لتصوير الركبة", "لتصوير الوجه والجيوب الفكية", "لتصوير الكتف"],
+    "correctIndex": 2,
     "image": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
   },
   {
     "question": "ما هي وضعية كالدويل (Caldwell)؟",
-    "options": ["وضعية للجمجمة لتصوير الجيوب الأمامية", "وضعية لتصوير عظم الكعب", "وضعية لتصوير الكاحل", "وضعية لتصوير اليد"],
-    "correctIndex": 0,
+    "options": ["لتصوير عظم الكعب", "لتصوير الجيوب الأمامية والغربالية", "لتصوير الكاحل", "لتصوير اليد"],
+    "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/58593520/0._big_gallery.jpeg"
   },
   {
     "question": "ما هي وضعية تاون (Towne)؟",
-    "options": ["وضعية للجمجمة لتصوير العظم القذالي والمخيخ", "وضعية لتصوير الترقوة", "وضعية لتصوير الحوض", "وضعية لتصوير القدم"],
-    "correctIndex": 0,
+    "options": ["لتصوير الترقوة", "لتصوير الحوض", "لتصوير القدم", "لتصوير العظم القذالي والمخيخ في الجمجمة"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/58593523/0._big_gallery.jpeg"
   },
   {
@@ -318,6 +414,12 @@
     "image": "https://prod-images-static.radiopaedia.org/images/9470064/507281cb5c0347e7d0bbfeddfc476c_gallery.jpg"
   },
   {
+    "question": "أي وضعية تُستخدم لتصوير الأقواس الوجنية (Zygomatic Arches)؟",
+    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "وضعية كالدويل", "الوضعية المحورية (Tangential)"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
+  },
+  {
     "question": "ما هي الوضعية القياسية لتصوير الفك السفلي؟",
     "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية فقط", "وضعية ووترز"],
     "correctIndex": 0,
@@ -325,183 +427,165 @@
   },
   {
     "question": "أي وضعية تُظهر الفروع الصاعدة للفك السفلي بوضوح؟",
-    "options": ["الوضعية المائلة (Oblique)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية"],
-    "correctIndex": 0,
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية", "الوضعية المائلة (Oblique)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/12073744/5c0dc8bf06798c6db06cd168df4d9a_big_gallery.jpeg"
   },
   {
     "question": "ما هي الوضعية القياسية لتصوير عظم القص؟",
-    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة"],
-    "correctIndex": 0,
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة", "الوضعية الجانبية (Lateral)"],
+    "correctIndex": 3,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sternum_lateral.jpg/300px-Sternum_lateral.jpg"
   },
   {
     "question": "أي وضعية تُستخدم لتصوير الأضلاع العلوية؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) للصدر", "الوضعية الخلفية الأمامية (PA) للصدر", "وضعية البطن (KUB)", "وضعية الاستلقاء الجانبي"],
-    "correctIndex": 0,
+    "options": ["تصوير البطن (KUB)", "تصوير الصدر (PA/AP)", "تصوير العمود الفقري الرقبي", "تصوير الكتف"],
+    "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
   },
   {
     "question": "أي وضعية تُستخدم لتصوير الأضلاع السفلية؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) للبطن (KUB)", "الوضعية الجانبية للصدر", "وضعية اللوردوتيك", "الوضعية المحورية"],
-    "correctIndex": 0,
+    "options": ["تصوير الصدر الجانبي", "تصوير البطن الأمامي الخلفي (KUB)", "تصوير الحوض", "تصوير العمود الفقري الصدري"],
+    "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "ما هي الوضعية التي يتم فيها إمالة المريض على جانبه لتصوير الصدر؟",
-    "options": ["الاستلقاء الجانبي (Lateral Decubitus)", "الاستلقاء الظهري (Supine)", "الانبطاح (Prone)", "الوقوف (Upright)"],
-    "correctIndex": 0,
+    "question": "للتصوير التفصيلي لضلع معين، أي وضعية تُستخدم؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية للصدر", "الوضعية المائلة (Oblique) موجهة نحو الضلع"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
+  },
+  {
+    "question": "إذا أردنا تصوير قاعدة الجمجمة من الأسفل، ما هي الوضعية؟",
+    "options": ["وضعية تاون", "وضعية ووترز", "وضعية كالدويل", "الوضعية المحورية (Submentovertex)"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
+  },
+  {
+    "question": "في وضعية الاستلقاء الجانبي (Lateral Decubitus) لتصوير الصدر، أي جانب يجب أن يكون متجهاً نحو الأسفل لتقييم الانصباب الجنبي الأيمن؟",
+    "options": ["الجانب الأيسر", "البطن", "الظهر", "الجانب الأيمن"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
   },
   {
-    "question": "في وضعية الاستلقاء الجانبي لتصوير الصدر، أي جانب يجب أن يكون متجهاً نحو الأسفل لتقييم الانصباب الجنبي الأيمن؟",
-    "options": ["الجانب الأيمن", "الجانب الأيسر", "البطن", "الظهر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
+    "question": "لماذا نستخدم وضعية (PA) بدلاً من (AP) في تصوير الصدر القياسي؟",
+    "options": ["لأنها أسهل للمريض", "لأنها تستخدم جرعة أقل دائماً", "لأن القلب يكون قريباً من الفيلم فيقل حجمه الوهمي", "لتوضيح قمم الرئتين فقط"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية التي يقع فيها المريض على وجهه (البطن)؟",
-    "options": ["الانبطاح (Prone)", "الاستلقاء الظهري (Supine)", "الاستلقاء الجانبي (Decubitus)", "الوضعية الجانبية (Lateral)"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/7356635/125e28937329a35ab973a09b43f46b_gallery.jpeg"
+    "question": "أي وضعية تُستخدم لتصوير تقوس العمود الفقري (Scoliosis)؟",
+    "options": ["الوضعية الجانبية مستلقياً", "الوضعية المائلة جالساً", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) واقفاً"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+  },
+  {
+    "question": "في تصوير الكاحل بوضعية (Mortise)، يتم تدوير القدم داخلياً بزاوية:",
+    "options": ["90 درجة", "45 إلى 50 درجة", "5 درجات فقط", "15 إلى 20 درجة"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/61842237/49c77546f4c3bdefe74de1b5177ecf_gallery.jpeg"
   },
   {
     "question": "ما هي الوضعية التي يقع فيها المريض على ظهره؟",
-    "options": ["الاستلقاء الظهري (Supine)", "الانبطاح (Prone)", "الاستلقاء الجانبي (Decubitus)", "الوقوف (Upright)"],
-    "correctIndex": 0,
+    "options": ["الانبطاح (Prone)", "الاستلقاء الجانبي (Decubitus)", "الوضعية الجانبية (Lateral)", "الاستلقاء الظهري (Supine)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "لتصوير الرضفة (صابونة الركبة) من الأمام، ما هي الوضعية المستخدمة؟",
-    "options": ["الوضعية المحورية (Axial/Skyline)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير عظام السمسمان (Sesamoid Bones) في القدم؟",
-    "options": ["الوضعية المحورية (Axial)", "الوضعية الظهرية الأخمصية (Dorsoplantar)", "الوضعية الجانبية", "الوضعية المائلة"],
-    "correctIndex": 0,
+    "question": "لتصوير عظام المشط الخامسة في القدم بوضوح، نستخدم:",
+    "options": ["الوضعية الظهرية الأخمصية (DP)", "الوضعية الجانبية", "الوضعية المحورية", "الوضعية المائلة (Oblique)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
   },
   {
-    "question": "للتأكد من وجود هواء حر تحت الحجاب الحاجز، ما هي أفضل وضعية؟",
-    "options": ["الوقوف (Upright AP)", "الاستلقاء الظهري (Supine AP)", "الوضعية الجانبية", "وضعية اللوردوتيك"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
+    "question": "أي وضعية تُستخدم لتصوير قاعدة الجمجمة من الأعلى؟",
+    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "وضعية ووترز", "الوضعية المحورية من الأعلى (Vertico-submental)"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
   },
   {
-    "question": "ما هي الوضعية التي تُظهر القصبة الهوائية والقص في صورة الصدر الجانبية؟",
-    "options": ["الوضعية الجانبية اليسرى", "الوضعية الجانبية اليمنى", "الوضعية الأمامية الخلفية", "الوضعية الخلفية الأمامية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية مفيدة لتصوير العمود الفقري الرقبي عند المرضى ذوي الأكتاف العريضة؟",
-    "options": ["وضعية السباح (Swimmer's View)", "الوضعية الأمامية الخلفية (AP)", "وضعية فتحة الفم", "الوضعية المائلة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
+    "question": "في وضعية تصوير الرسغ (PA)، يجب أن تكون الأصابع:",
+    "options": ["مقبوضة بشدة", "مثنية تماماً", "متجاوزة بعضها تماماً", "ممتدة قليلاً ومفرقة قليلاً"],
+    "correctIndex": 3,
+    "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
   },
   {
     "question": "ما الاختصار الذي يشير إلى وضعية تصوير الكلى والحالب والمثانة؟",
-    "options": ["KUB", "PA", "AP", "LAT"],
-    "correctIndex": 0,
+    "options": ["PA", "AP", "LAT", "KUB"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "وضعية (AP) تعني أن الأشعة تدخل من:",
-    "options": ["الأمام وتخرج من الخلف", "الخلف وتخرج من الأمام", "الجانب الأيمن", "الجانب الأيسر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/20747422/6edb4d5a5b1cf443db30a6fcd9e562_big_gallery.jpeg"
+    "question": "أي وضعية تُستخدم لتصوير مفاصل الوجه الوسطية؟",
+    "options": ["وضعية ووترز", "وضعية تاون", "الوضعية الجانبية", "الوضعية المحورية (Rhese)"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
   },
   {
-    "question": "وضعية (PA) تعني أن الأشعة تدخل من:",
-    "options": ["الخلف وتخرج من الأمام", "الأمام وتخرج من الخلف", "الأعلى وتخرج من الأسفل", "الأسفل وتخرج من الأعلى"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
+    "question": "ما هي الوضعية التي تُصور فيها القصبة الهوائية والقص في صورة الصدر؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الاستلقاء الجانبي", "الوضعية الجانبية اليسرى"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
   },
   {
-    "question": "وضعية (Lat أو Lateral) تعني أن الأشعة تدخل من:",
-    "options": ["أحد الجانبين وتخرج من الجانب الآخر", "الأمام وتخرج من الخلف", "الأعلى وتخرج من الأسفل", "الخلف وتخرج من الأمام"],
+    "question": "أي وضعية تُستخدم لتصوير التجويف الفموي والأسنان العلوية؟",
+    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية المحورية (Occlusal)"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/9470064/507281cb5c0347e7d0bbfeddfc476c_gallery.jpg"
+  },
+  {
+    "question": "لتصوير العمود الفقري القطني والصدري معاً (طوله كامل)، نستخدم:",
+    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) والجانبية طويلة المسافة"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+  },
+  {
+    "question": "في تصوير الكتف (AP)، يتم تدوير الذراع إلى:",
+    "options": ["وضعه فوق الرأس", "ثنيه على البطن", "تركه معلقاً بحرية بدون دوران", "دوران داخلي أو خارجي حسب الطريقة"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي الوضعية التي تُظهر الحجاب الحاجز بشكل أفضل في الصدر؟",
+    "options": ["الوضعية الجانبية (Lateral)", "الوضعية المائلة (Oblique)", "وضعية اللوردوتيك", "الاستلقاء الجانبي (Decubitus)"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
   },
   {
-    "question": "في وضعية تصوير الكتف الأمامية الخلفية (AP)، يجب تدوير الذراع إلى:",
-    "options": ["دوران داخلي أو خارجي حسب الطريقة المطلوبة", "تركه معلقاً بحرية بدون دوران", "وضعه فوق الرأس", "ثنيه على البطن"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
+    "question": "أي جزء من الجسم يتم تصويره في وضعية (Towne)؟",
+    "options": ["الصدر", "البطن", "الساعد", "الجمجمة من الخلف والعظم القذالي"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/58593523/0._big_gallery.jpeg"
   },
   {
-    "question": "أي وضعية تُستخدم لتقييم انزلاق الفقار (Spondylolisthesis) في العمود الفقري القطني؟",
-    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية المحورية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "ما هي الوضعية التي تُصور فيها عظام المشط والسلاميات في اليد بشكل مفرط قليلاً؟",
-    "options": ["الوضعية المائلة (Oblique)", "الوضعية الخلفية الأمامية (PA) المستقيمة", "الوضعية الجانبية", "الوضعية المحورية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587840/6d5c18e3e314af3c97a16365a5756efeb9dd7c145eb0dcf2675804533caf9f48_big_gallery.jpeg"
-  },
-  {
-    "question": "لتصوير قاعدة الجمجمة، ما هي الوضعية المستخدمة؟",
-    "options": ["الوضعية المحورية (Axial / Submentovertex)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "وضعية كالدويل"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
-  },
-  {
-    "question": "ما هي الوضعية التي تُستخدم لتصوير القنوات النصف دائرية في الأذن؟",
-    "options": ["الوضعية المحورية (Axial) أو وضعية شولر (Stenvers)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية", "وضعية ووترز"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير الجيوب الغربالية (Ethmoid Sinuses)؟",
-    "options": ["وضعية كالدويل (Caldwell)", "وضعية ووترز (Waters)", "وضعية تاون (Towne)", "الوضعية الجانبية"],
-    "correctIndex": 0,
+    "question": "ما هي الوضعية التي تُستخدم لتصوير الجيوب الغربالية (Ethmoid) والجيوب الأمامية؟",
+    "options": ["وضعية تاون", "وضعية ووترز", "الوضعية الجانبية", "وضعية كالدويل (Caldwell)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/58593520/0._big_gallery.jpeg"
   },
   {
-    "question": "أي وضعية تُستخدم لتصوير الجيوب الوتدية (Sphenoid Sinuses)؟",
-    "options": ["وضعية كالدويل (Caldwell)", "وضعية ووترز (Waters)", "الوضعية الجانبية فقط", "وضعية فتحة الفم"],
-    "correctIndex": 0,
+    "question": "أي وضعية تُستخدم لتصوير الجيوب الوتدية (Sphenoid)؟",
+    "options": ["وضعية ووترز", "الوضعية الجانبية فقط", "وضعية فتحة الفم", "وضعية كالدويل (Caldwell)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/58593520/0._big_gallery.jpeg"
   },
   {
-    "question": "في تصوير الساق (الظنبوب والشظية)، يجب تضمين أي مفصل في الصورة؟",
-    "options": ["مفصل الركبة ومفصل الكاحل", "مفصل الورك ومفصل الركبة", "مفصل الكاحل ومفصل القدم", "مفصل الورك فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
+    "question": "في وضعية (Frog Leg) لتصوير الورك، يكون القدمين:",
+    "options": ["مستقيمتين للأمام", "واحدة مستقيمة والأخرى مثنية", "مثنيتين للداخل", "مثنيتين والركبتين مفتوحتان للخارج"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587676/52e8427af248ee84611ac1231f3218_big_gallery.jpeg"
   },
   {
-    "question": "في تصوير الذراع (العضد)، يجب تضمين أي مفصل في الصورة؟",
-    "options": ["مفصل الكتف ومفصل الكوع", "مفصل الكوع ومفصل الرسغ", "مفصل الكتف فقط", "مفصل الرسغ فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
+    "question": "أي وضعية تُظهر النخاع الشوكي بعد حقن الصبغة (Myelogram) في العمود الفقري؟",
+    "options": ["الوضعية المائلة فقط", "الوضعية المحورية فقط", "وضعية فتحة الفم", "الوضعية الأمامية الخلفية (AP) والجانبية"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
   },
   {
-    "question": "لتصوير العمود الفقري القطني والصدري معاً (بكامل طوله)، ما هي الوضعية؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية طويلة المسافة", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة", "الوضعية المحورية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "ما هي الوضعية الأفضل لتصوير القنوات الصفراوية بالأشعة بعد حقن الصبغة؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) مع ميلان بسيط", "الوضعية الجانبية فقط", "الوضعية المحورية", "الوضعية المائلة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "عند تصوير الحوض القياسي (AP)، يجب أن تكون القدمين:",
-    "options": ["مقلوبتين للداخل (Internal Rotation) بـ 15-20 درجة", "مقلوبتين للخارج", "مستقيمتين للأمام تماماً", "واحدة للأمام والأخرى للخلف"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
-  },
-  {
-    "question": "لماذا نستخدم وضعية (PA) بدلاً من (AP) في تصوير الصدر القياسي للبالغين؟",
-    "options": ["لتقليل حجم ظل القلب الوهمي لأن القلب قريب من الفيلم", "لأنها أسهل للمريض", "لأنها تستخدم جرعة أقل دائماً", "لتوضيح قمم الرئتين فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
+    "question": "ما هي الوضعية المائلة (Oblique) للعمود الفقري القطني التي تُظهر شكل "كلب سكوتي" (Scottie Dog)؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية", "الوضعية المائلة (Oblique)"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13586211/7cc3ae8c22f1ac6c3f6387b15cb33f_big_gallery.jpeg"
   },
   {
     "question": "أي وضعية تُستخدم لتصوير عظم العجز من الأمام؟",
@@ -510,93 +594,81 @@
     "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
   },
   {
-    "question": "أي وضعية تُستخدم لتصوير الأقواس الوجنية (Zygomatic Arches)؟",
-    "options": ["الوضعية المحورية (Axial / Tangential)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية", "وضعية كالدويل"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
+    "question": "للتأكد من إصابة عظم الزورقي (Scaphoid)، أي وضعية نضيفها للرسغ؟",
+    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية الخلفية الأمامية (PA) مع انحراف زندي"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587542/e7e7d8204f7f69192e32161a918240_big_gallery.jpeg"
   },
   {
-    "question": "في وضعية تصوير الرسغ (PA)، يجب أن تكون الأصابع:",
-    "options": ["ممتدة قليلاً ومفرقة قليلاً", "مقبوضة بشدة", "مثنية تماماً", "متجاوزة بعضها تماماً"],
-    "correctIndex": 0,
-    "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
+    "question": "أي وضعية تُستخدم لتصوير مفاصل الورك عند الأطفال الرضع للبحث عن خلع الورك التنموي؟",
+    "options": ["الوضعية الجانبية (Frog Leg)", "الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية", "وضعية التصوير المائل"],
+    "correctIndex": 1,
+    "image": "https://jomi.com/api/files/preopaprhip.jpg"
   },
   {
-    "question": "ما هي الوضعية التي يتم فيها تصوير المريض وهو واقف لتقييم تقوس العمود الفقري (Scoliosis)؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) واقفاً", "الوضعية الجانبية مستلقياً", "الوضعية المائلة جالساً", "الوضعية المحورية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
+    "question": "ما هي الوضعية التي يتم فيها تصوير المريض وهو واقف لتقييم الحجاب الحاجز؟",
+    "options": ["الاستلقاء الظهري", "الانبطاح على البطن", "الاستلقاء الجانبي", "الوضعية الأمامية الخلفية (AP) واقفاً"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
   },
   {
-    "question": "لتصوير عظمتي المشط الخامسة والقاعدة في القدم، أي وضعية هي الأفضل؟",
-    "options": ["الوضعية المائلة (Oblique)", "الوضعية الظهرية الأخمصية (Dorsoplantar)", "الوضعية الجانبية", "الوضعية المحورية"],
+    "question": "في وضعية تصوير الصدر (PA)، يجب أن تكون الكتفين:",
+    "options": ["مرفوعتين للأعلى للأمام", "مثنيتين للخلف", "مستقيمتين للأسفل", "واحدة للأعلى والأخرى للأسفل"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية القياسية لتصوير الإبهام وحده؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة فقط", "الوضعية المحورية"],
-    "correctIndex": 0,
-    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
+    "question": "أي وضعية تُستخدم لتصوير عظمي الحرقف والعانة بشكل منفصل عن الحوض؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة (Oblique)", "الوضعية المحورية"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
   },
   {
-    "question": "أي وضعية تُظهر النخاع الشوكي في العمود الفقري الرقبي بعد حقن الصبغة (Myelogram)؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية المائلة فقط", "الوضعية المحورية فقط", "وضعية فتحة الفم"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
+    "question": "في التصوير الشعاعي، إذا كانت الصورة مأخوذة بوضعية (AP)، فإن الجزء المصور يكون:",
+    "options": ["أقرب إلى الفيلم من مصدر الأشعة", "أبعد عن الفيلم ومقابل لمصدر الأشعة", "على الجانب الأيمن", "على الجانب الأيسر"],
+    "correctIndex": 1,
+    "image": "https://prod-images-static.radiopaedia.org/images/20747422/6edb4d5a5b1cf443db30a6fcd9e562_big_gallery.jpeg"
   },
   {
-    "question": "في وضعية (Frog Leg) لتصوير الورك، يكون القدمين:",
-    "options": ["مثنيتين والركبتين مفتوحتان للخارج", "مستقيمتين للأمام", "واحدة مستقيمة والأخرى مثنية", "مثنيتين للداخل"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587676/52e8427af248ee84611ac1231f3218_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية الجانبية للعمود الفقري القطني التي نطلب فيها من المريض ثني ركبتيه؟",
-    "options": ["الوضعية الجانبية (Lateral) لتقليل انحناء الظهر", "الوضعية الأمامية الخلفية", "الوضعية المائلة", "الوضعية المحورية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "أي جزء من الجسم يتم تصويره في وضعية (Waters)؟",
-    "options": ["الوجه والجيوب الأنفية", "العمود الفقري القطني", "الركبة", "الكتف"],
-    "correctIndex": 0,
+    "question": "أي وضعية تُستخدم لتصوير الجيوب الفكية (Maxillary Sinuses)؟",
+    "options": ["وضعية تاون", "وضعية كالدويل", "الوضعية الجانبية", "وضعية ووترز (Waters)"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
   },
   {
-    "question": "أي جزء من الجسم يتم تصويره في وضعية (Towne)؟",
-    "options": ["الجمجمة من الخلف والعظم القذالي", "الصدر", "البطن", "الساعد"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593523/0._big_gallery.jpeg"
+    "question": "لتصوير القدم بشكل يُظهر توزيع الوزن عليها، نستخدم:",
+    "options": ["الوضعية الظهرية الأخمصية (DP) مستلقياً", "الوضعية الجانبية مستلقياً", "الوضعية المائلة", "الوضعية الظهرية الأخمصية (DP) واقفاً بوزن الجسم"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
   },
   {
-    "question": "عند التصوير الجانبي للكوع، يجب أن تكون الزاوية بين الذراع والساعد:",
-    "options": ["90 درجة", "180 درجة (مستقيم)", "45 درجة", "120 درجة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13584773/160f837f0e87cd5d8097b71c5c32e3d821753111285b6e8dcb0554a73c29e5db_big_gallery.jpeg"
+    "question": "ما هي الوضعية التي تُظهر الصورة بشكل معكوس (كما في الأجهزة المحمولة أحياناً)؟",
+    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP) محمول", "الوضعية المائلة"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/20747422/6edb4d5a5b1cf443db30a6fcd9e562_big_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية التي تُستخدم لتصوير التجويف الفموي والأسنان العلوية؟",
-    "options": ["الوضعية المحورية (Occlusal)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية", "الوضعية المائلة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/9470064/507281cb5c0347e7d0bbfeddfc476c_gallery.jpg"
-  },
-  {
-    "question": "لتصوير عظمة الترقوة، أي وضعية تُظهرها بدون تداخل من الأضلاع أو العمود الفقري؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) مع ميلان بسيط", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المائلة"],
-    "correctIndex": 0,
+    "question": "أي وضعية تُستخدم لتصوير عظمة الترقوة والتحقق من عدم وجود كسر؟",
+    "options": ["الوضعية الجانبية", "الوضعية المحورية", "وضعية Scapular Y", "الوضعية الأمامية الخلفية (AP) مع ميلان 15 درجة"],
+    "correctIndex": 3,
     "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg"
   },
   {
-    "question": "أي وضعية تُستخدم لتصوير الحجاب الحاجز بشكل منفصل؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) للبطن مع ميلان", "الوضعية الجانبية للصدر", "وضعية الاستلقاء الظهري", "وضعية فتحة الفم"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
+    "question": "في التصوير الجانبي للصدر، أي جانب يُفضل أن يكون قريباً من الفيلم؟",
+    "options": ["الجانب الأيمن دائماً", "الجانب الأيسر (لتقليل حجم القلب)", "لا يهم", "الجانب الأيمن للمرضى الذكور فقط"],
+    "correctIndex": 1,
+    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
   },
   {
-    "question": "في تصوير الكاحل (Mortise)، يتم تدوير القدم داخلياً بزاوية:",
-    "options": ["15 إلى 20 درجة", "45 إلى 50 درجة", "90 درجة", "5 درجات فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/61842237/49c77546f4c3bdefe74de1b5177ecf_gallery.jpeg"
+    "question": "أي وضعية تُستخدم لتصوير عظام الحوض عند الأطفال لتقييم تشوهات الورك؟",
+    "options": ["الوضعية الجانبية", "الوضعية المائلة", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP)"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
+  },
+  {
+    "question": "في وضعية تصوير الركبة (AP)، يجب أن تكون القدمين:",
+    "options": ["مثنيتين للداخل", "مثنيتين للخارج", "مستقيمتين للأمام", "واحدة للأعلى والأخرى للأسفل"],
+    "correctIndex": 2,
+    "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
   }
 ]
