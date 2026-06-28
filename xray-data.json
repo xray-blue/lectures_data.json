@@ -1,50 +1,50 @@
 {
   "metadata": {
-    "title": "قاعدة بيانات وضعيات التصوير الشعاعي الشاملة",
-    "description": "جميع وضعيات التصوير الشعاعي لجسم الإنسان - القيم الأساسية للبالغ متوسط البنية على جهاز DR",
+    "title": "Comprehensive Radiographic Positioning Database",
+    "description": "All radiographic positioning views of the human body - Baseline values for average-build adult on DR system",
     "references": [
       "Clark's Positioning in Radiography, 13th Edition",
       "Bushong's Radiologic Science for Technologists, 13th Edition",
       "Merrill's Atlas of Radiographic Positions & Procedures, 15th Edition",
       "European Guidelines on Quality Criteria for Diagnostic Radiographic Images, 2018",
       "AAPM Report No. 96",
-      " Carlton & Adler's Radiographic Positioning, 4th Edition"
+      "Carlton & Adler's Radiographic Positioning, 4th Edition"
     ],
     "baseConditions": {
-      "age": "بالغ (18+ سنة)",
-      "bodyType": "متوسط البنية",
+      "age": "Adult (18+ years)",
+      "bodyType": "Average build",
       "device": "DR (Digital Radiography)",
-      "grid": "استخدام Grid حيثما ينصح",
-      "breathing": "حسب الوضعية"
+      "grid": "Use Grid where recommended",
+      "breathing": "Per view requirement"
     },
     "fields": {
-      "id": "معرف فريد",
-      "name": "الاسم العربي للوضعية",
-      "sub": "الاسم الإنجليزي المعتمد",
-      "cat": "الفئة التشريحية",
-      "icon": "أيقونة تعبيرية",
-      "kvp": "kVp الأساسي (بالغ/طبيعي/DR)",
-      "mas": "mAs الأساسي (بالغ/طبيعي/DR)",
-      "kvpR": "النطاق المرجعي لـ kVp [أدنى, أعلى]",
-      "masR": "النطاق المرجعي لـ mAs [أدنى, أعلى]",
-      "sid": "مسافة المصدر-الصورة بالسنتيمتر",
-      "grid": "هل يستخدم Grid (true/false)",
-      "aec": "هل يستخدم AEC (true/false/نوع الغرفة)",
-      "breathing": "نوع التنفس: suspended/inspiration/expiration/free/none",
-      "note": "ملاحظات فنية وتوضيحية",
-      "positioning": "ملاحظات التموضع المختصرة"
+      "id": "Unique identifier",
+      "name": "Display name of the view",
+      "sub": "Technical name in English",
+      "cat": "Anatomical category",
+      "icon": "Emoji icon",
+      "kvp": "Baseline kVp (adult/average/DR)",
+      "mas": "Baseline mAs (adult/average/DR)",
+      "kvpR": "kVp reference range [min, max]",
+      "masR": "mAs reference range [min, max]",
+      "sid": "Source-to-image distance in cm",
+      "grid": "Whether Grid is used (true/false)",
+      "aec": "AEC setting (true/false/chamber type)",
+      "breathing": "Breathing type: suspended/inspiration/expiration/free/none",
+      "note": "Technical and explanatory notes",
+      "positioning": "Brief positioning notes"
     }
   },
 
   "organs": [
     {
-      "section": "الجمجمة - Skull",
+      "section": "Skull",
       "items": [
         {
           "id": "skull_ap",
-          "name": "جمجمة أمامية",
+          "name": "Skull AP",
           "sub": "Skull AP (Caldwell Method)",
-          "cat": "جمجمة",
+          "cat": "Skull",
           "icon": "💀",
           "kvp": 80,
           "mas": 25,
@@ -54,14 +54,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "شعاع وسطي 15° رأسي لعدم تداخل الحفرة الأمامية مع القاعدة",
-          "positioning": "OML عمودي على الفيلم، الشعاع يخرج من النازلة ويدخل من الغلافيّة"
+          "note": "15° caudal central ray to avoid overlap of anterior cranial fossa with base",
+          "positioning": "OML perpendicular to film, CR exits nasion and enters glabella"
         },
         {
           "id": "skull_pa",
-          "name": "جمجمة خلفية-أمامية",
+          "name": "Skull PA",
           "sub": "Skull PA",
-          "cat": "جمجمة",
+          "cat": "Skull",
           "icon": "💀",
           "kvp": 82,
           "mas": 28,
@@ -71,14 +71,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "تفضل على AP لتفاصيل الحفرة الأمامية وأقل تشويه للأطراف القريبة",
-          "positioning": "OML عمودي، مركز الشعاع على النازلة"
+          "note": "Preferred over AP for anterior fossa detail and less OID magnification",
+          "positioning": "OML perpendicular, CR centered on nasion"
         },
         {
           "id": "skull_lat",
-          "name": "جمجمة جانبية",
+          "name": "Skull Lateral",
           "sub": "Skull Lateral",
-          "cat": "جمجمة",
+          "cat": "Skull",
           "icon": "🧠",
           "kvp": 78,
           "mas": 20,
@@ -88,14 +88,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "الجانب الأقرب للفيلم هو الجانب المصاب لتقليل التشوه",
-          "positioning": "IPL عمودي على الفيلم، مركز الشعاع على EAM"
+          "note": "Side closest to film is the affected side to minimize magnification",
+          "positioning": "IPL perpendicular to film, CR centered on EAM"
         },
         {
           "id": "skull_towne",
-          "name": "جمجمة طون (قاع أمامي)",
+          "name": "Skull Towne's (Fronto-occipital)",
           "sub": "Skull Towne's (Fronto-occipital)",
-          "cat": "جمجمة",
+          "cat": "Skull",
           "icon": "💀",
           "kvp": 80,
           "mas": 28,
@@ -105,14 +105,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر الحفرة الخلفية، القنوات النصف دائرية، الفتحة العظمى. شعاع 30° ذيلي",
-          "positioning": "OML عمودي، الشعاع 30° ذيلي يخرج من الجبهة ويدخل من القذالي"
+          "note": "Demonstrates posterior fossa, semicircular canals, foramen magnum. 30° caudal angle",
+          "positioning": "OML perpendicular, CR 30° caudal exiting forehead and entering occiput"
         },
         {
           "id": "skull_smv",
-          "name": "جمجمة تحت ذقني-فوق قذالي",
+          "name": "Skull Submentovertex (SMV / Basal)",
           "sub": "Skull Submentovertex (SMV / Basal)",
-          "cat": "جمجمة",
+          "cat": "Skull",
           "icon": "💀",
           "kvp": 85,
           "mas": 32,
@@ -122,14 +122,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر قاعدة الجمجمة، القنوات النصف دائرية، الثقبة البيضوية. يحتاج تمديد رقبة كامل - ممنوع لمرضى فقرات عنقية",
-          "positioning": "IPL عمودي، الشعاع عمودي من تحت الذقن للأعلى"
+          "note": "Demonstrates skull base, semicircular canals, foramen ovale. Requires full neck extension — contraindicated for cervical spine patients",
+          "positioning": "IPL perpendicular, CR vertical from below chin upward"
         },
         {
           "id": "skull_basal_axial",
-          "name": "جمجمة قاعدية محورية (هاس)",
+          "name": "Skull Basal Axial (Haas Method)",
           "sub": "Skull Basal Axial (Haas Method)",
-          "cat": "جمجمة",
+          "cat": "Skull",
           "icon": "💀",
           "kvp": 82,
           "mas": 28,
@@ -139,14 +139,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "بديل لـ SMV عندما لا يستطيع المريض تمديد الرقبة بالكامل",
-          "positioning": "شعاع 25° ذيلي من تحت الذقن"
+          "note": "Alternative to SMV when patient cannot fully extend the neck",
+          "positioning": "25° caudal ray from below the chin"
         },
         {
           "id": "sella_turcica_lat",
-          "name": "سرج التركي جانبي",
+          "name": "Sella Turcica Lateral",
           "sub": "Sella Turcica Lateral",
-          "cat": "جمجمة",
+          "cat": "Skull",
           "icon": "🧠",
           "kvp": 80,
           "mas": 20,
@@ -156,14 +156,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "تصوير مُكبّر بتركيز على منطقة السرج التركي. قد يستخدم بدون Grid",
-          "positioning": "جانبية جمجمة عادية مع تصغير الحقل وتوسيط الشعاع على السرج"
+          "note": "Magnified view focused on sella turcica region. May be done without grid",
+          "positioning": "Standard skull lateral with collimated field and CR centered on sella"
         },
         {
           "id": "optic_foramen",
-          "name": "الثقبة البصرية (ريسي)",
+          "name": "Optic Foramen (Rhese Method)",
           "sub": "Optic Foramen (Rhese Method)",
-          "cat": "جمجمة",
+          "cat": "Skull",
           "icon": "👁️",
           "kvp": 75,
           "mas": 15,
@@ -173,20 +173,20 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "شعاع 37° نحو الأسفل والأنف. بدون Grid لتقليل التشويش. تصوير كل جانب",
-          "positioning": "PA مع تدوير الرأس 37° نحو الجانب المصاب"
+          "note": "37° angle inferior and toward nose. No grid to reduce noise. Each side imaged separately",
+          "positioning": "PA with head rotated 37° toward the affected side"
         }
       ]
     },
 
     {
-      "section": "الجيوب الأنفية - Paranasal Sinuses",
+      "section": "Paranasal Sinuses",
       "items": [
         {
           "id": "sinuses_pa_caldwell",
-          "name": "جيوب أمامية (كالدويل)",
+          "name": "Sinuses PA (Caldwell)",
           "sub": "Paranasal Sinuses PA (Caldwell)",
-          "cat": "جيوب أنفية",
+          "cat": "Sinuses",
           "icon": "👃",
           "kvp": 75,
           "mas": 12,
@@ -196,14 +196,14 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "شعاع 15° ذيلي. بدون Grid. يُظهر الجيوب الأمامية والجبهية",
-          "positioning": "OML عمودي، الأنف والجبهة على اللوح"
+          "note": "15° caudal ray. No grid. Demonstrates anterior and frontal sinuses",
+          "positioning": "OML perpendicular, nose and forehead on film"
         },
         {
           "id": "sinuses_waters",
-          "name": "جيوب أنفية (ووترز)",
+          "name": "Sinuses Waters (OMM)",
           "sub": "Paranasal Sinuses Waters (OMM)",
-          "cat": "جيوب أنفية",
+          "cat": "Sinuses",
           "icon": "👃",
           "kvp": 75,
           "mas": 12,
@@ -213,14 +213,14 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "أفضل وضعية للجيوب الفكية العلوية (Maxillary). شعاع 37° ذيلي. الذقن على اللوح والأنف بعيداً",
-          "positioning": "OML 37° على الفيلم، الذقن والأنف يلامسان اللوح"
+          "note": "Best view for maxillary sinuses. 37° caudal ray. Chin on film, nose away",
+          "positioning": "OML 37° to film, chin and nose touching film"
         },
         {
           "id": "sinuses_lat",
-          "name": "جيوب أنفية جانبية",
+          "name": "Sinuses Lateral",
           "sub": "Paranasal Sinuses Lateral",
-          "cat": "جيوب أنفية",
+          "cat": "Sinuses",
           "icon": "👃",
           "kvp": 75,
           "mas": 12,
@@ -230,14 +230,14 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "بدون Grid. يُظهر كل الجيوب في عرض جانبي واحد",
-          "positioning": "IPL عمودي، مركز على الأنف"
+          "note": "No grid. Shows all sinuses in a single lateral view",
+          "positioning": "IPL perpendicular, CR centered on nose"
         },
         {
           "id": "sinuses_lateral_top",
-          "name": "جيوب أنفية جانبية (وضعية جلوس)",
+          "name": "Sinuses Lateral (Upright)",
           "sub": "Sinuses Lateral (Upright)",
-          "cat": "جيوب أنفية",
+          "cat": "Sinuses",
           "icon": "👃",
           "kvp": 72,
           "mas": 10,
@@ -247,20 +247,20 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "الأفضل للكشف عن مستوى السائل في الجيوب - المريض جالس",
-          "positioning": "جانبي مع تصغير الحقل على الجيوب"
+          "note": "Best for detecting fluid levels in sinuses — patient upright",
+          "positioning": "Lateral with collimated field on sinuses"
         }
       ]
     },
 
     {
-      "section": "عظام الوجه - Facial Bones",
+      "section": "Facial Bones",
       "items": [
         {
           "id": "facial_ap_pa",
-          "name": "عظام وجه أمامية/خلفية",
+          "name": "Facial Bones AP/PA",
           "sub": "Facial Bones AP/PA",
-          "cat": "عظام وجه",
+          "cat": "Facial Bones",
           "icon": "😊",
           "kvp": 72,
           "mas": 10,
@@ -270,14 +270,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "شعاع وسطي 15° (AP) أو بدون (PA). يُظهر العظام الوجهية الكلية",
-          "positioning": "OML عمودي، مركز على النازلة"
+          "note": "15° central ray for AP or none for PA. Shows entire facial skeleton",
+          "positioning": "OML perpendicular, CR centered on nasion"
         },
         {
           "id": "facial_lat",
-          "name": "عظام وجه جانبية",
+          "name": "Facial Bones Lateral",
           "sub": "Facial Bones Lateral",
-          "cat": "عظام وجه",
+          "cat": "Facial Bones",
           "icon": "😊",
           "kvp": 70,
           "mas": 8,
@@ -287,14 +287,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر الأنف، الجيب الفكي، القوس الوجني",
-          "positioning": "IPL عمودي، مركز على الأنف"
+          "note": "Shows nose, maxillary sinus, zygomatic arch",
+          "positioning": "IPL perpendicular, CR centered on nose"
         },
         {
           "id": "zygomatic_arch_tangential",
-          "name": "القوس الوجني مماسي",
+          "name": "Zygomatic Arch Tangential",
           "sub": "Zygomatic Arch Tangential",
-          "cat": "عظام وجه",
+          "cat": "Facial Bones",
           "icon": "😊",
           "kvp": 68,
           "mas": 6,
@@ -304,14 +304,14 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "بدون Grid. الشعاع يمس القوس مماسياً. شعاع وسطي أو خلفي حسب الطريقة",
-          "positioning": "الرأس مائلة بحيث القوس بعيدة عن الفيلم، الشعاع يمر مماسياً"
+          "note": "No grid. Ray tangent to the arch. Central or posterior ray depending on method",
+          "positioning": "Head tilted so arch is away from film, ray passes tangentially"
         },
         {
           "id": "nasal_bones_lat",
-          "name": "عظام أنف جانبية",
+          "name": "Nasal Bones Lateral",
           "sub": "Nasal Bones Lateral",
-          "cat": "عظام وجه",
+          "cat": "Facial Bones",
           "icon": "👃",
           "kvp": 60,
           "mas": 5,
@@ -321,14 +321,14 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "بدون Grid. تعريض منخفض جداً للتفاصيل الدقيقة",
-          "positioning": "IPL عمودي، حقل ضيق على الأنف"
+          "note": "No grid. Very low exposure for fine detail",
+          "positioning": "IPL perpendicular, tight collimation on nose"
         },
         {
           "id": "nasal_bones_ap",
-          "name": "عظام أنف أمامية",
+          "name": "Nasal Bones AP (Waters Modified)",
           "sub": "Nasal Bones AP (Waters Modified)",
-          "cat": "عظام وجه",
+          "cat": "Facial Bones",
           "icon": "👃",
           "kvp": 62,
           "mas": 6,
@@ -338,14 +338,14 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "شعاع 15° ذيلي. بدون Grid",
-          "positioning": "وضعية Waters معدّلة مع تقليل الحقل على الأنف"
+          "note": "15° caudal ray. No grid",
+          "positioning": "Modified Waters position with collimated field on nose"
         },
         {
           "id": "mandible_ap",
-          "name": "فك سفلي أمامي",
+          "name": "Mandible AP",
           "sub": "Mandible AP",
-          "cat": "عظام وجه",
+          "cat": "Facial Bones",
           "icon": "🦷",
           "kvp": 70,
           "mas": 10,
@@ -355,14 +355,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر الجسم والزاوية والراموس للفك السفلي",
-          "positioning": "AML عمودي على الفيلم، مركز على الذقن"
+          "note": "Shows body, angle, and ramus of the mandible",
+          "positioning": "AML perpendicular to film, CR centered on chin"
         },
         {
           "id": "mandible_lat_oblique",
-          "name": "فك سفلي جانبي مائل",
+          "name": "Mandible Lateral Oblique",
           "sub": "Mandible Lateral Oblique",
-          "cat": "عظام وجه",
+          "cat": "Facial Bones",
           "icon": "🦷",
           "kvp": 68,
           "mas": 8,
@@ -372,14 +372,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "عدة زوايا مائلة لتغطية كامل الفك. كل جانب يُصوَّر بالزاوية المعاكسة",
-          "positioning": "تدوير الرأس 30-45°، الشعاع من الجانب البعيد"
+          "note": "Multiple oblique angles to cover entire mandible. Each side imaged at opposite angle",
+          "positioning": "Head rotated 30-45°, CR from opposite side"
         },
         {
           "id": "mandible_pa",
-          "name": "فك سفلي خلفي-أمامي",
+          "name": "Mandible PA",
           "sub": "Mandible PA",
-          "cat": "عظام وجه",
+          "cat": "Facial Bones",
           "icon": "🦷",
           "kvp": 72,
           "mas": 12,
@@ -389,14 +389,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر الراموس والزواوية بوضوح مع تقليل تداخل العمود الفقري",
-          "positioning": "AML عمودي، مركز على الذقن"
+          "note": "Clearly shows ramus and angle with reduced spine overlap",
+          "positioning": "AML perpendicular, CR centered on chin"
         },
         {
           "id": "tmj_lat",
-          "name": "المفصل الصدغي الفكي جانبي",
+          "name": "TMJ Lateral (Parma Method)",
           "sub": "TMJ Lateral (Parma Method)",
-          "cat": "عظام وجه",
+          "cat": "Facial Bones",
           "icon": "🦷",
           "kvp": 65,
           "mas": 6,
@@ -406,14 +406,14 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "بدون Grid. تصوير كلا المفصلين للفتح والإغلاق (4 صور). حقل ضيق جداً",
-          "positioning": "IPL عمودي، مركز على EAM، حقل 6×8 سم تقريباً"
+          "note": "No grid. Both joints imaged in open and closed mouth (4 images). Very tight collimation",
+          "positioning": "IPL perpendicular, CR on EAM, field approx 6×8 cm"
         },
         {
           "id": "tmj_ap",
-          "name": "المفصل الصدغي الفكي أمامي",
+          "name": "TMJ AP (Towne Modified)",
           "sub": "TMJ AP (Towne Modified)",
-          "cat": "عظام وجه",
+          "cat": "Facial Bones",
           "icon": "🦷",
           "kvp": 68,
           "mas": 8,
@@ -423,20 +423,20 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "يُظهر الرأس الكوندايلي في وضع أمامي خلفي. نادر الاستخدام",
-          "positioning": "تعديل وضعية Towne مع تصغير الحقل على TMJ"
+          "note": "Shows condylar head in AP projection. Rarely used",
+          "positioning": "Modified Towne position with collimated field on TMJ"
         }
       ]
     },
 
     {
-      "section": "العمود الفقري العنقي - Cervical Spine",
+      "section": "Cervical Spine",
       "items": [
         {
           "id": "cspine_ap",
-          "name": "عنقية أمامية",
+          "name": "Cervical Spine AP",
           "sub": "Cervical Spine AP",
-          "cat": "الفقرات العنقية",
+          "cat": "Cervical",
           "icon": "🦴",
           "kvp": 70,
           "mas": 20,
@@ -446,14 +446,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "الكتفان منخفضان بقدر الإمكان (حبل أثقال إذا لزم). الشعاع 15-20° رأسي لفتح الفقرات بينية",
-          "positioning": "AML عمودي، مركز على C4، أوزان في اليدين لخفض الكتفين"
+          "note": "Shoulders depressed as much as possible (weight cords if needed). 15-20° cephalad ray to open interspinous spaces",
+          "positioning": "AML perpendicular, CR on C4, weights in hands to depress shoulders"
         },
         {
           "id": "cspine_lat",
-          "name": "عنقية جانبية",
+          "name": "Cervical Spine Lateral",
           "sub": "Cervical Spine Lateral",
-          "cat": "الفقرات العنقية",
+          "cat": "Cervical",
           "icon": "🦴",
           "kvp": 72,
           "mas": 25,
@@ -463,14 +463,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "SID 150 سم لتقليل التشوه المكدسي. الكتفان منخفضان جداً. يجب إظهار C1-C7 كاملة",
-          "positioning": "مستوى الفقرات العنقية عمودي على الفيلم، مركز على C4"
+          "note": "SID 150 cm to reduce magnification distortion. Shoulders depressed maximally. Must show C1-C7 completely",
+          "positioning": "Cervical spine level perpendicular to film, CR on C4"
         },
         {
           "id": "cspine_odontoid",
-          "name": "عنقية سنية (فم مفتوح)",
+          "name": "Cervical Spine Open Mouth (Odontoid)",
           "sub": "Cervical Spine Open Mouth (Odontoid/Peg)",
-          "cat": "الفقرات العنقية",
+          "cat": "Cervical",
           "icon": "🦷",
           "kvp": 72,
           "mas": 15,
@@ -480,14 +480,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "المريض يفتح فمه أقصى حد وأثناء العرض يقول آه لمنع الحركة. يُظهر السن والفقرتين C1-C2",
-          "positioning": "AML عمودي، الشعاع عبر الفم المفتوح"
+          "note": "Patient opens mouth as wide as possible and says 'ah' during exposure to prevent motion. Shows dens and C1-C2",
+          "positioning": "AML perpendicular, CR through open mouth"
         },
         {
           "id": "cspine_fuchs",
-          "name": "عنقية (طريقة فوكس)",
+          "name": "Cervical Spine Fuchs Method",
           "sub": "Cervical Spine Fuchs Method",
-          "cat": "الفقرات العنقية",
+          "cat": "Cervical",
           "icon": "🦴",
           "kvp": 70,
           "mas": 18,
@@ -497,14 +497,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "بديل لـ Open Mouth عندما لا يستطيع المريض فتح فمه. الشعاع يمر تحت الذقن",
-          "positioning": "الذقن ممدودة جداً، الشعاع من تحت الذقن بزاوية طفيفة"
+          "note": "Alternative to Open Mouth when patient cannot open mouth. Ray passes under the chin",
+          "positioning": "Chin extended maximally, CR from below chin at slight angle"
         },
         {
           "id": "cspine_pillars",
-          "name": "عنقية أعمدة جانبية",
+          "name": "Cervical Pillars AP",
           "sub": "Cervical Pillars AP",
-          "cat": "الفقرات العنقية",
+          "cat": "Cervical",
           "icon": "🦴",
           "kvp": 72,
           "mas": 18,
@@ -514,14 +514,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر الأعمدة الجانبية للفقرات العنقية. شعاع 15° رأسي",
-          "positioning": "مثل AP العادية لكن مع التركيز على الأعمدة"
+          "note": "Demonstrates lateral pillars of cervical vertebrae. 15° cephalad ray",
+          "positioning": "Like standard AP but focused on pillars"
         },
         {
           "id": "cspine_oblique",
-          "name": "عنقية مائلة",
+          "name": "Cervical Spine Oblique",
           "sub": "Cervical Spine Oblique",
-          "cat": "الفقرات العنقية",
+          "cat": "Cervical",
           "icon": "🦴",
           "kvp": 72,
           "mas": 20,
@@ -531,14 +531,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر الثقبات بينية الفقرية (Foramina Transversaria). تصوير كلا الجانبين",
-          "positioning": "تدوير 45°، مركز على C4"
+          "note": "Demonstrates intervertebral foramina (Foramina Transversaria). Both sides imaged",
+          "positioning": "45° rotation, CR on C4"
         },
         {
           "id": "cspine_flexion",
-          "name": "عنقية جانبية - انثناء",
+          "name": "Cervical Spine Lateral Flexion",
           "sub": "Cervical Spine Lateral Flexion",
-          "cat": "الفقرات العنقية",
+          "cat": "Cervical",
           "icon": "🦴",
           "kvp": 72,
           "mas": 22,
@@ -548,14 +548,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "المريض ينثني رأسه للأمام بقدر المستطاع. لفحص عدم الاستقرار. SID 150 سم",
-          "positioning": "جانبية مع انثناء أقصى، مركز على C4"
+          "note": "Patient flexes head forward as much as possible. For instability assessment. SID 150 cm",
+          "positioning": "Lateral with maximal flexion, CR on C4"
         },
         {
           "id": "cspine_extension",
-          "name": "عنقية جانبية - بسط",
+          "name": "Cervical Spine Lateral Extension",
           "sub": "Cervical Spine Lateral Extension",
-          "cat": "الفقرات العنقية",
+          "cat": "Cervical",
           "icon": "🦴",
           "kvp": 72,
           "mas": 22,
@@ -565,14 +565,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "المريض يبسط رأسه للخلف بقدر المستطاع. لفحص عدم الاستقرار. SID 150 سم",
-          "positioning": "جانبية مع بسط أقصى، مركز على C4"
+          "note": "Patient extends head backward as much as possible. For instability assessment. SID 150 cm",
+          "positioning": "Lateral with maximal extension, CR on C4"
         },
         {
           "id": "cspine_swimmer",
-          "name": "عنقية صدرية (سباح)",
+          "name": "Cervicothoracic Swimmer's View",
           "sub": "Cervicothoracic Swimmer's View",
-          "cat": "الفقرات العنقية",
+          "cat": "Cervical",
           "icon": "🏊",
           "kvp": 78,
           "mas": 25,
@@ -582,20 +582,20 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر الانتقال C7-T1 عندما لا تظهر في الصورة الجانبية العادية. ذراع واحد مرفوع والأخرى خلفية",
-          "positioning": "الذراع القريبة مرفوعة فوق الرأس، البعيدة خلف الظهر"
+          "note": "Shows C7-T1 transition when not visible on standard lateral. One arm raised, other behind back",
+          "positioning": "Near arm raised above head, far arm behind back"
         }
       ]
     },
 
     {
-      "section": "العمود الفقري الصدري - Thoracic Spine",
+      "section": "Thoracic Spine",
       "items": [
         {
           "id": "tspine_ap",
-          "name": "صدرية أمامية",
+          "name": "Thoracic Spine AP",
           "sub": "Thoracic Spine AP",
-          "cat": "الفقرات الصدرية",
+          "cat": "Thoracic",
           "icon": "🦴",
           "kvp": 80,
           "mas": 32,
@@ -605,14 +605,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "تنفس محبس في نهاية الزفير لتقليل حركة الأضلاع. تعريض طويل نسبياً بسبب سُمك المنطقة. شعاع وسطي",
-          "positioning": "مركز على T7، العمود الفقري في منتصف الصورة"
+          "note": "Suspended respiration at end expiration to reduce rib motion. Relatively long exposure due to part thickness. Central ray",
+          "positioning": "CR on T7, spine centered in image"
         },
         {
           "id": "tspine_pa",
-          "name": "صدرية خلفية-أمامية",
+          "name": "Thoracic Spine PA",
           "sub": "Thoracic Spine PA",
-          "cat": "الفقرات الصدرية",
+          "cat": "Thoracic",
           "icon": "🦴",
           "kvp": 82,
           "mas": 35,
@@ -622,14 +622,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "أقل تشويهاً من AP. لكن صعب التنفيذ لمعظم المرضى",
-          "positioning": "المريض على بطنه، مركز على T7"
+          "note": "Less magnification than AP but difficult for most patients",
+          "positioning": "Patient prone, CR on T7"
         },
         {
           "id": "tspine_lat",
-          "name": "صدرية جانبية",
+          "name": "Thoracic Spine Lateral",
           "sub": "Thoracic Spine Lateral",
-          "cat": "الفقرات الصدرية",
+          "cat": "Thoracic",
           "icon": "🦴",
           "kvp": 85,
           "mas": 45,
@@ -639,14 +639,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "أعلى تعريض في فحوصات العمود الفقري بسبب السُمك الكبير. تنفس محبس",
-          "positioning": "الذراعان مرفوعان فوق الرأس، مركز على T7"
+          "note": "Highest exposure in spine imaging due to large thickness. Suspended respiration",
+          "positioning": "Both arms raised above head, CR on T7"
         },
         {
           "id": "tspine_oblique",
-          "name": "صدرية مائلة",
+          "name": "Thoracic Spine Oblique",
           "sub": "Thoracic Spine Oblique",
-          "cat": "الفقرات الصدرية",
+          "cat": "Thoracic",
           "icon": "🦴",
           "kvp": 82,
           "mas": 35,
@@ -656,14 +656,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر المفاصل بينية الفقرية الصدرية. تصوير كلا الجانبين",
-          "positioning": "تدوير 20° من الجانب البعيد"
+          "note": "Demonstrates thoracic facet joints. Both sides imaged",
+          "positioning": "20° rotation from the far side"
         },
         {
           "id": "tspine_spot",
-          "name": "صدرية مركزة",
+          "name": "Thoracic Spine Spot View",
           "sub": "Thoracic Spine Spot View",
-          "cat": "الفقرات الصدرية",
+          "cat": "Thoracic",
           "icon": "🔍",
           "kvp": 82,
           "mas": 30,
@@ -673,20 +673,20 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "تصوير مركّز على فقرة أو فقرات محددة بعد رؤيتها في الصورة الشاملة",
-          "positioning": "حقل مصغر على المنطقة المستهدفة"
+          "note": "Focused view on specific vertebra(e) after identifying them on the survey image",
+          "positioning": "Collimated field on target area"
         }
       ]
     },
 
     {
-      "section": "العمود الفقري القطني - Lumbar Spine",
+      "section": "Lumbar Spine",
       "items": [
         {
           "id": "lspine_ap",
-          "name": "قطنية أمامية",
+          "name": "Lumbar Spine AP",
           "sub": "Lumbar Spine AP",
-          "cat": "الفقرات القطنية",
+          "cat": "Lumbar",
           "icon": "🦴",
           "kvp": 82,
           "mas": 40,
@@ -696,14 +696,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "تنفس محبس. القدمان مقلوبان للداخل 15-20° لفتح مساحة الفقرات بينية. مركز على L3",
-          "positioning": "القدمان مقلوبان للداخل، مركز على L3 (قوس الرف)"
+          "note": "Suspended respiration. Feet inverted 15-20° to open interspinous space. CR on L3",
+          "positioning": "Feet inverted, CR on L3 (iliac crest level)"
         },
         {
           "id": "lspine_lat",
-          "name": "قطنية جانبية",
+          "name": "Lumbar Spine Lateral",
           "sub": "Lumbar Spine Lateral",
-          "cat": "الفقرات القطنية",
+          "cat": "Lumbar",
           "icon": "🦴",
           "kvp": 90,
           "mas": 63,
@@ -713,14 +713,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "أعلى mAs في معظم فحوصات الهيكل العظمي بسبب السُمك. الركبتان مثنيتان قليلاً لتسطيح الظهر القطني",
-          "positioning": "جانبي كامل، مركز على L3"
+          "note": "Highest mAs in most skeletal exams due to thickness. Knees slightly flexed to flatten lumbar lordosis",
+          "positioning": "Full lateral, CR on L3"
         },
         {
           "id": "lspine_l5s1",
-          "name": "قطنية مركزة L5-S1",
+          "name": "L5-S1 Spot Lateral",
           "sub": "L5-S1 Spot Lateral",
-          "cat": "الفقرات القطنية",
+          "cat": "Lumbar",
           "icon": "🔍",
           "kvp": 88,
           "mas": 50,
@@ -730,14 +730,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "تصوير مركّز على الانتقال القطني العجزي. غالباً لا تُرى L5-S1 بوضوح في الصورة الجانبية الشاملة",
-          "positioning": "حقل مصغر مع توسيط على L5-S1"
+          "note": "Focused on lumbosacral transition. L5-S1 often not clearly seen on full lateral",
+          "positioning": "Collimated field centered on L5-S1"
         },
         {
           "id": "lspine_oblique",
-          "name": "قطنية مائلة",
+          "name": "Lumbar Spine Oblique",
           "sub": "Lumbar Spine Oblique",
-          "cat": "الفقرات القطنية",
+          "cat": "Lumbar",
           "icon": "🦴",
           "kvp": 85,
           "mas": 45,
@@ -747,20 +747,20 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر 'كلب سكوتي' (Scottie Dog) - المفاصل بينية الفقرية. تصوير كلا الجانبين (يمين وميسر)",
-          "positioning": "تدوير الجسم 45°، مركز على L3"
+          "note": "Shows 'Scottie Dog' — facet joints. Both sides imaged (right and left)",
+          "positioning": "Body rotated 45°, CR on L3"
         }
       ]
     },
 
     {
-      "section": "العجز والذيل - Sacrum & Coccyx",
+      "section": "Sacrum & Coccyx",
       "items": [
         {
           "id": "sacrum_ap",
-          "name": "عجز أمامي",
+          "name": "Sacrum AP",
           "sub": "Sacrum AP",
-          "cat": "عجز وذيل",
+          "cat": "Sacrum & Coccyx",
           "icon": "🦴",
           "kvp": 80,
           "mas": 35,
@@ -770,14 +770,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "شعاع 15° رأسي لموازاة سطوح العجز. مركز على 2-3 سم تحت الصرة",
-          "positioning": "مستوى العجز موازٍ للفيلم مع شعاع رأسي"
+          "note": "15° cephalad ray to align sacral surfaces. CR 2-3 cm below umbilicus",
+          "positioning": "Sacrum level parallel to film with cephalad ray"
         },
         {
           "id": "sacrum_lat",
-          "name": "عجز جانبي",
+          "name": "Sacrum Lateral",
           "sub": "Sacrum Lateral",
-          "cat": "عجز وذيل",
+          "cat": "Sacrum & Coccyx",
           "icon": "🦴",
           "kvp": 82,
           "mas": 40,
@@ -787,14 +787,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "صعب بسبب تداخل الحوض والفخذين. يحتاج دقة في التموضع",
-          "positioning": "جانبي كامل، مركز على العجز"
+          "note": "Difficult due to pelvis and femur overlap. Requires precise positioning",
+          "positioning": "Full lateral, CR on sacrum"
         },
         {
           "id": "coccyx_ap",
-          "name": "ذيل أمامي",
+          "name": "Coccyx AP",
           "sub": "Coccyx AP",
-          "cat": "عجز وذيل",
+          "cat": "Sacrum & Coccyx",
           "icon": "🦴",
           "kvp": 78,
           "mas": 30,
@@ -804,14 +804,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "شعاع 10-15° ذيلي (عكس العجز). مركز على 3-4 سم خلف الصرة",
-          "positioning": "مستوى الذيل موازٍ للفيلم مع شعاع ذيلي"
+          "note": "10-15° caudal ray (opposite of sacrum). CR 3-4 cm posterior to symphysis pubis",
+          "positioning": "Coccyx level parallel to film with caudal ray"
         },
         {
           "id": "coccyx_lat",
-          "name": "ذيل جانبي",
+          "name": "Coccyx Lateral",
           "sub": "Coccyx Lateral",
-          "cat": "عجز وذيل",
+          "cat": "Sacrum & Coccyx",
           "icon": "🦴",
           "kvp": 80,
           "mas": 35,
@@ -821,20 +821,20 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "مثل العجز الجانبي في الصعوبة",
-          "positioning": "جانبي كامل، مركز على الذيل"
+          "note": "Same difficulty as sacrum lateral",
+          "positioning": "Full lateral, CR on coccyx"
         }
       ]
     },
 
     {
-      "section": "القص - Sternum",
+      "section": "Sternum",
       "items": [
         {
           "id": "sternum_lat",
-          "name": "قص جانبي",
+          "name": "Sternum Lateral",
           "sub": "Sternum Lateral",
-          "cat": "قص",
+          "cat": "Sternum",
           "icon": "🦴",
           "kvp": 78,
           "mas": 15,
@@ -844,14 +844,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "inspiration",
-          "note": "SID 180 سم لتقليل التشويش المكدسي الناتج عن الأنسجة الرخوة. تنفس نهاية شهيق عميق. المريض مائل قليلاً للأمام",
-          "positioning": "مائل أمامي 15-20°، SID 180 سم، مركز على منتصف القص"
+          "note": "SID 180 cm to reduce scatter noise from soft tissues. End of deep inspiration. Patient slightly anterior oblique",
+          "positioning": "15-20° anterior oblique, SID 180 cm, CR on mid-sternum"
         },
         {
           "id": "sternum_rao",
-          "name": "قص أمامي أيمن مائل",
+          "name": "Sternum RAO Oblique",
           "sub": "Sternum RAO Oblique",
-          "cat": "قص",
+          "cat": "Sternum",
           "icon": "🦴",
           "kvp": 72,
           "mas": 12,
@@ -861,14 +861,14 @@
           "grid": false,
           "aec": false,
           "breathing": "inspiration",
-          "note": "بدون Grid لأن القص موازٍ للشعاع. نهاية شهيق. تدوير 15-20°. بدون AEC",
-          "positioning": "RAO 15-20°، القص موازٍ للشعاع"
+          "note": "No grid because sternum is parallel to ray. End inspiration. 15-20° rotation. No AEC",
+          "positioning": "RAO 15-20°, sternum parallel to ray"
         },
         {
           "id": "sternum_lao",
-          "name": "قص أمامي أيسر مائل",
+          "name": "Sternum LAO Oblique",
           "sub": "Sternum LAO Oblique",
-          "cat": "قص",
+          "cat": "Sternum",
           "icon": "🦴",
           "kvp": 72,
           "mas": 12,
@@ -878,20 +878,20 @@
           "grid": false,
           "aec": false,
           "breathing": "inspiration",
-          "note": "بديل لـ RAO. بدون Grid. نفس المبدأ مع تدوير معاكس",
-          "positioning": "LAO 15-20°، القص موازٍ للشعاع"
+          "note": "Alternative to RAO. No grid. Same principle with opposite rotation",
+          "positioning": "LAO 15-20°, sternum parallel to ray"
         }
       ]
     },
 
     {
-      "section": "الأضلاع - Ribs",
+      "section": "Ribs",
       "items": [
         {
           "id": "ribs_upper_pa",
-          "name": "أضلاع علوية خلفية-أمامية",
+          "name": "Upper Ribs PA",
           "sub": "Upper Ribs PA",
-          "cat": "أضلاع",
+          "cat": "Ribs",
           "icon": "🦴",
           "kvp": 78,
           "mas": 18,
@@ -901,14 +901,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "inspiration",
-          "note": "SID 180 سم. نهاية شهيق عميق. مركز على الضلع المصاب",
-          "positioning": "مثل صدر PA مع تصغير الحقل على الأضلاع"
+          "note": "SID 180 cm. End of deep inspiration. CR on affected rib",
+          "positioning": "Like chest PA with collimated field on ribs"
         },
         {
           "id": "ribs_upper_ap",
-          "name": "أضلاع علوية أمامية",
+          "name": "Upper Ribs AP",
           "sub": "Upper Ribs AP",
-          "cat": "أضلاع",
+          "cat": "Ribs",
           "icon": "🦴",
           "kvp": 75,
           "mas": 16,
@@ -918,14 +918,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "inspiration",
-          "note": "للمرضى غير القادرين على الوقوف",
-          "positioning": "استلقاء ظهري مع تصغير الحقل"
+          "note": "For patients unable to stand",
+          "positioning": "Supine with collimated field"
         },
         {
           "id": "ribs_upper_oblique",
-          "name": "أضلاع علوية مائلة",
+          "name": "Upper Ribs Oblique (Anterior)",
           "sub": "Upper Ribs Oblique (Anterior)",
-          "cat": "أضلاع",
+          "cat": "Ribs",
           "icon": "🦴",
           "kvp": 75,
           "mas": 16,
@@ -935,14 +935,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "inspiration",
-          "note": "يُفصل الأضلاع العلوية الأمامية عن بعضها. تدوير 45°",
-          "positioning": "تدوير 45° مع رفع الجانب البعيد"
+          "note": "Separates anterior upper ribs. 45° rotation",
+          "positioning": "45° rotation with far side elevated"
         },
         {
           "id": "ribs_lower_pa",
-          "name": "أضلاع سفلية خلفية-أمامية",
+          "name": "Lower Ribs PA",
           "sub": "Lower Ribs PA",
-          "cat": "أضلاع",
+          "cat": "Ribs",
           "icon": "🦴",
           "kvp": 82,
           "mas": 22,
@@ -952,14 +952,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "expiration",
-          "note": "SID 180 سم. نهاية زفير لتقليل تداخل الحجاب الحاجز. الأضلاع السفلية 8-12",
-          "positioning": "مثل صدر PA مع تصغير الحقل"
+          "note": "SID 180 cm. End expiration to reduce diaphragm overlap. Lower ribs 8-12",
+          "positioning": "Like chest PA with collimated field on ribs"
         },
         {
           "id": "ribs_lower_ap",
-          "name": "أضلاع سفلية أمامية",
+          "name": "Lower Ribs AP",
           "sub": "Lower Ribs AP",
-          "cat": "أضلاع",
+          "cat": "Ribs",
           "icon": "🦴",
           "kvp": 80,
           "mas": 20,
@@ -969,14 +969,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "expiration",
-          "note": "نهاية زفير",
-          "positioning": "استلقاء ظهري"
+          "note": "End expiration",
+          "positioning": "Supine"
         },
         {
           "id": "ribs_lower_oblique",
-          "name": "أضلاع سفلية مائلة",
+          "name": "Lower Ribs Oblique",
           "sub": "Lower Ribs Oblique",
-          "cat": "أضلاع",
+          "cat": "Ribs",
           "icon": "🦴",
           "kvp": 80,
           "mas": 20,
@@ -986,20 +986,20 @@
           "grid": true,
           "aec": "center",
           "breathing": "expiration",
-          "note": "تدوير 45° مع نهاية زفير",
-          "positioning": "تدوير الجسم 45°"
+          "note": "45° rotation with end expiration",
+          "positioning": "Body rotated 45°"
         }
       ]
     },
 
     {
-      "section": "الصدر - Chest",
+      "section": "Chest",
       "items": [
         {
           "id": "chest_pa",
-          "name": "صدر أمامي-خلفي",
+          "name": "Chest PA",
           "sub": "Chest PA",
-          "cat": "صدر",
+          "cat": "Chest",
           "icon": "🫁",
           "kvp": 115,
           "mas": 2.0,
@@ -1009,14 +1009,14 @@
           "grid": true,
           "aec": "full",
           "breathing": "inspiration",
-          "note": "المعيار الذهبي للصدر. SID 180 سم. نهاية شهيق عميق. مركز على T7. الكتفان أماميان واليدين على الوركين",
-          "positioning": "وقوف، يدان على الوركين، كتفان أماميان، مركز على T7"
+          "note": "Gold standard for chest. SID 180 cm. End of deep inspiration. CR on T7. Shoulders anterior, hands on hips",
+          "positioning": "Standing, hands on hips, shoulders forward, CR on T7"
         },
         {
           "id": "chest_ap",
-          "name": "صدر خلفي-أمامي",
+          "name": "Chest AP",
           "sub": "Chest AP",
-          "cat": "صدر",
+          "cat": "Chest",
           "icon": "🫁",
           "kvp": 118,
           "mas": 2.8,
@@ -1026,14 +1026,14 @@
           "grid": true,
           "aec": "full",
           "breathing": "inspiration",
-          "note": "للمرضى غير القادرين على الوقوف. القلب أكبر حجماً بسبب التشوه. mAs أعلى قليلاً من PA",
-          "positioning": "استلقاء ظهري أو جلوس، SID 180 سم إن أمكن"
+          "note": "For patients unable to stand. Heart appears larger due to magnification. Slightly higher mAs than PA",
+          "positioning": "Supine or seated, SID 180 cm if possible"
         },
         {
           "id": "chest_lat",
-          "name": "صدر جانبي",
+          "name": "Chest Lateral",
           "sub": "Chest Lateral",
-          "cat": "صدر",
+          "cat": "Chest",
           "icon": "🦴",
           "kvp": 127,
           "mas": 5.0,
@@ -1043,14 +1043,14 @@
           "grid": true,
           "aec": "full",
           "breathing": "inspiration",
-          "note": "الجانب الأيسر قريب من اللوح عادةً (Left Lateral Decubitus مع النزلة). نهاية شهيق عميق",
-          "positioning": "الذراعان مرفوعان فوق الرأس، مركز على T7"
+          "note": "Left side usually close to film (Left Lateral Decubitus for effusion). End of deep inspiration",
+          "positioning": "Both arms raised above head, CR on T7"
         },
         {
           "id": "chest_lordotic",
-          "name": "صدر أمامي قعري (لوردوتيك)",
+          "name": "Chest AP Lordotic",
           "sub": "Chest AP Lordotic",
-          "cat": "صدر",
+          "cat": "Chest",
           "icon": "🫁",
           "kvp": 120,
           "mas": 3.0,
@@ -1060,14 +1060,14 @@
           "grid": true,
           "aec": "full",
           "breathing": "inspiration",
-          "note": "يُظهر قمّة الرئة والمنطقة تحت الترقوية بوضوح. المريض يرتكز على كتفيه ويميل الرأس للخلف",
-          "positioning": "المريض مائل للخلف 15-20° من الكتفين، البطن على اللوح"
+          "note": "Demonstrates lung apices and supraclavicular region clearly. Patient leans back from shoulders",
+          "positioning": "Patient leaning back 15-20° from shoulders, abdomen on film"
         },
         {
           "id": "chest_decubitus_lat",
-          "name": "صدر استلقائي جانبي",
+          "name": "Chest Lateral Decubitus",
           "sub": "Chest Lateral Decubitus",
-          "cat": "صدر",
+          "cat": "Chest",
           "icon": "🫁",
           "kvp": 120,
           "mas": 3.2,
@@ -1077,14 +1077,14 @@
           "grid": true,
           "aec": "full",
           "breathing": "inspiration",
-          "note": "لكشف الانصباب الجنبي (السائل يتحرك مع الجاذبية). الجانب المصاب للأعلى. شعاع أفقي",
-          "positioning": "استلقاء جانبي، شعاع أفقي"
+          "note": "For detecting pleural effusion (fluid shifts with gravity). Affected side up. Horizontal ray",
+          "positioning": "Lateral decubitus, horizontal ray"
         },
         {
           "id": "chest_decubitus_ap",
-          "name": "صدر استلقائي أمامي",
+          "name": "Chest AP Decubitus",
           "sub": "Chest AP Decubitus",
-          "cat": "صدر",
+          "cat": "Chest",
           "icon": "🫁",
           "kvp": 118,
           "mas": 3.0,
@@ -1094,14 +1094,14 @@
           "grid": true,
           "aec": "full",
           "breathing": "inspiration",
-          "note": "لكشف الهواء الحر تحت الحجاب الحاجز. شعاع أفقي",
-          "positioning": "استلقاء جانبي، شعاع أفقي"
+          "note": "For detecting free air under diaphragm. Horizontal ray",
+          "positioning": "Lateral decubitus, horizontal ray"
         },
         {
           "id": "chest_ap_portable",
-          "name": "صدر أمامي متنقل",
+          "name": "Chest AP Portable (Bedside)",
           "sub": "Chest AP Portable (Bedside)",
-          "cat": "صدر",
+          "cat": "Chest",
           "icon": "🛏️",
           "kvp": 110,
           "mas": 4.0,
@@ -1111,14 +1111,14 @@
           "grid": true,
           "aec": "manual",
           "breathing": "free",
-          "note": "SID 100 سم فقط. لا يمكن التحكم بالتنفس. أعلى mAs لتعويض SID القصير والتنفس الحر. يدوي غالباً",
-          "positioning": "المريض في السرير، اللوح خلف الظهر، SID 100 سم"
+          "note": "SID only 100 cm. No breathing control. Higher mAs to compensate for short SID and free breathing. Usually manual",
+          "positioning": "Patient in bed, film behind back, SID 100 cm"
         },
         {
           "id": "chest_pa_routine",
-          "name": "صدر روتيني (PA + Lat)",
+          "name": "Chest Routine (PA + Lat)",
           "sub": "Chest Routine (PA + Lateral)",
-          "cat": "صدر",
+          "cat": "Chest",
           "icon": "📋",
           "kvp": 121,
           "mas": 3.5,
@@ -1128,20 +1128,20 @@
           "grid": true,
           "aec": "full",
           "breathing": "inspiration",
-          "note": "متوسط القيم بين PA وLateral للإشارة فقط. في الواقع يُصوَّر كل وضعية بقيمها الخاصة",
-          "positioning": "صورتان: PA + Lateral"
+          "note": "Average of PA and Lateral values for reference only. In practice, each view uses its own specific factors",
+          "positioning": "Two images: PA + Lateral"
         }
       ]
     },
 
     {
-      "section": "البطن - Abdomen",
+      "section": "Abdomen",
       "items": [
         {
           "id": "abd_ap",
-          "name": "بطن أمامي-خلفي",
+          "name": "Abdomen AP (KUB)",
           "sub": "Abdomen AP (KUB)",
-          "cat": "بطن",
+          "cat": "Abdomen",
           "icon": "🫃",
           "kvp": 75,
           "mas": 40,
@@ -1151,14 +1151,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "تنفس محبس في نهاية الزفير. قد يحتاج تعريض قصير (0.3-0.5 ث) لتقليل حركة الأمعاء. يشمل الحوض العلوي عادةً",
-          "positioning": "استلقاء ظهري، مركز على Iliac Crest، حقل من القفص الصدري إلى عظم العانة"
+          "note": "Suspended respiration at end expiration. May need short exposure (0.3-0.5 s) to reduce bowel motion. Usually includes upper pelvis",
+          "positioning": "Supine, CR on iliac crest, field from thoracic cage to pubic symphysis"
         },
         {
           "id": "abd_erect",
-          "name": "بطن وقوف",
+          "name": "Abdomen Erect AP",
           "sub": "Abdomen Erect AP",
-          "cat": "بطن",
+          "cat": "Abdomen",
           "icon": "🧍",
           "kvp": 80,
           "mas": 45,
@@ -1168,14 +1168,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "أساسي لكشف الهواء الحر تحت الحجاب الحاجز والمستوى السائل المعوي. يجب انتظار 5-10 دقائق وقوف قبل التصوير",
-          "positioning": "وقوف، مركز على Iliac Crest"
+          "note": "Essential for detecting free air under diaphragm and air-fluid levels. Wait 5-10 minutes standing before imaging",
+          "positioning": "Standing, CR on iliac crest"
         },
         {
           "id": "abd_lat_decubitus",
-          "name": "بطن استلقائي جانبي",
+          "name": "Abdomen Lateral Decubitus",
           "sub": "Abdomen Lateral Decubitus",
-          "cat": "بطن",
+          "cat": "Abdomen",
           "icon": "🫃",
           "kvp": 78,
           "mas": 42,
@@ -1185,14 +1185,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "بديل لوقوف البطن عندما لا يستطيع المريض الوقوف. الجانب الأيمن عادةً للأسفل. شعاع أفقي",
-          "positioning": "استلقاء جانبي، شعاع أفقي"
+          "note": "Alternative to erect abdomen when patient cannot stand. Right side usually down. Horizontal ray",
+          "positioning": "Lateral decubitus, horizontal ray"
         },
         {
           "id": "kub",
-          "name": "كلى ومثانة وحوض",
+          "name": "KUB (Kidneys, Ureters, Bladder)",
           "sub": "KUB (Kidneys, Ureters, Bladder)",
-          "cat": "بطن",
+          "cat": "Abdomen",
           "icon": "🫘",
           "kvp": 75,
           "mas": 40,
@@ -1202,14 +1202,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "مثل بطن AP لكن التركيز على المسالك البولية. بدون تحضير معوي مسبق في معظم الحالات",
-          "positioning": "مثل بطن AP"
+          "note": "Same as abdomen AP but focused on urinary tract. No bowel prep in most cases",
+          "positioning": "Same as abdomen AP"
         },
         {
           "id": "abd_oblique",
-          "name": "بطن مائل",
+          "name": "Abdomen Oblique",
           "sub": "Abdomen Oblique",
-          "cat": "بطن",
+          "cat": "Abdomen",
           "icon": "🫃",
           "kvp": 78,
           "mas": 42,
@@ -1219,20 +1219,20 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُفصل الكلى عن العمود الفقري. تصوير كلا الجانبين",
-          "positioning": "تدوير 30-45°"
+          "note": "Separates kidneys from spine. Both sides imaged",
+          "positioning": "30-45° rotation"
         }
       ]
     },
 
     {
-      "section": "الحوض - Pelvis",
+      "section": "Pelvis",
       "items": [
         {
           "id": "pelvis_ap",
-          "name": "حوض أمامي-خلفي",
+          "name": "Pelvis AP",
           "sub": "Pelvis AP",
-          "cat": "حوض",
+          "cat": "Pelvis",
           "icon": "🦴",
           "kvp": 80,
           "mas": 35,
@@ -1242,14 +1242,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "القدمان مقلوبان للداخل 15-20° لإظهار محاور العنق الفخذية. مركز على symphysis pubis",
-          "positioning": "استلقاء ظهري، قدمان مقلوبان للداخل 15-20°"
+          "note": "Feet inverted 15-20° to show femoral neck axes. CR on symphysis pubis",
+          "positioning": "Supine, feet inverted 15-20°"
         },
         {
           "id": "pelvis_inlet",
-          "name": "حوض مدخل",
+          "name": "Pelvis Inlet (Brim View)",
           "sub": "Pelvis Inlet (Brim View)",
-          "cat": "حوض",
+          "cat": "Pelvis",
           "icon": "🦴",
           "kvp": 78,
           "mas": 30,
@@ -1259,14 +1259,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر مدخل الحوض وأبعاده. شعاع 40° ذيلي",
-          "positioning": "شعاع 40° ذيلي من فوق الصرة"
+          "note": "Shows pelvic inlet and its dimensions. 40° caudal ray",
+          "positioning": "40° caudal ray from above symphysis"
         },
         {
           "id": "pelvis_outlet",
-          "name": "حوض مخرج",
+          "name": "Pelvis Outlet",
           "sub": "Pelvis Outlet",
-          "cat": "حوض",
+          "cat": "Pelvis",
           "icon": "🦴",
           "kvp": 78,
           "mas": 30,
@@ -1276,14 +1276,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر مخرج الحوض. شعاع 35° رأسي من تحت العانة",
-          "positioning": "شعاع 35° رأسي من تحت"
+          "note": "Shows pelvic outlet. 35° cephalad ray from below pubis",
+          "positioning": "35° cephalad ray from below"
         },
         {
           "id": "pelvis_judet_r",
-          "name": "حوض جوديه أيمن",
+          "name": "Pelvis Right Judet Oblique",
           "sub": "Pelvis Right Judet Oblique",
-          "cat": "حوض",
+          "cat": "Pelvis",
           "icon": "🦴",
           "kvp": 82,
           "mas": 32,
@@ -1293,14 +1293,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر عمود الحوض الخلفي الأيمن (جناح الحرقف والورك). تدوير 45°",
-          "positioning": "تدوير الجسم 45° لليمين"
+          "note": "Shows right posterior pelvic column (iliac wing and acetabulum). 45° rotation",
+          "positioning": "Body rotated 45° to the right"
         },
         {
           "id": "pelvis_judet_l",
-          "name": "حوض جوديه أيسر",
+          "name": "Pelvis Left Judet Oblique",
           "sub": "Pelvis Left Judet Oblique",
-          "cat": "حوض",
+          "cat": "Pelvis",
           "icon": "🦴",
           "kvp": 82,
           "mas": 32,
@@ -1310,14 +1310,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر عمود الحوض الخلفي الأيسر. تدوير 45°",
-          "positioning": "تدوير الجسم 45° لليسار"
+          "note": "Shows left posterior pelvic column. 45° rotation",
+          "positioning": "Body rotated 45° to the left"
         },
         {
           "id": "si_joint_ap",
-          "name": "مفاصل عجزية حرقفية أمامية",
+          "name": "SI Joints AP",
           "sub": "SI Joints AP",
-          "cat": "حوض",
+          "cat": "Pelvis",
           "icon": "🦴",
           "kvp": 80,
           "mas": 32,
@@ -1327,14 +1327,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر المفاصل العجزية الحرقفية بشكل عام. شعاع وسطي 15-20°",
-          "positioning": "مثل حوض AP مع تصغير الحقل على SI Joints"
+          "note": "Shows sacroiliac joints in general. 15-20° central ray",
+          "positioning": "Like pelvis AP with collimated field on SI joints"
         },
         {
           "id": "si_joint_oblique_r",
-          "name": "مفصل عجزي حرقفي أيمن مائل",
+          "name": "Right SI Joint Oblique",
           "sub": "Right SI Joint Oblique",
-          "cat": "حوض",
+          "cat": "Pelvis",
           "icon": "🦴",
           "kvp": 78,
           "mas": 28,
@@ -1344,14 +1344,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر المفصل الأيمن بوضوح. تدوير 25-30°. الجانب المصاب قريب من اللوح",
-          "positioning": "تدوير 25-30° لليمين (المفصل الأيمن على اللوح)"
+          "note": "Clearly shows right SI joint. 25-30° rotation. Affected side close to film",
+          "positioning": "25-30° rotation to the right (right joint on film)"
         },
         {
           "id": "si_joint_oblique_l",
-          "name": "مفصل عجزي حرقفي أيسر مائل",
+          "name": "Left SI Joint Oblique",
           "sub": "Left SI Joint Oblique",
-          "cat": "حوض",
+          "cat": "Pelvis",
           "icon": "🦴",
           "kvp": 78,
           "mas": 28,
@@ -1361,20 +1361,20 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر المفصل الأيسر بوضوح. تدوير 25-30°",
-          "positioning": "تدوير 25-30° لليسار (المفصل الأيسر على اللوح)"
+          "note": "Clearly shows left SI joint. 25-30° rotation",
+          "positioning": "25-30° rotation to the left (left joint on film)"
         }
       ]
     },
 
     {
-      "section": "الورك - Hip",
+      "section": "Hip",
       "items": [
         {
           "id": "hip_ap",
-          "name": "ورك أمامي",
+          "name": "Hip AP",
           "sub": "Hip AP",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦴",
           "kvp": 78,
           "mas": 28,
@@ -1384,14 +1384,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "القدم مقلوبة للداخل 15-20° لإظهار العنق الفخذي بالكامل. مركز 2.5 سم أسفل وأسفل من النقرة المدورة",
-          "positioning": "استلقاء، قدم مقلوبة للداخل 15-20°"
+          "note": "Foot inverted 15-20° to show full femoral neck. CR 2.5 cm inferior and medial to greater trochanter",
+          "positioning": "Supine, foot inverted 15-20°"
         },
         {
           "id": "hip_lat_frog",
-          "name": "ورك جانبي (ضفدع)",
+          "name": "Hip Lateral (Frog-leg)",
           "sub": "Hip Lateral (Frog-leg / Modified Cleaves)",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🐸",
           "kvp": 80,
           "mas": 22,
@@ -1401,14 +1401,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "الركبتان مثنيتان والقدمان متقابلان. يُظهر العنق الفخذي بشكل جيد إذا كان المريض قادراً على الحركة",
-          "positioning": "ركبتان مثنيتان، قدمان متقابلتان، مركز على الورك"
+          "note": "Knees flexed with soles together. Shows femoral neck well if patient can move",
+          "positioning": "Knees flexed, soles together, CR on hip"
         },
         {
           "id": "hip_lat_danelius",
-          "name": "ورك جانبي (دانيليوس-ميلر)",
+          "name": "Hip Lateral (Danelius-Miller)",
           "sub": "Hip Lateral (Danelius-Miller)",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦴",
           "kvp": 82,
           "mas": 25,
@@ -1418,14 +1418,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "بديل لـ Frog-leg عندما لا يستطيع المريض ثني الركبة. الساق المصابة مستقيمة والأخرى مرفوعة",
-          "positioning": "الساق المصابة مستقيمة، الأخرى مرفوعة ومثنية"
+          "note": "Alternative to Frog-leg when patient cannot flex knee. Affected leg straight, other raised",
+          "positioning": "Affected leg straight, other raised and flexed"
         },
         {
           "id": "hip_lat_crosstable",
-          "name": "ورك جانبي (شعاع أفقي)",
+          "name": "Hip Lateral Cross-table",
           "sub": "Hip Lateral Cross-table",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦴",
           "kvp": 85,
           "mas": 30,
@@ -1435,14 +1435,14 @@
           "grid": true,
           "aec": "manual",
           "breathing": "suspended",
-          "note": "الوضعية الأفضل للورك المصاب (لا حركة). شعاع أفقي. اللوح عمودي بجانب الورك. يدوي",
-          "positioning": "استلقاء ظهري، اللوح بجانب الورك، شعاع أفقي"
+          "note": "Best for injured hip (no movement). Horizontal ray. Film vertical beside hip. Manual technique",
+          "positioning": "Supine, film beside hip, horizontal ray"
         },
         {
           "id": "hip_oblique",
-          "name": "ورك مائل",
+          "name": "Hip Oblique",
           "sub": "Hip Oblique",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦴",
           "kvp": 80,
           "mas": 26,
@@ -1452,20 +1452,20 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُفصل العنق الفخذي عن الفرع الحرقفي",
-          "positioning": "تدوير 45° من الجانب المصاب"
+          "note": "Separates femoral neck from iliac branch",
+          "positioning": "45° rotation from affected side"
         }
       ]
     },
 
     {
-      "section": "الكتف - Shoulder",
+      "section": "Shoulder",
       "items": [
         {
           "id": "shoulder_ap_int_rot",
-          "name": "كتف أمامي (دوران داخلي)",
+          "name": "Shoulder AP Internal Rotation",
           "sub": "Shoulder AP Internal Rotation",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "💪",
           "kvp": 72,
           "mas": 10,
@@ -1475,14 +1475,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "راحة اليد على البطن. يُظهر الرأس الكبير والأنبوب الجراحي بوضوح",
-          "positioning": "استلقاء ظهري، يد خلف البطن (دوران داخلي)"
+          "note": "Palm of hand on abdomen. Clearly shows greater tubercle and surgical neck",
+          "positioning": "Supine, hand behind abdomen (internal rotation)"
         },
         {
           "id": "shoulder_ap_ext_rot",
-          "name": "كتف أمامي (دوران خارجي)",
+          "name": "Shoulder AP External Rotation",
           "sub": "Shoulder AP External Rotation",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "💪",
           "kvp": 72,
           "mas": 10,
@@ -1492,14 +1492,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "الكف للخارج. يُظهر الرأس الصغير والمنقطعة الكبرى. عادةً يُصوَّر مع الدوران الداخلي",
-          "positioning": "استلقاء ظهري، كف للخارج (دوران خارجي)"
+          "note": "Palm outward. Shows lesser tubercle and greater tuberosity. Usually imaged with internal rotation",
+          "positioning": "Supine, palm outward (external rotation)"
         },
         {
           "id": "shoulder_ap_neutral",
-          "name": "كتف أمامي (محايد)",
+          "name": "Shoulder AP Neutral Rotation",
           "sub": "Shoulder AP Neutral Rotation",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "💪",
           "kvp": 72,
           "mas": 10,
@@ -1509,14 +1509,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "الذراع بجانب الجسم محايد. يُظهر العظم العضدي بشكل متوسط",
-          "positioning": "استلقاء، الذراع بجانب الجسم"
+          "note": "Arm at side in neutral. Shows humerus in intermediate position",
+          "positioning": "Supine, arm at side"
         },
         {
           "id": "shoulder_axillary",
-          "name": "كتف إبطي أمامي",
+          "name": "Shoulder AP Axillary (Lawrence)",
           "sub": "Shoulder AP Axillary (Lawrence Method)",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "💪",
           "kvp": 72,
           "mas": 10,
@@ -1526,14 +1526,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر العلاقة بين الرأس الكبير والتجويف الحقاني. الشعاع يمر عبر الإبط. أبسط طريقة محورية",
-          "positioning": "ذراع مرفوعة قليلاً، شعاع من الإبط للأعلى"
+          "note": "Shows relationship of greater tubercle to glenoid cavity. Ray passes through axilla. Simplest axial method",
+          "positioning": "Arm slightly elevated, ray from axilla upward"
         },
         {
           "id": "shoulder_inferior_axillary",
-          "name": "كتف محوري سفلي (فيلاسونوف)",
+          "name": "Shoulder Inferior Axillary (Velpeau)",
           "sub": "Shoulder Inferior Axillary (Velpeau)",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "💪",
           "kvp": 72,
           "mas": 12,
@@ -1543,14 +1543,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "بديل عند عدم القدرة على رفع الذراع. المريض يميل للخلف 30° على اللوح، شعاع من أعلى الكتف للأسفل",
-          "positioning": "المريض مائل 30° للخلف، شعاع عمودي"
+          "note": "Alternative when arm cannot be raised. Patient leans back 30° on film, ray from above shoulder downward",
+          "positioning": "Patient leaning 30° backward, vertical ray"
         },
         {
           "id": "shoulder_scapular_y",
-          "name": "كتف لوح كتف Y",
+          "name": "Shoulder Scapular Y Lateral",
           "sub": "Shoulder Scapular Y Lateral",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦴",
           "kvp": 75,
           "mas": 12,
@@ -1560,14 +1560,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر موقع الرأس الكبير بالنسبة للتجويف الحقاني. شكل Y من لوح الكتف والترقوة والعضد",
-          "positioning": "تدوير 45° بحيث لوح الكتف موازٍ للشعاع"
+          "note": "Shows position of greater tubercle relative to glenoid cavity. Y-shape from scapula, clavicle, and humerus",
+          "positioning": "45° rotation with scapula parallel to ray"
         },
         {
           "id": "shoulder_stryker",
-          "name": "كتف سترايكر (نوتش)",
+          "name": "Shoulder Stryker Notch View",
           "sub": "Shoulder Stryker Notch View",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🔍",
           "kvp": 70,
           "mas": 8,
@@ -1577,20 +1577,20 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر إصابات النوتش (Hill-Sachs). كف على الرأس، شعاع 10° رأسي",
-          "positioning": "كف اليد على الرأس، شعاع 10° رأسي"
+          "note": "Demonstrates Hill-Sachs lesions. Palm on head, 10° cephalad ray",
+          "positioning": "Palm of hand on head, 10° cephalad ray"
         }
       ]
     },
 
     {
-      "section": "الترقوة - Clavicle",
+      "section": "Clavicle",
       "items": [
         {
           "id": "clavicle_ap",
-          "name": "ترقوة أمامية",
+          "name": "Clavicle AP",
           "sub": "Clavicle AP",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦴",
           "kvp": 65,
           "mas": 6,
@@ -1600,14 +1600,14 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "بدون Grid غالباً. شعاع 15° رأسي لفصل الترقوة عن العمود الفقري الصدري",
-          "positioning": "استلقاء أو جلوس، شعاع 15° رأسي"
+          "note": "No grid usually. 15° cephalad ray to separate clavicle from thoracic spine",
+          "positioning": "Supine or seated, 15° cephalad ray"
         },
         {
           "id": "clavicle_pa",
-          "name": "ترقوة خلفية-أمامية",
+          "name": "Clavicle PA",
           "sub": "Clavicle PA",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦴",
           "kvp": 65,
           "mas": 5,
@@ -1617,14 +1617,14 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "أفضل من AP للتفاصيل لأن الترقوة أقرب للفيلم. بدون Grid",
-          "positioning": "المريض على بطنه"
+          "note": "Better than AP for detail since clavicle is closer to film. No grid",
+          "positioning": "Patient prone"
         },
         {
           "id": "clavicle_inclined",
-          "name": "ترقوة مائلة (15° رأسي)",
+          "name": "Clavicle AP 15° Cephalad",
           "sub": "Clavicle AP 15° Cephalad",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦴",
           "kvp": 65,
           "mas": 6,
@@ -1634,20 +1634,20 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "أفضل وضعية لفصل الترقوة عن الأضلاع والعمود الفقري",
-          "positioning": "شعاع 15° رأسي من تحت إلى أعلى"
+          "note": "Best position to separate clavicle from ribs and spine",
+          "positioning": "15° cephalad ray from below upward"
         }
       ]
     },
 
     {
-      "section": "المفصل الصدغي الترقوي - AC Joint",
+      "section": "AC Joint",
       "items": [
         {
           "id": "ac_joint_ap_unweighted",
-          "name": "مفصل صدغي ترقوي بدون أثقال",
+          "name": "AC Joint AP Unweighted",
           "sub": "AC Joint AP Unweighted",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦴",
           "kvp": 65,
           "mas": 5,
@@ -1657,14 +1657,14 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "بدون Grid. بدون أثقال. يُصوَّر أولاً بدون أثقال ثم مع أثقال للمقارنة",
-          "positioning": "وقوف، مركز على المفاصل الصدغية الترقوية"
+          "note": "No grid. No weights. First imaged without weights then with weights for comparison",
+          "positioning": "Standing, CR on acromioclavicular joints"
         },
         {
           "id": "ac_joint_ap_weighted",
-          "name": "مفصل صدغي ترقوي مع أثقال",
+          "name": "AC Joint AP Weighted",
           "sub": "AC Joint AP Weighted",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🏋️",
           "kvp": 65,
           "mas": 5,
@@ -1674,20 +1674,20 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "أثقال 5-10 كجم في كل يد. يكشف التمزق الجزئي للمفصل",
-          "positioning": "مثل AP بدون أثقال لكن مع حمل الأثقال"
+          "note": "5-10 kg weights in each hand. Detects partial AC joint separation",
+          "positioning": "Same as AP unweighted but holding weights"
         }
       ]
     },
 
     {
-      "section": "لوح الكتف - Scapula",
+      "section": "Scapula",
       "items": [
         {
           "id": "scapula_ap",
-          "name": "لوح كتف أمامي",
+          "name": "Scapula AP",
           "sub": "Scapula AP",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦴",
           "kvp": 72,
           "mas": 10,
@@ -1697,14 +1697,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "الذراع تُدور للخارج قليلاً لفصل لوح الكتف عن الأضلاع",
-          "positioning": "استلقاء، يد ممدودة للأمام قليلاً"
+          "note": "Arm rotated slightly outward to separate scapula from ribs",
+          "positioning": "Supine, arm extended slightly forward"
         },
         {
           "id": "scapula_lat_y",
-          "name": "لوح كتف جانبي Y",
+          "name": "Scapula Lateral Y",
           "sub": "Scapula Lateral Y",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦴",
           "kvp": 75,
           "mas": 12,
@@ -1714,20 +1714,20 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "لوح الكتف موازٍ للشعاع (تدوير 45°). يُظهر الحافة Spine والزاوية",
-          "positioning": "تدوير 45°، لوح الكتف موازٍ للشعاع"
+          "note": "Scapula parallel to ray (45° rotation). Shows spine, angle, and border",
+          "positioning": "45° rotation, scapula parallel to ray"
         }
       ]
     },
 
     {
-      "section": "العضد - Humerus",
+      "section": "Humerus",
       "items": [
         {
           "id": "humerus_ap",
-          "name": "عضد أمامي",
+          "name": "Humerus AP",
           "sub": "Humerus AP",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦾",
           "kvp": 62,
           "mas": 6,
@@ -1737,14 +1737,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يشمل الكتف والمرفق إن أمكن. دوران خارجي للكتف",
-          "positioning": "استلقاء، يد ممدودة، دوران خارجي"
+          "note": "Include shoulder and elbow if possible. External rotation of shoulder",
+          "positioning": "Supine, arm extended, external rotation"
         },
         {
           "id": "humerus_lat",
-          "name": "عضد جانبي",
+          "name": "Humerus Lateral",
           "sub": "Humerus Lateral",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦾",
           "kvp": 60,
           "mas": 5,
@@ -1754,14 +1754,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "المرفق مثني 90°، الجانب الجانبي على اللوح",
-          "positioning": "مرفق مثني 90°، وضع جانبي"
+          "note": "Elbow flexed 90°, lateral side on film",
+          "positioning": "Elbow flexed 90°, lateral position"
         },
         {
           "id": "humerus_oblique",
-          "name": "عضد مائل",
+          "name": "Humerus Oblique",
           "sub": "Humerus Oblique",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦾",
           "kvp": 60,
           "mas": 5,
@@ -1771,20 +1771,20 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُفصل الكسر عن الأنسجة المحيطة",
-          "positioning": "تدوير 45°"
+          "note": "Separates fracture from surrounding tissues",
+          "positioning": "45° rotation"
         }
       ]
     },
 
     {
-      "section": "المرفق - Elbow",
+      "section": "Elbow",
       "items": [
         {
           "id": "elbow_ap",
-          "name": "مرفق أمامي",
+          "name": "Elbow AP",
           "sub": "Elbow AP",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦴",
           "kvp": 58,
           "mas": 4,
@@ -1794,14 +1794,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. الذراع ممدود بالكامل. مركز على المفصل. يشمل جزء من الساعد والعضد",
-          "positioning": "ذراع ممدود، كف للأعلى"
+          "note": "No grid. Arm fully extended. CR on joint. Include part of forearm and humerus",
+          "positioning": "Arm extended, palm up"
         },
         {
           "id": "elbow_lat",
-          "name": "مرفق جانبي",
+          "name": "Elbow Lateral",
           "sub": "Elbow Lateral",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦴",
           "kvp": 58,
           "mas": 4,
@@ -1811,14 +1811,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. المرفق مثني 90°. كف أمامية. يجب أن تظهر الثلثة البُعدية للكعبرة خلف اللقمة",
-          "positioning": "مرفق 90°، كف أمامية"
+          "note": "No grid. Elbow flexed 90°. Palm anterior. Lateral third of radial head should appear posterior to capitellum",
+          "positioning": "Elbow 90°, palm anterior"
         },
         {
           "id": "elbow_oblique_medial",
-          "name": "مرفق مائل إنسي",
+          "name": "Elbow Medial Oblique",
           "sub": "Elbow Medial Oblique",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦴",
           "kvp": 58,
           "mas": 4,
@@ -1828,14 +1828,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. يُظهر اللقمة الإنسية والحو delight الباطن. تدوير 45° للداخل",
-          "positioning": "تدوير 45° إنسي"
+          "note": "No grid. Shows medial epicondyle and coronoid process. 45° internal rotation",
+          "positioning": "45° medial rotation"
         },
         {
           "id": "elbow_oblique_lateral",
-          "name": "مرفق مائل وحشي",
+          "name": "Elbow Lateral Oblique",
           "sub": "Elbow Lateral Oblique",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🦴",
           "kvp": 58,
           "mas": 4,
@@ -1845,20 +1845,20 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. يُظهر الرأس الكعبري واللقمة الوحشية. تدوير 45° للخارج",
-          "positioning": "تدوير 45° وحشي"
+          "note": "No grid. Shows radial head and lateral epicondyle. 45° external rotation",
+          "positioning": "45° lateral rotation"
         }
       ]
     },
 
     {
-      "section": "الساعد - Forearm",
+      "section": "Forearm",
       "items": [
         {
           "id": "forearm_ap",
-          "name": "ساعد أمامي",
+          "name": "Forearm AP",
           "sub": "Forearm AP",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🤲",
           "kvp": 55,
           "mas": 3,
@@ -1868,14 +1868,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. يشمل الكعبرة والزند والمرفق والرسغ. كف للأعلى",
-          "positioning": "ذراع ممدود، كف للأعلى"
+          "note": "No grid. Includes radius, ulna, elbow, and wrist. Palm up",
+          "positioning": "Arm extended, palm up"
         },
         {
           "id": "forearm_lat",
-          "name": "ساعد جانبي",
+          "name": "Forearm Lateral",
           "sub": "Forearm Lateral",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🤲",
           "kvp": 55,
           "mas": 3,
@@ -1885,20 +1885,20 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. المرفق مثني 90°، كف أمامية. كعب اليد على اللوح",
-          "positioning": "مرفق 90°، وضع جانبي"
+          "note": "No grid. Elbow flexed 90°, palm anterior. Heel of hand on film",
+          "positioning": "Elbow 90°, lateral position"
         }
       ]
     },
 
     {
-      "section": "الرسغ - Wrist",
+      "section": "Wrist",
       "items": [
         {
           "id": "wrist_pa",
-          "name": "رسغ خلفي-أمامي",
+          "name": "Wrist PA",
           "sub": "Wrist PA",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🤝",
           "kvp": 52,
           "mas": 2.0,
@@ -1908,14 +1908,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. أفضل وضعية للتفاصيل الدقيقة (العظام الرمشية). اليد مستوية، المفصل الرسغي في المركز. مسافة 10 سم من نهاية الأصابع",
-          "positioning": "كف للأسفل على اللوح، مركز على المفصل الرسغي"
+          "note": "No grid. Best position for fine detail (carpal bones). Hand flat, wrist joint centered. 10 cm from fingertip",
+          "positioning": "Palm down on film, CR on wrist joint"
         },
         {
           "id": "wrist_lat",
-          "name": "رسغ جانبي",
+          "name": "Wrist Lateral",
           "sub": "Wrist Lateral",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🤝",
           "kvp": 52,
           "mas": 2.0,
@@ -1925,14 +1925,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. الكف في وضع محايد (0°). يُظهر العظم السنعي القارزي",
-          "positioning": "وضع جانبي، كف محايد"
+          "note": "No grid. Wrist in neutral position (0°). Shows scaphoid-capitate",
+          "positioning": "Lateral position, wrist neutral"
         },
         {
           "id": "wrist_oblique_medial",
-          "name": "رسغ مائل إنسي",
+          "name": "Wrist Medial Oblique",
           "sub": "Wrist Medial Oblique",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🤝",
           "kvp": 52,
           "mas": 2.0,
@@ -1942,14 +1942,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. تدوير 45° إنسي. يُفصل العظام الرمشية الجانبية",
-          "positioning": "تدوير 45° للإنسي"
+          "note": "No grid. 45° medial rotation. Separates lateral carpal bones",
+          "positioning": "45° medial rotation"
         },
         {
           "id": "wrist_oblique_lateral",
-          "name": "رسغ مائل وحشي",
+          "name": "Wrist Lateral Oblique",
           "sub": "Wrist Lateral Oblique",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🤝",
           "kvp": 52,
           "mas": 2.0,
@@ -1959,14 +1959,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. تدوير 45° وحشي",
-          "positioning": "تدوير 45° للوحشي"
+          "note": "No grid. 45° lateral rotation",
+          "positioning": "45° lateral rotation"
         },
         {
           "id": "wrist_scaphoid",
-          "name": "رسغ عظم زورقي (انحراف زندي)",
+          "name": "Wrist Scaphoid View (Ulnar Deviation PA)",
           "sub": "Wrist Scaphoid View (Ulnar Deviation PA)",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🔍",
           "kvp": 52,
           "mas": 2.5,
@@ -1976,14 +1976,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. انحراف زندي (Ulnar Deviation) لتمديد العظم الزورقي وإظهاره بوضوح. مطلوب دائماً عند اشتباه كسر زورقي",
-          "positioning": "PA مع انحراف زندي أقصى، حقل مصغر على الزورقي"
+          "note": "No grid. Ulnar deviation extends and clearly shows scaphoid. Always required when scaphoid fracture is suspected",
+          "positioning": "PA with maximal ulnar deviation, collimated field on scaphoid"
         },
         {
           "id": "wrist_carpal_tunnel",
-          "name": "رسغ نفق رسغي (محوري)",
+          "name": "Wrist Carpal Tunnel (Axial / Gaynor-Hart)",
           "sub": "Wrist Carpal Tunnel (Axial / Gaynor-Hart)",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🔍",
           "kvp": 55,
           "mas": 3.0,
@@ -1993,20 +1993,20 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. شعاع 25-30° رأسي من بعيد عن المعصم. يُظهر القوس الرسغي",
-          "positioning": "المعصم ممدود، شعاع 25-30° رأسي"
+          "note": "No grid. 25-30° cephalad ray from distal end. Shows carpal arch",
+          "positioning": "Wrist extended, 25-30° cephalad ray"
         }
       ]
     },
 
     {
-      "section": "اليد - Hand",
+      "section": "Hand",
       "items": [
         {
           "id": "hand_pa",
-          "name": "يد خلفية-أمامية",
+          "name": "Hand PA",
           "sub": "Hand PA",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "✋",
           "kvp": 50,
           "mas": 1.6,
@@ -2016,14 +2016,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. أفضل وضعية للتفاصيل الدقيقة. أصابع مفرودة قليلاً. مركز على رأس العظم الثالث السنعي",
-          "positioning": "كف للأسفل على اللوح، أصابع مفرودة قليلاً"
+          "note": "No grid. Best position for fine detail. Fingers slightly spread. CR on 3rd metacarpal head",
+          "positioning": "Palm down on film, fingers slightly spread"
         },
         {
           "id": "hand_lat",
-          "name": "يد جانبية",
+          "name": "Hand Lateral",
           "sub": "Hand Lateral",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "✋",
           "kvp": 50,
           "mas": 1.6,
@@ -2033,14 +2033,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. الجانب الوحشي على اللوح",
-          "positioning": "وضع جانبي"
+          "note": "No grid. Lateral side on film",
+          "positioning": "Lateral position"
         },
         {
           "id": "hand_oblique",
-          "name": "يد مائلة",
+          "name": "Hand Oblique",
           "sub": "Hand Oblique (Lateral Medial Rotation)",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "✋",
           "kvp": 50,
           "mas": 1.6,
@@ -2050,14 +2050,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. تدوير 45°. يُفصل العظام الرمشية والمفاصل بين السلاميات",
-          "positioning": "تدوير 45°"
+          "note": "No grid. 45° rotation. Separates carpal bones and interphalangeal joints",
+          "positioning": "45° rotation"
         },
         {
           "id": "hand_norgaard",
-          "name": "يد نورجارد (قاعص صائد كرات)",
+          "name": "Hand Norgaard (Ball-Catcher's View)",
           "sub": "Hand Norgaard (Ball-Catcher's View)",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "🧤",
           "kvp": 50,
           "mas": 2.0,
@@ -2067,14 +2067,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. يُظهر الرؤوس السنعية للكشف المبكر عن التهاب المفاصل الروماتويدي. وضعية صائد الكرات",
-          "positioning": "كف للأسفل مع ثني الأصابع كما في الإمساك بالكرة"
+          "note": "No grid. Shows metacarpal heads for early rheumatoid arthritis detection. Ball-catcher position",
+          "positioning": "Palm down with fingers flexed as if catching a ball"
         },
         {
           "id": "thumb_pa",
-          "name": "إبهام أمامي",
+          "name": "Thumb AP (Robert's Method)",
           "sub": "Thumb AP (Robert's Method)",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "👍",
           "kvp": 52,
           "mas": 1.6,
@@ -2084,14 +2084,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. الإبهام ممدود مع دوران داخلي لليد",
-          "positioning": "إبهام ممدود، يد ممدودة مع دوران داخلي"
+          "note": "No grid. Thumb extended with internal hand rotation",
+          "positioning": "Thumb extended, hand internally rotated"
         },
         {
           "id": "thumb_lat",
-          "name": "إبهام جانبي",
+          "name": "Thumb Lateral",
           "sub": "Thumb Lateral",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "👍",
           "kvp": 52,
           "mas": 1.6,
@@ -2101,14 +2101,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. كف الإبهام على اللوح",
-          "positioning": "وضع جانبي للإبهام"
+          "note": "No grid. Thumb palm on film",
+          "positioning": "Lateral position for thumb"
         },
         {
           "id": "finger_ap",
-          "name": "إصبع أمامي",
+          "name": "Finger AP",
           "sub": "Finger AP",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "👆",
           "kvp": 48,
           "mas": 1.2,
@@ -2118,14 +2118,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. حقل مصغر جداً على الإصبع المصاب. أصابع الأخرى مفرودة بعيداً",
-          "positioning": "إصبع ممدود على اللوح، حقل مصغر"
+          "note": "No grid. Very tight collimation on affected finger. Other fingers extended away",
+          "positioning": "Finger extended on film, collimated field"
         },
         {
           "id": "finger_lat",
-          "name": "إصبع جانبي",
+          "name": "Finger Lateral",
           "sub": "Finger Lateral",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "👆",
           "kvp": 48,
           "mas": 1.2,
@@ -2135,14 +2135,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. حقل مصغر. الإصبع المجاور مفرود كدعم",
-          "positioning": "وضع جانبي للإصبع"
+          "note": "No grid. Collimated field. Adjacent finger extended as support",
+          "positioning": "Lateral position for finger"
         },
         {
           "id": "finger_oblique",
-          "name": "إصبع مائل",
+          "name": "Finger Oblique",
           "sub": "Finger Oblique",
-          "cat": "طرف علوي",
+          "cat": "Upper Extremity",
           "icon": "👆",
           "kvp": 48,
           "mas": 1.2,
@@ -2152,20 +2152,20 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. حقل مصغر. تدوير 45°",
-          "positioning": "تدوير 45°"
+          "note": "No grid. Collimated field. 45° rotation",
+          "positioning": "45° rotation"
         }
       ]
     },
 
     {
-      "section": "الفخذ - Femur",
+      "section": "Femur",
       "items": [
         {
           "id": "femur_ap",
-          "name": "فخذ أمامي",
+          "name": "Femur AP",
           "sub": "Femur AP",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦵",
           "kvp": 72,
           "mas": 16,
@@ -2175,14 +2175,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يشمل الورك والركبة إن أمكن. القدم في وضع محايد",
-          "positioning": "استلقاء ظهري، مركز على منتصف الفخذ"
+          "note": "Include hip and knee if possible. Foot in neutral position",
+          "positioning": "Supine, CR on mid-femur"
         },
         {
           "id": "femur_lat",
-          "name": "فخذ جانبي",
+          "name": "Femur Lateral",
           "sub": "Femur Lateral",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦵",
           "kvp": 70,
           "mas": 14,
@@ -2192,14 +2192,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "الساق السفلية مثنية. يحتاج تصويرين إذا كان الكسر طويلاً",
-          "positioning": "وضع جانبي مع ثني الساق السفلية"
+          "note": "Lower leg flexed. May need two images for long fractures",
+          "positioning": "Lateral with lower leg flexed"
         },
         {
           "id": "femur_oblique",
-          "name": "فخذ مائل",
+          "name": "Femur Oblique",
           "sub": "Femur Oblique",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦵",
           "kvp": 70,
           "mas": 14,
@@ -2209,20 +2209,20 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُفصل الكسر عن الأنسجة المحيطة",
-          "positioning": "تدوير 45°"
+          "note": "Separates fracture from surrounding tissues",
+          "positioning": "45° rotation"
         }
       ]
     },
 
     {
-      "section": "الركبة - Knee",
+      "section": "Knee",
       "items": [
         {
           "id": "knee_ap",
-          "name": "ركبة أمامية",
+          "name": "Knee AP",
           "sub": "Knee AP",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦿",
           "kvp": 65,
           "mas": 8,
@@ -2232,14 +2232,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "المفصل في المركز. القدم في وضع محايد. غالباً تُصوَّر الركبتين معاً للمقارنة",
-          "positioning": "استلقاء، مركز على المفصل"
+          "note": "Joint centered. Foot neutral. Both knees often imaged together for comparison",
+          "positioning": "Supine, CR on joint"
         },
         {
           "id": "knee_lat",
-          "name": "ركبة جانبية",
+          "name": "Knee Lateral",
           "sub": "Knee Lateral",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦿",
           "kvp": 65,
           "mas": 8,
@@ -2249,14 +2249,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "الركبة مثنية 20-30° لتمديد الأربطة وتمديد الرضفة. الشظية خلف الظنبوب",
-          "positioning": "جانبي مع ثني 20-30°"
+          "note": "Knee flexed 20-30° to extend ligaments and project patella. Fibula posterior to tibia",
+          "positioning": "Lateral with 20-30° flexion"
         },
         {
           "id": "knee_pa_rosenberg",
-          "name": "ركبة خلفية-أمامية (روزنبرغ)",
+          "name": "Knee PA (Rosenberg / Weight-bearing)",
           "sub": "Knee PA (Rosenberg / Weight-bearing)",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦿",
           "kvp": 65,
           "mas": 8,
@@ -2266,14 +2266,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "وقوف مع تحميل وزن. ثني 45°. أفضل لتقييم تضيق الفراغ المفصلي الفصي",
-          "positioning": "وقوف، ثني 45°، تحميل وزن"
+          "note": "Weight-bearing standing. 45° flexion. Best for evaluating joint space narrowing",
+          "positioning": "Standing, 45° flexion, weight-bearing"
         },
         {
           "id": "knee_oblique_medial",
-          "name": "ركبة مائلة إنسية",
+          "name": "Knee Medial Oblique",
           "sub": "Knee Medial Oblique",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦿",
           "kvp": 65,
           "mas": 8,
@@ -2283,14 +2283,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر اللقمة الإنسية بوضوح",
-          "positioning": "تدوير 45° إنسي"
+          "note": "Clearly shows medial condyle",
+          "positioning": "45° medial rotation"
         },
         {
           "id": "knee_oblique_lateral",
-          "name": "ركبة مائلة وحشية",
+          "name": "Knee Lateral Oblique",
           "sub": "Knee Lateral Oblique",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦿",
           "kvp": 65,
           "mas": 8,
@@ -2300,14 +2300,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر اللقمة الوحشية بوضوح",
-          "positioning": "تدوير 45° وحشي"
+          "note": "Clearly shows lateral condyle",
+          "positioning": "45° lateral rotation"
         },
         {
           "id": "knee_tunnel",
-          "name": "ركبة نفق بين لقمي",
+          "name": "Knee Intercondylar Notch (Tunnel View)",
           "sub": "Knee Intercondylar Notch (Tunnel View)",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🔍",
           "kvp": 65,
           "mas": 10,
@@ -2317,14 +2317,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُظهر النفق بين اللقمي والأجسام الزجاجية. شعاع 40-50° رأسي",
-          "positioning": "ثني 40°، شعاع 40-50° رأسي من بعيد"
+          "note": "Shows intercondylar notch and loose bodies. 40-50° cephalad ray",
+          "positioning": "40° flexion, 40-50° cephalad ray from distal end"
         },
         {
           "id": "knee_merchant",
-          "name": "رضفة محورية (مرشانت/سكايللاين)",
+          "name": "Patella Axial (Merchant / Skyline View)",
           "sub": "Patella Axial (Merchant / Skyline View)",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦿",
           "kvp": 60,
           "mas": 6,
@@ -2334,14 +2334,14 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "بدون Grid. الركبة مثنية 45°. شعاع 30° رأسي. يُظهر السطح المفصلي للرضفة ومسارها",
-          "positioning": "ثني 45°، شعاع 30° رأسي من بعيد"
+          "note": "No grid. Knee flexed 45°. 30° cephalad ray. Shows patellar articular surface and tracking",
+          "positioning": "45° flexion, 30° cephalad ray from distal end"
         },
         {
           "id": "knee_setteguard",
-          "name": "رضفة محورية (سيتيغارد)",
+          "name": "Patella Axial (Settegast Method)",
           "sub": "Patella Axial (Settegast Method)",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦿",
           "kvp": 60,
           "mas": 6,
@@ -2351,16 +2351,16 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "بدون Grid. بديل لـ Merchant. المريض على بطنه مع ثني الركبة",
-          "positioning": "على البطن، ثني الركبة، شعاع رأسي"
+          "note": "No grid. Alternative to Merchant. Patient prone with knee flexed",
+          "positioning": "Prone, knee flexed, vertical ray"
         },
         {
-          "kvp": 60,
           "id": "knee_patella_lat",
-          "name": "رضفة جانبية",
+          "name": "Patella Lateral",
           "sub": "Patella Lateral",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦿",
+          "kvp": 60,
           "mas": 5,
           "kvpR": [55, 65],
           "masR": [4, 7],
@@ -2368,20 +2368,20 @@
           "grid": false,
           "aec": false,
           "breathing": "suspended",
-          "note": "بدون Grid. حقل مصغر على الرضفة. يُظهر كسور الرضفة",
-          "positioning": "جانبي مع حقل مصغر على الرضفة"
+          "note": "No grid. Collimated field on patella. Detects patellar fractures",
+          "positioning": "Lateral with collimated field on patella"
         }
       ]
     },
 
     {
-      "section": "الساق (الظنبوب والشظية) - Lower Leg",
+      "section": "Lower Leg (Tibia/Fibula)",
       "items": [
         {
           "id": "lower_leg_ap",
-          "name": "ساق أمامية",
+          "name": "Lower Leg AP",
           "sub": "Tibia/Fibula AP",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 58,
           "mas": 5,
@@ -2391,14 +2391,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يشمل الركبة والكاحل إن أمكن. القدم في وضع محايد",
-          "positioning": "استلقاء، مركز على منتصف الساق"
+          "note": "Include knee and ankle if possible. Foot in neutral position",
+          "positioning": "Supine, CR on mid-leg"
         },
         {
           "id": "lower_leg_lat",
-          "name": "ساق جانبية",
+          "name": "Lower Leg Lateral",
           "sub": "Tibia/Fibula Lateral",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 58,
           "mas": 5,
@@ -2408,14 +2408,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "وضع جانبي كامل",
-          "positioning": "جانبي كامل"
+          "note": "Full lateral position",
+          "positioning": "Full lateral"
         },
         {
           "id": "lower_leg_oblique",
-          "name": "ساق مائلة",
+          "name": "Lower Leg Oblique",
           "sub": "Tibia/Fibula Oblique",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 58,
           "mas": 5,
@@ -2425,20 +2425,20 @@
           "grid": true,
           "aec": "center",
           "breathing": "suspended",
-          "note": "يُفصل الظنبوب عن الشظية",
-          "positioning": "تدوير 45°"
+          "note": "Separates tibia from fibula",
+          "positioning": "45° rotation"
         }
       ]
     },
 
     {
-      "section": "الكاحل - Ankle",
+      "section": "Ankle",
       "items": [
         {
           "id": "ankle_ap",
-          "name": "كاحل أمامي",
+          "name": "Ankle AP",
           "sub": "Ankle AP",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 55,
           "mas": 4,
@@ -2448,14 +2448,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. القدم في وضع محايد (90°). يُظهر المفصل الكاحلي الظنبوبي",
-          "positioning": "استلقاء، قدم في وضع محايد 90°"
+          "note": "No grid. Foot in neutral (90°). Shows talocrural joint",
+          "positioning": "Supine, foot in neutral 90°"
         },
         {
           "id": "ankle_lat",
-          "name": "كاحل جانبي",
+          "name": "Ankle Lateral",
           "sub": "Ankle Lateral",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 55,
           "mas": 4,
@@ -2465,14 +2465,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. الجانب الوحشي على اللوح",
-          "positioning": "جانبي، وحشي على اللوح"
+          "note": "No grid. Lateral side on film",
+          "positioning": "Lateral, lateral side on film"
         },
         {
           "id": "ankle_mortise",
-          "name": "كاحل مورتيس (مائل 15-20°)",
-          "sub": "Ankle Mortise View (15-20° Internal Rotation)",
-          "cat": "طرف سفلي",
+          "name": "Ankle Mortise View (15-20° Internal Rotation)",
+          "sub": "Ankle Mortise View",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 55,
           "mas": 4,
@@ -2482,14 +2482,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. الأهم لإصابات الكاحل. تدوير داخلي 15-20° يزيل تداخل الشظية مع الكاحل. يُظهر الفراغ المفصلي بوضوح",
-          "positioning": "تدوير داخلي 15-20°"
+          "note": "No grid. Most important for ankle injuries. 15-20° internal rotation eliminates fibula overlap. Clearly shows joint space",
+          "positioning": "15-20° internal rotation"
         },
         {
           "id": "ankle_stress_eversion",
-          "name": "كاحل إجهاد انقلاب وحشي",
+          "name": "Ankle Stress Eversion",
           "sub": "Ankle Stress Eversion",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 55,
           "mas": 4,
@@ -2499,14 +2499,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. تطبيق قوة انقلاب وحشي لاختبار تمزق الرباط الدالي. يتم تحت تخدير موضعي أحياناً",
-          "positioning": "AP مع تطبيق ضغط انقلاب وحشي"
+          "note": "No grid. Eversion force applied to test deltoid ligament tear. May require local anesthesia",
+          "positioning": "AP with eversion stress applied"
         },
         {
           "id": "ankle_stress_inversion",
-          "name": "كاحل إجهاد انقلاب إنسي",
+          "name": "Ankle Stress Inversion",
           "sub": "Ankle Stress Inversion",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 55,
           "mas": 4,
@@ -2516,20 +2516,20 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. تطبيق قوة انقلاب إنسي لاختبار تمزق أربطة الوحشي",
-          "positioning": "AP مع تطبيق ضغط انقلاب إنسي"
+          "note": "No grid. Inversion force applied to test lateral ligament tear",
+          "positioning": "AP with inversion stress applied"
         }
       ]
     },
 
     {
-      "section": "القدم - Foot",
+      "section": "Foot",
       "items": [
         {
           "id": "foot_ap",
-          "name": "قدم أمامية (ظهرية أخمصية)",
+          "name": "Foot AP (Dorsoplantar)",
           "sub": "Foot AP (Dorsoplantar)",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 55,
           "mas": 3,
@@ -2539,14 +2539,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. القدم مستوية عمودية على اللوح. مركز على قاعدة العظم الثالث المشطي",
-          "positioning": "قدم مستوية عمودية على اللوح"
+          "note": "No grid. Foot vertical perpendicular to film. CR on 3rd metatarsal base",
+          "positioning": "Foot vertical perpendicular to film"
         },
         {
           "id": "foot_lat",
-          "name": "قدم جانبية",
+          "name": "Foot Lateral",
           "sub": "Foot Lateral",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 55,
           "mas": 3.5,
@@ -2556,14 +2556,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. الجانب الوحشي على اللوح",
-          "positioning": "جانبي، وحشي على اللوح"
+          "note": "No grid. Lateral side on film",
+          "positioning": "Lateral, lateral side on film"
         },
         {
           "id": "foot_oblique_medial",
-          "name": "قدم مائلة إنسية",
+          "name": "Foot Medial Oblique",
           "sub": "Foot Medial Oblique",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 55,
           "mas": 3,
@@ -2573,14 +2573,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. تدوير داخلي 30-45°. يُفصل العظام الرمشية (الغربالية وال مكعبية) عن بعضها",
-          "positioning": "تدوير داخلي 30-45°"
+          "note": "No grid. 30-45° internal rotation. Separates cuboid and cuneiform bones",
+          "positioning": "30-45° internal rotation"
         },
         {
           "id": "foot_oblique_lateral",
-          "name": "قدم مائلة وحشية",
+          "name": "Foot Lateral Oblique",
           "sub": "Foot Lateral Oblique",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 55,
           "mas": 3,
@@ -2590,14 +2590,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. تدوير خارجي 30-45°",
-          "positioning": "تدوير خارجي 30-45°"
+          "note": "No grid. 30-45° external rotation",
+          "positioning": "30-45° external rotation"
         },
         {
           "id": "calcaneus_axial",
-          "name": "عقبية محورية",
+          "name": "Calcaneus Axial (Harris-Beath)",
           "sub": "Calcaneus Axial (Harris-Beath)",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 58,
           "mas": 6,
@@ -2607,14 +2607,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. شعاع محوري من الخلف بزاوية 40° رأسي. يُظهر العقب من الأمام للخلف. أساسي لكسور العقب",
-          "positioning": "قدم ممدودة، شعاع 40° رأسي من الخلف"
+          "note": "No grid. Axial ray from posterior at 40° cephalad. Shows calcaneus anterior to posterior. Essential for calcaneal fractures",
+          "positioning": "Foot extended, 40° cephalad ray from posterior"
         },
         {
           "id": "calcaneus_lat",
-          "name": "عقبية جانبية",
+          "name": "Calcaneus Lateral",
           "sub": "Calcaneus Lateral",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🦶",
           "kvp": 55,
           "mas": 4,
@@ -2624,14 +2624,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. يُظهر زاوية بولر (Boehler's Angle). مكمل للمحورية",
-          "positioning": "جانبي، حقل مصغر على العقب"
+          "note": "No grid. Shows Boehler's angle. Complementary to axial view",
+          "positioning": "Lateral with collimated field on calcaneus"
         },
         {
           "id": "foot_sesamoids",
-          "name": "قدم عظام سمسمانية",
+          "name": "Foot Sesamoid Axial",
           "sub": "Foot Sesamoid Axial",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🔍",
           "kvp": 52,
           "mas": 2.5,
@@ -2641,14 +2641,14 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. شعاع محوري من أعلى القدم للأمام بزاوية. يُظهر العظام السمسمانية تحت الرأس الأول",
-          "positioning": "شعاع محوري من أعلى الرأس الأول"
+          "note": "No grid. Axial ray from above foot anteriorly at angle. Shows sesamoid bones under 1st metatarsal head",
+          "positioning": "Axial ray from above 1st metatarsal head"
         },
         {
           "id": "foot_cuboid",
-          "name": "قدم مكعبية مائلة",
+          "name": "Foot Cuboid Oblique",
           "sub": "Foot Cuboid Oblique",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "🔍",
           "kvp": 55,
           "mas": 3,
@@ -2658,20 +2658,20 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "بدون Grid. تدوير خاص لإظهار العظم المكعبية",
-          "positioning": "تدوير 45° وحشي مع ميل الكاحل"
+          "note": "No grid. Specific rotation to demonstrate cuboid bone",
+          "positioning": "45° lateral rotation with ankle inversion"
         }
       ]
     },
 
     {
-      "section": "فحوصات إضافية متخصصة",
+      "section": "Specialized Views",
       "items": [
         {
           "id": "thoracic_outlet",
-          "name": "مخرج صدري",
+          "name": "Thoracic Outlet (Cervicothoracic)",
           "sub": "Thoracic Outlet (Cervicothoracic)",
-          "cat": "صدر",
+          "cat": "Chest",
           "icon": "🫁",
           "kvp": 80,
           "mas": 20,
@@ -2681,14 +2681,14 @@
           "grid": true,
           "aec": "center",
           "breathing": "inspiration",
-          "note": "يُظهر المنطقة الانتقالية بين العنقي والصدري. SID 180 سم",
-          "positioning": "مثل صدر PA مع تصغير الحقل على المخرج الصدري"
+          "note": "Shows cervicothoracic transition. SID 180 cm",
+          "positioning": "Like chest PA with collimated field on thoracic outlet"
         },
         {
           "id": "scoliosis_ap",
-          "name": "جنف أمامي (عمود فقري كامل)",
+          "name": "Scoliosis Full Spine AP",
           "sub": "Scoliosis Full Spine AP",
-          "cat": "عمود فقري",
+          "cat": "Spine",
           "icon": "🦴",
           "kvp": 85,
           "mas": 50,
@@ -2698,14 +2698,14 @@
           "grid": true,
           "aec": "manual",
           "breathing": "inspiration",
-          "note": "SID 180 سم. فيلم طويل (14×36 بوصة). يدوي. نهاية شهيق. يُصوَّر مع الجانبي أيضاً. يقاس زاوية كوب",
-          "positioning": "وقوف، فيلم طويل من C1 إلى العجز"
+          "note": "SID 180 cm. Long film (14×36 inch). Manual technique. End inspiration. Also image lateral. Cobb angle measured",
+          "positioning": "Standing, long film from C1 to sacrum"
         },
         {
           "id": "scoliosis_lat",
-          "name": "جنف جانبي (عمود فقري كامل)",
+          "name": "Scoliosis Full Spine Lateral",
           "sub": "Scoliosis Full Spine Lateral",
-          "cat": "عمود فقري",
+          "cat": "Spine",
           "icon": "🦴",
           "kvp": 95,
           "mas": 80,
@@ -2715,14 +2715,14 @@
           "grid": true,
           "aec": "manual",
           "breathing": "inspiration",
-          "note": "SID 180 سم. أعلى mAs بسبب السُمك الكبير. يدوي. فيلم طويل",
-          "positioning": "وقوف جانبي، فيلم طويل"
+          "note": "SID 180 cm. Highest mAs due to large thickness. Manual technique. Long film",
+          "positioning": "Standing lateral, long film"
         },
         {
           "id": "leg_length_ap",
-          "name": "قياس طول الساقين",
+          "name": "Leg Length Measurement (Orthoroentgenogram)",
           "sub": "Leg Length Measurement (Orthoroentgenogram)",
-          "cat": "طرف سفلي",
+          "cat": "Lower Extremity",
           "icon": "📏",
           "kvp": 75,
           "mas": 25,
@@ -2732,14 +2732,14 @@
           "grid": true,
           "aec": "manual",
           "breathing": "suspended",
-          "note": "ثلاث تعريضات على فيلم واحد: على الورك، الركبة، والكاحل. مقياس معدني ثابت بجانب الساق. يدوي",
-          "positioning": "استلقاء ظهري، مقياس معدني بجانب الساق، ثلاث تعريضات"
+          "note": "Three exposures on single film: at hip, knee, and ankle. Metal ruler fixed beside leg. Manual technique",
+          "positioning": "Supine, metal ruler beside leg, three exposures"
         },
         {
           "id": "skeleton_survey",
-          "name": "مسح هيكلي كامل (أطفال)",
+          "name": "Skeletal Survey (Pediatric)",
           "sub": "Skeletal Survey (Pediatric)",
-          "cat": "أطفال",
+          "cat": "Pediatric",
           "icon": "👶",
           "kvp": 55,
           "mas": 2.0,
@@ -2749,8 +2749,8 @@
           "grid": false,
           "aec": false,
           "breathing": "free",
-          "note": "سلسلة صور شاملة للكشف عن إساءة الأطفال. كل صورة بقيمها الخاصة. هذه القيمة تقريبية متوسطة. بدون Grid في معظم الصور. مبدأ ALARA صارم جداً",
-          "positioning": "سلسلة صور متعددة حسب البروتوكول المعتمد"
+          "note": "Series of images for detecting child abuse. Each image uses its own specific factors. This value is approximate average. No grid for most images. Strict ALARA principle",
+          "positioning": "Multiple images per established protocol"
         }
       ]
     }
@@ -2759,65 +2759,60 @@
   "adjustmentFactors": {
     "bodyType": {
       "thin": {
-        "name_ar": "نحيف / هزيل",
-        "name_en": "Thin/Asthenic",
+        "name": "Thin / Asthenic",
         "kvpOffset": -6,
         "masMultiplier": 0.55,
-        "description": "تقليل kVp بمقدار 6 وتقليل mAs بنسبة 45% بسبب قلة امتصاص الأنسجة"
+        "description": "Reduce kVp by 6 and reduce mAs by 45% due to less tissue absorption"
       },
       "normal": {
-        "name_ar": "طبيعي / متوسط",
-        "name_en": "Normal/Sthenic",
+        "name": "Normal / Average Build",
         "kvpOffset": 0,
         "masMultiplier": 1.0,
-        "description": "القيم الأساسية كما هي دون تعديل"
+        "description": "Baseline values used as-is without modification"
       },
       "fat": {
-        "name_ar": "سمين / ضخم",
-        "name_en": "Large/Obese/Hypersthenic",
+        "name": "Large / Obese / Hypersthenic",
         "kvpOffset": 10,
         "masMultiplier": 1.7,
-        "description": "زيادة kVp بمقدار 10 وزيادة mAs بنسبة 70% بسبب زيادة امتصاص الأنسجة"
+        "description": "Increase kVp by 10 and increase mAs by 70% due to greater tissue absorption"
       }
     },
     "age": {
-      "adult_18plus":    {"range": "18+ سنة",   "masF": 1.0,  "kvpOff": 0,  "cat_ar": "بالغ"},
-      "teen_late":       {"range": "15-17 سنة",  "masF": 0.80, "kvpOff": -3, "cat_ar": "مراهق متأخر"},
-      "teen_mid":        {"range": "12-14 سنة",  "masF": 0.65, "kvpOff": -5, "cat_ar": "مراهق"},
-      "child_older":     {"range": "8-11 سنة",   "masF": 0.50, "kvpOff": -7, "cat_ar": "طفل كبير"},
-      "child_young":     {"range": "5-7 سنوات",  "masF": 0.38, "kvpOff": -9, "cat_ar": "طفل"},
-      "toddler":         {"range": "2-4 سنوات",  "masF": 0.28, "kvpOff": -12,"cat_ar": "طفل صغير"},
-      "infant_older":    {"range": "1-2 سنة",    "masF": 0.22, "kvpOff": -15,"cat_ar": "رضيع كبير"},
-      "infant_younger":  {"range": "6-12 شهر",   "masF": 0.16, "kvpOff": -18,"cat_ar": "رضيع"},
-      "neonate":         {"range": "0-6 أشهر",   "masF": 0.12, "kvpOff": -20,"cat_ar": "حديث ولادة"}
+      "adult_18plus":    {"min": 18, "masF": 1.0,  "kvpOff": 0,  "cat": "Adult"},
+      "teen_late":       {"min": 15, "masF": 0.80, "kvpOff": -3, "cat": "Late Teen (15-17 years)"},
+      "teen_mid":        {"min": 12, "masF": 0.65, "kvpOff": -5, "cat": "Teen (12-14 years)"},
+      "child_older":     {"min": 8,  "masF": 0.50, "kvpOff": -7, "cat": "Older Child (8-11 years)"},
+      "child_young":     {"min": 5,  "masF": 0.38, "kvpOff": -9, "cat": "Child (5-7 years)"},
+      "toddler":         {"min": 2,  "masF": 0.28, "kvpOff": -12,"cat": "Toddler (2-4 years)"},
+      "infant_older":    {"min": 1,  "masF": 0.22, "kvpOff": -15,"cat": "Older Infant (1-2 years)"},
+      "infant_younger":  {"min": 0.5,"masF": 0.16, "kvpOff": -18,"cat": "Infant (6-12 months)"},
+      "neonate":         {"min": 0,  "masF": 0.12, "kvpOff": -20,"cat": "Neonate (0-6 months)"}
     },
     "device": {
       "dr": {
-        "name_ar": "تصوير رقمي مباشر",
-        "name_en": "Digital Radiography (Flat Panel)",
+        "name": "Digital Radiography (Flat Panel)",
         "masMultiplier": 1.0,
         "kvpOffset": 0,
         "dqe": "60-70%",
-        "description": "أعلى كفاءة كشف - القيم الأساسية مبنية عليه"
+        "description": "Highest detection efficiency — baseline values are based on this"
       },
       "cr": {
-        "name_ar": "تصوير رقمي بألواح فوسفورية",
-        "name_en": "Computed Radiography (IP Plates)",
+        "name": "Computed Radiography (IP Plates)",
         "masMultiplier": 1.4,
         "kvpOffset": 2,
         "dqe": "25-35%",
-        "description": "كفاءة أقل من DR بنسبة ~50% - يحتاج mAs أكثر"
+        "description": "Lower efficiency than DR by approximately 50% — requires more mAs"
       }
     }
   },
 
   "notes": {
-    "gridUsage": "يُستخدم Grid عادةً عندما يزيد سُمك الجزء المصوَّر عن 10 سم. للأطراف والأطفال غالباً بدون Grid.",
-    "aecUsage": "AEC مفيد للصدر والبطن والحوض والعمود الفقري. للأطراف غالباً يدوي. للوضعيات المحورية يدوي دائماً.",
-    "sidStandard": "المسافة القياسية 100 سم. تُزاد إلى 150 سم للعنقية الجانبية (تقليل التشوه المكدسي) و180 سم للصدر (تقليل التضخم القلبي).",
-    "breathingGuide": "suspended = تنفس محبس (معظم فحوصات الهيكل العظمي) | inspiration = نهاية شهيق (الصدر) | expiration = نهاية زفير (الأضلاع السفلية) | free = تنفس حر (الأطراف)",
-    "alaraPrinciple": "مبدأ ALARA: As Low As Reasonably Achievable — اقتصد في الجرعة الإشعاعية قدر الإمكان، خاصة للأطفال والنساء الحوامل.",
-    "pediatricWarning": "جميع قيم الأطفال تقريبية ويجب تعديلها حسب الوزن الفعلي. يُنصح بشدة ببروتوكولات الأطفال المعتمدة في كل قسم.",
-    "clinicalJudgment": "القيم النهائية مسؤولة أخصائي الأشعة المشرف ويجب تعديلها حسب ظروف كل حالة."
+    "gridUsage": "Grid is typically used when the part thickness exceeds 10 cm. Never used for extremities or pediatric patients.",
+    "aecUsage": "AEC is useful for chest, abdomen, pelvis, and spine. Usually manual for extremities. Always manual for axial views.",
+    "sidStandard": "Standard distance is 100 cm. Increased to 150 cm for cervical lateral (reduce magnification distortion) and 180 cm for chest (reduce cardiac magnification).",
+    "breathingGuide": "suspended = suspended respiration (most skeletal exams) | inspiration = end of deep inspiration (chest) | expiration = end of expiration (lower ribs) | free = free breathing (extremities)",
+    "alaraPrinciple": "ALARA: As Low As Reasonably Achievable — minimize radiation dose as much as possible, especially for children and pregnant women.",
+    "pediatricWarning": "All pediatric values are approximate and should be adjusted based on actual weight. Strongly recommend using the pediatric protocols established in each department.",
+    "clinicalJudgment": "Final values are the responsibility of the supervising radiologist and should be adjusted based on each case's specific circumstances."
   }
 }
