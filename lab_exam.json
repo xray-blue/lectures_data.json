@@ -116,12 +116,6 @@
   {
     "question": "ما اسم الوضعية؟",
     "image": "https://prod-images-static.radiopaedia.org/images/54151097/bf08cac3156189e9301a1e31712eed2c2b65a20c132775bfef81079a07f2b107_big_gallery.jpeg",
-    "options": ["Ribs PA", "Chest Lateral", "Ribs Lateral", "Ribs AP oblique"],
-    "correctIndex": 3
-  },
-  {
-    "question": "ما اسم الوضعية؟",
-    "image": "https://prod-images-static.radiopaedia.org/images/54151097/bf08cac3156189e9301a1e31712eed2c2b65a20c132775bfef81079a07f2b107_big_gallery.jpeg",
     "options": ["Ribs Lateral", "Ribs PA", "Chest Lateral", "Ribs AP oblique"],
     "correctIndex": 3
   },
@@ -165,13 +159,13 @@
     "question": "ما اسم الوضعية؟",
     "image": "https://prod-images-static.radiopaedia.org/images/62045835/d1b7fd3defbd9a39b21c8fec9fa14e7786b13db8fd91898066ba3bc785e09b31_big_gallery.jpeg",
     "options": ["Humerus Lateral", "Shoulder AP", "Femur AP", "Humerus AP"],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "question": "ما اسم الوضعية؟",
     "image": "https://prod-images-static.radiopaedia.org/images/62045835/d1b7fd3defbd9a39b21c8fec9fa14e7786b13db8fd91898066ba3bc785e09b31_big_gallery.jpeg",
     "options": ["Humerus AP", "Femur Lateral", "Humerus Lateral", "Forearm AP & Lateral"],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "question": "ما اسم الوضعية؟",
@@ -289,61 +283,61 @@
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg",
+    "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/positionlab/Lumbar%20Spine%20Lateral1.jpg",
     "options": ["Thoracic Spine Lateral", "Lumbar Oblique (Scotty Dog)", "Lumbar Spine AP", "Lumbar Spine Lateral"],
     "correctIndex": 3
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://prod-images-static.radiopaedia.org/images/49284469/922598043844e7d696d573c4adc168_gallery.jpeg",
+    "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/positionlab/Knee%20AP%20%26%20Lateral2.jpeg",
     "options": ["Ankle AP & Lateral", "Femur AP", "Knee Oblique", "Knee AP & Lateral"],
     "correctIndex": 3
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://cdn2.picryl.com/photo/2018/03/14/x-ray-of-the-hand-of-an-8-year-old-male-oblique-1521a2-1024.jpg",
+    "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/positionlab/oblique.jpg",
     "options": ["AP", "Lateral", "oblique", "PA"],
     "correctIndex": 2
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://prod-images-static.radiopaedia.org/images/52186446/96cfdd3acb67e51f93cbdb8392fae7_big_gallery.jpeg",
+    "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/positionlab/oblique2.jpeg",
     "options": ["oblique", "AP & Lateral", "Lateral", "PA"],
     "correctIndex": 0
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://prod-images-static.radiopaedia.org/images/13586184/90d12bf03014d2b0012251779be304cc87f440cd2f3e096d734220411657cd90_big_gallery.jpeg",
+    "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/positionlab/oblique3.png",
     "options": ["PA", "Lateral", "AP", "oblique"],
     "correctIndex": 3
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://www.researchgate.net/publication/286538975/figure/fig3/AS:1086790949699619@1636122562725/Oblique-radiograph-of-the-wrist-demonstrates-isolated-scaphotrapezial-coalition.jpg",
+    "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/positionlab/oblique4.jpg",
     "options": ["AP & Lateral", "oblique", "Lateral", "PA"],
     "correctIndex": 1
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://prod-images-static.radiopaedia.org/images/2357781/8fbef792c0515ff3c33b397f1c7a0f_gallery.jpg",
+    "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/positionlab/oblique5.jpg",
     "options": ["AP", "Lateral", "oblique", "PA"],
     "correctIndex": 2
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://prod-images-static.radiopaedia.org/images/30113133/66e623a67524fdfc4d9d3a1f2934a2_gallery.jpeg",
+    "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/positionlab/Lateral.jpeg",
     "options": ["AP", "oblique", "PA", "Lateral"],
     "correctIndex": 3
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://prod-images-static.radiopaedia.org/images/9289901/d1d3c486f4ffeff23939dc85e999c3_big_gallery.jpg",
+    "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/positionlab/oblique6.jpg",
     "options": ["oblique", "Lateral", "PA", "AP"],
     "correctIndex": 0
   },
   {
     "question": "ما اسم الوضعية؟",
-    "image": "https://prod-images-static.radiopaedia.org/images/17225057/9aa8631451426a683b4cb5c91acdb9_gallery.jpeg",
+    "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/positionlab/abdominal.jpeg",
     "options": ["Chest PA", "Lateral", "abdominal", "Pelvis AP"],
     "correctIndex": 2
   }
