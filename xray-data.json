@@ -2759,34 +2759,37 @@
   "adjustmentFactors": {
     "bodyType": {
       "thin": {
-        "name": "Thin / Asthenic",
+        "name_ar": "نحيف / هزيل",
+        "name_en": "Thin/Asthenic",
         "kvpOffset": -6,
         "masMultiplier": 0.55,
-        "description": "Reduce kVp by 6 and reduce mAs by 45% due to less tissue absorption"
+        "description": "تقليل kVp بمقدار 6 وتقليل mAs بنسبة 45% بسبب قلة امتصاص الأنسجة"
       },
       "normal": {
-        "name": "Normal / Average Build",
+        "name_ar": "طبيعي / متوسط",
+        "name_en": "Normal/Sthenic",
         "kvpOffset": 0,
         "masMultiplier": 1.0,
-        "description": "Baseline values used as-is without modification"
+        "description": "القيم الأساسية كما هي دون تعديل"
       },
       "fat": {
-        "name": "Large / Obese / Hypersthenic",
+        "name_ar": "سمين / ضخم",
+        "name_en": "Large/Obese/Hypersthenic",
         "kvpOffset": 10,
         "masMultiplier": 1.7,
-        "description": "Increase kVp by 10 and increase mAs by 70% due to greater tissue absorption"
+        "description": "زيادة kVp بمقدار 10 وزيادة mAs بنسبة 70% بسبب زيادة امتصاص الأنسجة"
       }
     },
     "age": {
-      "adult_18plus":    {"min": 18, "masF": 1.0,  "kvpOff": 0,  "cat": "Adult"},
-      "teen_late":       {"min": 15, "masF": 0.80, "kvpOff": -3, "cat": "Late Teen (15-17 years)"},
-      "teen_mid":        {"min": 12, "masF": 0.65, "kvpOff": -5, "cat": "Teen (12-14 years)"},
-      "child_older":     {"min": 8,  "masF": 0.50, "kvpOff": -7, "cat": "Older Child (8-11 years)"},
-      "child_young":     {"min": 5,  "masF": 0.38, "kvpOff": -9, "cat": "Child (5-7 years)"},
-      "toddler":         {"min": 2,  "masF": 0.28, "kvpOff": -12,"cat": "Toddler (2-4 years)"},
-      "infant_older":    {"min": 1,  "masF": 0.22, "kvpOff": -15,"cat": "Older Infant (1-2 years)"},
-      "infant_younger":  {"min": 0.5,"masF": 0.16, "kvpOff": -18,"cat": "Infant (6-12 months)"},
-      "neonate":         {"min": 0,  "masF": 0.12, "kvpOff": -20,"cat": "Neonate (0-6 months)"}
+      "adult_18plus":    {"range": "18+ سنة",   "masF": 1.0,  "kvpOff": 0,  "cat_ar": "بالغ"},
+      "teen_late":       {"range": "15-17 سنة",  "masF": 0.80, "kvpOff": -3, "cat_ar": "مراهق متأخر"},
+      "teen_mid":        {"range": "12-14 سنة",  "masF": 0.65, "kvpOff": -5, "cat_ar": "مراهق"},
+      "child_older":     {"range": "8-11 سنة",   "masF": 0.50, "kvpOff": -7, "cat_ar": "طفل كبير"},
+      "child_young":     {"range": "5-7 سنوات",  "masF": 0.38, "kvpOff": -9, "cat_ar": "طفل"},
+      "toddler":         {"range": "2-4 سنوات",  "masF": 0.28, "kvpOff": -12,"cat_ar": "طفل صغير"},
+      "infant_older":    {"range": "1-2 سنة",    "masF": 0.22, "kvpOff": -15,"cat_ar": "رضيع كبير"},
+      "infant_younger":  {"range": "6-12 شهر",   "masF": 0.16, "kvpOff": -18,"cat_ar": "رضيع"},
+      "neonate":         {"range": "0-6 أشهر",   "masF": 0.12, "kvpOff": -20,"cat_ar": "حديث ولادة"}
     },
     "device": {
       "dr": {
