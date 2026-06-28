@@ -1,1184 +1,722 @@
 [
   {
-    "question": "ما هي وضعية التصوير القياسية للصدر التي توضح الرئتين والقلب بتفاصيل جيدة وتقلل من تضخم القلب؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية اليسرى", "الوضعية الجانبية اليمنى"],
+    "question": "ما هي وضعية الصدر PA المثلى التي تُظهر الرئتين والقلب وتُقلل من تضخم القلب الوهمي؟",
+    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية اليسرى", "الوضعية المائلة"],
     "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الصدر الجانبية التي تُظهر الفراغ خلف القلب (الزاوية الخلفية الضلعية الحجابية) بوضوح؟",
-    "options": ["الوضعية الجانبية اليسرى (Left Lateral)", "الوضعية الجانبية اليمنى (Right Lateral)", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة (Oblique)"],
-    "correctIndex": 0,
+    "question": "ما هي الوضعية الجانبية للصدر التي تُظهر الفراغ خلف القلب بوضوح؟",
+    "options": ["الجانبية اليمنى", "الجانبية اليسرى", "الوضعية الأمامية الخلفية", "الوضعية المائلة الأمامية"],
+    "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
   },
   {
-    "question": "في تصوير الصدر، ما هي وضعية (Lordotic View) المستخدمة لتوضيح قمم الرئتين؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) مع ميلان أنبوب الأشعة إلى الأعلى", "الوضعية الخلفية الأمامية (PA) مع ميلان المريض للخلف", "الوضعية الجانبية", "الوضعية المائلة"],
+    "question": "أي وضعية تُستخدم لتوضيح قمم الرئتين عند الاشتباه بآفة في القمم؟",
+    "options": ["وضعية Lordotic (AP مع ميلان المريض للخلف)", "الوضعية الجانبية", "الوضعية الخلفية الأمامية العادية", "وضعية Decubitus"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/7356635/125e28937329a35ab973a09b43f46b_gallery.jpeg"
   },
   {
-    "question": "أي وضعية تُستخدم لتصوير البطن للكشف عن انسداد الأمعاء أو حصوات الكلى؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) أو KUB", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المائلة"],
+    "question": "ما هي وضعية البطن القياسية للكشف عن انسداد الأمعاء وحصوات الكلى؟",
+    "options": ["وضعية KUB (AP مستلقٍ)", "الوضعية الجانبية", "الوضعية الخلفية الأمامية", "الوضعية المائلة"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "ما هي وضعية البطن الجانبية التي تُظهر مستويات السوائل والهواء بشكل أفضل؟",
-    "options": ["الوضعية الجانبية (Lateral Decubitus) مع استلقاء المريض على جانبه", "الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة"],
-    "correctIndex": 0,
+    "question": "أي وضعية تُستخدم لتقييم مستويات السوائل والهواء في البطن أو الصدر؟",
+    "options": ["الاستلقاء الظهري (Supine)", "الاستلقاء الجانبي (Lateral Decubitus)", "الوضعية الخلفية الأمامية", "الانبطاح (Prone)"],
+    "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية اليد القياسية (PA) التي تُظهر السلاميات والمشط والرسغ؟",
-    "options": ["وضعية اليد الأمامية الخلفية (AP)", "وضعية اليد الخلفية الأمامية (PA)", "وضعية اليد الجانبية", "وضعية اليد المائلة"],
+    "question": "ما هي وضعية اليد القياسية التي تُظهر السلاميات والمشط والرسغ بوضوح؟",
+    "options": ["وضعية اليد AP", "وضعية اليد PA", "وضعية اليد الجانبية", "وضعية اليد المائلة"],
     "correctIndex": 1,
     "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
   },
   {
-    "question": "أي وضعية لليد تُظهر الفراغات بين السلاميات بشكل جيد وتُستخدم لتقييم التهاب المفاصل؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المائلة (Oblique)"],
+    "question": "أي وضعية لليد تُظهر الفراغات المفصلية بين السلاميات لتقييم التهاب المفاصل؟",
+    "options": ["الوضعية AP", "الوضعية PA", "الوضعية الجانبية", "الوضعية المائلة (Oblique)"],
     "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/13587840/6d5c18e3e314af3c97a16365a5756efeb9dd7c145eb0dcf2675804533caf9f48_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الرسغ الجانبية التي تُظهر المحور الطويل للرسغ وعظام الساعد؟",
-    "options": ["وضعية الرسغ الأمامية الخلفية (AP)", "وضعية الرسغ الخلفية الأمامية (PA)", "وضعية الرسغ الجانبية (Lateral)", "وضعية الرسغ المائلة"],
+    "question": "ما هي وضعية الرسغ الجانبية التي تُظهر المحور الطولي للرسغ؟",
+    "options": ["الوضعية AP", "الوضعية PA", "الوضعية الجانبية (Lateral)", "الوضعية المحورية"],
     "correctIndex": 2,
     "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
   },
   {
-    "question": "ما هي وضعية الكوع القياسية التي تُظهر العضد والزند والكعبرة؟",
-    "options": ["وضعية الكوع الأمامية الخلفية (AP)", "وضعية الكوع الخلفية الأمامية (PA)", "وضعية الكوع الجانبية", "وضعية الكوع المائلة"],
+    "question": "ما هي وضعية الكوع القياسية التي تُظهر العضد والزند والكعبرة معاً؟",
+    "options": ["وضعية الكوع AP", "وضعية الكوع PA", "وضعية الكوع الجانبية", "وضعية الكوع المائلة"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/13584773/160f837f0e87cd5d8097b71c5c32e3d821753111285b6e8dcb0554a73c29e5db_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الكتف القياسية (AP) التي تُظهر مفصل الكتف وعظم العضد؟",
-    "options": ["وضعية الكتف الأمامية الخلفية (AP)", "وضعية الكتف الخلفية الأمامية (PA)", "وضعية الكتف الجانبية (Scapular Y)", "وضعية الكتف المحورية (Axillary)"],
+    "question": "ما هي وضعية الكتف AP التي تُظهر مفصل الكتف ورأس العضد؟",
+    "options": ["وضعية الكتف AP", "وضعية Scapular Y", "وضعية Axillary", "وضعية الكتف PA"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الركبة الجانبية التي تُظهر الرضفة والمسافة بين عظم الفخذ والظنبوب؟",
-    "options": ["وضعية الركبة الأمامية الخلفية (AP)", "وضعية الركبة الخلفية الأمامية (PA)", "وضعية الركبة الجانبية (Lateral)", "وضعية الركبة المائلة"],
+    "question": "ما هي وضعية الركبة الجانبية التي تُظهر الرضفة والمسافة بين الفخذ والظنبوب؟",
+    "options": ["وضعية الركبة AP", "وضعية الركبة PA", "وضعية الركبة الجانبية (Lateral)", "وضعية الركبة المائلة"],
     "correctIndex": 2,
     "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
   },
   {
-    "question": "ما هي وضعية الركبة المحورية (Skyline) التي تستخدم لتقييم الرضفة؟",
-    "options": ["وضعية الركبة الأمامية الخلفية (AP)", "وضعية الركبة الجانبية", "وضعية الركبة المحورية (Sunrise)", "وضعية الركبة المائلة"],
+    "question": "ما هي وضعية الركبة المحورية (Skyline/Sunrise) المستخدمة لتقييم الرضفة؟",
+    "options": ["وضعية الركبة AP", "وضعية الركبة الجانبية", "وضعية الركبة المحورية (Sunrise)", "وضعية الركبة المائلة"],
     "correctIndex": 2,
     "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
   },
   {
     "question": "ما هي وضعية الكاحل الجانبية التي تظهر عظم الكعب والظنبوب والشظية؟",
-    "options": ["وضعية الكاحل الأمامية الخلفية (AP)", "وضعية الكاحل الجانبية (Lateral)", "وضعية الكاحل المائلة (Mortise)", "وضعية الكاحل المحورية"],
+    "options": ["وضعية الكاحل AP", "وضعية الكاحل الجانبية (Lateral)", "وضعية الكاحل المائلة (Mortise)", "وضعية الكاحل المحورية"],
     "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/61842235/192c32c862386fa52562b03def2129e7f5fcf097f4e6cdd682f47de59840cc80_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية القدم الظهرية الأخمصية (Dorsoplantar) التي توضح عظام القدم؟",
-    "options": ["وضعية القدم الأمامية الخلفية (AP)", "وضعية القدم الخلفية الأمامية (PA)", "وضعية القدم الظهرية الأخمصية (Dorsoplantar)", "وضعية القدم الجانبية"],
+    "question": "ما هي وضعية القدم التي توضح عظام القدم بشكل قياسي؟",
+    "options": ["وضعية القدم AP", "وضعية القدم PA", "وضعية القدم الظهرية الأخمصية (Dorsoplantar)", "وضعية القدم الجانبية"],
     "correctIndex": 2,
     "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
   },
   {
     "question": "ما هي وضعية العمود الفقري القطني الجانبية التي تظهر الأجسام الفقرية والأقراص؟",
-    "options": ["وضعية العمود الفقري القطني الأمامية الخلفية (AP)", "وضعية العمود الفقري القطني الجانبية (Lateral)", "وضعية العمود الفقري القطني المائلة", "وضعية العمود الفقري القطني المحورية"],
+    "options": ["الوضعية AP", "الوضعية الجانبية (Lateral)", "الوضعية المائلة", "الوضعية المحورية"],
     "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
     "question": "ما هي وضعية العمود الفقري الرقبي الجانبية التي تظهر الفقرات الرقبية السبعة؟",
-    "options": ["وضعية العمود الفقري الرقبي الأمامية الخلفية (AP)", "وضعية العمود الفقري الرقبي الجانبية (Lateral)", "وضعية العمود الفقري الرقبي المائلة", "وضعية الأودونتويد (Odontoid)"],
+    "options": ["الوضعية AP", "الوضعية الجانبية (Lateral)", "الوضعية المائلة", "وضعية الأودونتويد"],
     "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الأودونتويد (فتحة الفم) المستخدمة لتقييم الفقرة الرقبية الثانية؟",
-    "options": ["وضعية العمود الفقري الرقبي الأمامية الخلفية (AP)", "وضعية العمود الفقري الرقبي الجانبية", "وضعية الأودونتويد (Open Mouth)", "وضعية المائلة"],
+    "question": "ما هي وضعية فتحة الفم (Open Mouth) المستخدمة لتقييم الفقرة الرقبية الثانية (الأودونتويد)؟",
+    "options": ["وضعية الرقبة AP", "وضعية الرقبة الجانبية", "وضعية الأودونتويد (Open Mouth)", "الوضعية المائلة"],
     "correctIndex": 2,
     "image": "https://prod-images-static.radiopaedia.org/images/23089841/a82f9cbbdddf7fe1417dfbf586b62f_big_gallery.jpg"
   },
   {
-    "question": "ما هي وضعية الحوض الأمامية الخلفية (AP) التي تظهر العظام الحرقفية والعانة والوركين؟",
-    "options": ["وضعية الحوض الأمامية الخلفية (AP)", "وضعية الحوض الخلفية الأمامية (PA)", "وضعية الحوض الجانبية", "وضعية الحوض المائلة"],
+    "question": "ما هي وضعية الحوض AP القياسية التي تظهر العظام الحرقفية والعانة والوركين؟",
+    "options": ["وضعية الحوض AP", "وضعية الحوض PA", "وضعية الحوض الجانبية", "وضعية الحوض المائلة"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الورك الأمامية الخلفية (AP) التي تُظهر رأس عظم الفخذ والحُق؟",
-    "options": ["وضعية الورك الأمامية الخلفية (AP)", "وضعية الورك الجانبية (Frog Leg)", "وضعية الورك المائلة", "وضعية الورك المحورية"],
-    "correctIndex": 0,
-    "image": "https://jomi.com/api/files/preopaprhip.jpg"
-  },
-  {
-    "question": "ما هي وضعية الترقوة الأمامية الخلفية (AP) التي تظهر الترقوة بالكامل؟",
-    "options": ["وضعية الترقوة الأمامية الخلفية (AP)", "وضعية الترقوة الخلفية الأمامية (PA)", "وضعية الترقوة الجانبية", "وضعية مفصل الكتف الترقوي (AC Joint)"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية عظم القص الجانبية التي تظهر الجسم واليد?",
-    "options": ["وضعية عظم القص الأمامية الخلفية (AP)", "وضعية عظم القص الخلفية الأمامية (PA)", "وضعية عظم القص الجانبية (Lateral)", "وضعية عظم القص المائلة"],
-    "correctIndex": 2,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sternum_lateral.jpg/300px-Sternum_lateral.jpg"
-  },
-  {
-    "question": "ما هي وضعية الجمجمة الجانبية التي تظهر خطوط الجمجمة والجيوب الأنفية والقحف؟",
-    "options": ["وضعية الجمجمة الجانبية (Lateral)", "وضعية الجمجمة الأمامية الخلفية (AP)", "وضعية الجمجمة الخلفية الأمامية (PA)", "وضعية ووترز (Waters)"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
-  },
-  {
-    "question": "ما هي وضعية ووترز (Waters) المستخدمة في تصوير الجيوب الأنفية؟",
-    "options": ["وضعية الجمجمة الجانبية", "وضعية ووترز (Occipitomental)", "وضعية كالدويل (Caldwell)", "وضعية تاون (Towne)"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية كالدويل (Caldwell) المستخدمة في تصوير الجيوب الأنفية؟",
-    "options": ["وضعية ووترز", "وضعية كالدويل (PA مع ميلان)", "وضعية تاون", "وضعية الجانبية"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593520/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية تاون (Towne) المستخدمة في تصوير المنطقة الخلفية للجمجمة والعظم القذالي؟",
-    "options": ["وضعية الجمجمة الجانبية", "وضعية تاون (AP مع ميلان نحو القدم)", "وضعية ووترز", "وضعية كالدويل"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593523/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية عظام الأنف الجانبية التي تظهر عظم الأنف؟",
-    "options": ["وضعية الأنف الجانبية (Lateral Nasal Bone)", "وضعية الأنف الأمامية الخلفية (AP)", "وضعية ووترز", "وضعية كالدويل"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/9470064/507281cb5c0347e7d0bbfeddfc476c_gallery.jpg"
-  },
-  {
-    "question": "ما هي وضعية الفك السفلي المائلة (Oblique) التي تظهر الفروع الصاعدة للفك؟",
-    "options": ["وضعية الفك السفلي الأمامية الخلفية (AP)", "وضعية الفك السفلي الجانبية", "وضعية الفك السفلي المائلة", "وضعية تاون"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/12073744/5c0dc8bf06798c6db06cd168df4d9a_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الكوع المائلة (Oblique) التي تظهر مفصل الكوع بشكل جانبي مع دوران الساعد؟",
-    "options": ["وضعية الكوع الأمامية الخلفية (AP)", "وضعية الكوع الجانبية", "وضعية الكوع المائلة (Internal/External Rotation)", "وضعية الكوع المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587541/98bb80b803ec2065bc1470ed51a6d1_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية المعصم في قبضة اليد (Fist) المستخدمة لتقييم المفصل الرسغي الزندي؟",
-    "options": ["وضعية المعصم الأمامية الخلفية (AP)", "وضعية المعصم الخلفية الأمامية (PA)", "وضعية المعصم الجانبية", "وضعية قبضة اليد (Clenched Fist)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13585856/7e82b270ddf6e0adc2e37136d2861c_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية التصوير الخاصة بالعظم الزورقي (Scaphoid) مع تمديد المعصم وانحرافه زندياً؟",
-    "options": ["وضعية المعصم الأمامية الخلفية (AP)", "وضعية المعصم الخلفية الأمامية (PA)", "وضعية المعصم الجانبية", "وضعية الزورقي (Scaphoid View)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587542/e7e7d8204f7f69192e32161a918240_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الكتف المحورية (Axillary) التي تُظهر مفصل الكتف من الأسفل؟",
-    "options": ["وضعية الكتف الأمامية الخلفية (AP)", "وضعية الكتف الخلفية الأمامية (PA)", "وضعية الكتف المحورية (Axillary)", "وضعية الكتف (Scapular Y)"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587243/10335461f8420e146184784cb310e1_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الكتف (Scapular Y) التي تُظهر لوح الكتف والرأس العضدي بشكل جانبي؟",
-    "options": ["وضعية الكتف الأمامية الخلفية (AP)", "وضعية الكتف الخلفية الأمامية (PA)", "وضعية الكتف (Scapular Y) الجانبية", "وضعية الكتف المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13585993/bb3e0392fe5c730db60c5ac3fa2ceb_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الركبة المائلة (Oblique) التي تظهر الفراغات بين اللقمتين؟",
-    "options": ["وضعية الركبة الأمامية الخلفية (AP)", "وضعية الركبة الجانبية", "وضعية الركبة المائلة (Internal/External Rotation)", "وضعية الركبة المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13586037/1b97f6c3e49ec13ae6fb888f1b42f1_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الكاحل المائلة (Mortise) التي تظهر مفصل الكاحل بزاوية 15-20 درجة؟",
-    "options": ["وضعية الكاحل الأمامية الخلفية (AP)", "وضعية الكاحل الجانبية", "وضعية الكاحل المائلة (Mortise)", "وضعية الكاحل المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/61842237/49c77546f4c3bdefe74de1b5177ecf_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية عظم الكعب الجانبية (Axial) التي تظهر عظم الكعب من الأسفل؟",
-    "options": ["وضعية الكاحل الأمامية الخلفية (AP)", "وضعية الكاحل الجانبية", "وضعية عظم الكعب المحورية (Calcaneal Axial)", "وضعية القدم الظهرية الأخمصية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587279/f9a54ed07ec79da2d92723780349f7_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية العمود الفقري الصدري الجانبية (Lateral) التي تظهر الفقرات الصدرية؟",
-    "options": ["وضعية العمود الفقري الصدري الأمامية الخلفية (AP)", "وضعية العمود الفقري الصدري الجانبية", "وضعية العمود الفقري الصدري المائلة", "وضعية العمود الفقري الصدري المحورية"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587779/c8ba5fd99a2cb5ed9cc51bf56b4174_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية العمود الفقري القطني المائلة (Oblique) التي تظهر المفاصل الفقرية الجانبية؟",
-    "options": ["وضعية العمود الفقري القطني الأمامية الخلفية (AP)", "وضعية العمود الفقري القطني الجانبية", "وضعية العمود الفقري القطني المائلة", "وضعية العمود الفقري القطني المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13586211/7cc3ae8c22f1ac6c3f6387b15cb33f_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الحوض المائلة (Oblique) التي تظهر المفصل الحرقفي العجزي؟",
-    "options": ["وضعية الحوض الأمامية الخلفية (AP)", "وضعية الحوض الجانبية", "وضعية الحوض المائلة (Sacroiliac Joints)", "وضعية الحوض المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13586254/fdb7f721a549843718d0fec316f73a_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الورك الجانبية (Frog Leg) التي تظهر رأس عظم الفخذ من الجانب؟",
-    "options": ["وضعية الورك الأمامية الخلفية (AP)", "وضعية الورك الجانبية (Frog Leg)", "وضعية الورك المائلة", "وضعية الورك المحورية"],
+    "question": "ما هي وضعية الورك الجانبية (Frog Leg) التي تظهر رأس الفخذ من الجانب؟",
+    "options": ["وضعية الورك AP", "وضعية Frog Leg", "وضعية الورك المائلة", "وضعية الورك المحورية"],
     "correctIndex": 1,
     "image": "https://prod-images-static.radiopaedia.org/images/13587676/52e8427af248ee84611ac1231f3218_big_gallery.jpeg"
   },
   {
-    "question": "ما هي وضعية الجمجمة الأمامية الخلفية (AP) التي تظهر عظام القحف؟",
-    "options": ["وضعية الجمجمة الجانبية", "وضعية الجمجمة الأمامية الخلفية (AP)", "وضعية الجمجمة الخلفية الأمامية (PA)", "وضعية تاون"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593462/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية الجمجمة الخلفية الأمامية (PA) التي تظهر الجيوب الأمامية؟",
-    "options": ["وضعية الجمجمة الجانبية", "وضعية الجمجمة الأمامية الخلفية (AP)", "وضعية الجمجمة الخلفية الأمامية (PA)", "وضعية ووترز"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593469/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية التصوير التي تظهر فيها الصورة بشكل مقلوب (على سبيل المثال عند استخدام جهاز محمول)؟",
-    "options": ["وضعية (AP) محمول", "وضعية (PA) قياسي", "وضعية جانبية", "وضعية مائلة"],
+    "question": "ما هي وضعية الجمجمة الجانبية التي تظهر القحف والجيوب الأنفية؟",
+    "options": ["وضعية الجمجمة الجانبية (Lateral)", "وضعية الجمجمة AP", "وضعية ووترز", "وضعية كالدويل"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/20747422/6edb4d5a5b1cf443db30a6fcd9e562_big_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
   },
   {
-    "question": "ما هي وضعية (Decubitus) المستخدمة لتقييم الانصباب الجنبي أو الهواء الحر في البطن؟",
-    "options": ["وضعية الاستلقاء (Supine)", "وضعية الانبطاح (Prone)", "وضعية الاستلقاء الجانبي (Lateral Decubitus)", "وضعية الجلوس"],
+    "question": "ما هي وضعية ووترز (Waters/Occipitomental) المستخدمة لتصوير الجيوب الفكية؟",
+    "options": ["الوضعية الجانبية", "وضعية ووترز (Occipitomental)", "وضعية كالدويل", "وضعية تاون"],
+    "correctIndex": 1,
+    "image": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية كالدويل (Caldwell) التي تُظهر الجيوب الأمامية والغربالية؟",
+    "options": ["وضعية ووترز", "وضعية كالدويل (PA مع ميلان)", "وضعية تاون", "الوضعية الجانبية"],
+    "correctIndex": 1,
+    "image": "https://prod-images-static.radiopaedia.org/images/58593520/0._big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية تاون (Towne) المستخدمة لتصوير العظم القذالي والمخيخ؟",
+    "options": ["الوضعية الجانبية", "وضعية تاون (AP مع ميلان نحو القدم)", "وضعية ووترز", "وضعية كالدويل"],
+    "correctIndex": 1,
+    "image": "https://prod-images-static.radiopaedia.org/images/58593523/0._big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية الكتف المحورية (Axillary) التي تُظهر مفصل الكتف من الأسفل؟",
+    "options": ["وضعية الكتف AP", "وضعية Scapular Y", "وضعية Axillary", "وضعية الكتف PA"],
     "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587243/10335461f8420e146184784cb310e1_big_gallery.jpeg"
   },
   {
-    "question": "ما هو الخطأ الشائع في تصوير الصدر PA عندما يكون المريض مدوراً (Rotated)؟",
-    "options": ["تبدو الأضلاع غير متناظرة والقصبة الهوائية منحرفة", "تبدو الرئتان مظلمتان", "يظهر القلب متضخماً", "تختفي الزوايا الضلعية الحجابية"],
+    "question": "ما هي وضعية Scapular Y التي تُظهر لوح الكتف والرأس العضدي بشكل جانبي؟",
+    "options": ["وضعية الكتف AP", "وضعية Axillary", "وضعية Scapular Y", "وضعية الكتف PA"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/13585993/bb3e0392fe5c730db60c5ac3fa2ceb_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية الكاحل المائلة (Mortise) التي تظهر مفصل الكاحل بزاوية 15-20 درجة؟",
+    "options": ["وضعية الكاحل AP", "وضعية الكاحل الجانبية", "وضعية Mortise", "وضعية الكاحل المحورية"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/61842237/49c77546f4c3bdefe74de1b5177ecf_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية عظم الكعب المحورية (Calcaneal Axial) التي تظهر عظم الكعب من الأسفل؟",
+    "options": ["وضعية الكاحل AP", "وضعية الكاحل الجانبية", "وضعية Calcaneal Axial", "وضعية القدم Dorsoplantar"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587279/f9a54ed07ec79da2d92723780349f7_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية العمود الفقري القطني المائلة التي تظهر المفاصل الفقرية الجانبية؟",
+    "options": ["الوضعية AP", "الوضعية الجانبية", "الوضعية المائلة (Oblique)", "الوضعية المحورية"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/13586211/7cc3ae8c22f1ac6c3f6387b15cb33f_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية الحوض المائلة المستخدمة لتقييم المفصل الحرقفي العجزي؟",
+    "options": ["وضعية الحوض AP", "وضعية الحوض الجانبية", "وضعية الحوض المائلة (Sacroiliac Joints)", "وضعية الحوض المحورية"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/13586254/fdb7f721a549843718d0fec316f73a_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية الزورقي (Scaphoid View) مع تمديد المعصم وانحرافه زندياً؟",
+    "options": ["وضعية الرسغ AP", "وضعية الرسغ PA", "وضعية الرسغ الجانبية", "وضعية Scaphoid View"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587542/e7e7d8204f7f69192e32161a918240_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية قبضة اليد (Clenched Fist) المستخدمة لتقييم المفصل الرسغي الزندي؟",
+    "options": ["وضعية المعصم AP", "وضعية المعصم PA", "وضعية المعصم الجانبية", "وضعية Clenched Fist"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13585856/7e82b270ddf6e0adc2e37136d2861c_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية عظم القص الجانبية التي تظهر الجسم واليد؟",
+    "options": ["وضعية القص AP", "وضعية القص PA", "وضعية القص الجانبية (Lateral)", "وضعية القص المائلة"],
+    "correctIndex": 2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sternum_lateral.jpg/300px-Sternum_lateral.jpg"
+  },
+  {
+    "question": "ما هي وضعية الترقوة AP القياسية التي تظهر الترقوة بالكامل؟",
+    "options": ["وضعية الترقوة AP", "وضعية الترقوة PA", "وضعية الترقوة الجانبية", "وضعية مفصل الكتف الترقوي"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية الفك السفلي المائلة التي تظهر الفروع الصاعدة للفك؟",
+    "options": ["وضعية الفك AP", "وضعية الفك الجانبية", "وضعية الفك المائلة (Oblique)", "وضعية تاون"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/12073744/5c0dc8bf06798c6db06cd168df4d9a_big_gallery.jpeg"
+  },
+  {
+    "question": "ما هي وضعية عظام الأنف الجانبية التي تظهر عظم الأنف؟",
+    "options": ["وضعية الأنف الجانبية (Lateral Nasal Bone)", "وضعية الأنف AP", "وضعية ووترز", "وضعية كالدويل"],
+    "correctIndex": 0,
+    "image": "https://prod-images-static.radiopaedia.org/images/9470064/507281cb5c0347e7d0bbfeddfc476c_gallery.jpg"
+  },
+  {
+    "question": "ما هو الخطأ الشائع في تصوير الصدر PA عندما يكون المريض مدوراً؟",
+    "options": ["الأضلاع غير متناظرة والقصبة الهوائية منحرفة", "الرئتان مظلمتان", "القلب يبدو متضخماً", "الزوايا الضلعية الحجابية تختفي"],
     "correctIndex": 0,
     "image": "https://prod-images-static.radiopaedia.org/images/18975222/3e3c5f33a07b8689d7bd722fdd04cc_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة مشوهة (Elongation) في الأطراف عند عدم محاذاة الأنبوب مع المفصل؟",
-    "options": ["انحراف الأنبوب عن العمودي", "حركة المريض", "زيادة mAs", "استخدام شبكة غير مناسبة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2088302/9a5f4c3e670b3ca2afc9b7bb7f4f4c_gallery.jpeg"
+    "question": "ما هي وضعية الورك المحورية (Lateral Hip) المستخدمة لتقييم زاوية العنق الفخذي؟",
+    "options": ["وضعية الورك AP", "وضعية Frog Leg", "وضعية الورك الجانبية (Lateral)", "وضعية الورك المائلة"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587676/52e8427af248ee84611ac1231f3218_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة مقطوعة (Cut-off) عند استخدام الشبكة (Grid) بشكل مقلوب؟",
-    "options": ["ظهور خطوط بيضاء أفقية على الصورة", "ظهور خطوط سوداء", "انخفاض التباين", "زيادة التشويش"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2105481/5c703bcfb89eae003ed8d5b52d4a17_gallery.jpeg"
+    "question": "ما هي وضعية الكوع المائلة (Oblique) التي تظهر المرفق مع دوران الساعد؟",
+    "options": ["وضعية الكوع AP", "وضعية الكوع الجانبية", "وضعية الكوع المائلة (Internal/External Rotation)", "وضعية الكوع المحورية"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587541/98bb80b803ec2065bc1470ed51a6d1_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير زيادة التيار (mAs) بشكل كبير على الصورة الشعاعية؟",
-    "options": ["تصبح الصورة فاتحة (كثافة عالية)", "تصبح الصورة داكنة (كثافة منخفضة)", "يزداد التباين", "تقل الحدة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/4839323/underexposed_chest_xray_gallery.jpeg"
+    "question": "ما هي وضعية الركبة المائلة التي تظهر الفراغات بين اللقمتين؟",
+    "options": ["وضعية الركبة AP", "وضعية الركبة الجانبية", "وضعية الركبة المائلة (Internal/External Rotation)", "وضعية الركبة المحورية"],
+    "correctIndex": 2,
+    "image": "https://prod-images-static.radiopaedia.org/images/13586037/1b97f6c3e49ec13ae6fb888f1b42f1_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير انخفاض الجهد (kVp) على تباين الصورة؟",
-    "options": ["يزيد التباين (Short Scale)", "يقل التباين (Long Scale)", "لا يؤثر", "يقلل الوضوح"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206765/7a1c6d0df9ebda04a8723ce8a750b0_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة ضبابية (Blurring) في التصوير الشعاعي؟",
-    "options": ["حركة المريض أثناء التصوير", "انخفاض kVp", "زيادة SID", "استخدام فلتر كثيف"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2107750/a0a1f893ba3a7be6d10ff6950e60f2_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور جسم غريب (معدني) في الصورة بشكل أبيض ساطع مع تشويش حوله؟",
-    "options": ["وجود مجوهرات أو أزرار معدنية", "وجود هواء", "وجود سوائل", "وجود تكلسات"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2105491/6e7b9af16c633828f1d2450fadf828_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور خطوط على شكل حلقات (Grid Lines) في الصورة؟",
-    "options": ["استخدام شبكة ساكنة مع حركة غير كافية", "انحراف الأنبوب", "زيادة mAs", "استخدام فلتر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2105480/55bce7129c29b907286a5a82b166be_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير زيادة مسافة المصدر للفيلم (SID) على كثافة الصورة؟",
-    "options": ["تقل الكثافة (تصبح أفتح)", "تزيد الكثافة (تصبح أغمق)", "لا تؤثر", "تزيد التباين"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206764/558a5ec9d6d65e3cd9e85f8b1d8f77_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور ظل مزدوج (Double Exposure) في الصورة؟",
-    "options": ["التعريض مرتين على نفس الفيلم", "حركة المريض", "خطأ في الشبكة", "خلل في الكاشف"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2105493/2f32a6335c7f89f8f0b64bcd0f721b_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور صورة ذات تباين ضعيف (Long Scale)؟",
-    "options": ["استخدام جهد عالي (kVp) عالٍ", "استخدام جهد منخفض", "زيادة mAs", "استخدام شبكة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206763/7ccb0c5f8c498d28db0dd42070b4e4_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المصطلح المستخدم لوصف القدرة على تمييز التفاصيل الصغيرة في الصورة؟",
-    "options": ["التباين (Contrast)", "الدقة المكانية (Spatial Resolution)", "الكثافة (Density)", "التشوه (Distortion)"],
+    "question": "ما هي وضعية العمود الفقري الصدري الجانبية التي تظهر الفقرات الصدرية؟",
+    "options": ["الوضعية AP", "الوضعية الجانبية (Lateral)", "الوضعية المائلة", "الوضعية المحورية"],
     "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206762/b78bd7d49aac3c3403a7cb8921b0c3_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587779/c8ba5fd99a2cb5ed9cc51bf56b4174_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور صورة باهتة (Low Density) رغم زيادة mAs؟",
-    "options": ["انخفاض kVp بشكل كبير", "خلل في محول الجهد", "زيادة OID", "استخدام فلتر سميك"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206761/ca7d81f3515d87662d01b24927f4b0_gallery.jpeg"
-  },
-  {
-    "question": "ما هي ظاهرة (Heel Effect) التي تحدث في أنبوب الأشعة؟",
-    "options": ["انخفاض شدة الأشعة في جهة الأنود مقارنة بالكاثود", "زيادة شدة الأشعة في جهة الأنود", "تساوي الشدة في جميع الاتجاهات", "ظهور خطوط سوداء"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206760/a4c4c9d8a02f8c9d0d5f737f1cbd4c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة مشوشة (Artifact) بسبب خطوط موجة (Zebra) عند استخدام بعض الكاشفات الرقمية؟",
-    "options": ["تداخل الترددات الكهربائية", "حركة الشبكة", "زيادة الجرعة", "خلل في البرمجيات"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2105490/7ae5d7fccbf151c2d98b4d21349df8_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير استخدام منطقة تركيز كبيرة (Large Focal Spot) على الصورة؟",
-    "options": ["تقليل الدقة المكانية (Blurring)", "زيادة الدقة", "زيادة التباين", "لا تأثير"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206759/b9b8e12e9fc64d7f5c2cc02e2faecd_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة معكوسة (Reversed) عند استخدام جهاز محمول بشكل خاطئ؟",
-    "options": ["اتجاه الحزمة معكوس", "خطأ في وضع الفيلم", "زيادة kVp", "استخدام شبكة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2105492/5b9c1f1a3b5067c3aed4b54a37f4d3_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور بقع داكنة (Fog) على الصورة الشعاعية؟",
-    "options": ["تسرب الضوء إلى الفيلم", "زيادة mAs", "زيادة kVp", "استخدام فلتر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2105482/4f007a3a2c9f3df2cb5f3d1a5a1b6e_gallery.jpeg"
-  },
-  {
-    "question": "ما هو مصطلح الـ (Quantum Mottle) في الصور الرقمية؟",
-    "options": ["تشويش ناتج عن قلة الفوتونات (جرعة منخفضة)", "تشويش ناتج عن حركة المريض", "تشويش ناتج عن الشبكة", "تشويش ناتج عن التيار"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206758/4d5c1b4c26c8f90f0b7a5c2a84e072_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة ذات كثافة غير متساوية (على سبيل المثال جانب أكثر بياضاً)؟",
-    "options": ["تأثير الكعب (Heel Effect)", "خطأ في التعريض", "حركة الشبكة", "زيادة SID"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206757/9f8ea9d9c6956c60a44d0a0c3f15d6_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور خطوط عمودية (Grid Cut-off) عند استخدام شبكة غير متوافقة مع اتجاه الحزمة؟",
-    "options": ["عدم توازي الشبكة مع الحزمة", "زيادة mAs", "انخفاض kVp", "حركة المريض"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2105480/55bce7129c29b907286a5a82b166be_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير زيادة مسافة الجسم عن الفيلم (OID) على الصورة؟",
-    "options": ["تكبير الصورة وتقليل الوضوح", "تقليل الحجم", "زيادة التباين", "زيادة الكثافة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206756/9cda6ccb5c6b3a6b48faa5108e828d_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور ظلال (Shadows) ناتجة عن الملابس أو الضمادات في الصورة؟",
-    "options": ["وجود أجسام غريبة ذات كثافة عالية أو منخفضة", "زيادة الجرعة", "خطأ في الشبكة", "حركة المريض"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2105491/6e7b9af16c633828f1d2450fadf828_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المصطلح الذي يصف قياس شدة الإشعاع عند نقطة معينة في الحزمة؟",
-    "options": ["الجرعة (Dose)", "الفيض (Fluence)", "الكثافة (Intensity)", "الجهد (Voltage)"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206755/8d7a5d8c0fb2fa0d4eb98f5c1d4a5f_gallery.jpeg"
-  },
-  {
-    "question": "ما هو الفرق بين الأشعة السينية والأشعة المقطعية من حيث التباين الطبيعي؟",
-    "options": ["الأشعة المقطعية تظهر تبايناً أفضل بين الأنسجة الرخوة", "الأشعة السينية تظهر تبايناً أفضل", "كلاهما متماثل", "لا يوجد فرق"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206754/9a2b4e3e1f7d8c9a0b5c4d3e2f1a0b_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير زيادة الوقت (Time) في التصوير الشعاعي؟",
-    "options": ["زيادة الجرعة والكثافة", "تقليل الجرعة", "زيادة التباين", "لا تأثير"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206753/7b6c5d4e3f2a1b0c9d8e7f6a5b4c3d_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور صور ذات جودة منخفضة في التصوير الرقمي بسبب ضغط الصورة؟",
-    "options": ["فقدان البيانات (Lossy compression)", "زيادة الدقة", "زيادة التباين", "لا تأثير"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206752/6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو مصطلح (Artifact) الناتج عن وجود هواء بين الجلد والكاشف في التصوير الرقمي؟",
-    "options": ["تشويش بسبب فجوة الهواء", "تشويش بسبب الشبكة", "تشويش بسبب الحركة", "تشويش بسبب الجهد"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206751/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير استخدام فلتر (Aluminum) إضافي على الصورة؟",
-    "options": ["تقليل الجرعة للمريض وتحسين جودة الحزمة", "زيادة الجرعة", "زيادة التباين", "تقليل الوضوح"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206750/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة مقلوبة رأساً على عقب (Upside down) في التصوير الرقمي؟",
-    "options": ["خطأ في برمجة اتجاه الكاشف", "حركة المريض", "زيادة الجهد", "استخدام شبكة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206749/3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المصطلح المستخدم لوصف قدرة الفيلم على تسجيل تدرجات الرمادي؟",
-    "options": ["النطاق الديناميكي (Dynamic Range)", "التباين", "الدقة", "الكثافة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206748/2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور تشويش على شكل شبكة (Moiré) في الصور الرقمية؟",
-    "options": ["تداخل ترددات الكاشف مع ترددات الشبكة", "حركة المريض", "زيادة الجرعة", "خطأ في الفلتر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206747/1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير استخدام (Grid) على جرعة المريض؟",
-    "options": ["تزيد الجرعة لأنها تتطلب زيادة mAs", "تقلل الجرعة", "لا تؤثر", "تقلل التباين"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206746/0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور خطوط أفقية في الصورة عند استخدام التصوير الرقمي المباشر (DR)؟",
-    "options": ["خلل في قراءة الكاشف (خطوط القراءة)", "حركة الشبكة", "زيادة الجرعة", "انخفاض kVp"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206745/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير زاوية ميلان أنبوب الأشعة عن العمودي على صورة المفصل؟",
-    "options": ["يسبب تشوهاً (Foreshortening أو Elongation)", "يزيد التباين", "يقلل التشويش", "لا يؤثر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206744/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور بقع بيضاء صغيرة (الضوضاء) في الصورة الرقمية عند الجرعة المنخفضة؟",
-    "options": ["الضوضاء الكمومية (Quantum Noise)", "تشويش حراري", "تشويش الشبكة", "تشويش المريض"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206743/7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير زيادة (SID) على التشوه الهندسي؟",
-    "options": ["يقل التشوه", "يزيد التشوه", "لا يؤثر", "يزيد التباين"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206742/6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو مصطلح (Exposure Index) في التصوير الرقمي؟",
-    "options": ["مؤشر على كمية الإشعاع المستقبلة من قبل الكاشف", "مؤشر على الجهد", "مؤشر على التباين", "مؤشر على الدقة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206741/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور صور ذات تباين عالٍ (Short Scale)؟",
-    "options": ["استخدام جهد منخفض (kVp)", "استخدام جهد عالٍ", "زيادة mAs", "تقليل SID"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206740/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المصطلح المستخدم لوصف الظل الناتج عن الأجسام الكثيفة في الصورة؟",
-    "options": ["التعتيم (Opacity)", "الشفافية (Lucency)", "التشوه", "التباين"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206739/3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة ذات حدة منخفضة (Blur) بسبب حجم البقعة البؤرية؟",
-    "options": ["زيادة حجم البقعة البؤرية (Focal Spot)", "انخفاض kVp", "زيادة mAs", "استخدام شبكة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206738/2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير (Automatic Exposure Control - AEC) على جودة الصورة؟",
-    "options": ["يحافظ على كثافة ثابتة بتعديل mAs", "يزيد التباين", "يقلل الدقة", "لا يؤثر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206737/1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة مقطوعة في الأطراف (Collimation مفرط)؟",
-    "options": ["تحديد مجال صغير جداً (Over-collimation)", "زيادة الجرعة", "انخفاض الجهد", "حركة المريض"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206736/0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو الغرض من استخدام (Grid) في التصوير الشعاعي؟",
-    "options": ["تقليل الإشعاع المتشتت", "زيادة الجرعة", "زيادة التباين", "زيادة الدقة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206735/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو مصطلح (Penumbra) في الصورة الشعاعية؟",
-    "options": ["منطقة الضبابية حول الحواف", "التباين", "الكثافة", "التشوه"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206734/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور خطوط سوداء في الصورة بسبب عدم انتظام حركة الشبكة؟",
-    "options": ["خلل في آلية تحريك الشبكة", "زيادة mAs", "انخفاض kVp", "حركة المريض"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206733/7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير استخدام أنبوب ذي بقعة بؤرية صغيرة على الصورة؟",
-    "options": ["يزيد الدقة المكانية", "يقل الدقة", "يزيد التباين", "يقلل الجرعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206732/6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة مشوهة بسبب انحناء المريض أثناء التصوير؟",
-    "options": ["حركة المريض (Motion)", "خطأ في الشبكة", "خطأ في الجهد", "خطأ في الفلتر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206731/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو مصطلح (Spatial Resolution) في التصوير الشعاعي؟",
-    "options": ["القدرة على تمييز تفاصيل صغيرة", "التباين", "الكثافة", "التشويش"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206730/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة ذات ضبابية بسبب اهتزاز الجهاز؟",
-    "options": ["اهتزاز أنبوب الأشعة أو الكاشف", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206729/3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير استخدام (Anti-scatter grid) على الجرعة؟",
-    "options": ["يزيد الجرعة (لأنه يتطلب زيادة mAs لتعويض الامتصاص)", "يقلل الجرعة", "لا يؤثر", "يقلل التباين"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206728/2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المصطلح المستخدم للظاهرة التي تؤدي إلى زيادة كثافة الصورة عند الحواف (Edge Enhancement) في المعالجة الرقمية؟",
-    "options": ["ترشيح الحواف (Edge Filtering)", "زيادة التباين", "تكبير", "تقليل الضوضاء"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206727/1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة ذات تباين منخفض بسبب زيادة kVp؟",
-    "options": ["زيادة kVp تزيد من اختراق الأشعة وتقلل التباين", "زيادة kVp تزيد التباين", "لا تؤثر", "تزيد الدقة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206726/0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير استخدام (High mAs) على التشويش الكمومي؟",
-    "options": ["يقلل التشويش الكمومي", "يزيد التشويش", "لا يؤثر", "يزيد التباين"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206725/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو مصطلح (Density) في الصورة الشعاعية؟",
-    "options": ["مقدار السواد أو البياض في الصورة", "التباين", "الحدة", "التشويش"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206724/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة ذات كثافة عالية جداً (Overexposed)؟",
-    "options": ["زيادة mAs أو زيادة الوقت", "انخفاض kVp", "زيادة SID", "استخدام شبكة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206723/7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة باهتة جداً (Underexposed)؟",
-    "options": ["انخفاض mAs أو زيادة SID", "زيادة kVp", "استخدام شبكة", "زيادة الوقت"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206722/6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير ميلان المريض أثناء تصوير العمود الفقري على الصورة؟",
-    "options": ["يسبب انحراف في محاذاة الفقرات", "يزيد التباين", "يقلل الجرعة", "لا يؤثر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206721/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور خطوط مائلة في الصورة عند استخدام شبكة غير متوازنة؟",
-    "options": ["عدم توازي الشبكة مع الحزمة", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206720/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المصطلح المستخدم للقدرة على تمييز الأجسام القريبة من بعضها في الصورة؟",
-    "options": ["الدقة المكانية (Spatial Resolution)", "التباين", "الكثافة", "التشويش"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206719/3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور بقع داكنة غامضة في الصورة بسبب تسرب الضوء في غرفة التحميض؟",
-    "options": ["تسرب الضوء (Light Leak)", "زيادة mAs", "انخفاض kVp", "استخدام فلتر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206718/2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير استخدام فلتر (Copper) إضافي على الصورة؟",
-    "options": ["يزيد من صلابة الحزمة ويقلل الجرعة", "يزيد التباين", "يزيد الكثافة", "لا يؤثر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206717/1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو مصطلح (Artifact) في التصوير الشعاعي؟",
-    "options": ["ظاهرة غير مرغوب فيها تشوه الصورة", "زيادة التباين", "تحسين الدقة", "تقليل الجرعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206716/0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة مقطعة (Split) بسبب عطل في كاشف DR؟",
-    "options": ["خلل في وحدات الكاشف", "زيادة الجرعة", "انخفاض الجهد", "حركة المريض"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206715/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير استخدام (Collimation) الضيق على تشتت الإشعاع؟",
-    "options": ["يقلل التشتت ويحسن التباين", "يزيد التشتت", "لا يؤثر", "يزيد الجرعة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206714/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة ذات تشويش (Noise) عالٍ في التصوير الرقمي عند الجرعة المنخفضة؟",
-    "options": ["الضوضاء الكمومية", "الضوضاء الحرارية", "الضوضاء الكهربائية", "الضوضاء الميكانيكية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206713/7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير استخدام (High kVp) على جرعة المريض؟",
-    "options": ["تقلل الجرعة (لأنه يقلل الامتصاص)", "تزيد الجرعة", "لا تؤثر", "تزيد التباين"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206712/6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة بها خطوط متعرجة (Grid Moiré) في التصوير الرقمي؟",
-    "options": ["تداخل ترددات الشبكة مع ترددات الكاشف", "حركة الشبكة", "زيادة mAs", "انخفاض kVp"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206711/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو مصطلح (Latitude) في التصوير الشعاعي؟",
-    "options": ["مدى التحمل في التعريض الضوئي قبل أن تصبح الصورة غير مقبولة", "التباين", "الدقة", "الكثافة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206710/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة بها انعكاس (Reflection) بسبب وجود سطح عاكس؟",
-    "options": ["وجود أشعة منعكسة من الأجسام المحيطة", "زيادة الجرعة", "خطأ في الشبكة", "حركة المريض"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206709/3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير زيادة (OID) على تكبير الصورة؟",
-    "options": ["يزيد التكبير", "يقل التكبير", "لا يؤثر", "يقلل التباين"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206708/2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة مشوهة بسبب انحناء لوحة الكاشف (Detector curvature)؟",
-    "options": ["تشويه هندسي بسبب انحناء الكاشف", "حركة المريض", "زيادة الجرعة", "خطأ في الشبكة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206707/1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو تأثير استخدام (Grid) عالي التردد على الصورة؟",
-    "options": ["يحسن التباين بتقليل التشتت", "يزيد الجرعة", "يقلل الدقة", "لا يؤثر"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206706/0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو المصطلح المستخدم لوصف قدرة الفيلم على تسجيل التفاصيل الدقيقة؟",
-    "options": ["الدقة المكانية (Spatial Resolution)", "التباين", "الكثافة", "التشويش"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206705/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c_gallery.jpeg"
-  },
-  {
-    "question": "ما هو سبب ظهور الصورة بها خطوط عمودية (Vertical lines) في كاشف DR؟",
-    "options": ["خلل في قراءة الصفوف", "حركة المريض", "زيادة الجرعة", "انخفاض kVp"],
+    "question": "ما هي وضعية عظم العضد AP التي تظهر عظم العضد بالكامل؟",
+    "options": ["وضعية العضد AP", "وضعية العضد PA", "وضعية العضد الجانبية", "وضعية العضد المائلة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206704/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (Low kVp) على تباين الصورة؟",
-    "options": ["يزيد التباين (Short Scale)", "يقل التباين", "لا يؤثر", "يقلل الدقة"],
+    "question": "ما هي وضعية الساعد AP التي تظهر الكعبرة والزند؟",
+    "options": ["وضعية الساعد AP", "وضعية الساعد PA", "وضعية الساعد الجانبية", "وضعية الساعد المائلة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206703/7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13584773/160f837f0e87cd5d8097b71c5c32e3d821753111285b6e8dcb0554a73c29e5db_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة ذات تشويش (Noise) بسبب درجة حرارة الكاشف؟",
-    "options": ["الضوضاء الحرارية (Thermal Noise)", "الضوضاء الكمومية", "الضوضاء الكهربائية", "الضوضاء الميكانيكية"],
+    "question": "ما هي وضعية عظم الظنبوب والشظية AP التي تظهر الساق بالكامل؟",
+    "options": ["وضعية الساق AP", "وضعية الساق PA", "وضعية الساق الجانبية", "وضعية الساق المائلة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206702/6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (High mAs) على جرعة المريض؟",
-    "options": ["تزيد الجرعة", "تقل الجرعة", "لا تؤثر", "تقلل التباين"],
+    "question": "ما هي وضعية عظم الفخذ AP التي تظهر عظم الفخذ بالكامل؟",
+    "options": ["وضعية الفخذ AP", "وضعية الفخذ PA", "وضعية الفخذ الجانبية", "وضعية الفخذ المائلة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206701/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_gallery.jpeg"
+    "image": "https://jomi.com/api/files/preopaprhip.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة مقطوعة بسبب عدم كفاية مجال الرؤية (FOV) في التصوير الرقمي؟",
-    "options": ["تحديد مجال صغير جداً", "زيادة الجرعة", "انخفاض الجهد", "حركة المريض"],
+    "question": "ما هو المظهر الشعاعي لالتهاب الرئة البكتيري (Lobar Pneumonia)؟",
+    "options": ["تكدس قصبي متناسق (Consolidation) في فص واحد", "ارتشاح منتشر ثنائي الجانب", "تكلسات منتشرة", "انصباب جنبي"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206700/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/4236380/2fba8b6ee61af762b89f0f36b0afbc_big_gallery.jpeg"
   },
   {
-    "question": "ما هو مصطلح (Contrast Resolution) في التصوير الشعاعي؟",
-    "options": ["القدرة على تمييز اختلافات صغيرة في الكثافة", "الدقة المكانية", "التشويش", "الكثافة"],
+    "question": "ما هو المظهر الشعاعي للانصباب الجنبي (Pleural Effusion) في صورة الصدر الجانبية؟",
+    "options": ["تعتيم خلفي محدب يخفي الحجاب الحاجز", "تعتيم منتشر في كلا الرئتين", "تكلسات في القصبات", "فقاعات هوائية في الرئة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206699/3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/30767834/2e38c9f97b7b0e8b4e5a6f7c8d9e0f1_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها تشوه بسبب عدم محاذاة الحزمة مع مركز الكاشف؟",
-    "options": ["انحراف الحزمة عن المركز (Off-centering)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي للخراج الرئوي (Lung Abscess)؟",
+    "options": ["تجويف يحتوي على مستوى سائل-هواء مع جدار سميك", "تكدس صلب بدون تجويف", "ارتشاح منتشر حبيبي", "انخماص كامل للرئة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206698/2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/6430840/7a3b5c8d9e1f2a4b6c8d0e2f4a6b8c_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (Grid) بتردد عالٍ على الجرعة؟",
-    "options": ["يتطلب زيادة mAs وبالتالي زيادة الجرعة", "يقلل الجرعة", "لا يؤثر", "يقلل التباين"],
+    "question": "ما هو العلاج الأولي لالتهاب الرئة المكتسب من المجتمع (CAP) الخفيف إلى المتوسط؟",
+    "options": ["مضاد حيوي من مجموعة الماكروليدات أو أموكسيسيللين", "جراحة فورية", "علاج كيميائي", "علاج بالأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206697/1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/4236380/2fba8b6ee61af762b89f0f36b0afbc_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور بقع داكنة في الصورة بسبب الغبار على الكاشف؟",
-    "options": ["غبار على الكاشف", "زيادة mAs", "انخفاض kVp", "حركة المريض"],
+    "question": "ما هو المظهر الشعاعي للسل الرئوي (Pulmonary Tuberculosis) في المرحلة الأولية؟",
+    "options": ["تكدس في الفص السفلي مع تضخم العقد اللمفاوية hilum", "تكدس في قمة الرئة مع تجاويف", "انصباب جنبي كبير", "ارتشاح منتشر سفلي"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206696/0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/2667113/78a9b0c1d2e3f4a5b6c7d8e9f0a1b2_big_gallery.jpeg"
   },
   {
-    "question": "ما هو مصطلح (Image Quality) في التصوير الشعاعي؟",
-    "options": ["مجموعة من العوامل (التباين، الدقة، التشويش، التشوه)", "التباين فقط", "الدقة فقط", "الكثافة فقط"],
+    "question": "ما هو العلاج القياسي للسل الرئوي النشط؟",
+    "options": ["مزيج من أربعة أدوية (Isoniazid, Rifampicin, Pyrazinamide, Ethambutol) لمدة 6 أشهر", "مضاد حيوي واحد لمدة أسبوع", "جراحة استئصال الرئة", "علاج بالكورتيزون"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206695/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/2667113/78a9b0c1d2e3f4a5b6c7d8e9f0a1b2_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها خطوط أفقية بسبب تداخل الشبكة مع الكاشف؟",
-    "options": ["تداخل ترددات الشبكة مع الكاشف (Moiré)", "حركة المريض", "زيادة الجرعة", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي للانسداد الرئوي (Pulmonary Embolism) في صورة الصدر؟",
+    "options": ["منطقة نقص تروية على شكل وتد (Hampton's Hump) أو ارتفاع الحجاب الحاجز", "تكدس فصوي واضح", "تكلسات منتشرة", "توسع القصبات"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206694/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/19953680/1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير زيادة (SID) على كثافة الصورة حسب قانون التربيع العكسي؟",
-    "options": ["تقل الكثافة (تتناسب عكسياً مع مربع المسافة)", "تزيد الكثافة", "لا تؤثر", "تزيد التباين"],
+    "question": "ما هو العلاج الأولي للانسداد الرئوي الحاد الكبير؟",
+    "options": ["مضادات التخثر (Heparin) ثم Warfarin", "مضادات حيوية واسعة الطيف", "جراحة فورية", "علاج بالأكسجين فقط"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206693/7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/19953680/1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها ضبابية بسبب حركة الأعضاء الداخلية (مثل التنفس)؟",
-    "options": ["حركة فسيولوجية (Physiological Motion)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي للربو القصبي الحاد في صورة الصدر؟",
+    "options": ["توسع القصبات مع ارتشاح حبيبي منتشر وارتخاء الحجاب الحاجز", "تكدس فصوي صلب", "انصباب جنبي كبير", "تكلسات hilum"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206692/6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/4627035/9c8d7e6f5a4b3c2d1e0f9a8b7c6d5e_big_gallery.jpeg"
   },
   {
-    "question": "ما هو مصطلح (Subject Contrast) في التصوير الشعاعي؟",
-    "options": ["التباين الناتج عن اختلاف كثافة الأنسجة", "التباين الناتج عن الشبكة", "التباين الناتج عن الجهد", "التباين الناتج عن المعالجة"],
+    "question": "ما هو علاج نوبة الربو الحادة؟",
+    "options": ["موسعات القصبات (Salbutamol) مع كورتيكوستيرويدات systemic", "مضادات حيوية", "مضادات التخثر", "جراحة فورية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206691/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/4627035/9c8d7e6f5a4b3c2d1e0f9a8b7c6d5e_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة ذات كثافة غير متساوية بسبب (Heel Effect)؟",
-    "options": ["اختلاف شدة الحزمة بين جانبي الأنبوب", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي لسرطان الرئة ذو الخلايا غير الصغيرة (NSCLC) المركزي؟",
+    "options": ["كتلة مركزية مع انصمام قصبي وربما انخماصdistal", "عقيدات صغيرة متعددة في القمم", "تكلسات منتشرة", "توسع القصبات المنتشر"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206690/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/4603527/0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (Low mAs) على التشويش الكمومي؟",
-    "options": ["يزيد التشويش الكمومي", "يقلل التشويش", "لا يؤثر", "يزيد التباين"],
+    "question": "ما هو المظهر الشعاعي لالتهاب الشعب الهوائية المزمن (COPD)؟",
+    "options": ["توسع القصبات مع فرط انتفاخ الرئتين وانخفاض الحجاب الحاجز", "تكدس فصوي حاد", "انصباب جنبي ثنائي", "تكلسات غضروفية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206689/3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/3456589/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_big_gallery.jpeg"
   },
   {
-    "question": "ما هو المصطلح المستخدم لوصف درجة السواد في الصورة الشعاعية؟",
-    "options": ["الكثافة (Density)", "التباين", "الدقة", "التشويش"],
+    "question": "ما هو العلاج الداعم الرئيسي لمرضى COPD الحاد المتفاقم؟",
+    "options": ["موسعات القصبات قصيرة المفعول + كورتيكوستيرويدات + أكسجين مُتحكم به", "مضادات حيوية فقط", "جراحة استئصال فص", "علاج بالأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206688/2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/3456589/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها خطوط بيضاء بسبب خدوش في الكاشف؟",
-    "options": ["خدوش في الكاشف", "زيادة mAs", "انخفاض kVp", "حركة المريض"],
+    "question": "ما هو المظهر الشعاعي للقصور القلبي الاحتقاني (CHF) في صورة الصدر؟",
+    "options": ["توسع الأوعية الرئوية مع خطوط Kerley B وانصباب جنبي ثنائي وتوسع القلب", "رئة صافية تماماً", "تكدس فصوي واحد", "توسع قصبات منتشر"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206687/1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/2664951/3c2d1e0f9a8b7c6d5e4f3a2b1c0d9e_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (Positive Beam Limitation) على جودة الصورة؟",
-    "options": ["يقلل التشتت ويحسن التباين", "يزيد التشتت", "لا يؤثر", "يزيد الجرعة"],
+    "question": "ما هو العلاج الأولي لقصور القلب الاحتقاني الحاد؟",
+    "options": ["مدرات (Furosemide) + محصرات ACE + محدودية الملح", "مضادات حيوية", "جراحة فورية", "علاج بالأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206686/0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/2664951/3c2d1e0f9a8b7c6d5e4f3a2b1c0d9e_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة مقلوبة أفقياً (Mirrored) في التصوير الرقمي؟",
-    "options": ["خطأ في ضبط اتجاه الكاشف", "حركة المريض", "زيادة الجرعة", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي للوهن الرئوي (Pulmonary Edema)_CARDIOGENIC؟",
+    "options": ["تعتيم فراشي (Bat Wing) متماثل مع توسع القلب", "تكدس لقمي غير متماثل", "تكلسات منتشرة", "انخماص كامل لرئة واحدة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206685/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/4724493/8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d_big_gallery.jpeg"
   },
   {
-    "question": "ما هو مصطلح (Modulation Transfer Function - MTF) في التصوير الشعاعي؟",
-    "options": ["مقياس لقدرة النظام على نقل التباين حسب التردد المكاني", "مقياس للكثافة", "مقياس للتباين", "مقياس للتشويش"],
+    "question": "ما هو المظهر الشعاعي للالتهاب الرئوي المتناشئ من الاستنشاق (Aspiration Pneumonia)؟",
+    "options": ["تكدس في الفص السفلي الأيمن أو المناطق الخلفية القاعدية", "تكدس في قمم الرئتين", "انصباب جنبي بسيط", "توسع القصبات المركزي"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206684/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/14782367/2e1f0a9b8c7d6e5f4a3b2c1d0e9f8a_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة ذات تباين ضعيف عند تصوير الأنسجة الرخوة بدون تباين؟",
-    "options": ["قلة اختلاف الكثافة بين الأنسجة الرخوة", "زيادة mAs", "انخفاض kVp", "استخدام شبكة"],
+    "question": "ما هو المظهر الشعاعي للخراج تحت الحجاب الحاجز (Subphrenic Abscess)؟",
+    "options": ["ارتفاع الحجاب الحاجز مع انصباب جنبي أساسي وتعتيم تحت حجابي", "رئة طبيعية تماماً", "توسع القصبات", "تكلسات في الرئة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206683/7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/12345678/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (Automatic Brightness Control) في الفلوروسكوبي؟",
-    "options": ["يحافظ على سطوع الصورة بتعديل الجهد والتيار تلقائياً", "يزيد الجرعة", "يقلل الدقة", "لا يؤثر"],
+    "question": "ما هو المظهر الشعاعي لكسر الضلع في صورة الصدر؟",
+    "options": ["خط كسر واضح مع انزياح أحياناً وربما استرواح صدر ثانوي", "تعتيم رئوي منتشر", "توسع القلب", "تكلسات ضلعية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206682/6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/26823703/6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها ظلال مزدوجة بسبب وجود جسمين كثيفين متداخلين؟",
-    "options": ["تداخل الأجسام (Superimposition)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي للاسترواح الصدري التوتري (Tension Pneumothorax)؟",
+    "options": ["انخماص كامل للرئة مع انزياح الوسيط إلى الجانب المقابل وانبساط الحجاب الحاجز", "انصباب جنبي بسيط", "تكدس رئوي جزئي", "توسع القلب"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206681/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/9367560/1b0c9d8e7f6a5b4c3d2e1f0a9b8c7d6e_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (Grid) متحرك (Reciprocating) على الصورة؟",
-    "options": ["يزيل خطوط الشبكة (Grid Lines)", "يزيد التباين", "يزيد الجرعة", "يقلل الدقة"],
+    "question": "ما هو العلاج الإسعافي للاسترواح الصدري التوتري؟",
+    "options": ["إبرة تفجير (Needle Decompression) في الفضاء الثاني بين الضلوع ثم تصريف صدر", "مضادات حيوية", "علاج بالأكسجين فقط", "مراقبة فقط"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206680/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/9367560/1b0c9d8e7f6a5b4c3d2e1f0a9b8c7d6e_big_gallery.jpeg"
   },
   {
-    "question": "ما هو مصطلح (Detective Quantum Efficiency - DQE) في الكاشف؟",
-    "options": ["مقياس لكفاءة الكاشف في تحويل الفوتونات إلى إشارة", "مقياس للتباين", "مقياس للدقة", "مقياس للكثافة"],
+    "question": "ما هو المظهر الشعاعي للورم الحبيبي الساركويدي (Sarcoidosis) في الصدر؟",
+    "options": ["تضخم متماثل للعقد اللمفاوية Hilar مع ارتشاح منتشر عقدي", "انصباب جنبي وحيد", "كتلة مركزية واحدة", "توسع قصبات"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206679/3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/3318665/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها خطوط سوداء بسبب عطل في الكاشف؟",
-    "options": ["خلل في خلايا الكاشف (Dead Pixels)", "زيادة mAs", "انخفاض kVp", "حركة المريض"],
+    "question": "ما هو المظهر الشعاعي لالتليف الرئوي مجهول السبب (IPF)؟",
+    "options": ["تعتيم شبكي قاعدي مع تكبير القلوب الرئوية (Honeycomming) في القواعد", "تكدس فصوي علوي", "انصباب جنبي ثنائي", "عقيدات منتشرة علوية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206678/2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/4743175/3e2f1a0b9c8d7e6f5a4b3c2d1e0f9a_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير زيادة (kVp) على التباين؟",
-    "options": ["يقل التباين (يزيد النطاق الرمادي)", "يزيد التباين", "لا يؤثر", "يزيد التشويش"],
+    "question": "ما هو علاج التليف الرئوي مجهول السبب (IPF)؟",
+    "options": ["مضاد التليف (Pirfenidone أو Nintedanib) وقد يحتاج زراعة رئة", "مضادات حيوية", "جراحة استئصال", "علاج بالأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206677/1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/4743175/3e2f1a0b9c8d7e6f5a4b3c2d1e0f9a_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها تشوه بسبب استخدام أنبوب بزاوية غير مناسبة؟",
-    "options": ["زاوية الأنبوب الخاطئة (Angulation)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي لاعتلال الرئة بالغبار السيليسي (Silicosis)؟",
+    "options": ["عقيدات منتشرة صغيرة في القسم العلوي مع تكلسات Hilum (Eggshell Calcification)", "تكدس سفلي فصوي", "انصباب جنبي", "توسع قصبات مركزي"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206676/0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/3976223/7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2_big_gallery.jpeg"
   },
   {
-    "question": "ما هو مصطلح (Image Receptor) في التصوير الشعاعي؟",
-    "options": ["الوسيط الذي يستقبل الأشعة ويحولها إلى صورة (فيلم أو كاشف)", "أنبوب الأشعة", "الشبكة", "الفلتر"],
+    "question": "ما هو المظهر الشعاعي لالتهاب الغشاء الجنبي الخبيث (Malignant Mesothelioma)؟",
+    "options": ["انصباب جنبي كبير مع سماكة جنبي لا منتظمة وربما غزو جدار الصدر", "انصباب بسيط منتظم", "رئة طبيعية", "تكدس رئوي منتشر"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206675/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/2615850/5d4e3f2a1b0c9d8e7f6a5b4c3d2e1f_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها مناطق بيضاء بسبب قطرات الماء على الكاشف؟",
-    "options": ["رطوبة على الكاشف", "زيادة mAs", "انخفاض kVp", "حركة المريض"],
+    "question": "ما هو المظهر الشعاعي لسرطان الرئة المحيطي (Peripheral Lung Cancer)؟",
+    "options": ["عقيدة محيطية مع حواف غير منتظمة (Spiculation) وربما تجويف مركزي", "كتلة مركزية سلسة الحواف", "تكدس منتشر حبيبي", "انصباب جنبي معزول"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206674/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/6144341/9e8f7a6b5c4d3e2f1a0b9c8d7e6f5a4b_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (High Frequency Generator) على جودة الصورة؟",
-    "options": ["يوفر جهداً ثابتاً مما يحسن جودة الحزمة", "يزيد التشتت", "يقلل التباين", "لا يؤثر"],
+    "question": "ما هو المظهر الشعاعي لانسداد الأمعاء الدقيقة في صورة البطن القائمة؟",
+    "options": ["مستويات سائل-هواء متعددة في الأمعاء الدقيقة مع قلة الغاز في القولون", "غاز واحد كبير في القولون", "تكلسات بطنية", "لا يظهر أي تغير"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206673/7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها تشوه في الأطراف بسبب انحناء الكاشف؟",
-    "options": ["انحناء الكاشف (Detector Curvature)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو العلاج الأولي لانسداد الأمعاء الدقيقة البسيط (غير المختنق)؟",
+    "options": ["إنزال أنبوب معدي + سوائل وريديعة + مراقبة", "جراحة فورية", "علاج بالأشعة", "مضادات حيوية فقط"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206672/6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "ما هو مصطلح (Scatter Radiation) في التصوير الشعاعي؟",
-    "options": ["إشعاع متشتت يقلل من جودة الصورة", "إشعاع أساسي", "إشعاع مفيد", "إشعاع ثانوي"],
+    "question": "ما هو المظهر الشعاعي لانسداد القولون في صورة البطن؟",
+    "options": ["توسع كبير في القولون مع مستويات سائل-هواء قريبة من موقع الانسداد", "مستويات متعددة في الأمعاء الدقيقة فقط", "غاز منتظم في كامل القولون", "لا يظهر تغير"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206671/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "ما هو تأثير استخدام (Collimation) على التشويش؟",
-    "options": ["يقلل التشويش بتقليل التشتت", "يزيد التشويش", "لا يؤثر", "يزيد الجرعة"],
+    "question": "ما هو المظهر الشعاعي للفتق الإربي (Inguinal Hernia) في صورة البطن؟",
+    "options": ["غاز أو أمعاء في منطقة الفخذ أسفل الارتفاق العاني", "غاز في الصدر", "توسع المعدة", "تكلسات حوضية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206670/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها خطوط بيضاء بسبب خدوش في الفيلم؟",
-    "options": ["خدوش في الفيلم", "زيادة mAs", "انخفاض kVp", "حركة المريض"],
+    "question": "ما هو المظهر الشعاعي لحصوات الكلى في صورة KUB؟",
+    "options": ["تكلسات على مسار الحالبين أو في منطقة الكلى", "تعتيم منتشر في البطن", "مستويات سائل-هواء", "غاز في الكبد"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206669/3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "ما هو تأثير استخدام (High kVp) على جرعة المريض؟",
-    "options": ["تقلل الجرعة (لأن الامتصاص يقل)", "تزيد الجرعة", "لا تؤثر", "تزيد التباين"],
+    "question": "ما هو العلاج الأولي لحصى الكلى المؤلمة (ال مغص الكلوي)؟",
+    "options": ["مسكنات ألم قوية (NSAIDs أو Opioids) + ترطيب وريدي", "جراحة فورية", "مضادات حيوية", "علاج بالأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206668/2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة مقطوعة بسبب اختيار مجال تصوير غير مناسب؟",
-    "options": ["اختيار مجال تصوير غير مناسب (Improper FOV)", "زيادة mAs", "انخفاض kVp", "حركة المريض"],
+    "question": "ما هو المظهر الشعاعي للتهاب الزائدة الدودية الحاد في صورة البطن؟",
+    "options": ["قد يظهر حجر برازي (Appendicolith) في الحفرة الحرقفية اليمنى مع تكلس صغير", "توسع كبير في الأمعاء", "مستويات سائل-هواء متعددة", "غاز في الصدر"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206667/1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "ما هو مصطلح (Exposure Latitude) في التصوير الشعاعي؟",
-    "options": ["مدى التعريض الضوئي الذي ينتج صورة مقبولة", "التباين", "الدقة", "التشويش"],
+    "question": "ما هو المظهر الشعاعي للثقب المعدة (Perforated Ulcer) في صورة البطن القائمة؟",
+    "options": ["هواء حر تحت الحجاب الحاجز (Free Air تحت الحجاب)", "انصباب جنبي", "توسع المعدة", "تكلسات حوضية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206666/0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها مناطق سوداء بسبب فقاعات هواء في الفيلم؟",
-    "options": ["فقاعات هواء في الفيلم", "زيادة mAs", "انخفاض kVp", "حركة المريض"],
+    "question": "ما هو العلاج الجراحي للثقب المعدة الحر؟",
+    "options": ["إغلاق جراحي للثقب + غسيل بريتوني + مضادات حيوية وريدية", "مضادات حيوية فموية فقط", "مراقبة فقط", "علاج بالأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206665/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
   },
   {
-    "question": "ما هو تأثير استخدام (Low kVp) على جرعة المريض؟",
-    "options": ["تزيد الجرعة (لأن الامتصاص يزداد)", "تقل الجرعة", "لا تؤثر", "تقلل التباين"],
+    "question": "ما هو المظهر الشعاعي لهشاشة العظام (Osteoporosis) في صورة العمود الفقري؟",
+    "options": ["انخفاض كثافة العظام مع انضغاط الفقرات (تشوه إسفيضي)", "تكلسات فقرية", "توسع الفراغ المفصلي", "تكوين عظمي زائد"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206664/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة مشوهة بسبب اختلاف سرعة الكاشف في القراءة؟",
-    "options": ["خلل في سرعة قراءة الكاشف", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو علاج هشاشة العظام الشديدة؟",
+    "options": ["Bisphosphonates (مثل Alendronate) + كالسيوم + فيتامين D", "مضادات حيوية", "جراحة فورية", "علاج بالأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206663/7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
-    "question": "ما هو مصطلح (Image Noise) في التصوير الشعاعي؟",
-    "options": ["تشويش غير مرغوب فيه يقلل من جودة الصورة", "التباين", "الدقة", "الكثافة"],
+    "question": "ما هو المظهر الشعاعي لكسر كوليس (Colles' Fracture) في الرسغ؟",
+    "options": ["كسر بعيد من الكعبرة مع انزياح خلفي وزندي", "كسر قريب من الكوع", "كسر في عظم الزند فقط", "خلع مفصل الرسغ"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206662/6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c_gallery.jpeg"
+    "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها خطوط مائلة بسبب اهتزاز الشبكة؟",
-    "options": ["اهتزاز الشبكة (Grid Vibration)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي لالتهاب المفاصل التنكسي (Osteoarthritis) في الركبة؟",
+    "options": ["تضيق غير منتظم للفراغ المفصلي مع تكوين عظمي حافي (Osteophytes) وتكلسات", "تضيق منتظم للفراغ المفصلي مع تآكل عظمي", "توسع الفراغ المفصلي", "تكلسات في الأنسجة الرخوة فقط"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206661/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_gallery.jpeg"
+    "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
   },
   {
-    "question": "ما هو تأثير استخدام (High mAs) على التباين؟",
-    "options": ["لا يؤثر على التباين، بل يزيد الكثافة", "يزيد التباين", "يقلل التباين", "يزيد التشويش"],
+    "question": "ما هو علاج التهاب المفاصل التنكسي الخفيف إلى المتوسط؟",
+    "options": ["مسكنات (Paracetamol/NSAIDs) + تمارين физيائية + إنقاص الوزن", "مضادات حيوية", "جراحة استبدال مفصل فورية", "علاج بالأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206660/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_gallery.jpeg"
+    "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة ذات كثافة منخفضة عند استخدام شبكة؟",
-    "options": ["امتصاص الشبكة للأشعة يقلل الكثافة، ويتطلب زيادة mAs", "زيادة kVp", "تقليل mAs", "زيادة SID"],
+    "question": "ما هو المظهر الشعاعي لالتهاب المفاصل الروماتويدي في اليد؟",
+    "options": ["تضيق منتظم للفراغات المفصلية مع تآكل عظمي حافي وخلع مفصلي زندي", "تكلسات مفصلية", "توسع الفراغ المفصلي", "تكوين عظمي زائد"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206659/3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c_gallery.jpeg"
+    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
   },
   {
-    "question": "ما هو مصطلح (Field of View - FOV) في التصوير الرقمي؟",
-    "options": ["مساحة المنطقة المصورة", "التباين", "الدقة", "الكثافة"],
+    "question": "ما هو العلاج الأساسي لالتهاب المفاصل الروماتويدي؟",
+    "options": ["Methotrexate + مضادات TNF-alpha (Biologics) + كورتيكوستيرويدات", "مضادات حيوية", "جراحة فورية", "علاج بالأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206658/2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c_gallery.jpeg"
+    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها تشويش بسبب التداخل الكهرومغناطيسي؟",
-    "options": ["التداخل الكهرومغناطيسي (EMI)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي لكسور العجز والعدوة (Sacral Insufficiency Fracture)؟",
+    "options": ["خطوط كسر عمودية في العجز (H-shape) مع انخفاض كثافة العظم", "تكسر وحيد في الحوض", "تكلسات حوضية", "لا يظهر في الأشعة العادية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206657/1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (Grid) على التباين؟",
-    "options": ["يزيد التباين بتقليل التشتت", "يقلل التباين", "لا يؤثر", "يزيد التشويش"],
+    "question": "ما هو المظهر الشعاعي للنقرس (Gout) في المفاصل؟",
+    "options": ["عيوب ارتشاحية مدورة محددة (Punch-out lesions) مع حواف متصلبة وربما تورم الأنسجة الرخوة", "تضيق مفصلي منتظم", "تكلسات في الغضروف", "تكوين عظمي زائد"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206656/0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c_gallery.jpeg"
+    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها خطوط سوداء بسبب عدم توافق تردد الشبكة مع الكاشف؟",
-    "options": ["عدم توافق الترددات (Moiré)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو علاج نوبة النقرس الحادة؟",
+    "options": ["Colchicine أو NSAIDs أو كورتيكوستيرويدات", "مضادات حيوية", "جراحة فورية", "علاج بالأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206655/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c_gallery.jpeg"
+    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
   },
   {
-    "question": "ما هو مصطلح (Digital Radiography - DR)؟",
-    "options": ["نظام تصوير رقمي مباشر باستخدام كاشف مسطح", "نظام تصوير بالفيلم", "نظام تصوير بالحاسوب (CR)", "نظام فلوروسكوبي"],
+    "question": "ما هو المظهر الشعاعي لكسر عنق الفخذ (Femoral Neck Fracture)؟",
+    "options": ["خط كسر في عنق عظم الفخذ مع انزياح أحياناً (لاحظ Garden Classification)", "كسر في جسم الفخذ", "كسر في الحُق", "خلع مفصل الورك"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206654/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c_gallery.jpeg"
+    "image": "https://jomi.com/api/files/preopaprhip.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة ذات تباين عالٍ (High Contrast) في تصوير الصدر؟",
-    "options": ["استخدام جهد منخفض (kVp) مناسب للصدر", "زيادة mAs", "زيادة SID", "استخدام شبكة"],
+    "question": "ما هو العلاج الجراحي المفضل لكسر عنق الفخذ عند المرضى المسنين؟",
+    "options": ["استبدال نصف مفصل الورك (Hemiarthroplasty)", "تثبيت بالمسامير فقط", "جبس فقط", "راحة تامة فقط"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206653/7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c_gallery.jpeg"
+    "image": "https://jomi.com/api/files/preopaprhip.jpg"
   },
   {
-    "question": "ما هو تأثير استخدام (Low mAs) على الكثافة؟",
-    "options": ["تقل الكثافة (تصبح أفتح)", "تزيد الكثافة", "لا تؤثر", "تزيد التباين"],
+    "question": "ما هو المظهر الشعاعي لفتق القرص الفقري القطني (Lumbar Disc Herniation) في صورة العمود الفقري الجانبية؟",
+    "options": ["انخفاض ارتفاع الفراغ القرصي مع بروز خلفي للقرص (يُشخص أفضل بالـ MRI)", "انخفاض ارتفاع القرص فقط بدون بروز", "تكلسات فقرية", "توسع القناة الفقرية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206652/6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها تشويه بسبب عدم تمركز المريض؟",
-    "options": ["عدم تمركز المريض (Off-centering)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو العلاج الأولي لفتق القرص الفقري القطني البسيط بدون علامات عصبية خطيرة؟",
+    "options": ["راحة + مسكنات + فيزيوترابيا + تمارين تقوية الظهر", "جراحة فورية", "علاج بالأشعة", "مضادات حيوية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206651/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
-    "question": "ما هو مصطلح (Computed Radiography - CR)؟",
-    "options": ["نظام تصوير رقمي باستخدام لوحات الفوسفور القابلة لإعادة الاستخدام", "نظام تصوير مباشر (DR)", "نظام فيلم", "نظام فلوروسكوبي"],
+    "question": "ما هو المظهر الشعاعي للتهاب الفقار اللاصق (Ankylosing Spondylitis) في العمود الفقري؟",
+    "options": ["تصلب الأربطة الطولية (Syndesmophytes) مع تعظم المفاصل الفقرية (Bamboo Spine)", "انخفاض كثافة العظام فقط", "توسع الفراغ القرصي", "كسور فقرية متعددة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206650/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها مناطق بيضاء بسبب وسم (Marker) معدني؟",
-    "options": ["وجود وسم معدني (Marker) في مجال التصوير", "زيادة mAs", "انخفاض kVp", "حركة المريض"],
+    "question": "ما هو علاج التهاب الفقار اللاصق؟",
+    "options": ["مضادات التهاب غير ستيرويدية (NSAIDs) + TNF inhibitors + تمارين بدنية", "مضادات حيوية", "جراحة تثبيت فقري فورية", "راحة تامة في الفراش"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206649/3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
-    "question": "ما هو تأثير استخدام (High kVp) في تصوير الصدر؟",
-    "options": ["يقلل التباين ويسمح برؤية أفضل للأنسجة الرخوة", "يزيد التباين", "يزيد الكثافة", "يقلل الجرعة"],
+    "question": "ما هو المظهر الشعاعي لكسر ثنية الساق (Tibial Plateau Fracture) في الركبة؟",
+    "options": ["انضغاط أو انقسام في اللقمة الظنبوبية العلوية", "كسر في عظم الرضفة", "كسر في أسفل الفخذ", "خلع مفصل الركبة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206648/2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c_gallery.jpeg"
+    "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة مقلوبة بسبب خطأ في برمجة الكاشف؟",
-    "options": ["خطأ في برمجة الكاشف (Orientation error)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي لخلع الكتف الأمامي (Anterior Shoulder Dislocation) في وضعية Scapular Y؟",
+    "options": ["رأس العضد أمام حافة لوح الكتف (تحت الإبطي)", "رأس العضد خلف لوح الكتف", "رأس العضد تحت الحق", "رأس العضد في مكانه الطبيعي"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206647/1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13585993/bb3e0392fe5c730db60c5ac3fa2ceb_big_gallery.jpeg"
   },
   {
-    "question": "ما هو مصطلح (Pixel) في التصوير الرقمي؟",
-    "options": ["أصغر وحدة في الصورة الرقمية", "وحدة قياس الجرعة", "وحدة قياس التباين", "وحدة قياس الدقة"],
+    "question": "ما هو العلاج الأولي لخلع الكتف الأمامي الحاد؟",
+    "options": ["إرجاع (Reduction) مغلق تحت تخدير أو تسكين ثم تثبيت", "جراحة مفتوحة فورية", "راحة فقط", "علاج بالأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206646/0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13585993/bb3e0392fe5c730db60c5ac3fa2ceb_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها خطوط متعرجة بسبب عطل في مصدر الجهد؟",
-    "options": ["تذبذب الجهد (Voltage ripple)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي لكسر ماليزونيا (Malleolus) في الكاحل؟",
+    "options": ["خط كسر في الشظية (القحف الجانبي) وربما الظنبوب (القحف الإنسي) مع توسع الفراغ المفصلي", "كسر في عظم الكعب فقط", "كسر في عظام القدم", "لا يظهر في الأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206645/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/61842235/192c32c862386fa52562b03def2129e7f5fcf097f4e6cdd682f47de59840cc80_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (Low kVp) في تصوير الأطراف؟",
-    "options": ["يزيد التباين بين العظام والأنسجة الرخوة", "يقلل التباين", "يزيد الجرعة", "يقلل الجرعة"],
+    "question": "ما هو المظهر الشعاعي لالتهاب الجيوب الأنفية الفكية الحاد (Maxillary Sinusitis) في وضعية ووترز؟",
+    "options": ["تعتيم موحد في الجيب الفكي مع مستوى سائل أحياناً", "شفافية كاملة للجيب", "تكلسات في الجيب", "كتلة في الجيب مع تدمير العظم"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206644/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة ذات حدة منخفضة بسبب استخدام بقعة بؤرية كبيرة؟",
-    "options": ["بقعة بؤرية كبيرة (Large Focal Spot)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو علاج التهاب الجيوب الأنفية الفكية الحاد البكتيري؟",
+    "options": ["مضادات حيوية (Amoxicillin) + مزيلات الاحتقان الأنفية + غسيل الأنف", "جراحة فورية", "علاج بالأشعة", "راحة فقط"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206643/7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
   },
   {
-    "question": "ما هو مصطلح (Bit Depth) في الصورة الرقمية؟",
-    "options": ["عدد البتات المستخدمة لتخزين كل بكسل، يؤثر على التدرج الرمادي", "حجم الصورة", "الدقة", "التباين"],
+    "question": "ما هو المظهر الشعاعي لورم العظم العظمي الغضروفي (Osteochondroma)؟",
+    "options": ["تكلس عظمي يشبه الفطر ينمو من سطح العظم نحو الأنسجة الرخوة", "تآكل عظمي منتشر", "انكسار مركزي في العظم", "تكلسات ناعمة منتشرة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206642/6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها مناطق داكنة بسبب التعريض الزائد (Overexposure)؟",
-    "options": ["زيادة mAs أو الوقت", "انخفاض kVp", "زيادة SID", "استخدام شبكة"],
+    "question": "ما هو المظهر الشعاعي لسرطان العظم العظمي الغضروفي (Chondrosarcoma)؟",
+    "options": ["تكلسات عظمية غير منتظمة مع تدمير العظم وتوسع الأنسجة الرخوة", "تكلسات منتظمة صغيرة", "تآكل عظمي بسيط", "لا يظهر تغير"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206641/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (Grid) منخفض التردد على الصورة؟",
-    "options": ["قد يظهر خطوط شبكة واضحة", "يزيد التباين", "يقلل الجرعة", "يزيد الدقة"],
+    "question": "ما هو المظهر الشعاعي لساركوما عظم يوينغ (Ewing Sarcoma)؟",
+    "options": ["تدمير عظمي لامنظم مع تفاعل سمحي للسمحاق (Onion Skin) وكتلة أنسجة رخوة", "تكلسات منتظمة", "تضيق الفراغ المفصلي", "انخفاض كثافة منتظم"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206640/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة مشوهة بسبب استخدام زاوية ميلان خاطئة في تصوير المفاصل؟",
-    "options": ["زاوية ميلان خاطئة (Incorrect Angulation)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي لنقائل العظم (Bone Metastases) الليثية (Lytic)؟",
+    "options": ["آفات مدمرة بدون حافة متصلبة (مثل سرطان الثدي والرئة والكلى)", "تكلسات عظمية كثيفة", "تضيق مفصلي منتظم", "تكوين عظمي حافي"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206639/3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
-    "question": "ما هو مصطلح (Window Level) في التصوير الرقمي؟",
-    "options": ["ضبط سطوع الصورة (مركز النطاق الرمادي)", "ضبط التباين", "ضبط الدقة", "ضبط التكبير"],
+    "question": "ما هو المظهر الشعاعي لنقائل العظم التصلبية (Blastic Metastases)؟",
+    "options": ["بقع كثيفة بيضاء منتشرة في العظام (مثل سرطان البروستاتا)", "آفات مدمرة لامنظمة", "تكلسات في الأنسجة الرخوة", "توسع الفراغ المفصلي"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206638/2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة ذات كثافة غير متساوية بسبب خطأ في معايرة الكاشف؟",
-    "options": ["خطأ في معايرة الكاشف (Calibration error)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206637/1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c_gallery.jpeg"
+    "question": "ما هو المظهر الشعاعي لالتهاب العظم والنخاع (Osteomyelitis) الحاد في صورة الأشعة العادية؟",
+    "options": ["تدمير عظمي مع تفاعل سمحي للسمحاق وربما تكلسات نسيج ميت (Sequestrum)", "تضيق مفصلي", "تكلسات منتظمة", "لا يظهر أي تغير في الأسبوع الأول"],
+    "correctIndex": 3,
+    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (High mAs) على التشويش؟",
-    "options": ["يقلل التشويش الكمومي", "يزيد التشويش", "لا يؤثر", "يزيد التباين"],
+    "question": "ما هو علاج التهاب العظم والنخاع الحاد؟",
+    "options": ["مضادات حيوية وريدية لفترة طويلة (4-6 أسابيع) وربما جراحة تنضير", "مسكنات فقط", "راحة تامة فقط", "علاج بالأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206636/0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها خطوط بيضاء بسبب عطل في الشبكة (Grid)؟",
-    "options": ["خلل في الشبكة (Grid defect)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي لكسر الإجهاد (Stress Fracture) في الظنبوب؟",
+    "options": ["خط كسر دقيق متعامد على القشرة مع تكلس سمحاقي (Callus) أحياناً", "كسر كامل منفصل", "تآكل عظمي منتشر", "لا يظهر في الأشعة العادية أبداً"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206635/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/61842235/192c32c862386fa52562b03def2129e7f5fcf097f4e6cdd682f47de59840cc80_gallery.jpeg"
   },
   {
-    "question": "ما هو مصطلح (Window Width) في التصوير الرقمي؟",
-    "options": ["ضبط تباين الصورة (عرض النطاق الرمادي)", "ضبط السطوع", "ضبط الدقة", "ضبط التكبير"],
+    "question": "ما هو المظهر الشعاعي لمرض باجيت العظمي (Paget's Disease) في الحوض؟",
+    "options": ["تسمك العظم مع توسع القشرة وتغير نمط العظم المخطط (Cotton Wool)", "انخفاض كثافة منتظم", "كسر واحد فقط", "تكلسات صغيرة منتشرة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206634/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها مناطق سوداء بسبب وجود هواء في الأمعاء في تصوير البطن؟",
-    "options": ["الهواء في الأمعاء يظهر أسود (شفاف)", "زيادة mAs", "انخفاض kVp", "استخدام شبكة"],
+    "question": "ما هو علاج مرض باجيت العظمي المؤلم أو المضاعف؟",
+    "options": ["Bisphosphonates (مثل Zoledronic Acid)", "مضادات حيوية", "جراحة فورية", "علاج بالأشعة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206633/7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (Low kVp) في تصوير الصدر؟",
-    "options": ["يزيد التباين ولكن قد يخفي التفاصيل خلف القلب", "يقلل التباين", "يزيد الجرعة", "يقلل الجرعة"],
+    "question": "ما هو المظهر الشعاعي لتكلسات الأربطة الصفراء (OPLL) في العمود الفقري الرقبي؟",
+    "options": ["تكلسات طولية أمامية للنخاع الشوكي في الوضعية الجانبية", "تكلسات خلفية", "تضيق القرص فقط", "لا يظهر"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206632/6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة مشوهة بسبب حركة الحجاب الحاجز أثناء التنفس؟",
-    "options": ["حركة الحجاب الحاجز (Diaphragm motion)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي لكسور ضلعية متعددة مع شريط صدري متحرك (Flail Chest)؟",
+    "options": ["كسور في 3 ضلوع أو أكثر في مكانين لكل ضلع مع حركة شاذة للجدار الصدري", "كسر ضلع واحد", "انصباب جنبي بسيط", "رئة طبيعية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206631/5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/26823703/6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e_big_gallery.jpeg"
   },
   {
-    "question": "ما هو مصطلح (Automatic Exposure Control - AEC)؟",
-    "options": ["نظام يتحكم في وقت التعريض لتحقيق كثافة ثابتة", "نظام تحكم في الجهد", "نظام تحكم في التيار", "نظام تحكم في الشبكة"],
+    "question": "ما هو العلاج الميكانيكي لشريط صدري متحرك (Flail Chest)؟",
+    "options": ["تثبيت ميكانيكي بالتهوية (Mechanical Ventilation) مع تشخيص وإصلاح الإصابات الداخلية", "جبس صدري", "راحة فقط", "مسكنات فموية فقط"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206630/4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/26823703/6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها خطوط أفقية بسبب عطل في كاشف DR؟",
-    "options": ["خلل في صفوف الكاشف (Row defect)", "حركة المريض", "زيادة mAs", "انخفاض kVp"],
+    "question": "ما هو المظهر الشعاعي لكسر عظم الزورقي (Scaphoid Fracture) في صورة الرسغ؟",
+    "options": ["خط كسر دقيق في عظم الزورقي (قد لا يظهر في الصور الأولى ويحتاج تصوير متأخر بعد أسبوعين)", "كسر في الكعبرة", "كسر في الزند", "خلع مفصل الرسغ"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206629/3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587542/e7e7d8204f7f69192e32161a918240_big_gallery.jpeg"
   },
   {
-    "question": "ما هو تأثير استخدام (High kVp) على تباين الصورة في تصوير البطن؟",
-    "options": ["يقلل التباين بين الأنسجة الرخوة", "يزيد التباين", "لا يؤثر", "يزيد التشويش"],
+    "question": "ما هو خطر عدم تشخيص كسر عظم الزورقي؟",
+    "options": ["تنخر عظمي (AVN) في قطعة الزورقي القريبة بسبب انقطاع التروية الدموية", "الشفاء التلقائي دائماً", "لا يوجد أي خطر", "التحول لسرطان"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206628/2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/13587542/e7e7d8204f7f69192e32161a918240_big_gallery.jpeg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة ذات كثافة عالية (بيضاء) بسبب وجود تكلسات؟",
-    "options": ["وجود تكلسات (كالسيوم) يمتص الأشعة", "زيادة mAs", "انخفاض kVp", "حركة المريض"],
+    "question": "ما هو المظهر الشعاعي للداء النشواني (Amyloidosis) في المفاصل؟",
+    "options": ["آفات ارتشاحية مدورة في العظام تحت الغضروف مع تورم الأنسجة الرخوة", "تضيق مفصلي منتظم", "تكوين عظمي زائد", "تكلسات غضروفية فقط"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206627/1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c_gallery.jpeg"
+    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
   },
   {
-    "question": "ما هو مصطلح (Radiopaque) في التصوير الشعاعي؟",
-    "options": ["مادة تظهر بيضاء بسبب امتصاصها للأشعة", "مادة تظهر سوداء", "مادة شفافة", "مادة غير مرئية"],
+    "question": "ما هو المظهر الشعاعي لالتهاب العظم والغضروف الفقري (Spondylodiscitis)؟",
+    "options": ["تدمير الأجسام الفقرية المجاورة والقرص بينها مع انخفاض ارتفاع القرص", "انخفاض ارتفاع القرص فقط", "تكلسات فقرية", "توسع القناة الفقرية"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206626/0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   },
   {
-    "question": "ما هو سبب ظهور الصورة بها تشوش بسبب وجود أجسام معدنية في مجال التصوير؟",
-    "options": ["أجسام معدنية تسبب تشويشاً (Metal Artifact)", "زيادة mAs", "انخفاض kVp", "حركة المريض"],
+    "question": "ما هو علاج التهاب العظم والغضروف الفقري الجرثومي؟",
+    "options": ["مضادات حيوية وريدية طويلة الأمد (6-8 أسابيع) وربما تثبيت جراحي", "مسكنات فقط", "علاج بالأشعة", "راحة قصيرة"],
     "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32206625/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c_gallery.jpeg"
+    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
   }
 ]
