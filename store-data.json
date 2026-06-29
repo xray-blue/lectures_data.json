@@ -1,50 +1,34 @@
 [
   {
     "id": "1",
-    "name": "جهاز قياس الضغط",
-    "description": "جهاز قياس ضغط الدم بحالة ممتازة، استخدام شهر واحد فقط.",
-    "price": 25000,
+    "name": "سديري رصاص نظيف",
+    "description": "سديري رصاص مستعمل بحالة ممتازة، مناسب لتدريب الأشعة.",
+    "price": 35000,
     "images": [
-      "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/zenab/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A6-%D9%A2%D9%A9_%D9%A2%D9%A0-%D9%A3%D9%A9-%D9%A4%D9%A0.jpg",
-      "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/zenab/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A6-%D9%A2%D9%A9_%D9%A2%D9%A0-%D9%A3%D9%A9-%D9%A4%D9%A1%20(2).jpg",
-      "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/zenab/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A6-%D9%A2%D9%A9_%D9%A2%D9%A0-%D9%A3%D9%A9-%D9%A4%D9%A1.jpg"
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
     ],
     "available": true,
-    "category": "مستلزمات طبية",
-    "sellerName": "د. أحمد",
+    "sellerName": "علي محمد",
     "sellerPhone": "07712345678",
-    "sellerTelegram": "ahmed_dr",
-    "sellerInstagram": "dr.ahmed_iq",
-    "dateAdded": 1698765432000
+    "sellerTelegram": "ali_rad",
+    "sellerInstagram": "ali.xray",
+    "category": "معدات طبية"
   },
   {
     "id": "2",
-    "name": "سديري رصاص للحماية من الأشعة",
-    "description": "سديري رصاصي واقي (Lead Apron) جديد مع ياقة للغدة الدرقية.",
-    "price": 150000,
+    "name": "كتاب فيزياء الأشعة",
+    "description": "نسخة أصلية من كتاب فيزياء الأشعة الطبية.",
+    "price": 20000,
     "images": [
-      "https://example.com/apron1.jpg",
-      "https://example.com/apron2.jpg"
+      "https://example.com/book1.jpg"
     ],
+    "image": "https://example.com/book1.jpg", 
     "available": true,
-    "category": "ملابس طبية",
-    "sellerName": "مصطفى",
-    "sellerPhone": "",
-    "sellerTelegram": "mustafa_xray",
-    "sellerInstagram": "",
-    "dateAdded": 1698854321000
-  },
-  {
-    "id": "3",
-    "name": "كتب تشريح مرحلة أولى",
-    "description": "مجموعة كتب تشريح نظيفة جداً",
-    "price": 30000,
-    "image": "https://example.com/book.jpg",
-    "available": false,
-    "category": "كتب وملازم",
-    "sellerName": "علي",
-    "sellerPhone": "07801234567",
+    "sellerName": "مصطفى كريم",
+    "sellerPhone": "07801112222",
     "sellerTelegram": "",
-    "sellerInstagram": "ali_medical99"
+    "sellerInstagram": "",
+    "category": "كتب طبية"
   }
 ]
