@@ -1,24 +1,28 @@
 [
   {
     "id": 1,
-    "name": "كتاب التشريح الشعاعي السريري",
-    "description": "نسخة أصلية بحالة ممتازة، يحتوي على شروحات واضحة للمبتدئين.",
-    "price": 25000,
-    "image": "https://example.com/image_link_here.jpg",
+    "name": "محاضرات المرحلة الاولى",
+    "description": "جميع المحاضرات والمواد",
+    "price": 1000,
+    "images": [
+    "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/zenab/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A6-%D9%A2%D9%A9_%D9%A2%D9%A0-%D9%A3%D9%A9-%D9%A4%D9%A0.jpg",
+    "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/zenab/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A6-%D9%A2%D9%A9_%D9%A2%D9%A0-%D9%A3%D9%A9-%D9%A4%D9%A1%20(2).jpg",
+    "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/zenab/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A6-%D9%A2%D9%A9_%D9%A2%D9%A0-%D9%A3%D9%A9-%D9%A4%D9%A2.jpg"
+  ],    
     "available": true,
-    "sellerName": "أحمد خليل",
-    "sellerPhone": "07700000000",
+    "sellerName": "مجهول",
+    "sellerPhone": "راسل الادمن",
     "category": "كتب وملازم"
   },
   {
     "id": 2,
-    "name": "سديري طبي (سكراب) مقاس M",
-    "description": "سكراب طبي لون أزرق داكن، قماش ممتاز، مستخدم مرة واحدة.",
-    "price": 15000,
-    "image": "https://example.com/image_link_here.jpg",
+    "name": "محاضرات المرحلة الاولى",
+    "description": "جميع المحاضرات والمواد",
+    "price": مجاني,
+    "image": "https://raw.githubusercontent.com/xray-blue/lectures_data.json/refs/heads/main/images/zenab/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A6-%D9%A2%D9%A9_%D9%A2%D9%A0-%D9%A3%D9%A9-%D9%A4%D9%A1.jpg",
     "available": false,
-    "sellerName": "سارة علي",
-    "sellerPhone": "07800000000",
-    "category": "ملابس طبية"
+    "sellerName": "مجهول",
+    "sellerPhone": "راسل الادمن",
+    "category": "كتب وملازم"
   }
 ]
