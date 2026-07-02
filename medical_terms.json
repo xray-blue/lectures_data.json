@@ -128,12 +128,12 @@
         "headers": ["المصطلح", "المعنى", "ملاحظات"],
         "items": [
           { "col1": "Hyperintense", "col2": "عالي الإشارة (يظهر أبيض)", "col3": "مثل الدهون في T1، أو السوائل في T2 (يظهر مشرقاً)", "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/CADASIL.jpg" },
-          { "col1": "Hypointense", "col2": "منخفض الإشارة (يظهر أسود)", "col3": "مثل التكلس أو الهواء في معظم التسلسلات (يظهر معتماً)", "image": "https://www.researchgate.net/publication/335777398/figure/fig2/AS:802388944375809@1568315840879/Signal-on-the-T1-weighted-images-hypointense-lesion-A-lesion-with-hypointense-center.png" },
+          { "col1": "Hypointense", "col2": "منخفض الإشارة (يظهر أسود)", "col3": "مثل التكلس أو الهواء في معظم التسلسلات (يظهر معتماً)", "image": "https://www.ajnr.org/content/ajnr/34/5/984/F1.large.jpg" },
           { "col1": "T1-weighted", "col2": "تسلسل تي 1", "col3": "الماء (CSF) = أسود. يوضح التشريح الدقيق والدهون (بيضاء)", "image": "https://mrimaster.com/wp-content/uploads/2023/09/MRI-T1-axial-image-of-the-brain-e1694777562521.jpg" },
           { "col1": "T2-weighted", "col2": "تسلسل تي 2", "col3": "الماء (CSF) = أبيض ساطع. يوضح الأورام والالتهابات", "image": "https://prod-images-static.radiopaedia.org/images/19320457/f1eda9941bacc5ddf135c1886218c4_gallery.jpeg" },
-          { "col1": "FLAIR", "col2": "تثبيط السائل", "col3": "مثل T2 لكن الماء (السائل الدماغي) أسود (لإظهار الأورام بوضوح)", "image": "https://www.researchgate.net/publication/394969185/figure/fig1/AS:11431281606651840@1756227825676/FLAIR-weighted-brain-MRI-on-hospital-day-1-showing-no-localized-atrophy-or-abnormal.png" },
+          { "col1": "FLAIR", "col2": "تثبيط السائل", "col3": "مثل T2 لكن الماء (السائل الدماغي) أسود (لإظهار الأورام بوضوح)", "image": "https://prod-images-static.radiopaedia.org/images/15543408/a8dcc8180b1ffa6ae0126bbdb51c9d_gallery.jpeg" },
           { "col1": "DWI", "col2": "التصوير بالانتشار", "col3": "مهم جداً لتشخيص الجلطة الدماغية الحادة (تظهر بيضاء فوراً)", "image": "https://medifyhome.com/wp-content/uploads/2024/11/images-6.jpeg" },
-          { "col1": "Gadolinium Enhancement", "col2": "التعزيز بالصبغة", "col3": "بعد الحقن، الأماكن التي تضيء تعني كثافة أوعية دموية (ورم نشط، التهاب)", "image": "https://www.researchgate.net/publication/337428670/figure/fig1/AS:827790354026497@1574372008497/Gadolinium-enhanced-T1-weighted-magnetic-resonance-imaging-displaying-a-left-frontal.png" }
+          { "col1": "Gadolinium Enhancement", "col2": "التعزيز بالصبغة", "col3": "بعد الحقن، الأماكن التي تضيء تعني كثافة أوعية دموية (ورم نشط، التهاب)", "image": "https://prod-images-static.radiopaedia.org/images/60942954/822f70328519418e18d34a3674e64cdf669671e57fb4bc7fb67da0e1407949f3_gallery.jpeg" }
         ]
       }
     ]
