@@ -582,12 +582,6 @@
     "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
   },
   {
-    "question": "ما هي الوضعية المائلة (Oblique) للعمود الفقري القطني التي تُظهر شكل "كلب سكوتي" (Scottie Dog)؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية", "الوضعية المائلة (Oblique)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13586211/7cc3ae8c22f1ac6c3f6387b15cb33f_big_gallery.jpeg"
-  },
-  {
     "question": "أي وضعية تُستخدم لتصوير عظم العجز من الأمام؟",
     "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة", "الوضعية المحورية من الأعلى"],
     "correctIndex": 0,
