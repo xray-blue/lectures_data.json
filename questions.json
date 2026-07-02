@@ -1,668 +1,1712 @@
 [
   {
-    "question": "ما المقصود بالاختصار (AP) في التصوير الشعاعي؟",
-    "options": ["الأشعة تدخل من الأمام وتخرج من الخلف", "الأشعة تدخل من الخلف وتخرج من الأمام", "الأشعة تدخل من الجانب", "الأشعة تدخل من الأسفل"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/20747422/6edb4d5a5b1cf443db30a6fcd9e562_big_gallery.jpeg"
-  },
-  {
-    "question": "ما المقصود بالاختصار (PA) في التصوير الشعاعي؟",
-    "options": ["الأشعة تدخل من الأمام", "الأشعة تدخل من الجانب", "الأشعة تدخل من الخلف وتخرج من الأمام", "الأشعة تدخل من الأعلى"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
-  },
-  {
-    "question": "ما المقصود بالاختصار (Lat أو Lateral) في التصوير الشعاعي؟",
-    "options": ["الأشعة تدخل من الأمام", "الأشعة تدخل من الخلف", "الأشعة تدخل من الأعلى", "الأشعة تدخل من أحد الجانبين وتخرج من الجانب الآخر"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
-  },
-  {
-    "question": "ما المقصود بالوضعية المائلة (Oblique)؟",
-    "options": ["الوقوف مستقيماً", "الاستلقاء على الظهر", "الاستلقاء على البطن", "تدوير الجسم بزاوية معينة عن الوضعية الأمامية أو الجانبية"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13586037/1b97f6c3e49ec13ae6fb888f1b42f1_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير الصدر للبالغين القادرين على الوقوف؟",
-    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية المستخدمة لتصوير الصدر للمرضى في السرير باستخدام جهاز محمول؟",
-    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المائلة", "الوضعية الأمامية الخلفية (AP) مستلقياً"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/20747422/6edb4d5a5b1cf443db30a6fcd9e562_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتوضيح قمم الرئتين بوضوح؟",
-    "options": ["الاستلقاء الظهري", "الوضعية الجانبية", "وضعية اللوردوتيك (Lordotic)", "الاستلقاء الجانبي"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/7356635/125e28937329a35ab973a09b43f46b_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية جانبية للصدر تُظهر القلب والمنطقة خلفه بوضوح؟",
-    "options": ["الوضعية الجانبية اليمنى", "الوضعية الأمامية الخلفية", "الاستلقاء الجانبي الأيمن", "الوضعية الجانبية اليسرى"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير البطن للكشف عن حصوات الكلى والمثانة (KUB)؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) مستلقياً", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "وضعية الوقوف"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "ما هي أفضل وضعية لتصوير البطن للكشف عن وجود هواء حر تحت الحجاب الحاجز؟",
-    "options": ["الاستلقاء على الظهر", "الوضعية الجانبية", "الاستلقاء على البطن", "وضعية الوقوف (Upright)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتقييم مستويات السوائل والهواء في الأمعاء؟",
-    "options": ["الاستلقاء الظهري", "الوقوف", "الاستلقاء الجانبي (Lateral Decubitus)", "الانبطاح على البطن"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
-  },
-  {
-    "question": "إذا كان المريض يستلقي على وجهه (البطن)، ما تسمى هذه الوضعية؟",
-    "options": ["الاستلقاء الظهري (Supine)", "الاستلقاء الجانبي (Decubitus)", "الوضعية الجانبية (Lateral)", "الانبطاح (Prone)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/7356635/125e28937329a35ab973a09b43f46b_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير اليد؟",
-    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية"],
-    "correctIndex": 0,
-    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
-  },
-  {
-    "question": "أي وضعية تُظهر الفراغات المفصلية بين عظام الأصابع بوضوح؟",
-    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587840/6d5c18e3e314af3c97a16365a5756efeb9dd7c145eb0dcf2675804533caf9f48_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير الإبهام وحده؟",
-    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) والجانبية"],
-    "correctIndex": 3,
-    "image": "https://www.davidlnelson.md/images/Xray_normal_hand_PA.jpg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير اليد بزاوية لإظهار تفاصيل إضافية بين عظام اليد؟",
-    "options": ["الوضعية الخلفية الأمامية (PA) المستقيمة", "الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة (Oblique)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587840/6d5c18e3e314af3c97a16365a5756efeb9dd7c145eb0dcf2675804533caf9f48_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير الرسغ؟",
-    "options": ["الوضعية الخلفية الأمامية (PA) والجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية فقط", "الوضعية المائلة فقط"],
-    "correctIndex": 0,
-    "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
-  },
-  {
-    "question": "أي وضعية تُستخدم خصيصاً لتصوير عظم الزورقي (Scaphoid) في الرسغ؟",
-    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية الخلفية الأمامية (PA) مع انحراف زندي"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587542/e7e7d8204f7f69192e32161a918240_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية (Clenched Fist) للرسغ؟",
-    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA) مع قبض اليد", "الوضعية المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/13585856/7e82b270ddf6e0adc2e37136d2861c_big_gallery.jpeg"
-  },
-  {
-    "question": "في التصوير الجانبي للرسغ، كيف يجب أن يكون وضع اليد؟",
-    "options": ["كف اليد للأعلى", "كف اليد للأسفل", "الإبهام للأعلى (وضعية جانبية طبيعية)", "الإبهام للأسفل"],
-    "correctIndex": 2,
-    "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير الساعد (الكعبرة والزند)؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13584773/160f837f0e87cd5d8097b71c5c32e3d821753111285b6e8dcb0554a73c29e5db_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير الكوع؟",
-    "options": ["الوضعية الجانبية فقط", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) والجانبية"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13584773/160f837f0e87cd5d8097b71c5c32e3d821753111285b6e8dcb0554a73c29e5db_big_gallery.jpeg"
-  },
-  {
-    "question": "في التصوير الجانبي للكوع، ما هي الزاوية المطلوبة بين الذراع والساعد؟",
-    "options": ["45 درجة", "180 درجة (مستقيم)", "120 درجة", "90 درجة"],
-    "correctIndex": 3,
-    "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير رأس الكعبرة في الكوع بوضوح بعيداً عن تداخل العظام؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة (Oblique) مع دوران"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587541/98bb80b803ec2065bc1470ed51a6d1_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير عظم العضد (الذراع)؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
-  },
-  {
-    "question": "عند تصوير العضد، يجب تضمين أي مفصلين في الصورة؟",
-    "options": ["الكتف والرسغ", "الكوع والرسغ", "الرأس والرقبة", "مفصل الكتف ومفصل الكوع"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير الكتف؟",
-    "options": ["الوضعية الجانبية", "الوضعية المحورية", "الوضعية المائلة", "الوضعية الأمامية الخلفية (AP)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية المحورية التي تُظهر تجويف الحق (Glenoid) في الكتف؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "وضعية Scapular Y", "الوضعية الجانبية", "الوضعية الإبطية (Axillary)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587243/10335461f8420e146184784cb310e1_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية (Scapular Y) للكتف؟",
-    "options": ["وضعية محورية من الأعلى", "وضعية أمامية خلفية", "وضعية إبطية", "وضعية جانبية تُظهر لوح الكتف والعضد"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13585993/bb3e0392fe5c730db60c5ac3fa2ceb_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير الترقوة؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المحورية"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير مفصل الكتف الترقوي (AC Joint)؟",
-    "options": ["الوضعية الجانبية", "وضعية Scapular Y", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) مع أو بدون أثقال"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg"
-  },
-  {
-    "question": "لتصوير الترقوة دون تداخل من الأضلاع، نستخدم:",
-    "options": ["الوضعية الجانبية", "الوضعية الخلفية الأمامية (PA)", "وضعية AP مع ميلان طفيف (15 درجة)", "الوضعية المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير لوح الكتف (Scapula)؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية الجانبية (Scapular Y) والأمامية"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13585993/bb3e0392fe5c730db60c5ac3fa2ceb_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير القدم؟",
-    "options": ["الوضعية الظهرية الأخمصية (Dorsoplantar) والجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية فقط", "الوضعية المائلة فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير أصابع القدم؟",
-    "options": ["الوضعية الظهرية الأخمصية (DP)", "الوضعية الجانبية فقط", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) والجانبية"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير عظام السمسمان (Sesamoid Bones) في القدم؟",
-    "options": ["الوضعية الظهرية الأخمصية (DP)", "الوضعية الجانبية", "الوضعية المائلة", "الوضعية المحورية (Axial)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
-  },
-  {
-    "question": "ما الفائدة من الوضعية المائلة (Oblique) للقدم؟",
-    "options": ["تصوير عظم الكعب", "تصوير الكاحل", "تصوير الأصابع فقط", "إظهار الفراغات بين عظام المشط"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير الكاحل؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية فقط", "الوضعية المائلة فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/61842235/192c32c862386fa52562b03def2129e7f5fcf097f4e6cdd682f47de59840cc80_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية (Mortise) للكاحل؟",
-    "options": ["الوضعية الجانبية", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) مع دوران داخلي 15-20 درجة", "الوضعية الخلفية الأمامية (PA)"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/61842237/49c77546f4c3bdefe74de1b5177ecf_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير عظم الكعب (Calcaneus) من الأمام؟",
-    "options": ["الوضعية الجانبية", "الوضعية الظهرية الأخمصية", "الوضعية المائلة", "الوضعية المحورية (Axial Calcaneus)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587279/f9a54ed07ec79da2d92723780349f7_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية الجانبية لتصوير عظم الكعب؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية", "الوضعية المائلة", "الوضعية الجانبية (Lateral)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/61842235/192c32c862386fa52562b03def2129e7f5fcf097f4e6cdd682f47de59840cc80_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير عظمي الظنبوب والشظية (الساق)؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
-  },
-  {
-    "question": "عند تصوير الساق، يجب تضمين أي مفصلين في الصورة؟",
-    "options": ["مفصل الورك والركبة", "مفصل الكاحل والقدم", "مفصل الورك والكاحل", "مفصل الركبة ومفصل الكاحل"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير الركبة؟",
-    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية فقط", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) والجانبية"],
-    "correctIndex": 3,
-    "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
-  },
-  {
-    "question": "أي وضعية تُظهر الفراغات بين اللقمتين في الركبة بوضوح؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية (Sunrise)", "الوضعية المائلة (Oblique)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13586037/1b97f6c3e49ec13ae6fb888f1b42f1_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية المحورية (Skyline/Sunrise) التي تُصور الرضفة (صابونة الركبة)؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة", "الوضعية المحورية (Axial) للرضفة"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/36803547/51b477da04a31a92d4656ceef3ff83_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير عظم الفخذ؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة"],
-    "correctIndex": 0,
-    "image": "https://jomi.com/api/files/preopaprhip.jpg"
-  },
-  {
-    "question": "عند تصوير عظم الفخذ، يجب تضمين أي مفصلين؟",
-    "options": ["الركبة والكاحل", "الكاحل والقدم", "الورك والركبة", "الكتف والكوع"],
-    "correctIndex": 2,
-    "image": "https://jomi.com/api/files/preopaprhip.jpg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير الحوض؟",
-    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية المائلة", "الوضعية الأمامية الخلفية (AP)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
-  },
-  {
-    "question": "في وضعية الحوض القياسية (AP)، كيف يجب أن تكون وضعية القدمين؟",
-    "options": ["مقلوبتين للخارج", "مستقيمتين للأمام تماماً", "واحدة للأمام والأخرى للخلف", "مقلوبتين للداخل (Internal Rotation) بـ 15-20 درجة"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير مفصل الورك؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية (Frog Leg)", "الوضعية المائلة"],
-    "correctIndex": 0,
-    "image": "https://jomi.com/api/files/preopaprhip.jpg"
-  },
-  {
-    "question": "ما هي وضعية (Frog Leg) للورك؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية الجانبية مع ثني الركبتين وفتحهما للخارج"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587676/52e8427af248ee84611ac1231f3218_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير المفصل الحرقفي العجزي (SI Joint) بوضوح؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية", "الوضعية المائلة (Oblique)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13586254/fdb7f721a549843718d0fec316f73a_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير العمود الفقري الرقبي؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية فقط", "الوضعية المائلة فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية فتحة الفم (Open Mouth) المستخدمة في العمود الفقري الرقبي؟",
-    "options": ["لتصوير الفقرة السابعة", "لتصوير الفقرات الصدرية", "لتصوير الفقرة الرقبية الثانية (الأودونتويد)", "لتصوير الأضلاع"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/23089841/a82f9cbbdddf7fe1417dfbf586b62f_big_gallery.jpg"
-  },
-  {
-    "question": "أي وضعية تُظهر الثقوب الفقرية (Neural Foramina) في العمود الفقري الرقبي؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "وضعية فتحة الفم", "الوضعية المائلة (Oblique)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية (Swimmer's View) للعمود الفقري الرقبي؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة", "وضعية خاصة لتصوير منطقة C7-T1 عند الأكتاف العريضة"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير العمود الفقري الصدري؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587779/c8ba5fd99a2cb5ed9cc51bf56b4174_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير العمود الفقري القطني؟",
-    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية", "الوضعية المائلة فقط", "الوضعية الأمامية الخلفية (AP) والجانبية"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "أي وضعية تُظهر المفاصل الفقرية الجانبية (Facet Joints) في العمود الفقري القطني؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "وضعية فتحة الفم", "الوضعية المائلة (Oblique)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13586211/7cc3ae8c22f1ac6c3f6387b15cb33f_big_gallery.jpeg"
-  },
-  {
-    "question": "في التصوير الجانبي للعمود الفقري القطني، ما هي وضعية الركبتين لتقليل انحناء الظهر؟",
-    "options": ["مستقيمتان تماماً", "مثنيتان بزاوية 45 درجة", "مثنيتان بزاوية 90 درجة", "واحدة مستقيمة والأخرى مثنية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير عظم العجز؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية فقط", "الوضعية المائلة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير العصعص؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة", "الوضعية الجانبية (Lateral)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتقييم انزلاق الفقار (Spondylolisthesis) في العمود الفقري؟",
-    "options": ["الوضعية المائلة", "الوضعية الأمامية الخلفية (AP)", "وضعية فتحة الفم", "الوضعية الجانبية (Lateral)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير الجمجمة؟",
-    "options": ["الوضعية الجانبية (Lateral) والأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA) فقط", "الوضعية المحورية فقط", "الوضعية المائلة فقط"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
-  },
-  {
-    "question": "ما هي وضعية ووترز (Waters)؟",
-    "options": ["لتصوير العمود الفقري القطني", "لتصوير الركبة", "لتصوير الوجه والجيوب الفكية", "لتصوير الكتف"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية كالدويل (Caldwell)؟",
-    "options": ["لتصوير عظم الكعب", "لتصوير الجيوب الأمامية والغربالية", "لتصوير الكاحل", "لتصوير اليد"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593520/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي وضعية تاون (Towne)؟",
-    "options": ["لتصوير الترقوة", "لتصوير الحوض", "لتصوير القدم", "لتصوير العظم القذالي والمخيخ في الجمجمة"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593523/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير عظام الأنف؟",
-    "options": ["الوضعية الجانبية (Lateral)", "الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية", "الوضعية المائلة"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/9470064/507281cb5c0347e7d0bbfeddfc476c_gallery.jpg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير الأقواس الوجنية (Zygomatic Arches)؟",
-    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "وضعية كالدويل", "الوضعية المحورية (Tangential)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير الفك السفلي؟",
-    "options": ["الوضعية الأمامية الخلفية (AP) والجانبية", "الوضعية الخلفية الأمامية (PA)", "الوضعية المحورية فقط", "وضعية ووترز"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/12073744/5c0dc8bf06798c6db06cd168df4d9a_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُظهر الفروع الصاعدة للفك السفلي بوضوح؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المحورية", "الوضعية المائلة (Oblique)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/12073744/5c0dc8bf06798c6db06cd168df4d9a_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية القياسية لتصوير عظم القص؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة", "الوضعية الجانبية (Lateral)"],
-    "correctIndex": 3,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sternum_lateral.jpg/300px-Sternum_lateral.jpg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير الأضلاع العلوية؟",
-    "options": ["تصوير البطن (KUB)", "تصوير الصدر (PA/AP)", "تصوير العمود الفقري الرقبي", "تصوير الكتف"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير الأضلاع السفلية؟",
-    "options": ["تصوير الصدر الجانبي", "تصوير البطن الأمامي الخلفي (KUB)", "تصوير الحوض", "تصوير العمود الفقري الصدري"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "للتصوير التفصيلي لضلع معين، أي وضعية تُستخدم؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية للصدر", "الوضعية المائلة (Oblique) موجهة نحو الضلع"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
-  },
-  {
-    "question": "إذا أردنا تصوير قاعدة الجمجمة من الأسفل، ما هي الوضعية؟",
-    "options": ["وضعية تاون", "وضعية ووترز", "وضعية كالدويل", "الوضعية المحورية (Submentovertex)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
-  },
-  {
-    "question": "في وضعية الاستلقاء الجانبي (Lateral Decubitus) لتصوير الصدر، أي جانب يجب أن يكون متجهاً نحو الأسفل لتقييم الانصباب الجنبي الأيمن؟",
-    "options": ["الجانب الأيسر", "البطن", "الظهر", "الجانب الأيمن"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
-  },
-  {
-    "question": "لماذا نستخدم وضعية (PA) بدلاً من (AP) في تصوير الصدر القياسي؟",
-    "options": ["لأنها أسهل للمريض", "لأنها تستخدم جرعة أقل دائماً", "لأن القلب يكون قريباً من الفيلم فيقل حجمه الوهمي", "لتوضيح قمم الرئتين فقط"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير تقوس العمود الفقري (Scoliosis)؟",
-    "options": ["الوضعية الجانبية مستلقياً", "الوضعية المائلة جالساً", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) واقفاً"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "في تصوير الكاحل بوضعية (Mortise)، يتم تدوير القدم داخلياً بزاوية:",
-    "options": ["90 درجة", "45 إلى 50 درجة", "5 درجات فقط", "15 إلى 20 درجة"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/61842237/49c77546f4c3bdefe74de1b5177ecf_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية التي يقع فيها المريض على ظهره؟",
-    "options": ["الانبطاح (Prone)", "الاستلقاء الجانبي (Decubitus)", "الوضعية الجانبية (Lateral)", "الاستلقاء الظهري (Supine)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "لتصوير عظام المشط الخامسة في القدم بوضوح، نستخدم:",
-    "options": ["الوضعية الظهرية الأخمصية (DP)", "الوضعية الجانبية", "الوضعية المحورية", "الوضعية المائلة (Oblique)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير قاعدة الجمجمة من الأعلى؟",
-    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "وضعية ووترز", "الوضعية المحورية من الأعلى (Vertico-submental)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
-  },
-  {
-    "question": "في وضعية تصوير الرسغ (PA)، يجب أن تكون الأصابع:",
-    "options": ["مقبوضة بشدة", "مثنية تماماً", "متجاوزة بعضها تماماً", "ممتدة قليلاً ومفرقة قليلاً"],
-    "correctIndex": 3,
-    "image": "https://www.imageinterpretation.co.uk/images/wrist/normal%20lat.jpg"
-  },
-  {
-    "question": "ما الاختصار الذي يشير إلى وضعية تصوير الكلى والحالب والمثانة؟",
-    "options": ["PA", "AP", "LAT", "KUB"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/10859211/da198e62ced4e93351adb939ed5b24_big_gallery.jpg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير مفاصل الوجه الوسطية؟",
-    "options": ["وضعية ووترز", "وضعية تاون", "الوضعية الجانبية", "الوضعية المحورية (Rhese)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13205453/221b52a9fd6ca1675dccde4728534d_big_gallery.jpg"
-  },
-  {
-    "question": "ما هي الوضعية التي تُصور فيها القصبة الهوائية والقص في صورة الصدر؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الخلفية الأمامية (PA)", "الاستلقاء الجانبي", "الوضعية الجانبية اليسرى"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير التجويف الفموي والأسنان العلوية؟",
-    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية المحورية (Occlusal)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/9470064/507281cb5c0347e7d0bbfeddfc476c_gallery.jpg"
-  },
-  {
-    "question": "لتصوير العمود الفقري القطني والصدري معاً (طوله كامل)، نستخدم:",
-    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية المائلة", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP) والجانبية طويلة المسافة"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/23961524/2c24212448b93e77d5183f534fae44.jpg"
-  },
-  {
-    "question": "في تصوير الكتف (AP)، يتم تدوير الذراع إلى:",
-    "options": ["وضعه فوق الرأس", "ثنيه على البطن", "تركه معلقاً بحرية بدون دوران", "دوران داخلي أو خارجي حسب الطريقة"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587842/e7638934e414a7e6524d0e6213bc22a4b852e606be3baaa844a7bfb3f7cecc78_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية التي تُظهر الحجاب الحاجز بشكل أفضل في الصدر؟",
-    "options": ["الوضعية الجانبية (Lateral)", "الوضعية المائلة (Oblique)", "وضعية اللوردوتيك", "الاستلقاء الجانبي (Decubitus)"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
-  },
-  {
-    "question": "أي جزء من الجسم يتم تصويره في وضعية (Towne)؟",
-    "options": ["الصدر", "البطن", "الساعد", "الجمجمة من الخلف والعظم القذالي"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593523/0._big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية التي تُستخدم لتصوير الجيوب الغربالية (Ethmoid) والجيوب الأمامية؟",
-    "options": ["وضعية تاون", "وضعية ووترز", "الوضعية الجانبية", "وضعية كالدويل (Caldwell)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593520/0._big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير الجيوب الوتدية (Sphenoid)؟",
-    "options": ["وضعية ووترز", "الوضعية الجانبية فقط", "وضعية فتحة الفم", "وضعية كالدويل (Caldwell)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593520/0._big_gallery.jpeg"
-  },
-  {
-    "question": "في وضعية (Frog Leg) لتصوير الورك، يكون القدمين:",
-    "options": ["مستقيمتين للأمام", "واحدة مستقيمة والأخرى مثنية", "مثنيتين للداخل", "مثنيتين والركبتين مفتوحتان للخارج"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587676/52e8427af248ee84611ac1231f3218_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُظهر النخاع الشوكي بعد حقن الصبغة (Myelogram) في العمود الفقري؟",
-    "options": ["الوضعية المائلة فقط", "الوضعية المحورية فقط", "وضعية فتحة الفم", "الوضعية الأمامية الخلفية (AP) والجانبية"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/32772372/051153814e82075955f44d814f858f_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير عظم العجز من الأمام؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة", "الوضعية المحورية من الأعلى"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
-  },
-  {
-    "question": "للتأكد من إصابة عظم الزورقي (Scaphoid)، أي وضعية نضيفها للرسغ؟",
-    "options": ["الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP)", "الوضعية المائلة", "الوضعية الخلفية الأمامية (PA) مع انحراف زندي"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587542/e7e7d8204f7f69192e32161a918240_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير مفاصل الورك عند الأطفال الرضع للبحث عن خلع الورك التنموي؟",
-    "options": ["الوضعية الجانبية (Frog Leg)", "الوضعية الأمامية الخلفية (AP)", "الوضعية المحورية", "وضعية التصوير المائل"],
-    "correctIndex": 1,
-    "image": "https://jomi.com/api/files/preopaprhip.jpg"
-  },
-  {
-    "question": "ما هي الوضعية التي يتم فيها تصوير المريض وهو واقف لتقييم الحجاب الحاجز؟",
-    "options": ["الاستلقاء الظهري", "الانبطاح على البطن", "الاستلقاء الجانبي", "الوضعية الأمامية الخلفية (AP) واقفاً"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/7180349/22ddc6c160783f1cb08a4a5b30a060_gallery.jpeg"
-  },
-  {
-    "question": "في وضعية تصوير الصدر (PA)، يجب أن تكون الكتفين:",
-    "options": ["مرفوعتين للأعلى للأمام", "مثنيتين للخلف", "مستقيمتين للأسفل", "واحدة للأعلى والأخرى للأسفل"],
-    "correctIndex": 0,
-    "image": "https://prod-images-static.radiopaedia.org/images/2089213/f12063879a29e672f675977fabdc89_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير عظمي الحرقف والعانة بشكل منفصل عن الحوض؟",
-    "options": ["الوضعية الأمامية الخلفية (AP)", "الوضعية الجانبية", "الوضعية المائلة (Oblique)", "الوضعية المحورية"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
-  },
-  {
-    "question": "في التصوير الشعاعي، إذا كانت الصورة مأخوذة بوضعية (AP)، فإن الجزء المصور يكون:",
-    "options": ["أقرب إلى الفيلم من مصدر الأشعة", "أبعد عن الفيلم ومقابل لمصدر الأشعة", "على الجانب الأيمن", "على الجانب الأيسر"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/20747422/6edb4d5a5b1cf443db30a6fcd9e562_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير الجيوب الفكية (Maxillary Sinuses)؟",
-    "options": ["وضعية تاون", "وضعية كالدويل", "الوضعية الجانبية", "وضعية ووترز (Waters)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/58593524/0._big_gallery.jpeg"
-  },
-  {
-    "question": "لتصوير القدم بشكل يُظهر توزيع الوزن عليها، نستخدم:",
-    "options": ["الوضعية الظهرية الأخمصية (DP) مستلقياً", "الوضعية الجانبية مستلقياً", "الوضعية المائلة", "الوضعية الظهرية الأخمصية (DP) واقفاً بوزن الجسم"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/13587841/b21fe80fc9f150788c596834789dd60f61c95f208d7244feda4fb42f0ef5c57e_big_gallery.jpeg"
-  },
-  {
-    "question": "ما هي الوضعية التي تُظهر الصورة بشكل معكوس (كما في الأجهزة المحمولة أحياناً)؟",
-    "options": ["الوضعية الخلفية الأمامية (PA)", "الوضعية الجانبية", "الوضعية الأمامية الخلفية (AP) محمول", "الوضعية المائلة"],
-    "correctIndex": 2,
-    "image": "https://prod-images-static.radiopaedia.org/images/20747422/6edb4d5a5b1cf443db30a6fcd9e562_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير عظمة الترقوة والتحقق من عدم وجود كسر؟",
-    "options": ["الوضعية الجانبية", "الوضعية المحورية", "وضعية Scapular Y", "الوضعية الأمامية الخلفية (AP) مع ميلان 15 درجة"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/12717896/cf06dffd88c129afbfdda0c6d36241b47aa2beb7ad20330cc2627dccc4a61563_big_gallery.jpeg"
-  },
-  {
-    "question": "في التصوير الجانبي للصدر، أي جانب يُفضل أن يكون قريباً من الفيلم؟",
-    "options": ["الجانب الأيمن دائماً", "الجانب الأيسر (لتقليل حجم القلب)", "لا يهم", "الجانب الأيمن للمرضى الذكور فقط"],
-    "correctIndex": 1,
-    "image": "https://prod-images-static.radiopaedia.org/images/17054298/c42c7d29bfe0203554649e38e9be6c_big_gallery.jpeg"
-  },
-  {
-    "question": "أي وضعية تُستخدم لتصوير عظام الحوض عند الأطفال لتقييم تشوهات الورك؟",
-    "options": ["الوضعية الجانبية", "الوضعية المائلة", "الوضعية المحورية", "الوضعية الأمامية الخلفية (AP)"],
-    "correctIndex": 3,
-    "image": "https://prod-images-static.radiopaedia.org/images/58755746/0._big_gallery.jpeg"
-  },
-  {
-    "question": "في وضعية تصوير الركبة (AP)، يجب أن تكون القدمين:",
-    "options": ["مثنيتين للداخل", "مثنيتين للخارج", "مستقيمتين للأمام", "واحدة للأعلى والأخرى للأسفل"],
-    "correctIndex": 2,
-    "image": "https://www.researchgate.net/publication/355178016/figure/fig2/AS:1077960882823193@1634017310792/Radiograph-of-lateral-knee-joint-captured-in-optimized-position.jpg"
+    "question": "What does the abbreviation (AP) mean in radiography?",
+    "options": [
+      "Beam enters front and exits back",
+      "Beam enters back and exits front",
+      "Beam enters from the side",
+      "Beam enters from below"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does the abbreviation (PA) mean in radiography?",
+    "options": [
+      "Beam enters from the front",
+      "Beam enters from the side",
+      "Beam enters back and exits front",
+      "Beam enters from above"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the abbreviation (Lateral) mean in radiography?",
+    "options": [
+      "Beam enters from the front",
+      "Beam enters from the back",
+      "Beam enters from above",
+      "Beam passes from one side to the other"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is an oblique projection?",
+    "options": [
+      "Patient stands perfectly straight",
+      "Patient lies flat on the back",
+      "Patient lies flat on the stomach",
+      "Patient is rotated between AP and lateral"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the standard chest view for an ambulatory adult?",
+    "options": [
+      "Posteroanterior (PA)",
+      "Anteroposterior (AP)",
+      "Lateral decubitus",
+      "Lordotic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the usual portable chest view for a bedridden patient?",
+    "options": [
+      "PA erect",
+      "AP supine or semi-erect",
+      "Lateral decubitus",
+      "Oblique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which projection best demonstrates the lung apices?",
+    "options": [
+      "Supine AP",
+      "Lateral",
+      "Lordotic",
+      "Prone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which lateral chest view is preferred to minimise cardiac magnification?",
+    "options": [
+      "Right lateral",
+      "Left lateral",
+      "AP supine",
+      "PA oblique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the standard KUB projection for renal stones?",
+    "options": [
+      "AP supine abdomen",
+      "PA erect abdomen",
+      "Lateral abdomen",
+      "Oblique abdomen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which view is best to detect free air under the diaphragm?",
+    "options": [
+      "Supine abdomen",
+      "Lateral decubitus",
+      "Upright chest or abdomen",
+      "Prone abdomen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which projection best shows air‑fluid levels in the bowel?",
+    "options": [
+      "Supine",
+      "Upright or decubitus",
+      "Prone",
+      "Oblique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the position called when the patient lies face down?",
+    "options": [
+      "Supine",
+      "Prone",
+      "Lateral",
+      "Decubitus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the standard hand projection?",
+    "options": [
+      "PA",
+      "AP",
+      "Lateral",
+      "Axial"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which hand view best shows the finger joint spaces?",
+    "options": [
+      "Lateral",
+      "AP",
+      "PA",
+      "Oblique"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What views are typically taken for a thumb examination?",
+    "options": [
+      "PA only",
+      "Oblique only",
+      "AP and lateral",
+      "Axial only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which hand view is used to evaluate the carpometacarpal joints?",
+    "options": [
+      "Straight PA",
+      "Lateral",
+      "Oblique",
+      "Axial"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What are the standard wrist views?",
+    "options": [
+      "PA and lateral",
+      "AP and axial",
+      "Oblique only",
+      "Lateral only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which wrist projection best demonstrates the scaphoid?",
+    "options": [
+      "Lateral",
+      "PA with ulnar deviation",
+      "AP",
+      "Oblique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the clenched fist wrist view used for?",
+    "options": [
+      "Imaging the distal radius",
+      "Assessing the scapholunate interval",
+      "Evaluating the ulnar styloid",
+      "Checking the carpal tunnel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a lateral wrist, how should the hand be positioned?",
+    "options": [
+      "Palm up",
+      "Palm down",
+      "Thumb up",
+      "Thumb down"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What are the standard forearm views?",
+    "options": [
+      "AP and lateral",
+      "PA and lateral",
+      "Oblique and axial",
+      "Lateral only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What are the standard elbow views?",
+    "options": [
+      "AP and lateral",
+      "PA and axial",
+      "Oblique only",
+      "Lateral only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a lateral elbow, what angle is recommended?",
+    "options": [
+      "45° flexion",
+      "90° flexion",
+      "120° flexion",
+      "Full extension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which elbow view best shows the radial head without overlap?",
+    "options": [
+      "AP",
+      "Lateral",
+      "Oblique",
+      "Axial"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What are the standard humerus views?",
+    "options": [
+      "AP and lateral",
+      "PA and oblique",
+      "Axial only",
+      "Lateral only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which joints must be included on a humerus radiograph?",
+    "options": [
+      "Shoulder and elbow",
+      "Elbow and wrist",
+      "Shoulder and wrist",
+      "Elbow and hand"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the basic shoulder projection?",
+    "options": [
+      "AP",
+      "Lateral",
+      "Axial",
+      "Oblique"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which view best demonstrates the glenoid cavity?",
+    "options": [
+      "AP",
+      "Axillary",
+      "Scapular Y",
+      "Lateral"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the Scapular Y view primarily evaluate?",
+    "options": [
+      "Glenohumeral alignment",
+      "Acromioclavicular joint",
+      "Clavicle fracture",
+      "Scapular body"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the standard clavicle projection?",
+    "options": [
+      "AP",
+      "PA",
+      "Lateral",
+      "Axial"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "How is the AC joint typically imaged?",
+    "options": [
+      "AP with and without weights",
+      "Lateral only",
+      "Axial only",
+      "Oblique only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "How can you reduce rib overlap when imaging the clavicle?",
+    "options": [
+      "Use a lateral view",
+      "Tilt the tube 15° cephalad",
+      "Use PA projection",
+      "Use oblique projection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What views are used for the scapula?",
+    "options": [
+      "AP and lateral (Y)",
+      "PA and oblique",
+      "Axial only",
+      "Lateral only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What are the standard foot views?",
+    "options": [
+      "Dorsoplantar and lateral",
+      "AP and axial",
+      "Oblique only",
+      "Lateral only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What views are taken for toes?",
+    "options": [
+      "DP and lateral",
+      "AP only",
+      "Oblique only",
+      "Axial only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which foot view best shows the sesamoids?",
+    "options": [
+      "DP",
+      "Lateral",
+      "Axial (tangential)",
+      "Oblique"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the benefit of an oblique foot view?",
+    "options": [
+      "Shows the calcaneus",
+      "Shows the ankle joint",
+      "Opens up metatarsal interspaces",
+      "Shows the toes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What are the standard ankle views?",
+    "options": [
+      "AP and lateral",
+      "PA and oblique",
+      "Axial only",
+      "Lateral only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the Mortise view of the ankle?",
+    "options": [
+      "AP with 15‑20° internal rotation",
+      "Lateral",
+      "Axial",
+      "Oblique with external rotation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which view best demonstrates the calcaneus axially?",
+    "options": [
+      "Lateral",
+      "DP",
+      "Axial (plantodorsal)",
+      "Oblique"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the lateral calcaneus view used for?",
+    "options": [
+      "Assessing heel spur",
+      "Evaluating the subtalar joint",
+      "Both of the above",
+      "Imaging the talus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What are the standard tibia/fibula views?",
+    "options": [
+      "AP and lateral",
+      "PA and oblique",
+      "Axial only",
+      "Lateral only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which joints must be included on a tib/fib film?",
+    "options": [
+      "Knee and ankle",
+      "Hip and knee",
+      "Ankle and foot",
+      "Knee and foot"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What are the standard knee views?",
+    "options": [
+      "AP and lateral",
+      "PA and axial",
+      "Oblique only",
+      "Lateral only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which knee view best opens the intercondylar notch?",
+    "options": [
+      "AP",
+      "Lateral",
+      "Tunnel view (PA axial)",
+      "Oblique"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the Sunrise view of the knee used for?",
+    "options": [
+      "Patellofemoral joint",
+      "Tibial plateau",
+      "Fibular head",
+      "Medial meniscus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What are the standard femur views?",
+    "options": [
+      "AP and lateral",
+      "PA and oblique",
+      "Axial only",
+      "Lateral only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which joints are included in a femur study?",
+    "options": [
+      "Hip and knee",
+      "Knee and ankle",
+      "Hip and ankle",
+      "Pelvis and knee"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the standard pelvis projection?",
+    "options": [
+      "AP",
+      "PA",
+      "Lateral",
+      "Oblique"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "How are the feet positioned in a standard AP pelvis?",
+    "options": [
+      "Neutral",
+      "Externally rotated",
+      "Internally rotated 15‑20°",
+      "Plantar flexed"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the basic hip projection?",
+    "options": [
+      "AP",
+      "Lateral (frog leg)",
+      "Oblique",
+      "Axial"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does the Frog Leg view assess?",
+    "options": [
+      "Acetabular depth",
+      "Femoral head-neck junction",
+      "Sacroiliac joint",
+      "Pubis symphysis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which view best demonstrates the SI joints?",
+    "options": [
+      "AP",
+      "Lateral",
+      "Oblique (30‑45°)",
+      "Axial"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What are the standard cervical spine views?",
+    "options": [
+      "AP and lateral",
+      "PA and oblique",
+      "Axial only",
+      "Lateral only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does the open mouth view in the cervical spine show?",
+    "options": [
+      "C1‑C2 articulation and odontoid",
+      "C3‑C4 disc spaces",
+      "Neural foramina",
+      "C7‑T1 junction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which cervical view best shows the neural foramina?",
+    "options": [
+      "AP",
+      "Lateral",
+      "Oblique (45°)",
+      "Open mouth"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the Swimmer's view used for?",
+    "options": [
+      "C7‑T1 junction",
+      "C1‑C2 complex",
+      "C5‑C6 disc",
+      "C2 odontoid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What are the standard thoracic spine views?",
+    "options": [
+      "AP and lateral",
+      "PA and oblique",
+      "Axial only",
+      "Lateral only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What are the standard lumbar spine views?",
+    "options": [
+      "AP and lateral",
+      "PA and oblique",
+      "Axial only",
+      "Lateral only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which lumbar view best shows the facet joints?",
+    "options": [
+      "AP",
+      "Lateral",
+      "Oblique (45°)",
+      "Axial"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How should knees be positioned for a lateral lumbar spine?",
+    "options": [
+      "Straight",
+      "Flexed 45°",
+      "Flexed 90°",
+      "One straight, one bent"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the standard sacrum projection?",
+    "options": [
+      "AP",
+      "PA",
+      "Lateral",
+      "Oblique"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the standard coccyx projection?",
+    "options": [
+      "AP",
+      "PA",
+      "Lateral",
+      "Oblique"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which view best demonstrates spondylolisthesis?",
+    "options": [
+      "AP",
+      "Lateral (standing or supine)",
+      "Oblique",
+      "Axial"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What are the basic skull views?",
+    "options": [
+      "Lateral and AP",
+      "PA and Towne",
+      "Waters and Caldwell",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does the Waters view primarily show?",
+    "options": [
+      "Occipital bone",
+      "Maxillary sinuses and facial bones",
+      "Frontal sinuses",
+      "Temporal bones"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the Caldwell view primarily show?",
+    "options": [
+      "Maxillary sinuses",
+      "Frontal and ethmoid sinuses",
+      "Mastoid air cells",
+      "Mandible"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the Towne view primarily show?",
+    "options": [
+      "Frontal bone",
+      "Occipital bone and foramen magnum",
+      "Facial bones",
+      "Nasal bones"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the standard nasal bone projection?",
+    "options": [
+      "Lateral",
+      "AP",
+      "Waters",
+      "Caldwell"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which projection best shows the zygomatic arches?",
+    "options": [
+      "Lateral",
+      "AP",
+      "Submentovertex (axial)",
+      "Towne"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What are the standard mandible views?",
+    "options": [
+      "AP and lateral",
+      "PA and oblique",
+      "Waters and Caldwell",
+      "Axial only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which mandible view best shows the ascending rami?",
+    "options": [
+      "AP",
+      "Lateral",
+      "Oblique (30°)",
+      "Axial"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the standard sternum projection?",
+    "options": [
+      "AP",
+      "PA",
+      "Lateral",
+      "Oblique"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How are upper ribs typically imaged?",
+    "options": [
+      "Chest PA/AP",
+      "Abdomen KUB",
+      "Shoulder AP",
+      "Cervical spine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "How are lower ribs typically imaged?",
+    "options": [
+      "Chest PA",
+      "Abdomen AP (KUB)",
+      "Pelvis AP",
+      "Thoracic spine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What projection is used for a specific rib?",
+    "options": [
+      "AP",
+      "PA",
+      "Oblique spotlighting the rib",
+      "Lateral"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the submentovertex view used for?",
+    "options": [
+      "Skull base from below",
+      "Skull base from above",
+      "Frontal sinuses",
+      "Nasal bones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a lateral decubitus chest for pleural effusion, which side is down?",
+    "options": [
+      "The affected side",
+      "The unaffected side",
+      "Patient's choice",
+      "Always the left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Why is PA preferred over AP for routine chest?",
+    "options": [
+      "Lower dose",
+      "Less cardiac magnification",
+      "Better apical visualisation",
+      "Faster"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which view is used for scoliosis assessment?",
+    "options": [
+      "Supine lateral",
+      "AP erect full spine",
+      "Oblique",
+      "Axial"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the rotation angle for a Mortise ankle view?",
+    "options": [
+      "5°",
+      "15‑20°",
+      "45°",
+      "90°"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name for lying on the back?",
+    "options": [
+      "Prone",
+      "Supine",
+      "Lateral",
+      "Decubitus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which foot projection best shows the 5th metatarsal base?",
+    "options": [
+      "DP",
+      "Lateral",
+      "Oblique",
+      "Axial"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which view shows the skull base from above?",
+    "options": [
+      "Submentovertex",
+      "Verticosubmental",
+      "Towne",
+      "Waters"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In PA wrist, how should the fingers be?",
+    "options": [
+      "Clenched",
+      "Extended slightly apart",
+      "Fully flexed",
+      "Overlapping"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does KUB stand for?",
+    "options": [
+      "Kidney, Ureter, Bladder",
+      "Knee, Ulna, Bone",
+      "Kodak Ultraviolet Beam",
+      "KUB is not an acronym"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which view best shows the midfacial joints?",
+    "options": [
+      "Waters",
+      "Rhese (axial oblique)",
+      "Towne",
+      "Caldwell"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which chest view best visualises the trachea and carina?",
+    "options": [
+      "AP",
+      "PA",
+      "Left lateral",
+      "Lordotic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which view is used for the oral cavity and upper teeth?",
+    "options": [
+      "Lateral",
+      "AP",
+      "Occlusal (axial)",
+      "Oblique"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is used for a full‑length spine (scoliosis series)?",
+    "options": [
+      "PA and lateral standing",
+      "AP and lateral erect",
+      "PA only",
+      "AP and lateral supine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In AP shoulder, how is the humerus positioned?",
+    "options": [
+      "Neutral",
+      "Internal or external rotation",
+      "Abducted 90°",
+      "Adducted across chest"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which view best shows the diaphragm?",
+    "options": [
+      "Lateral",
+      "AP",
+      "PA",
+      "Lordotic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does the Towne view specifically image?",
+    "options": [
+      "Face",
+      "Posterior skull and occiput",
+      "Sinuses",
+      "Mandible"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sinus view is best for ethmoid and frontal?",
+    "options": [
+      "Waters",
+      "Caldwell",
+      "Lateral",
+      "Towne"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sinus view is best for sphenoid?",
+    "options": [
+      "Waters",
+      "Caldwell",
+      "Lateral or submentovertex",
+      "Towne"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a Frog Leg hip, how are the legs placed?",
+    "options": [
+      "Straight",
+      "Bent with knees abducted",
+      "Crossed",
+      "One straight, one bent"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which views are used for a myelogram?",
+    "options": [
+      "AP and lateral",
+      "Oblique only",
+      "Axial only",
+      "Open mouth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "How is the sacrum imaged from the front?",
+    "options": [
+      "AP",
+      "PA",
+      "Lateral",
+      "Oblique"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "To confirm a scaphoid fracture, which additional view is used?",
+    "options": [
+      "Lateral",
+      "PA with ulnar deviation",
+      "AP",
+      "Oblique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the standard infant hip projection for DDH?",
+    "options": [
+      "AP pelvis",
+      "Frog leg lateral",
+      "Oblique",
+      "Axial"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which erect view is used to assess diaphragmatic motion?",
+    "options": [
+      "AP standing chest",
+      "PA standing chest",
+      "Lateral standing",
+      "Fluoroscopy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In PA chest, how should the shoulders be positioned?",
+    "options": [
+      "Rolled forward",
+      "Rolled backward",
+      "Relaxed downward",
+      "Shrugged"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which pelvic projection isolates the ilium and pubis?",
+    "options": [
+      "AP",
+      "Lateral",
+      "Oblique (Judet views)",
+      "Axial"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In an AP projection, the anatomy is:",
+    "options": [
+      "Closer to the film",
+      "Farther from the film",
+      "On the right side",
+      "On the left side"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the best view for maxillary sinuses?",
+    "options": [
+      "Waters",
+      "Caldwell",
+      "Lateral",
+      "Towne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "How can you show foot weight‑bearing anatomy?",
+    "options": [
+      "DP supine",
+      "DP standing",
+      "Lateral supine",
+      "Oblique supine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which portable view often shows the image inverted?",
+    "options": [
+      "PA",
+      "Lateral",
+      "AP portable (if not corrected)",
+      "Oblique"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the optimal clavicle view to exclude fracture?",
+    "options": [
+      "AP",
+      "AP with 15° cephalad tilt",
+      "Lateral",
+      "Axial"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In lateral chest, which side is placed against the cassette?",
+    "options": [
+      "Right",
+      "Left (to reduce heart size)",
+      "Depends on the radiologist",
+      "Either side"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What view is used for paediatric hip dysplasia?",
+    "options": [
+      "AP pelvis",
+      "Frog leg",
+      "Oblique",
+      "Axial"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In an AP knee, how are the feet positioned?",
+    "options": [
+      "Internally rotated",
+      "Externally rotated",
+      "Straight forward",
+      "Flexed"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does ALARA stand for in radiation safety?",
+    "options": [
+      "As Low As Reasonably Achievable",
+      "Always Lower All Radiation Amounts",
+      "Apply Low Absorption Radiation Always",
+      "Average Limit for Acute Radiation Absorption"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main purpose of an X‑ray grid?",
+    "options": [
+      "Increase image magnification",
+      "Reduce scatter and improve contrast",
+      "Increase patient dose",
+      "Shorten exposure time"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does kVp primarily affect?",
+    "options": [
+      "Image density (brightness)",
+      "Image contrast and penetration",
+      "Image sharpness",
+      "Field size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does mAs primarily affect?",
+    "options": [
+      "Image density (overall blackness)",
+      "Image contrast",
+      "Image distortion",
+      "Focal spot size"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the role of collimation?",
+    "options": [
+      "Focus the beam and reduce dose",
+      "Increase the X‑ray energy",
+      "Hold the patient still",
+      "Process the digital image"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What are the five basic radiographic densities?",
+    "options": [
+      "Air, fat, water, bone, metal",
+      "Red, blue, green, yellow, black",
+      "Skin, muscle, nerve, bone, blood",
+      "Cranial, spinal, thoracic, abdominal, pelvic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which appears brightest (most radiopaque) on an X‑ray?",
+    "options": [
+      "Air",
+      "Fat",
+      "Water/soft tissue",
+      "Metal or contrast"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which appears darkest (most radiolucent) on an X‑ray?",
+    "options": [
+      "Bone",
+      "Soft tissue",
+      "Air/gas",
+      "Metal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does fluoroscopy provide?",
+    "options": [
+      "Static bone detail",
+      "Real‑time moving images",
+      "Only dental views",
+      "Skin imaging"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does DICOM stand for?",
+    "options": [
+      "Digital Imaging and Communications in Medicine",
+      "Direct Image Capture and Operation Manual",
+      "Diagnostic Image Control and Optimization Module",
+      "Digital Input Control for Optical Machines"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a key advantage of DR over CR?",
+    "options": [
+      "Uses film cassettes",
+      "Immediate preview and faster workflow",
+      "Lower initial cost",
+      "No computer needed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does an IVP examine?",
+    "options": [
+      "Stomach and oesophagus",
+      "Kidneys, ureters, bladder",
+      "Heart and lungs",
+      "Brain and spine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does a barium enema examine?",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine (colon)",
+      "Bladder"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the anode in an X‑ray tube?",
+    "options": [
+      "Negative electrode",
+      "Positive electrode",
+      "Glass envelope",
+      "Cooling fan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the cathode in an X‑ray tube?",
+    "options": [
+      "Positive electrode",
+      "Negative electrode",
+      "X‑ray window",
+      "Collimator"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What are the standard mammography views?",
+    "options": [
+      "AP and lateral",
+      "Craniocaudal (CC) and mediolateral oblique (MLO)",
+      "PA and oblique",
+      "Supine and prone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does CC stand for in mammography?",
+    "options": [
+      "Chest Compartment",
+      "Craniocaudal",
+      "Contrast Control",
+      "Central Collimation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does MLO stand for in mammography?",
+    "options": [
+      "Medial Lateral Oblique",
+      "Main Lateral Orientation",
+      "Maximum Limit Output",
+      "Minimal Lateral Overlap"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Why are lead markers (R/L) used?",
+    "options": [
+      "Identify patient side and correct labelling",
+      "Increase X‑ray dose",
+      "Make the image brighter",
+      "Test the machine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does 'centering' mean in radiography?",
+    "options": [
+      "Placing the central ray over the area of interest",
+      "Placing the patient in the middle of the room",
+      "Measuring patient weight",
+      "Setting the timer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the typical breath‑hold for a PA chest?",
+    "options": [
+      "Breathe out and hold",
+      "Breathe in deeply and hold",
+      "Breathe normally",
+      "Hold after coughing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Why is deep inspiration important for chest X‑ray?",
+    "options": [
+      "Makes the heart look larger",
+      "Expands lungs for better contrast",
+      "Reduces movement",
+      "Increases dose"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the typical portable chest view for a non‑ambulatory patient?",
+    "options": [
+      "PA erect",
+      "AP supine or semi‑erect",
+      "Lateral decubitus",
+      "Lordotic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the Bucky used for?",
+    "options": [
+      "Positioning the head",
+      "Holding the grid and image receptor",
+      "Measuring dose",
+      "Adjusting room temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does SID stand for?",
+    "options": [
+      "Source to Image Distance",
+      "Signal Input Device",
+      "Standard Image Density",
+      "Spatial Integration Display"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the standard SID for a chest X‑ray?",
+    "options": [
+      "40 inches (100 cm)",
+      "48 inches (120 cm)",
+      "72 inches (180 cm)",
+      "20 inches (50 cm)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which view best shows the odontoid process (dens)?",
+    "options": [
+      "Standard lateral",
+      "Open mouth AP",
+      "Oblique",
+      "Swimmer's"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a decubitus position?",
+    "options": [
+      "Patient standing",
+      "Patient lying down with horizontal beam",
+      "Patient sitting upright",
+      "Patient bent forward"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is an upright position?",
+    "options": [
+      "Lying flat",
+      "Standing or sitting erect",
+      "Lying on side",
+      "Leaning forward"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What rotation angle is typical for lumbar oblique views?",
+    "options": [
+      "10°",
+      "30°",
+      "45°",
+      "90°"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Why give contrast media?",
+    "options": [
+      "To make the patient sleepy",
+      "To enhance visibility of specific structures",
+      "To stop the heart",
+      "To increase bone density"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is a positive (radiopaque) contrast agent?",
+    "options": [
+      "Air",
+      "Carbon dioxide",
+      "Barium or iodine",
+      "Water"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is a negative (radiolucent) contrast agent?",
+    "options": [
+      "Barium",
+      "Iodine",
+      "Air or carbon dioxide",
+      "Calcium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does a barium swallow examine?",
+    "options": [
+      "Large intestine",
+      "Oesophagus",
+      "Bladder",
+      "Kidneys"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does a barium meal examine?",
+    "options": [
+      "Oesophagus",
+      "Stomach and duodenum",
+      "Small intestine",
+      "Colon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does a barium follow‑through examine?",
+    "options": [
+      "Stomach",
+      "Oesophagus",
+      "Small intestine",
+      "Large intestine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary beam?",
+    "options": [
+      "Scattered X‑rays",
+      "Useful X‑ray beam from tube to patient",
+      "Background radiation",
+      "Light from collimator"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is scatter radiation?",
+    "options": [
+      "X‑rays passing straight through",
+      "X‑rays deflected after interacting with patient",
+      "X‑rays produced by anode",
+      "Electricity powering the tube"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a lead apron?",
+    "options": [
+      "Keep patient warm",
+      "Protect from scatter radiation",
+      "Position the patient",
+      "Hold the cassette"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'positioning' refer to?",
+    "options": [
+      "Path of the X‑ray beam",
+      "Physical placement of the patient",
+      "Type of machine used",
+      "Contrast medium injected"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'projection' refer to?",
+    "options": [
+      "Patient's physical orientation",
+      "Direction of the X‑ray beam",
+      "Size of the image receptor",
+      "Radiation dose"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does RPO stand for?",
+    "options": [
+      "Right Posterior Oblique",
+      "Right Posteroanterior Oblique",
+      "Right Prone Oblique",
+      "Right Proximal Oblique"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does LPO stand for?",
+    "options": [
+      "Left Posterolateral Oblique",
+      "Left Posterior Oblique",
+      "Left Proximal Oblique",
+      "Lateral Posterior Oblique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does RAO stand for?",
+    "options": [
+      "Right Anterolateral Oblique",
+      "Right Anterior Oblique",
+      "Right Axial Oblique",
+      "Right Abdominal Oblique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does LAO stand for?",
+    "options": [
+      "Left Anterior Oblique",
+      "Left Axial Oblique",
+      "Lateral Anterior Oblique",
+      "Left Abdominal Oblique"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does PACS stand for?",
+    "options": [
+      "Picture Archiving and Communication System",
+      "Patient Assessment and Care System",
+      "Primary Acquisition Control System",
+      "Progressive Anatomic Classification System"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the role of RIS?",
+    "options": [
+      "Process X‑ray images",
+      "Track orders, scheduling, and reports",
+      "Adjust tube voltage",
+      "Store lead aprons"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What are the standard views for suspected bowel obstruction?",
+    "options": [
+      "PA and lateral chest",
+      "AP supine and upright abdomen",
+      "Oblique and decubitus only",
+      "Prone only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does KUB specifically stand for?",
+    "options": [
+      "Kidney, Ureter, Bladder",
+      "Knee, Ulna, Bone",
+      "Kings, Ultrasounds, Biopsies",
+      "Kodak Ultraviolet Beam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the Frog Leg view used to evaluate?",
+    "options": [
+      "Knee joint",
+      "Femoral head and neck",
+      "Ankle mortise",
+      "Shoulder joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the Sunrise view of the knee visualise?",
+    "options": [
+      "Tibial plateau",
+      "Patella and patellofemoral joint",
+      "Fibular head",
+      "Meniscus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the Scapular Y view assess?",
+    "options": [
+      "Rib fractures",
+      "Shoulder dislocation (humeral head position)",
+      "Clavicle fractures",
+      "Scoliosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In AP projection, the beam enters:",
+    "options": [
+      "Anterior and exits posterior",
+      "Posterior and exits anterior",
+      "Lateral and exits medial",
+      "From below"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In PA projection, the beam enters:",
+    "options": [
+      "Anterior and exits posterior",
+      "Posterior and exits anterior",
+      "Medial and exits lateral",
+      "From below"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the difference between lateromedial and mediolateral?",
+    "options": [
+      "One is AP, the other PA",
+      "One enters from lateral, exits medial; the opposite",
+      "One is for skull, the other for chest",
+      "No difference"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Why use a small focal spot?",
+    "options": [
+      "Increase heat capacity",
+      "Improve spatial resolution (sharpness)",
+      "Reduce patient dose",
+      "Allow shorter SID"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Regarding radiation protection, what about time?",
+    "options": [
+      "Maximise time near source",
+      "Minimise time in radiation field",
+      "Time does not affect dose",
+      "Double time doubles quality"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Regarding radiation protection, what about distance?",
+    "options": [
+      "Stand as close as possible",
+      "Maximise distance from source",
+      "Distance does not affect dose",
+      "Stand on the left side"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Regarding radiation protection, what about shielding?",
+    "options": [
+      "Only shield the patient",
+      "Use lead aprons and barriers to absorb scatter",
+      "Shielding increases image quality",
+      "Only for pregnant women"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'optical density' refer to in film radiography?",
+    "options": [
+      "Film thickness",
+      "Degree of blackening/darkness",
+      "Film processing speed",
+      "Film colour"
+    ],
+    "correctIndex": 1
   }
 ]
